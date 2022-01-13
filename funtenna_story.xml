@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <guid>https://www.funshop.co.kr/Story/StoryView/781#page=1</guid>
             <pubDate>Thu, 13 Jan 2022 00:48:31 GMT</pubDate>
             <content:encoded><![CDATA[2021년 9월에 애플에서 신상품 발표를 했다. 당시 발표에서 아이폰 13,  아이패드 9, 애플워치 7 등 애플의 차세대를 이끌 새로운 기기들을 발표했는데, 그중에서 에디터의 시선을 끌었던 것은 바로 아이패드 미니 6..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/781/thumbnail_1.jpg?1642064669773" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#268. 팝한 컬러 속 고즈넉한 매력을 담은]]></title>
@@ -52,7 +52,7 @@
             <content:encoded><![CDATA[-
 잘가라 플리스...
 나보다 좋은 사람 만나...]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/774/thumbnail_1.jpg?1641899734330" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[설날특선만화] 이번 설에 정주행 각이다.]]></title>
