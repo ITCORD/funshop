@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 23:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 00:47:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#270. 당신을 위한 최고의 컬렉션]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/785#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/785#page=1</guid>
+            <pubDate>Fri, 14 Jan 2022 00:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 14일 금요일 펀샵 오에보 소식입니다.
+01.&nbsp;[프딩] 기기와의 추억, 그리드 스튜디오
+그리드 스튜디오 클래식은 우리가 추억하는 전자 기기의 내부를 분해하여 액자로 만들어낸 작품입니다. 아이폰 ..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/785/thumbnail_1.jpg?1642149589930" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#269. 정교한 메탈의 아름다움]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/782#page=1</link>
@@ -95,7 +105,7 @@
             <guid>https://www.funshop.co.kr/Story/StoryView/766#page=1</guid>
             <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
             <content:encoded><![CDATA[새로운 변이종 오미크론 확산으로 인해 에디터의 재택근무가 또다시 시작되었습니다. 2021년 가을을 기점으로 시작되었었던 위드 코로나가 이렇게나 짧게 끝날 거라고는 생각하지 못했죠. 다시 집에 있는 시간이 길..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/766/thumbnail_1.jpg?1641544701390" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#15. 샘플]]></title>
@@ -458,14 +468,6 @@ X 시리즈는 앞, 뒤 모두 글라스를 이용해 개..]]></content:encoded>
             <content:encoded><![CDATA[2021년 12월 3일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] 엘레컴 4K인공지능 화상캠 Web 카메라
 830만 화소 / 4K UHD [3840x2160] 해상도 / 60FPS / 130º 화각 그리고, 피사체를 추적하는 AI 트랙킹 기능을..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보물찾기 이벤트] 원피스를 찾아라!]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/661#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/661#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[당첨자 발표&nbsp;보물찾기에 참여해주신 많은 분들에게 감사인사드립니다. 앞으로도 다양한 이벤트로 펀샵 회원님들과 소통할 수 있도록 노력하겠으며이번 보물찾기의 당첨자를 발표합니다. 총 10 명이 선정되었습..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
