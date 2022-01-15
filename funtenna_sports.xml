@@ -1,218 +1,227 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.funshop.co.kr/Story/FuntennaList#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-    <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
-    <updated>2022-01-15T17:22:44.017Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[아웃도어 애호가의 큰 멀티툴, AM-V2]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19030#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19030#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[스위스 아미 나이프나 레더맨 멀티 툴 등 아웃도어 애호가들에겐 다양한 멀티 툴이 사랑을 받는다. 한 가지의 도구에서 여러 가지 기능을 사용할 수 있다는 장점을 가지고 있기 때문인데 또 그런 각각의 일들을 잘 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸마, MMQ 라인업의 22년 콜렉션 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19028#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19028#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[푸마에는 고급스러운 느낌이 물씬나는 라인업이 존재한다. 이 라인업의 이름인 MMQ는 Macht's Mit Qualität의 약자로 "Made With Quality"를 의미하는 독일어이며 이름만큼이나 상당히 고품질의 의류와 신발 그리고 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VEJA의 친환경 아웃도어 슈즈 데칸]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19020#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19020#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2022-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프랑스의 VEJA(베자)라는 브랜드는 국내에도 최근에 여러 곳에서 노출되면서 주목을 받고 있다. 베자는 공정무역으로 생산된 면, 아마존의 천연고무 등을 사용하고 각종 재활용 소재를 활용하여 친환경적인 신발을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폼롤러 사용을 더 쉽게, Wheeled Headrest]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19011#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19011#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[오늘 소개할 물건은 처음 보면 도저히 무슨 용도로 사용하는 건지 알 수가 없어 보이는 제품이다. 재밌게도 이것은 운동과 관련이 있다. 현재 킥스타터에서 펀딩 중인 Wheeled Headrest는 최근 집에서 많이 하는 폼..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나무로 만든 자전거 프레임,  ALFREDO BIKE N27]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19003#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19003#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2017년에 설립된 Alfredo 나무 자전거는 1920년대 이탈리아에서 가장 유명한 사이클리스트인 Alfredo Binda에게서 영감을 받아 제작되었다. 그중 오늘 소개할 N27은 편안하게 탈 수 있는 타입의 자전거 프레임으로 1..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야생의 기운을 담아, ONNIT의 프라이멀 케틀벨]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18996#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18996#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-12-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[사진만 봐도 압도적인 표정에 잠시 움찔하게 된다. 오늘 소개할 제품은 보충제로 유명한 ONNIT에서 제작한 프라이멀 케틀벨 시리즈다. 실제 그렇지는 않겠지만 생긴 것만 보면 없는 힘도 솟아날 것 같은 기분이다.빅..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보관할때 부피를 줄여주는 자전거 헬멧, Flip-Clip Go 헬멧]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18926#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18926#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[자전거를 탈 때 헬멧의 착용은 법으로 강제되지는 않지만 안전을 위해 필수적인 요소다. 이런 중요한 헬멧이지만 헬멧이 부담스러운 것 또한 사실이다. 부담스러운 이유 중 하나는 바로 부피다. 자전거를 타고 이동..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브롬톤의 새로운 라인업, P line 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18925#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18925#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영국의 접이식 자전거 브랜드 브롬톤이 올스틸 제품 대비 1.55kg 더 가벼운 새로운 경량 모델인 P 라인 자전거를 출시한다. 이는 기존에 경량 모델이었던 Superlight 모델을 대체할 것으로 보인다.그동안 접이식 자..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스텔라 맥카트니 X 캐논데일 협업 자전거 출시]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18891#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18891#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영국의 패션 디자이너 스텔라 니나 맥카트니의 브랜드 스텔라 맥카트니와 캐논데일이 협업을 통한 개성 있는 자전거를 공개한다. 사이클링 브랜드인 캐논 데일과 스텔라 맥카트니라니 어울리지 않는 것도 같지만 최..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무릎 건강을 위한 보조기구, Knee Plus]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18888#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18888#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[무릎 통증으로 고통받거나 이전에 무릎 부상을 경험한 적이 있다면 병원을 가거나 보조기구 등에 관심이 갈 것이다. 오늘 소개할 제품은 광선 요법 기술을 활용하여 무릎 통증을 완화하고 회복을 촉진하는 Knee Plus..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바퀴를 접는다, Tuck Bike]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18877#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18877#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[도시에서 인기 있는 자전거 중 하나가 접이식 자전거다. 접었을 때 대중교통을 이용할 수 있고 집안에서도 접어놓으면 자리를 많이 차지하지 않는다는 장점이 있어서다. 보통 이런 접이식 자전거들은 작은 미니벨로 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트웰브사우스, 애플워치용 액션밴드 출시]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18862#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18862#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[애플 워치의 경우 운동에 관련된 다양한 기능이 있기 때문에 많이 애용되고 있다. 하지만 가죽 밴드는 운동 시에는 확실히 땀냄새도 날뿐더러 불편하다. 오늘 소개할 트웰브 사우스의 액션 밴드는 부드럽고 땀 흡수..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식 아웃도어 신발, KEEN의 재스퍼 2021]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18851#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18851#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[나이키의 아웃도어 라인업인 ACG에서 이전에 에어 마그마라는 모델을 출시한 적이 있었다. 개인적으로 겨울 내내 신발이 닳도록 신었을 정도로 편한 신발이었고 클래식한 외관과 적절한 컬러 포인트 그리고 스웨이드..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앞좌석을 차박 공간으로, 프론트 캡 에어 매트리스]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18846#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18846#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-11-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[차박을 하려면 여러가지가 충족되어야한다. 일단 뒷좌석이 접혀서 최대한 일자로 펴지는 형태여야 하고 사람이 들어가서 잘수 있을만큼의 길이가 나와야 된다. SUV가 차고도 높고 해서 가장 선호도가 높지만 차고가 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초경량, 다용도 백팩 KotaUL 경량 백팩]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18832#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18832#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-10-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[백팩을 메고 여행을 다닐 때는 아무래도 어깨에 무리가 가는 형태이다 보니 무게에 대해 많은 신경을 쓰게 된다. 백패킹을 즐기는 사람들은 최대한 가방 내용물을 가볍게 하려고 노력하며 일반 캠핑과는 다르게 백패..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스, 세계 최초의 비건 축구화를 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18822#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18822#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-10-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이전에 아디다스에서 상징적인 신발 스탠 스미스의 비건 버전 신발을 개발했다고 소개한 적이 있었다. 이번에는 축구화다. 아디다스와 연이 깊은 디자이너 스텔라 메카트니와 우리나라에서 남다른 팬들을 향한 매너..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타협없는 80년 공구메이커의 진심, 캠프드렁크]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18803#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18803#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[전 세계로 유통망이 퍼지면서 값싼 공구들도 자연스럽게 많이 보급되게 되었다. 하지만 써 본 사람들은 알 것이다. 그런 저렴한 공구들은 얼마 지나지 않아 이빨이 나가고 주요 부위가 갈려나가는 등 원래의 모습을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간단하게 자전거 랙이 완성, JACK The Bike Rack]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18786#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18786#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-10-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[자전거의 리어랙이나 프론트랙은 편리한 도구다. 많은 짐을 싣고 달릴 수 있고 그만큼 자전거를 유용한 도구로 만들어주는 데 있어서는 일등공신이기 때문이다. 하지만 때로는 필요 없을 때까지 랙을 달고 달려야 되..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤에도 즐겁게, TOSY 플라잉 듀오 부메랑,플라잉디스크]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18707#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18707#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[킥스타터에서 TOSY라는 재밌는 제품을 펀딩 중이다. 부메랑과 플라잉디스크가 한조인 제품으로 각각 LED를 달고 있는 것 이 특징이다.플라잉 디스크의 경우 디스크 주위에 360개의 매우 밝은 LED가 내장되어 있어 조..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔라스 스케이트보드와 캐논데일의 협업]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18685#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18685#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영국의 슈프림으로 불리는 팔라스 스케이트보드와 자전거 브랜드인 캐논 데일과의 협업이 진행된다. 워낙에 다양한 브랜드와 협업을 진행했던 팔라스다. 이전에는 라파와의 협업도 있었지만 라파는 의류 업체이기 때..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고어텍스로 더 강력해진 리복, 직 키네티카]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18683#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18683#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[리복에는 직 키네티카라는 신발이 있다. 뛰어난 쿠셔닝과 신축성을 기반으로 한 뛰어난 반발력을 통해 운동 시에 추진력을 만들어주기 좋은 신발이었다. 단순히 러닝슈즈로 활용되던 이 신발이 이제 아웃도어로 나갈..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roofnest, Falcon Pro 루프탑 텐트 2022년형 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18679#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18679#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2016년 처음 출시된 이후로 콜로라도 기반의 브랜드 Roofnest는 계속해서 더 견고하고 성능이 좋은 루프탑 텐트를 개발, 출시 해왔고 루프탑 텐트 브랜드 중에선 가장 유명한 브랜드가 되었다. 그리고 2022년에도 Ro..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핏빗 차지 5가 곧 공개된다]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18676#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18676#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[계속된 유출로 많은 사람들에게 기대를 받던 웨어러블 헬스트래커 핏빗 차지 5가 곧 출시를 할듯하다. 23일에 신제품의 기능과 서비스를 알려주는 동영상을 업데이트해 새로 나올 핏빗 차지 5의 기능과 서비스 계획..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이비통과 메종 땅보이트 파리의 협업 자전거]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18671#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18671#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[루이비통과 프랑스의 장인정신 가득한 수제 자전거 브랜드 메종 땅 보이트 파리가 협업을 진행한다. 협업의 제품은 물론 자전거로 클래식하면서도 루이비통의 럭셔리한 터치가 들어가 자전거의 분위기를 한껏 살리고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TACTICA의 배터리가 되는 방수 손전등, F.100]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18666#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18666#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[TACTICA라는 브랜드에서 재밌는 콘셉트의 플래시 라이트를 펀딩 중이다. F.100은 손전등이지만 급할 때 외장 배터리로 사용할 수 있는 제품이다.일단 이 전등은 IPX6의 방수등급을 가져 안 좋은 날씨에도 적극적인 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜맨의 열선 내장 시트]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18662#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18662#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뜨거웠던 여름도 이제는 한풀 꺾인 느낌이다. 곧 있으면 쌀쌀한 날씨가 올 것이고 캠퍼들의 가벼웠던 장비도 한층 더 무거워질 것이다. 오늘 소개할 콜맨의 열선 내장 시트는 그런 날씨에 적합하다. 꼭 엉따가 차 안..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자덕을 위한 가구, VADOLIBERO DOMUS R3]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18652#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18652#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[자전거를 좋아하는 사람. 소위 자덕이라면 자신만의 자전거를 비롯한 각종 장비들을 보관하고 관리하는 공간을 꿈꿔왔을 것이다. 하지만 대한민국의 집 구조나 넓이로는 그런 공간은 꿈도 꾸기 힘든 게 대부분이고 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모듈형 탄소섬유판 트레일화, Speedland SL:PDX]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18610#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18610#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-08-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[고성능 트레일화나 러닝화에는 탄소 섬유판을 내장하고 나오는 경우가 많다. 하지만 이 탄소 섬유판이 모든 상황에서 적합한 것은 아니라 만약 탄소 섬유판이 필요 없는 코스를 달리고 싶을 때는 다른 신발을 사용해..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미션워크샵, Acre 시리즈 사이클링 컬렉션 출시]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18589#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18589#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[어번 싸이클링 웨어와 러기지 브랜드로 유명한 미션워크샵에서 최초로 본격적인 싸이클링 웨어 라인업을 출시했다. Acre 시리즈는 그간 품질을 위해 다양한 기술력과 고급 자재를 사용하던 미션워크샵답게 고성능을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손흥민, 토트넘과 2025년까지 4년 재계약]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18586#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18586#page=1&amp;categoryNo=4&amp;order=0&amp;keyword="/>
-        <updated>2021-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[재계약 소식들이 들리지 않아 그동안 타팀과의 이적설도 심심치않게 들려왔던 토트넘의 손흥민 선수가 드디어 토트넘과의 장기계약을 마쳤다. 4년 재계약으로 이제 손흥민 선수는 2025년까지 토트넘과 함께한다.2015..]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Jan 2022 18:16:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아웃도어 애호가의 큰 멀티툴, AM-V2]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19030#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19030#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스위스 아미 나이프나 레더맨 멀티 툴 등 아웃도어 애호가들에겐 다양한 멀티 툴이 사랑을 받는다. 한 가지의 도구에서 여러 가지 기능을 사용할 수 있다는 장점을 가지고 있기 때문인데 또 그런 각각의 일들을 잘 ..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸마, MMQ 라인업의 22년 콜렉션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19028#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19028#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[푸마에는 고급스러운 느낌이 물씬나는 라인업이 존재한다. 이 라인업의 이름인 MMQ는 Macht's Mit Qualität의 약자로 "Made With Quality"를 의미하는 독일어이며 이름만큼이나 상당히 고품질의 의류와 신발 그리고 ..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[VEJA의 친환경 아웃도어 슈즈 데칸]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19020#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19020#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스의 VEJA(베자)라는 브랜드는 국내에도 최근에 여러 곳에서 노출되면서 주목을 받고 있다. 베자는 공정무역으로 생산된 면, 아마존의 천연고무 등을 사용하고 각종 재활용 소재를 활용하여 친환경적인 신발을 ..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[폼롤러 사용을 더 쉽게, Wheeled Headrest]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19011#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19011#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 소개할 물건은 처음 보면 도저히 무슨 용도로 사용하는 건지 알 수가 없어 보이는 제품이다. 재밌게도 이것은 운동과 관련이 있다. 현재 킥스타터에서 펀딩 중인 Wheeled Headrest는 최근 집에서 많이 하는 폼..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나무로 만든 자전거 프레임,  ALFREDO BIKE N27]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19003#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19003#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2017년에 설립된 Alfredo 나무 자전거는 1920년대 이탈리아에서 가장 유명한 사이클리스트인 Alfredo Binda에게서 영감을 받아 제작되었다. 그중 오늘 소개할 N27은 편안하게 탈 수 있는 타입의 자전거 프레임으로 1..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[야생의 기운을 담아, ONNIT의 프라이멀 케틀벨]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18996#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18996#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사진만 봐도 압도적인 표정에 잠시 움찔하게 된다. 오늘 소개할 제품은 보충제로 유명한 ONNIT에서 제작한 프라이멀 케틀벨 시리즈다. 실제 그렇지는 않겠지만 생긴 것만 보면 없는 힘도 솟아날 것 같은 기분이다.빅..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보관할때 부피를 줄여주는 자전거 헬멧, Flip-Clip Go 헬멧]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18926#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18926#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자전거를 탈 때 헬멧의 착용은 법으로 강제되지는 않지만 안전을 위해 필수적인 요소다. 이런 중요한 헬멧이지만 헬멧이 부담스러운 것 또한 사실이다. 부담스러운 이유 중 하나는 바로 부피다. 자전거를 타고 이동..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브롬톤의 새로운 라인업, P line 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18925#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18925#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 접이식 자전거 브랜드 브롬톤이 올스틸 제품 대비 1.55kg 더 가벼운 새로운 경량 모델인 P 라인 자전거를 출시한다. 이는 기존에 경량 모델이었던 Superlight 모델을 대체할 것으로 보인다.그동안 접이식 자..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스텔라 맥카트니 X 캐논데일 협업 자전거 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18891#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18891#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 패션 디자이너 스텔라 니나 맥카트니의 브랜드 스텔라 맥카트니와 캐논데일이 협업을 통한 개성 있는 자전거를 공개한다. 사이클링 브랜드인 캐논 데일과 스텔라 맥카트니라니 어울리지 않는 것도 같지만 최..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무릎 건강을 위한 보조기구, Knee Plus]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18888#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18888#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무릎 통증으로 고통받거나 이전에 무릎 부상을 경험한 적이 있다면 병원을 가거나 보조기구 등에 관심이 갈 것이다. 오늘 소개할 제품은 광선 요법 기술을 활용하여 무릎 통증을 완화하고 회복을 촉진하는 Knee Plus..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바퀴를 접는다, Tuck Bike]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18877#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18877#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도시에서 인기 있는 자전거 중 하나가 접이식 자전거다. 접었을 때 대중교통을 이용할 수 있고 집안에서도 접어놓으면 자리를 많이 차지하지 않는다는 장점이 있어서다. 보통 이런 접이식 자전거들은 작은 미니벨로 ..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트웰브사우스, 애플워치용 액션밴드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18862#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18862#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[애플 워치의 경우 운동에 관련된 다양한 기능이 있기 때문에 많이 애용되고 있다. 하지만 가죽 밴드는 운동 시에는 확실히 땀냄새도 날뿐더러 불편하다. 오늘 소개할 트웰브 사우스의 액션 밴드는 부드럽고 땀 흡수..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클래식 아웃도어 신발, KEEN의 재스퍼 2021]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18851#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18851#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나이키의 아웃도어 라인업인 ACG에서 이전에 에어 마그마라는 모델을 출시한 적이 있었다. 개인적으로 겨울 내내 신발이 닳도록 신었을 정도로 편한 신발이었고 클래식한 외관과 적절한 컬러 포인트 그리고 스웨이드..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앞좌석을 차박 공간으로, 프론트 캡 에어 매트리스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18846#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18846#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[차박을 하려면 여러가지가 충족되어야한다. 일단 뒷좌석이 접혀서 최대한 일자로 펴지는 형태여야 하고 사람이 들어가서 잘수 있을만큼의 길이가 나와야 된다. SUV가 차고도 높고 해서 가장 선호도가 높지만 차고가 ..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초경량, 다용도 백팩 KotaUL 경량 백팩]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18832#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18832#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[백팩을 메고 여행을 다닐 때는 아무래도 어깨에 무리가 가는 형태이다 보니 무게에 대해 많은 신경을 쓰게 된다. 백패킹을 즐기는 사람들은 최대한 가방 내용물을 가볍게 하려고 노력하며 일반 캠핑과는 다르게 백패..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, 세계 최초의 비건 축구화를 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18822#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18822#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이전에 아디다스에서 상징적인 신발 스탠 스미스의 비건 버전 신발을 개발했다고 소개한 적이 있었다. 이번에는 축구화다. 아디다스와 연이 깊은 디자이너 스텔라 메카트니와 우리나라에서 남다른 팬들을 향한 매너..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[타협없는 80년 공구메이커의 진심, 캠프드렁크]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18803#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18803#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계로 유통망이 퍼지면서 값싼 공구들도 자연스럽게 많이 보급되게 되었다. 하지만 써 본 사람들은 알 것이다. 그런 저렴한 공구들은 얼마 지나지 않아 이빨이 나가고 주요 부위가 갈려나가는 등 원래의 모습을 ..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[간단하게 자전거 랙이 완성, JACK The Bike Rack]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18786#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18786#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자전거의 리어랙이나 프론트랙은 편리한 도구다. 많은 짐을 싣고 달릴 수 있고 그만큼 자전거를 유용한 도구로 만들어주는 데 있어서는 일등공신이기 때문이다. 하지만 때로는 필요 없을 때까지 랙을 달고 달려야 되..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밤에도 즐겁게, TOSY 플라잉 듀오 부메랑,플라잉디스크]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18707#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18707#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[킥스타터에서 TOSY라는 재밌는 제품을 펀딩 중이다. 부메랑과 플라잉디스크가 한조인 제품으로 각각 LED를 달고 있는 것 이 특징이다.플라잉 디스크의 경우 디스크 주위에 360개의 매우 밝은 LED가 내장되어 있어 조..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팔라스 스케이트보드와 캐논데일의 협업]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18685#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18685#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 슈프림으로 불리는 팔라스 스케이트보드와 자전거 브랜드인 캐논 데일과의 협업이 진행된다. 워낙에 다양한 브랜드와 협업을 진행했던 팔라스다. 이전에는 라파와의 협업도 있었지만 라파는 의류 업체이기 때..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고어텍스로 더 강력해진 리복, 직 키네티카]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18683#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18683#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리복에는 직 키네티카라는 신발이 있다. 뛰어난 쿠셔닝과 신축성을 기반으로 한 뛰어난 반발력을 통해 운동 시에 추진력을 만들어주기 좋은 신발이었다. 단순히 러닝슈즈로 활용되던 이 신발이 이제 아웃도어로 나갈..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Roofnest, Falcon Pro 루프탑 텐트 2022년형 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18679#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18679#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2016년 처음 출시된 이후로 콜로라도 기반의 브랜드 Roofnest는 계속해서 더 견고하고 성능이 좋은 루프탑 텐트를 개발, 출시 해왔고 루프탑 텐트 브랜드 중에선 가장 유명한 브랜드가 되었다. 그리고 2022년에도 Ro..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[핏빗 차지 5가 곧 공개된다]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18676#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18676#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계속된 유출로 많은 사람들에게 기대를 받던 웨어러블 헬스트래커 핏빗 차지 5가 곧 출시를 할듯하다. 23일에 신제품의 기능과 서비스를 알려주는 동영상을 업데이트해 새로 나올 핏빗 차지 5의 기능과 서비스 계획..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[루이비통과 메종 땅보이트 파리의 협업 자전거]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18671#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18671#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[루이비통과 프랑스의 장인정신 가득한 수제 자전거 브랜드 메종 땅 보이트 파리가 협업을 진행한다. 협업의 제품은 물론 자전거로 클래식하면서도 루이비통의 럭셔리한 터치가 들어가 자전거의 분위기를 한껏 살리고..]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TACTICA의 배터리가 되는 방수 손전등, F.100]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18666#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18666#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[TACTICA라는 브랜드에서 재밌는 콘셉트의 플래시 라이트를 펀딩 중이다. F.100은 손전등이지만 급할 때 외장 배터리로 사용할 수 있는 제품이다.일단 이 전등은 IPX6의 방수등급을 가져 안 좋은 날씨에도 적극적인 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콜맨의 열선 내장 시트]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18662#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18662#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거웠던 여름도 이제는 한풀 꺾인 느낌이다. 곧 있으면 쌀쌀한 날씨가 올 것이고 캠퍼들의 가벼웠던 장비도 한층 더 무거워질 것이다. 오늘 소개할 콜맨의 열선 내장 시트는 그런 날씨에 적합하다. 꼭 엉따가 차 안..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자덕을 위한 가구, VADOLIBERO DOMUS R3]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18652#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18652#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 18 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자전거를 좋아하는 사람. 소위 자덕이라면 자신만의 자전거를 비롯한 각종 장비들을 보관하고 관리하는 공간을 꿈꿔왔을 것이다. 하지만 대한민국의 집 구조나 넓이로는 그런 공간은 꿈도 꾸기 힘든 게 대부분이고 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모듈형 탄소섬유판 트레일화, Speedland SL:PDX]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18610#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18610#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고성능 트레일화나 러닝화에는 탄소 섬유판을 내장하고 나오는 경우가 많다. 하지만 이 탄소 섬유판이 모든 상황에서 적합한 것은 아니라 만약 탄소 섬유판이 필요 없는 코스를 달리고 싶을 때는 다른 신발을 사용해..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미션워크샵, Acre 시리즈 사이클링 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18589#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18589#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어번 싸이클링 웨어와 러기지 브랜드로 유명한 미션워크샵에서 최초로 본격적인 싸이클링 웨어 라인업을 출시했다. Acre 시리즈는 그간 품질을 위해 다양한 기술력과 고급 자재를 사용하던 미션워크샵답게 고성능을 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민, 토트넘과 2025년까지 4년 재계약]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/18586#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/18586#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
+            <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재계약 소식들이 들리지 않아 그동안 타팀과의 이적설도 심심치않게 들려왔던 토트넘의 손흥민 선수가 드디어 토트넘과의 장기계약을 마쳤다. 4년 재계약으로 이제 손흥민 선수는 2025년까지 토트넘과 함께한다.2015..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
