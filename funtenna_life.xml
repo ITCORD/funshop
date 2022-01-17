@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 15:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디서든 따듯한 도시락을, Steambox]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19064#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19064#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도시락을 따듯하게 먹고 싶은것은 당연한 생각일것이다. 때문에 다양한 보온도시락이 많이 상용화 되어있다. 오늘 소개할 도시락은 단순한 보온 도시락은 아닌것 같다. Steambox는 도시락을 가열해주는 상자이다.일..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19064/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이케아의 3D 프린팅 홈 액세서리]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19055#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18954#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 국내에서도 정말 상상을 초월한 협업들이 진행되면서 소위 '뇌절'에 가까운 조합들이 선을 보이고 있고 대중들도 그에 익숙해져가고 있다. 하지만 어디까지나 이런 뇌절 협업의 원조는 미국이었다. 원조답..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18954/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 슬림라인 플러그를 쉽게 제거, iPull]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18598#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1985년에 처음 출시된 Victorinox Swiss Champ는 컴팩트하면서도 24가지 이상의 도구와 기능을 포함하는 주머니에 넣을 수 있는 강력한 제품이었다. 이미 여러 종류의 스위스 아미 나이프를 출시하고 있지만 이번에 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 퓨리케어 전자식 마스크 신제품 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18588#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18588#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
-            <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일회용 마스크를 사용하면서 영구적으로 개인화된 마스크에 대한 요구는 끊임없이 있어왔다. 그에 따라 펀테나에서도 일전에 소개해드렸던 레이저의 마스크라던가 유명 가수인 윌 아이엠이 제작한 마스크 등이 출시..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
