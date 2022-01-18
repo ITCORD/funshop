@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 14:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 15:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈어, SRH440A 및 SRH840A 스튜디오 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19066#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19066#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[슈어에서 가장 인기 있는 헤드폰인 SRH440과 SRH840이 새로운 업데이트를 거쳐 더 발전된 형태로 돌아왔다. 스튜디오 헤드폰임에도 불구하고 일반인들도 많이 사용할 만큼 좋은 음질과 빌드 퀄리티로 사랑받았던 두 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19066/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배터리의 모든 정보를 한눈에, STORM ²]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19065#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19033#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린 강아지를 키울 때 이갈이 시기가 되면 견주들은 상당히 분주해진다. 주변의 사물들을 눈에 보이는 데로 다 물어뜯기 일쑤고 심지어 주인의 손도 깨물기 때문이다. 물론 이갈이 시즌의 강아지는 이빨이 간지러워..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19033/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성, 휴대용 프로젝터 프리스타일 공개]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18881#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이번에는 스타워즈 팬이자 레고 팬이라면 그야말로 군침을 흘릴 수밖에 없는 제품의 소식이다. 무려 얼티밋 컬렉터 시리즈 AT-AT이며 UCS에 안 그래도 거대한 AT-AT인 만큼 웅장하다는 말이 아깝지 않을 모습으로 출..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤큐의 2.1 스피커를 탑재한 미니 빔프로젝터]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18880#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18880#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑인구가 많이 늘고 있는 가운데 휴대해서 같이 영상을 볼 수 있는 빔 프로젝터들도 인기를 끌고 있다. 하지만 빔프로젝터의 경우 일반 가정용을 사용하게 된다면 엄청난 짐이 될 수 있다. 오늘 소개할 벤큐의 GV3..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
