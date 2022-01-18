@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 08:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 09:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,14 +92,14 @@
             <content:encoded><![CDATA[-
 잘가라 플리스...
 나보다 좋은 사람 만나...]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/774/thumbnail_1.jpg?1641899734330" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[설날특선만화] 이번 설에 정주행 각이다.]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/771#page=1</link>
             <guid>https://www.funshop.co.kr/Story/StoryView/771#page=1</guid>
             <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/771/thumbnail_1.jpg?1641888658697" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#266. 종이로 만든 가구?]]></title>
