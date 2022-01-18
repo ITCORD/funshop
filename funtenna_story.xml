@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.funshop.co.kr/Story/StoryList#page=1</id>
     <title>펀샵 ─ 펀테나 ─ 스토리</title>
-    <updated>2022-01-18T22:20:15.482Z</updated>
+    <updated>2022-01-18T23:13:19.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워들(WORDLE)이 뭔데 이 난리야?]]></title>
+        <id>https://www.funshop.co.kr/Story/StoryView/792#page=1</id>
+        <link href="https://www.funshop.co.kr/Story/StoryView/792#page=1"/>
+        <updated>2022-01-18T23:13:16.002Z</updated>
+        <content type="html"><![CDATA[최근 SNS나 유튜브에 자주 등장하는 녹색, 노란색 타일 퍼즐, 너의 이름은? 이것은 최근 미국에서 유행하고 있는&nbsp;워들(WORDLE)이라는 영어 단어&nbsp;게임이다. 5글자의 단어를 유추하고 6번의 기회를 살려 정..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벌써 해리포터 20주년이라구?]]></title>
         <id>https://www.funshop.co.kr/Story/StoryView/789#page=1</id>
@@ -410,13 +417,5 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
 01.&nbsp;[프딩] CIGA Design 오토매틱시계
 국내에서 처음으로 소개하는 30개 한정 CIGA DESIGN X Series 시계입니다. 
 X 시리즈는 앞, 뒤 모두 글라스를 이용해 개..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#242. 의자 1개가 5개로 변하는 요술!]]></title>
-        <id>https://www.funshop.co.kr/Story/StoryView/674#page=1</id>
-        <link href="https://www.funshop.co.kr/Story/StoryView/674#page=1"/>
-        <updated>2022-01-12T21:13:41.796Z</updated>
-        <content type="html"><![CDATA[2021년 12월 7일 화요일 펀샵 오에보 소식입니다.
-01. 5 in 1 요술 의자보통 집 안에 있는 의자 숫자라는 게 한계가 있습니다. 그래서 손님이 많을 때는 바닥에 앉거나 합니다. 하지만 간혹 바닥에 앉기 힘든 상황도..]]></content>
     </entry>
 </feed>
