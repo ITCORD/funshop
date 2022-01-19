@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 15:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 16:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1152,6 +1152,14 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[휴대용 미니 전동 면도기, Zera (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19072#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19072#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[면도기의 카트리지의 구매가 부담스러웠거나 휴대용으로 작은 전동 면도기를 원한다면 오늘 소개할 제품이 혹할 수도 있을 것 같다. Zera는 상당히 작은 크기로 휴대성이 뛰어난 전동 면도기다.이 면도기는 세라믹 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19072/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[GoFetchr, 애견용 공 가져오기 장난감 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19069#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19069#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
@@ -1221,7 +1229,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19010#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인디고고에서 전동 드라이버를 펀딩 중이다. PENDORA 48E는 미니멀한 디자인으로 휴대성을 갖춘 48개의 비트를 포함한 전동드라이버다.일단 48개의 롱 사이즈, 숏 사이즈 비트를 가지고 있어 상황에 맞게 사용하기가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19010/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yeelight x Razer, LED 스마트 램프 D2 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -1544,14 +1552,6 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나이키의 퍼포먼스 마스크 벤처러 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18608#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18608#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이번 올림픽을 유심히 본 사람들은 미국대표팀이 착용하고 있는 나이키 마스크를 봤을 것이다. 많은 사람들이 언제 제품이 출시될지 혹은 상용화될 것인지에 대해 궁금해했고 나이키에서 공식적으로 출시될 것임을 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아웃도어 애호가의 큰 멀티툴, AM-V2 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19030#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19030#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
@@ -1621,7 +1621,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18891#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영국의 패션 디자이너 스텔라 니나 맥카트니의 브랜드 스텔라 맥카트니와 캐논데일이 협업을 통한 개성 있는 자전거를 공개한다. 사이클링 브랜드인 캐논 데일과 스텔라 맥카트니라니 어울리지 않는 것도 같지만 최..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18891/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무릎 건강을 위한 보조기구, Knee Plus (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -1629,7 +1629,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18888#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무릎 통증으로 고통받거나 이전에 무릎 부상을 경험한 적이 있다면 병원을 가거나 보조기구 등에 관심이 갈 것이다. 오늘 소개할 제품은 광선 요법 기술을 활용하여 무릎 통증을 완화하고 회복을 촉진하는 Knee Plus..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18888/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바퀴를 접는다, Tuck Bike (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -2189,7 +2189,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19005#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[겨울에 장갑을 착용한다는 것은 요즘 시대에 상당한 제약을 부른다. 당장에 불편함 점 중 하나가 정전식 스크린이 대부분인 스마트폰의 터치가 안된다는 점일 것이다. 이 때문에 다양한 스마트폰 장갑이 시중에 출시..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19005/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휠라 X 드래곤볼 슈퍼 컬렉션 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -2197,7 +2197,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19001#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 각종 서브컬처들과의 협업을 의욕적으로 진행하는 휠라에서 이번에는 드래곤볼과 협업을 진행한다. 휠라와 드래곤볼 Z 이후의 이야기, 드래곤볼 슈퍼와의 협업 컬렉션 소식이다.초사이어인 블루 오공, 베지터, ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19001/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오프로드용 신발? 발렌시아가 디펜더 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -2589,7 +2589,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19041#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이엔드 오디오의 대표주자이자 감히 따라갈 수 없는 품질로 최고의 엠프를 제작하는 것으로 명성이 높은 마크레빈슨에서 다소 뜬금없을 수도 있는 제품이 출시된다. No.5909는 엠프와 턴테이블 그리고 하이엔드 오..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19041/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벨킨, Soundform Immerse 이어버드 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -2597,7 +2597,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19037#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[벨킨은 기존 Soundform 트루 와이어리스 라인업에 Immerse 이어 버드를 추가했다. 이 이어 버드는 배경 소음 없이 오디오를 전달하는 하이브리드 ANC(액티브 노이즈 캔슬링) 기술이 함께 제공된다.일단 벨킨은 이 이..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19037/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손가락을 깨무는 인형, 아마가미 햄햄 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
