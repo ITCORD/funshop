@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.funshop.co.kr/Story/StoryList#page=1</id>
     <title>펀샵 ─ 펀테나 ─ 스토리</title>
-    <updated>2022-01-18T23:13:19.299Z</updated>
+    <updated>2022-01-19T00:42:06.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#273. 맥북 하나에 모니터 셋]]></title>
+        <id>https://www.funshop.co.kr/Story/StoryView/794#page=1</id>
+        <link href="https://www.funshop.co.kr/Story/StoryView/794#page=1"/>
+        <updated>2022-01-19T00:42:02.654Z</updated>
+        <content type="html"><![CDATA[2022년 1월 19일 수요일 펀샵 오에보 소식입니다.
+01. [프딩] 하이퍼드라이브 4K 디스플레이 독
+확장성이라고는 눈을 씻고 찾아봐도 찾을 수 없는 맥북에 3대의 모니터를 연결하기 위함을 가장 큰 목적으로 하는 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워들(WORDLE)이 뭔데 이 난리야?]]></title>
         <id>https://www.funshop.co.kr/Story/StoryView/792#page=1</id>
@@ -407,15 +416,5 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
         <updated>2022-01-12T21:13:41.792Z</updated>
         <content type="html"><![CDATA[톰과 제리 같은MZ세대.
 1980년대 초~2000년대 초 출생한 밀레니얼 세대와 1990년대 중반~2000년대 초반 출생한 Z세대를 통칭하는 MZ세대는 디지털에 익숙하고 최신 트렌드와 이색적인 경험을 추구하는 공통점을 지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#243. 감성의 종지부.]]></title>
-        <id>https://www.funshop.co.kr/Story/StoryView/678#page=1</id>
-        <link href="https://www.funshop.co.kr/Story/StoryView/678#page=1"/>
-        <updated>2022-01-12T21:13:41.795Z</updated>
-        <content type="html"><![CDATA[2021년 12월 8일 수요일 펀샵 오에보 소식입니다.
-01.&nbsp;[프딩] CIGA Design 오토매틱시계
-국내에서 처음으로 소개하는 30개 한정 CIGA DESIGN X Series 시계입니다. 
-X 시리즈는 앞, 뒤 모두 글라스를 이용해 개..]]></content>
     </entry>
 </feed>
