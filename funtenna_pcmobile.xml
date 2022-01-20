@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 14:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 15:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PS5용? XPower XS70 PCIe Gen4 NVMe]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19074#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19074#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실리콘파워 (SP)에서 게이머들을 위한 빠른 속도와 성능으로 무장한 SSD를 출시한다. XPOWER XS70 PCIe 4.0 SSD는 빠른 속도와 성능을 감당할 수 있는 발열 설계로 장시간의 사용에도 버틸 수 있는 내구성까지 갖추..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19074/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주변과 어우러지는 미니 PC, MYNYMAL]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19068#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -69,7 +77,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19052#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시대가 시대인만큼 모든 것이 터치로 바뀌어가는 와중에도 손에 걸리는 감각과 무게감을 느끼게 해주는 물리 버튼과 스위치는 그것만의 로망을 가지고 있고 또 아직도 수요가 있다. 필자도 개인적으로 사용하는 오디..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19052/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에일리언 웨어의 eGPU, 콘셉트 폴라리스]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18908#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[벨킨에서 에어 팟, 아이폰, 애플 워치를 동시에 충전 가능한 BOOST↑CHARGE PRO 3-in-1 무선 충전 패드를 출시한다. 이 제품은 애플 워치 시리즈 7을 위한 새로운 마그네틱 고속 충전 모듈을 탑재하여 45분 만에 0~80..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이퍼드라이브, 4K 멀티디스플레이 도킹스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18900#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18900#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[M1 맥북 및 맥미니 라인업은 M1프로세서의 앞날에 대한 충분한 기대감을 주는 엄청난 가성비로 사랑받았지만 가장 큰 단점이 있었다. 바로 맥북의 경우 자체 디스플레이 포함 추가적으로 1개, 맥미니의 경우 총 2개..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
