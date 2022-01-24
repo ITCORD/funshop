@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 17:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 18:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이저와 헬로키티의 협업 제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19081#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19081#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게이밍 기어로 유명한 레이저가 다소 색다른 협업을 진행한다. 핑크 핑크 한 사진을 보면 알 수 있듯이 산리오의 유명 캐릭터 헬로키티와의 협업이다.게이밍 체어인 Iskur X, 게이밍 마우스 DeathAdder Essential, ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19081/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mophie, 3-in-1 여행용 충전기 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19080#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19059#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노트북의 보급이 일반 데스크톱 대비로 높아지면서 시장에는 다양한 노트북 스탠드가 출시되었다. 팬이 달린 제품부터 간단하게 접어서 휴대할 수 있는 제품까지 형태도 아주 다양하다. 오늘 소개할 Maxtand 2.0은 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19059/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, ROG Strix Flare II Animate 키보드 공개]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18920#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[로지텍에서 젊은 층을 노리고 만든듯한 키보드를 출시했다. 이 키보드의 이름은 팝키(Pop Keys)로 칙칙한 블랙 앤 화이트가 아닌 산뜻한 컬러와 따로 마련되어 있는 이모지 단축키가 특징인 제품이다.타이핑보다 틱..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Accell, Thunderbolt 4 도킹 스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18917#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18917#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[각종 PC, 모바일 액세서리를 판매라는 엑셀이라는 회사에서 새로운 썬더볼트 4 도킹스테이션을 출시한다. 썬더볼트 제품인 만큼 다양한 입출력을 통해 지원 가능한 컴퓨터의 확장성을 늘려주는 제품이다.맥북이나 윈..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 17:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 18:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tribit의 StormBox Micro 휴대용 스피커]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19082#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19082#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 소개할 제품은 Tribit이라는 브랜드의 블루투스 스피커다.&nbsp;StormBox Micro라고 불리는 이 스피커는 각종 레저활동이나 험난한 상황에서도 사용할수 있도록 제작된 스피커다.한손에 쥐어질정도의 크기를 가..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19082/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 액티비전 블리자드 인수 결정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19076#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19050#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리나라에서는 외화 "전격 Z 작전"으로 유명했던 나이트 라이더가 플레이 모빌로 등장한다. 소위 아재들이라면 완벽하게 구현된 키트의 모습을 보고 감회가 새로울 것 같다.키트의 아이코닉한 보닛을 누르게 되면 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19050/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈어, Aonic 40 노이즈 캔슬링 헤드폰 출시]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18899#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 전 세계적으로 PS5의 공급이 어느 정도 이루어지긴 한 것 같다. 그도 그럴 것이 이전에 소개했던 Arctis 7P Plus도 그렇고 해당 콘솔 전용의 주변기기가 서드파티에서 나온다는 의미는 그만큼 수익을 창출할만..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, 하이브리드 즉석카메라 인스탁스 미니 에보 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18895#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18895#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[후지필름에서 인스탁스 시리즈의 플래그십 모델, 인스탁스 미니 에보를 출시했다. 이 제품은 기존 하이브리드 제품과 동일하게 디지털로 촬영된 결과물을 인쇄 전에 미리 확인하는 것이 가능하며 여러 부분에서 아날..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
