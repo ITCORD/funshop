@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,14 +325,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18602#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[로스앤젤레스에 본사를 둔 Legend Automobiles가 Turbo 3라는 자동차를 공개했다. 눈치가 빠른 자동차 마니아들은 벌써 알아차렸겠지만 이 모델은 르노의 전설적인 랠리 머신 르노 5 터보 모델을 기반으로 제작되었..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, 카고 바이크와 e-스쿠터 컨셉 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18600#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18600#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
-            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[BMW가 최신 콘셉트 차량인 BMW 카고 바이크와 e-스쿠터 콘셉트를 공개했다. 총 두 종류이며 전기 자전거 개념의 DYNAMIC CARGO와 e-스쿠터 개념의 CLEVER COMMUTE가 그 주인공이다. 두 차량 모두 교통량이 증가한 도..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
