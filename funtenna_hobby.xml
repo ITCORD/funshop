@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 18:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 19:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무선 조각펜 세트, SGS PRO]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19083#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19083#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[킥스타터에서 충전식 조각 펜, 소위 미니 그라인더 제품을 펀딩 중이다. SGS PRO/ SGS MINI는 기존의 미니 그라인더에 비해 작은 크기와 더불어 일반 펜같이 깔끔하게 생겼다. 이 제품은 자체 제공되는 스마트폰 앱..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19083/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tribit의 StormBox Micro 휴대용 스피커]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19082#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19053#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[분명 엊그제 까지만 해도 CD플레이어에 레코드샵에서 산 CD를 담아 들으며 즐거워했던 것 같은데 이제는 물리적인 음악 매체는 거의 사라졌다고 보는 것이 맞는 요즘이다. 하지만 아직도 음악 애호가들은 CD를 모으..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19053/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전격 Z 작전이 플레이모빌로 돌아온다.]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18902#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[각종 촬영장비들의 짐벌을 제작하는 것으로 유명한 지윤에서 새로운 짐벌을 출시한다. 크레인 M3는 블로거들에게 특화된 짐벌이라고 하며 전문가 수준의 촬영도 가능한 3축 짐벌이다.개인적으로는 손떨림 방지 기능..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Razer, PS5용 헤드셋 카이라 프로 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18899#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18899#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 전 세계적으로 PS5의 공급이 어느 정도 이루어지긴 한 것 같다. 그도 그럴 것이 이전에 소개했던 Arctis 7P Plus도 그렇고 해당 콘솔 전용의 주변기기가 서드파티에서 나온다는 의미는 그만큼 수익을 창출할만..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
