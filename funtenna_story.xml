@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 00:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#277. 공간을 장악하는 압도적인 비주얼]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/833#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/833#page=1</guid>
+            <pubDate>Tue, 25 Jan 2022 00:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 25일 월요일 펀샵 오에보 소식입니다.
+01.&nbsp;대형 사자 머리 헌팅 트로피 벽장식헌팅 트로피라고 들어보셨나요? 사냥한 동물의 머리나 가죽 일부분을 박제시켜 만든 장식품을 헌팅 트로피라고 합니다..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/833/thumbnail_1.jpg?1643101441550" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#276. 손가락 몇 개로 이렇게나 다양하게]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/831#page=1</link>
@@ -88,7 +97,7 @@
             <pubDate>Tue, 18 Jan 2022 02:08:10 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 18일 화요일 펀샵 오에보 소식입니다.
 01. 백플로우 인센스 홀더 행잉 드래곤전설 속, 상상의 동물 용. 그 용이 입에서 영험한 기를 뿜어 내는 모습을 형상화한 백플로우 인센스 홀더가 있습니다. 마치 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/788/thumbnail_1.jpg?1642687078273" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#271. 로지텍을 넘을 수 있는 건?]]></title>
@@ -454,16 +463,6 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
             <content:encoded><![CDATA[2021년 12월 15일 수요일 펀샵 오에보 소식입니다.
 01.[프딩] Nitecore 무선 블로어
 탈부착 가능한 필터와 멀티 청소 키트까지 세트로 구성되어 있으며, 약 50km/h의 풍속과 완충 후 15분 이상 연속 사용 가능한 리..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#247. 사용할수록 범위가 넓어진다?]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/688#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/688#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 14일 화요일 펀샵 오에보 소식입니다.
-01.&nbsp;[프딩] QUTIE 라벨프린터기
-세상에서 가장 작은 라벨기 QUTIE를 소개합니다. 라벨기가 꼭 있어야 할까? 손으로 쓰면 안되나? 생각하신 분들이었다면&nbsp;..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
