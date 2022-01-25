@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.funshop.co.kr/Story/FuntennaList#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</id>
     <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
-    <updated>2022-01-25T06:16:38.134Z</updated>
+    <updated>2022-01-25T07:14:30.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
     <entry>
@@ -277,12 +277,5 @@
         <link href="https://www.funshop.co.kr/Story/FuntennaView/18612#page=1&amp;categoryNo=1&amp;order=0&amp;keyword="/>
         <updated>2021-08-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[기아는 전기자동차 EV 시리즈의 첫 모델 ‘The Kia EV6를 출시했다. EV6는 사전예약 첫날 기아 승용 및 SUV 모델을 통틀어 역대 최대 기록인 21,016대를 시작으로 사전예약 기간 동안 총 3만 대가 넘는 예약대수를 기..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legend Automobiles, Turbo 3 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18602#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18602#page=1&amp;categoryNo=1&amp;order=0&amp;keyword="/>
-        <updated>2021-07-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[로스앤젤레스에 본사를 둔 Legend Automobiles가 Turbo 3라는 자동차를 공개했다. 눈치가 빠른 자동차 마니아들은 벌써 알아차렸겠지만 이 모델은 르노의 전설적인 랠리 머신 르노 5 터보 모델을 기반으로 제작되었..]]></content>
     </entry>
 </feed>
