@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,7 +86,7 @@
             <content:encoded><![CDATA[2022년 1월 19일 수요일 펀샵 오에보 소식입니다.
 01. [프딩] 하이퍼드라이브 4K 디스플레이 독
 확장성이라고는 눈을 씻고 찾아봐도 찾을 수 없는 맥북에 3대의 모니터를 연결하기 위함을 가장 큰 목적으로 하는 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/794/thumbnail_1.jpg?1642582920347" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워들(WORDLE)이 뭔데 이 난리야?]]></title>
@@ -94,7 +94,7 @@
             <guid>https://www.funshop.co.kr/Story/StoryView/792#page=1</guid>
             <pubDate>Tue, 18 Jan 2022 23:13:16 GMT</pubDate>
             <content:encoded><![CDATA[최근 SNS나 유튜브에 자주 등장하는 녹색, 노란색 타일 퍼즐, 너의 이름은? 이것은 최근 미국에서 유행하고 있는&nbsp;워들(WORDLE)이라는 영어 단어&nbsp;게임이다. 5글자의 단어를 유추하고 6번의 기회를 살려 정..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/792/thumbnail_1.jpg?1642579708773" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌써 해리포터 20주년이라구?]]></title>
