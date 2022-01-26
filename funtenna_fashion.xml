@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 15:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 16:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이저 X Cariuma 스니커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19090#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19090#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 협업을 진행하는 게이밍 기어 브랜드 레이저가 이번에는 신발 브랜드와 협업을 하여 스니커즈를 출시한다. 지속가능성을 중시하는 신발 브랜드인 Cariuma와의 협업에서도 알 수 있듯이 이 신발은 '게이밍'이..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19090/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과일과 야채로 만든 신발, MoEa]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19079#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19005#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[겨울에 장갑을 착용한다는 것은 요즘 시대에 상당한 제약을 부른다. 당장에 불편함 점 중 하나가 정전식 스크린이 대부분인 스마트폰의 터치가 안된다는 점일 것이다. 이 때문에 다양한 스마트폰 장갑이 시중에 출시..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19005/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휠라 X 드래곤볼 슈퍼 컬렉션 출시]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18708#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 포켓이 달린 버전이 출시되는 등 다양한 변화를 가져가고 있는 에어맥스 95가 이번에도 독특한 형태로 출시될 예정이다. 스타일 코드넘버 DO6391-200으로 정해진 이 제품은 러닝화인 에어맥스 답지 않게 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발렌시아가, 툴박스 아이폰 케이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18697#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18697#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다소 난해하고 뭔가 NERD느낌이 물씬 풍겼던 발렌시아가의 21년 가을 컬렉션은 비교적 NERD감성에 가까운 본인조차도 이해하기 위한 노력을 해야 될 정도의 특이함을 가지고 있었다. 각종 공구나 게임요소들이 난무..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
