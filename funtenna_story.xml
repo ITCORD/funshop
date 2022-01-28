@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 23:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 00:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#280. 바벨+덤벨 = 최상의 효과]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/845#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/845#page=1</guid>
+            <pubDate>Fri, 28 Jan 2022 00:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 28일 금요일 펀샵 오에보 소식입니다.
+01.&nbsp;25kg 무게조절 덤바벨 세트바벨 혹은 덤벨. 어떤 운동이 나에게 잘 맞을까요? 정답은 둘다입니다. 각 운동기구는 자극을 주는 부위가 달라서 함께 이용하..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/845/thumbnail_1.jpg?1643359397310" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 1월 넷째 주 소식]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/844#page=1</link>
@@ -58,7 +67,7 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <pubDate>Tue, 25 Jan 2022 00:47:04 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 25일 화요일 펀샵 오에보 소식입니다.
 01.&nbsp;대형 사자 머리 헌팅 트로피 벽장식헌팅 트로피라고 들어보셨나요? 사냥한 동물의 머리나 가죽 일부분을 박제시켜 만든 장식품을 헌팅 트로피라고 합니다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/833/thumbnail_1.jpg?1643186262033" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#276. 손가락 몇 개로 이렇게나 다양하게]]></title>
@@ -451,14 +460,6 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
             <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
             <content:encoded><![CDATA[펀샵 오프라인 매장 많이 그리우셨죠? 여주프리미엄아울렛 팝업스토어 오픈!
 지난 11월, 펀샵 탄생 21주년을 맞아 진행했던 드라이브 스루 이벤트를 통해 오랜만에 많은 회원님들을 만날 수 있어서 행복했습니다. 펀..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#252. 투명한 게 매력적이야]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/711#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/711#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 21일 화요일 펀샵 오에보 소식입니다.01.&nbsp;&nbsp;TWSBI ECO 만년필 4종투명한 바디와 경쾌한 컬러감이 조화로운 트위스비 에코 만년필 4종을 소개합니다. 더욱 견고해지고 정교하게 새겨진 로고와 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
