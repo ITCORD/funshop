@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 06:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 07:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,14 +317,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18658#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제네시스의 최초 전기차 GV60이 공개되었다. 말 그대로 하이브리드 같은 엔진이 아닌 전기차 전용 플랫폼 E-GMP를 기반으로 하는 순수 전기차다.다만 첫인상이 제네시 스라기엔 약간 고개를 갸웃거리게 만드는 부분..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 'The Kia EV6' 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18612#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18612#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
-            <pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기아는 전기자동차 EV 시리즈의 첫 모델 ‘The Kia EV6를 출시했다. EV6는 사전예약 첫날 기아 승용 및 SUV 모델을 통틀어 역대 최대 기록인 21,016대를 시작으로 사전예약 기간 동안 총 3만 대가 넘는 예약대수를 기..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
