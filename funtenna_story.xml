@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 22:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#281. 재미는 돌아오는 거야!]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/846#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/846#page=1</guid>
+            <pubDate>Wed, 02 Feb 2022 23:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 03일 목요일 펀샵 오에보 소식입니다.
+01. [프딩] TOSY 얼티밋 메이트 디스크&amp;부메랑원반 던지기는 우리나라보다는 외국에서 주로 많이 즐기는 놀이입니다. 원반을 던질 수 있는 넓은 광장이 많은 지역..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/846/thumbnail_1.jpg?1643372452483" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#280. 바벨+덤벨 = 최상의 효과]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/845#page=1</link>
@@ -84,7 +93,7 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <guid>https://www.funshop.co.kr/Story/StoryView/828#page=1</guid>
             <pubDate>Mon, 24 Jan 2022 00:43:23 GMT</pubDate>
             <content:encoded><![CDATA[에디터는 평소에 하고 싶은 게 굉장히 많은 사람입니다. 하고 싶은 일을 입 밖으로 내는 순간 반드시 실행에 옮겨야 하는 다소 피곤한(?) 성격의 소유자이죠. 이번 겨울에는 갑자기 설산을 봐야겠다는 생각을 했고 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/828/thumbnail_1.jpg?1643013377947" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쭈미툰] #17. 진짜! 재밌는 거 가타여!]]></title>
@@ -451,15 +460,6 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
             <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 22일 수요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] RENDESK 전자동 스탠딩 데스크 2종렌데스크의 전자동 모션 데스크는 버튼 하나로 높이를 조절할 수 있는 전자동 높이 조절 책상입니다. 서서 일하..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펀샵 여주 팝업스토어 오픈!]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/713#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/713#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[펀샵 오프라인 매장 많이 그리우셨죠? 여주프리미엄아울렛 팝업스토어 오픈!
-지난 11월, 펀샵 탄생 21주년을 맞아 진행했던 드라이브 스루 이벤트를 통해 오랜만에 많은 회원님들을 만날 수 있어서 행복했습니다. 펀..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
