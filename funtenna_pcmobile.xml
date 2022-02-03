@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 14:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 15:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AVA의 4K wirelessHD 무선 터치 모니터]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19103#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19103#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스위치 같은 콘솔을 더 넓은 화면으로 혹은 랩탑의 보조 모니터로 활용하기 위한 모니터는 그간 상당히 많이 출시된 것이 사실이다. 하지만 오늘 소개할 모니터는 약간 결을 달리한다. 왜냐하면 이 모니터에는 선을 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19103/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이수스의 미니PC, PL63]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19086#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19063#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[갤럭시의 러기드폰 라인업인 갤럭시 XCover 5가 국내에 출시된다. 그간 B2B 형태로 산업현장에 공급은 간간히 되었으나 일반 소비자들을 위한 국내 출시는 이번이 처음이다.갤럭시 Xcover ’는 134.8mm(5.3형) HD+ 디..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19063/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 접히는 노트북 Zenbook 17 Fold 공개]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18924#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[곧 출시될 것으로 루머가 돌고 있는 원플러스의 원플러스 10 pro의 디자인과 스펙이 유출됐다. 기존 원플러스의 디자인과는 달리 상당히 거대한 카메라부의 공간이 특징인 모습이다.얼핏 봤을 때는 카메라를 4개를 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[렉사, USB3.2 Gen.2x2 대응 휴대용 SSD 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18921#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18921#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[각종 스토리지 제품을 생산하는 렉사에서 새로운 휴대용 SSD를 선보인다. SL660 BLAZE Gaming Portable SSD라는 이름을 가진 이 휴대용 스토리지는 USB3.2 Gen.2x2에 대응하여 빠른 속도의 읽기 쓰기 능력을 보여준..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
