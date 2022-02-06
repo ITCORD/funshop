@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 14:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 15:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친환경 모듈식 음향패널, Foresta System]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19107#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19107#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 제대로 된소리로 감상하기 위해선 좋은 스피커, 좋은 엠프 등 다양한 요소들이 필요하다. 하지만 스피커로 감상 시 중요한 것을 단 하나만 말해보라 하면 단연코 공간과 그 공간음을 제어하는 룸 어쿠스틱이..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19107/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사라 하야트 디자인, 테트리스 모듈러 소파]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19102#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
@@ -77,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19064#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도시락을 따듯하게 먹고 싶은것은 당연한 생각일것이다. 때문에 다양한 보온도시락이 많이 상용화 되어있다. 오늘 소개할 도시락은 단순한 보온 도시락은 아닌것 같다. Steambox는 도시락을 가열해주는 상자이다.일..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19064/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아의 3D 프린팅 홈 액세서리]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18689#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사람들은 외출 시 필요에 따라 가방에 여러 가지 물건을 넣는다. 랩탑, 책, 지갑, 핸드폰 등등 종류도 다양하다. 개인적으로는 원통형으로 생긴 물통이 여러 물건들과 같이 수납하기가 까다로운 편이라고 생각한다. ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에르메스의 개 밥그릇]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18663#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18663#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
-            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명품 브랜드 에르메스에서 강아지 밥그릇을 출시했다. 에르메스에서 강아지 밥그릇이라니.. 가족이나 다름없는 반려견들에게 더 좋은 것을 해주고 싶은 것은 당연하다고 생각하지만 브랜드가 다름 아닌 에르메스인 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
