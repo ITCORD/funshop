@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 05:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 06:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18892#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[디즈니 플러스에서 열린 이벤트에서 스타워즈의 영원한 제다이, 오비완 케노비를 주인공으로 한 시리즈, '오비완'의 티저를 공개했다. 시대적으로 에피소드 3과 에피소드 4 사이를 다루게 될 이 시리즈는 에피소드 3..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18892/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스텔라 맥카트니 X 캐논데일 협업 자전거 출시]]></title>
@@ -221,14 +221,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18659#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[메디콤토이의 베어브릭은 문화 각종 전반의 다양한 요소들과 협업을 기반으로 제품을 출시하고 있다. 그중에는 대중들에게 친숙한 브랜드를 포함해서 애니메이션, 영화, 인물 등 정말 다양하다. 이번에 메디콤토이와..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔 기후 변화 보고서가 보여준 심각한 경고]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18633#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18633#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</guid>
-            <pubDate>Tue, 10 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기후 변화를 늦추고, 급격한 지구 온난화를 막고, 전 세계적으로 더 큰 재앙, 홍수, 가뭄, 화재를 피할 수 있는 기회가 급속히 줄어들고 있다고 과학자들이 경고했다. 기후변화에 관한 정부 간 협의체(IPCC)는 2013..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
