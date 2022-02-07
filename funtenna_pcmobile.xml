@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 15:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 16:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손바닥으로 컨트롤, WRAEK Tactonic Pro]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19109#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19109#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC게임을 할 때 왼손은 방향키 그리고 오른손은 마우스로 에임이 기본이다. 남은 건 단축키인데 단축키의 경우 사람마다 다르지만 이럴 경우 에임이나 무브를 잠시 멈추고 한 손을 사용해야 된다. 오늘 소개할 WRAEK..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19109/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨어러블 3D 마우스, Tactigon SKIN]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19108#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19068#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[처음에 이 사진을 접했을 때 PC의 사진이라 그래서 아.. 저 모니터가 일체형 PC구나 라는 생각을 했다. 사실 저 모니터는 그냥 모니터일 뿐이었고 진짜 PC는 그 오른쪽에 있는 나무 큐브였다. MYNYMAL은 주변과 어우..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19068/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ArkHub 10-in-1 Thunderbolt 독]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18936#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터 관련 부품을 생산하는 Streacom에서 자사의 DB1이라는 ITX 기반의 초소형 팬리스 케이스를 한층 더 업그레이드한 DB1 Max를 출시한다. 이 제품은 DB1과 동일한 설계를 기반으로 하지만 냉각 표면적을 두 배로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 프로덕트 레드 신제품과 워치페이스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18935#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18935#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Apple은 에이즈 퇴치를 위해 싸우는 조직인 (RED)와의 파트너십 15주년을 기념하여 홀리데이 시즌에 새로운 프로덕트 레드 제품과 액세서리를 출시한다. iPhone 13 (PRODUCT) RED, iPhone 13 mini (PRODUCT) RED 및 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
