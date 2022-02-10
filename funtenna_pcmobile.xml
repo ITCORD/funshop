@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 14:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 15:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칼디짓, TS4 썬더볼트 4독 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19121#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19121#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[벨킨과 더불어 소위 썬더볼트 3 독 중에서는 끝판왕 양대 산맥인 칼 디짓이 ts3 plus에 이은 후속작인 새로운 썬더볼트 4 독을 출시했다. TS4는 기존 칼 디짓 ts3 plus에 비해 다양한 성능적 업그레이드를 하고 나왔..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19121/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kaiser 3, 마그네틱 모듈식 게이밍 의자]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19118#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19081#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍 기어로 유명한 레이저가 다소 색다른 협업을 진행한다. 핑크 핑크 한 사진을 보면 알 수 있듯이 산리오의 유명 캐릭터 헬로키티와의 협업이다.게이밍 체어인 Iskur X, 게이밍 마우스 DeathAdder Essential, ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19081/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mophie, 3-in-1 여행용 충전기 출시]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18957#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터 케이스를 제작하는 업체인 AZZA에서 독특한 케이스를 출시했다. REGIS 902 Cube PC 케이스는 무한 거울 착시를 이용한 독특한 디자인으로 눈길을 끈다.이 케이스는 3면의 검은색 틴티드 강화 유리 패널, 시스..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝업식 카메라 탑재, OPPO의 새로운 스마트폰 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18952#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18952#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[OPPO에서 새롭게 출시될 스마트폰에 대한 영상 하나를 공개했다. 영상 안의 스마트폰의 특이한 점은 자동으로 렌즈가 튀어나왔다가 들어가는 팝업식 형태의 카메라가 탑재되었다는 것이다. OPPO에서는 이 기능을 '오..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
