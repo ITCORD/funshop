@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 23:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 00:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#286. 등짝스매싱 주의!!]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/857#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/857#page=1</guid>
+            <pubDate>Fri, 11 Feb 2022 00:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 11일 금요일 펀샵 오에보 소식입니다.
+01.[프딩] 컨테이너형 수납함오늘의 프딩 제품은 컨테이너 철제 수납함으로 실제 의자나 협탁으로 사용해도 좋을만한 사이즈와 높이입니다. 안에는 수납까지 가능..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/857/thumbnail_1.jpg?1644570027637" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닌텐도 다이렉트. 야숨2는 없었다, 그러나 제노블3가 있었다.]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/856#page=1</link>
@@ -86,7 +95,7 @@
             <pubDate>Fri, 28 Jan 2022 00:43:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 28일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;25kg 무게조절 덤바벨 세트바벨 혹은 덤벨. 어떤 운동이 나에게 잘 맞을까요? 정답은 둘다입니다. 각 운동기구는 자극을 주는 부위가 달라서 함께 이용하..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/845/thumbnail_1.jpg?1643359397310" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 1월 넷째 주 소식]]></title>
@@ -450,16 +459,6 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
             <content:encoded><![CDATA[2021년 12월 29일 수요일 펀샵 오에보 소식입니다.
 01.[프딩] 롤리스 bobber bike&amp;mini rally
 클래식카, 롤리스 피규어로 다시 태어나다! 클래식카로부터 영감을 받아 탄생한 피규어 롤리스는 클래식카의 사랑스러움..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#14. 그래! 현타쯤이야!]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/732#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/732#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[-
-저희의 이런 모습도...
-살앙해주실거죠?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
