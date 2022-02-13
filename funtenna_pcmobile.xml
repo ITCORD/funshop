@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 19:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 20:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에일리언웨어 x14 게이밍 노트북 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19125#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19125#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[델의 고성능 게이밍 PC 브랜드인 에일리언웨어에서 새로운 노트북을 출시한다. X14라는 이 노트북은 게이밍을 위한 성능을 가지고 있으면서도 에일리언웨어의 역대 노트북 중 가장 얇은 두께를 자랑한다.이 노트북의..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19125/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칼디짓, TS4 썬더볼트 4독 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19121#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18960#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레이저에서 게이밍용 핑거 슬리브나 게이밍 빨대 등으로 이런 방향성에 물이 오른 모양이다. 이번에는 그래도 앞선 제품들보다는 조금은 이해가 되는 수준의 제품이다. 레이저 폰 쿨러 크로마는 맥세이프에 대응하는..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독특한 디자인의 PC 케이스, REGIS 902 Cube]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18957#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18957#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[컴퓨터 케이스를 제작하는 업체인 AZZA에서 독특한 케이스를 출시했다. REGIS 902 Cube PC 케이스는 무한 거울 착시를 이용한 독특한 디자인으로 눈길을 끈다.이 케이스는 3면의 검은색 틴티드 강화 유리 패널, 시스..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
