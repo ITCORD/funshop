@@ -4,9 +4,22 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 22:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 23:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에디터 찐추천] 에디터가 찐으로 추천하는 푸드 BEST 3]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/858#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/858#page=1</guid>
+            <pubDate>Sun, 13 Feb 2022 23:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[할인기간 :&nbsp;~ 2/20(일) 24:00까지
+이상으로 푸드엠디와 에디터가 선정한 찐푸드 모음이었습니다!
+다음에도 에디터가 정말 찐으로 추천하는 제품들로 만나요~!
+&nbsp;
+editor 권아리
+" 갑자기 배가고프넹....]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/858/thumbnail_1.jpg?1644595262207" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#286. 등짝스매싱 주의!!]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/857#page=1</link>
@@ -95,7 +108,7 @@
             <pubDate>Fri, 28 Jan 2022 00:43:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 28일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;25kg 무게조절 덤바벨 세트바벨 혹은 덤벨. 어떤 운동이 나에게 잘 맞을까요? 정답은 둘다입니다. 각 운동기구는 자극을 주는 부위가 달라서 함께 이용하..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/845/thumbnail_1.jpg?1643359397310" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 1월 넷째 주 소식]]></title>
@@ -449,16 +462,6 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
             <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
             <content:encoded><![CDATA[하루하루는 그저 터프할 분인데, 질문은 그래서 얼마나 이루었냐고 묻는 올해의 끝자락이다. 얼마나 애쓴 날이었는지, 얼마나 안간힘을 다했던 날이었는지&nbsp;
 이런 날이 차곡히 쌓여 한 해를 이룬 지금, "세상에 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#258. 클래식카를 탄 상상을]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/733#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/733#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 29일 수요일 펀샵 오에보 소식입니다.
-01.[프딩] 롤리스 bobber bike&amp;mini rally
-클래식카, 롤리스 피규어로 다시 태어나다! 클래식카로부터 영감을 받아 탄생한 피규어 롤리스는 클래식카의 사랑스러움..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
