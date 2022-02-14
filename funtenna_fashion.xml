@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 16:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 17:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태그호이어, Connected Calibre E4 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19127#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19127#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[태그호이어에서 전작에 비해 개선된 모델인 스마트 워치, Connected Calibre E4를 출시한다. 이전 모델에 비해 42mm&nbsp; 더 얇아져 한층 더 우아한 디자인을 보여준다고 태그호이어 측은 설명한다.더 큰 크라운과 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19127/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHARI & CO X Citizen, 아나디지템프 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19120#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19054#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스마트워치를 비롯한 각종 시계를 만드는 것으로 유명한 파슬과 게이밍 기어로 유명한 레이저가 손을 잡는다. GEN 6 스마트워치는 차세대 게이머를 위해 디자인된 시계라고 한다.1.28인치 AMOLED 디스플레이와 3개의..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19054/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가민, 하이브리드 스마트워치 vivomove Sport 공개]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18766#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스마트워치를 사용함에 있어 특유의 현대적인 디자인은 기존 시계의 미학에 빠져있는 사람들에겐 가장 큰 허들로 작용하고 있다. 본인들은 시계를 차고 싶은데 작은 스마트폰을 손목에 찼다는 생각을 지우기 어려운 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑과 평화 그리고 조화, Timex x Coca-Cola]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18755#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18755#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Tue, 28 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 반세기도 넘은 일이지만 코카콜라에서는 지금도 회자되는 전설적인 광고를 하나 제작했었다. 워런 버핏도 언급해 유명한 'Hiltop'이라는 이름의 이 광고는 ‘온 세상 사람들에게 코카-콜라를 주고 싶어요(I'd ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
