@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 00:44:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#278. 활 쏘는 이가 과녁으로 화살을 보내야 한다.]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/860#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/860#page=1</guid>
+            <pubDate>Mon, 14 Feb 2022 00:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 14일 월요일 펀샵 오에보 소식입니다.
+01. 태조 이성계 피규어전 세계에 대한민국을 알리기 위한 장군 프로젝트 그 첫 번째, 태조 이성계 피규어를 펀샵에서 만나봅니다. 전통 무예 의상인 철릭을 입고 ..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/860/thumbnail_1.jpg?1644828578363" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[에디터 찐추천] 에디터가 찐으로 추천하는 푸드 BEST 3]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/858#page=1</link>
@@ -99,7 +108,7 @@ editor 권아리
             <pubDate>Wed, 02 Feb 2022 23:14:27 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 03일 목요일 펀샵 오에보 소식입니다.
 01. [프딩] TOSY 얼티밋 메이트 디스크&amp;부메랑원반 던지기는 우리나라보다는 외국에서 주로 많이 즐기는 놀이입니다. 원반을 던질 수 있는 넓은 광장이 많은 지역..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/846/thumbnail_1.jpg?1643877016347" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#280. 바벨+덤벨 = 최상의 효과]]></title>
@@ -453,15 +462,6 @@ Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를
             <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 30일 목요일 펀샵 오에보 소식입니다.
 01.&nbsp;스타워즈 X A BATHING APE스타워즈는 첫작품을 즐겨왔던 세대부터 지금의 세대까지 많은 이들이 좋아하는 영화가 아닐까 생각합니다. 그 속에 등장하는 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터프했던 올해가 지나면]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/735#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/735#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[하루하루는 그저 터프할 분인데, 질문은 그래서 얼마나 이루었냐고 묻는 올해의 끝자락이다. 얼마나 애쓴 날이었는지, 얼마나 안간힘을 다했던 날이었는지&nbsp;
-이런 날이 차곡히 쌓여 한 해를 이룬 지금, "세상에 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
