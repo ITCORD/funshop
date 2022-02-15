@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 16:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -477,7 +477,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19015#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[굿이어에서 테슬라를 비롯한 전기자동차에 특화된 타이어를 공개했다. 전기자동차는 내연 자동차와는 그 구조가 다른 점 때문에 내연 자동차에서는 느낄 수 없는 문제점들 또한 있었다. 그중 하나가 바로 소음문제인..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19015/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대자동차, 엔진개발센터 폐지 및 조직 전면개편 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -485,7 +485,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19004#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실로 큰 시대의 변화 속에 살고 있다는 것이 실감이 되는 요즘이다. 자동차도 그러한데 예상보다도 훨씬 빠르게 진행되어 가는듯한 탈 내연 기관화에 현대자동차도 박차를 가할 것으로 보인다. 현대자동차는 기존 엔..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19004/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가장 귀여운 오프로더, 시트로엥 마이 에이미 버기 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -709,14 +709,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18687#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[독일 자동차 제조업체인 Opel에서 도시 안에서의 이동 목적뿐만 아니라 15세 이상의 젊은이들을 위한 자동차를 출시한다고 한다. 독일의 AM면허(사실상 스쿠터 면허)만 있다면 이 자동차를 운전할 수 있다고 한다.Ro..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스 최초의 전기차, GV60 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18658#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18658#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
-            <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제네시스의 최초 전기차 GV60이 공개되었다. 말 그대로 하이브리드 같은 엔진이 아닌 전기차 전용 플랫폼 E-GMP를 기반으로 하는 순수 전기차다.다만 첫인상이 제네시 스라기엔 약간 고개를 갸웃거리게 만드는 부분..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1124,7 +1116,7 @@
             <link>https://www.funshop.co.kr/Story/FuntennaView/19132#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19132#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가끔 킥스타터나 인디고 고등의 펀딩 사이트를 구경하다 보면 직접 구매로 이어지지는 않지만 재밌고 신기해서 무심코 페이지를 클릭하게 되는 제품들이 있다. 오늘 소개할 제품도 그런 제품 중 하나다.얼핏 보면 무..]]></content:encoded>
+            <content:encoded><![CDATA[가끔 킥스타터나 인디고고등의 펀딩 사이트를 구경하다 보면 직접 구매로 이어지지는 않지만 재밌고 신기해서 무심코 페이지를 클릭하게 되는 제품들이 있다. 오늘 소개할 제품도 그런 제품 중 하나다.얼핏 보면 무..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19132/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1597,7 +1589,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18925#page=1&amp;categoryNo=4&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영국의 접이식 자전거 브랜드 브롬톤이 올스틸 제품 대비 1.55kg 더 가벼운 새로운 경량 모델인 P 라인 자전거를 출시한다. 이는 기존에 경량 모델이었던 Superlight 모델을 대체할 것으로 보인다.그동안 접이식 자..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18925/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스텔라 맥카트니 X 캐논데일 협업 자전거 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -1789,7 +1781,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18948#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 곧 케빈을 만나야 될 날이 가까워져 오고 있다. 이런 가운데 Airbnb에서 아주 특이한 상품을 준비해서 화제다. 이 상품은 나 홀로 집에의 촬영지였던 일리노이의 저택에서 1박을 하는 프로그램이라고 한다. 나 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18948/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대영팬더, 태양의사자 철인28호 펀딩 진행 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -2914,7 +2906,7 @@ editor 권아리
             <content:encoded><![CDATA[2022년 2월 09일 수요일 펀샵 오에보 소식입니다.
 01.[예약배송]폐기물로부터 만들어진 디자인 작품, 허스키 컵
 환경오염에 대처하는 바람직한 자세, [폐기물로부터 만들어진 디자인 작품, 허스키 컵]을 소개합니..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/853/thumbnail_1.jpg?1644397267283" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#283. 애플워치를 완벽한 탁상시계로 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -2923,7 +2915,7 @@ editor 권아리
             <pubDate>Tue, 08 Feb 2022 00:46:22 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 08일 화요일 펀샵 오에보 소식입니다.
 01.[해외직구] NightWatch 애플워치 확대 거치대아무리 가까운 사이라도 보이지 않는 것이 있습니다. 때론 아무리 멀리 있어도 마치 바로 옆에 있는 것처럼 편안함..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/850/thumbnail_1.jpg?1644320638680" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쭈미툰] #18. 일하는 유형 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
