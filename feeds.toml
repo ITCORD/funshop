@@ -11,7 +11,7 @@ imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
 onFail = "stale"
 
-[funtenna_all]
+[funtenna_latest]
 title = "펀샵 ─ 펀테나"
 url = "https://www.funshop.co.kr/Story/FuntennaList"
 entrySelector = "div.story_list ul li"
