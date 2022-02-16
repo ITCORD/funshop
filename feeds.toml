@@ -1,3 +1,7 @@
+[default]
+timeout = 120
+onFail = "stale"
+
 [funtenna]
 title = "펀샵 ─ 펀테나"
 url = "https://www.funshop.co.kr/Story/FuntennaList"
