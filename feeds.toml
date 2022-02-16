@@ -9,20 +9,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
-
-[funtenna_latest]
-title = "펀샵 ─ 펀테나 ─ 최신"
-url = "https://www.funshop.co.kr/Story/FuntennaList"
-entrySelector = "div.story_list ul li"
-titleSelector = "dl dt"
-linkSelector = "a"
-contentSelector = "span.data span:nth-child(1)"
-dateSelector = "p.info2 span.data span:nth-child(2)"
-dateFormat = "yyyy-MM-dd"
-imageSelector = "a img.item.lazy"
-waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_car]
 title = "펀샵 ─ 펀테나 ─ 자동차/모터사이클"
@@ -35,7 +21,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_pcmobile]
 title = "펀샵 ─ 펀테나 ─ PC/모바일"
@@ -48,7 +33,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_life]
 title = "펀샵 ─ 펀테나 ─ 생활/주방"
@@ -61,7 +45,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_sports]
 title = "펀샵 ─ 펀테나 ─ 아웃도어/스포츠"
@@ -74,7 +57,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_trend]
 title = "펀샵 ─ 펀테나 ─ 트렌드"
@@ -87,7 +69,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_tech]
 title = "펀샵 ─ 펀테나 ─ 미래기술"
@@ -100,7 +81,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_fashion]
 title = "펀샵 ─ 펀테나 ─ 패션/시계/가방"
@@ -113,7 +93,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_hobby]
 title = "펀샵 ─ 펀테나 ─ 취미/기타"
@@ -126,7 +105,6 @@ dateSelector = "p.info2 span.data span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 imageSelector = "a img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
 
 [funtenna_story]
 title = "펀샵 ─ 펀테나 ─ 스토리"
@@ -137,4 +115,3 @@ linkSelector = "a.cover"
 contentSelector = "dd p.text"
 imageSelector = "img.item.lazy"
 waitForSelector = "div.story_list ul li"
-onFail = "stale"
