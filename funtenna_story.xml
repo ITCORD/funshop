@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 23:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 00:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#289. 네덜란드 왕실이 인정했대요~]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/865#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/865#page=1</guid>
+            <pubDate>Wed, 16 Feb 2022 00:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 16일 수요일 펀샵 오에보 소식입니다.
+01.BK쿡웨어 카본스틸 에나멜 코팅냄비
+오늘은 주방용품에 관심이 있다! 하시는 분들이라면 솔깃한 제품일 것 같은데요! 네덜란드 왕실이 인정한 프리미엄 주방 ..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/865/thumbnail_1.jpg?1645001754607" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#288. 시~원한 U라인]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/862#page=1</link>
@@ -98,7 +108,7 @@ editor 권아리
             <pubDate>Tue, 08 Feb 2022 00:46:22 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 08일 화요일 펀샵 오에보 소식입니다.
 01.[해외직구] NightWatch 애플워치 확대 거치대아무리 가까운 사이라도 보이지 않는 것이 있습니다. 때론 아무리 멀리 있어도 마치 바로 옆에 있는 것처럼 편안함..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/850/thumbnail_1.jpg?1644320638680" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쭈미툰] #18. 일하는 유형]]></title>
@@ -453,15 +463,6 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <content:encoded><![CDATA[2021년 12월 31일 금요일 펀샵 오에보 소식입니다.
 01.[프딩] HMM 핸드메이드 머그잔 MUGR
 Mugr는 사진에 채 담을 수 없을 만큼 고운 결과 높은 퀄리티를 자랑하는 컵 입니다. 도자기가 주는 묵직함이 어떤 분들에게..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펀샵, 웹어워드코리아 2021 종합쇼핑몰분야 대상.]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/741#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/741#page=1</guid>
-            <pubDate>Wed, 12 Jan 2022 21:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[펀샵은 한국인터넷전문가협회(KIPFA)가 주최하는 ‘웹어워드코리아 2021’에서 ‘종합쇼핑몰 부문 대상’을 수상했습니다.
-웹어워드 코리아는 국내 4000여 인터넷 전문가가 가장 혁신적이고 우수한 웹사이트를 선정해 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
