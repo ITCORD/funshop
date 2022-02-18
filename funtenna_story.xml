@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#291. 호랑이를 뜻하는 사인참사검]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/870#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/870#page=1</guid>
+            <pubDate>Fri, 18 Feb 2022 03:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 18일 금요일 펀샵 오에보 소식입니다.
+01.&nbsp;[프딩] 월인공방 사인참사검 (댓글이벤트)
+조선의 시작과 한께 만들어졌던 사인참사검을 월인공방의 특별한 시선으로 바라볼 수 있었던 것 같습니다. 단..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/870/thumbnail_1.jpg?1645174452387" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쭈미툰] #19. 펀샵의 에디터 스토리]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/869#page=1</link>
@@ -92,7 +102,7 @@ editor 권아리
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 11일 금요일 펀샵 오에보 소식입니다.
 01.[프딩] 컨테이너형 수납함오늘의 프딩 제품은 컨테이너 철제 수납함으로 실제 의자나 협탁으로 사용해도 좋을만한 사이즈와 높이입니다. 안에는 수납까지 가능..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/857/thumbnail_1.jpg?1644570027637" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[닌텐도] 야숨2는 없었다, 그러나 제노블3가 있었다.]]></title>
@@ -454,15 +464,6 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 5일 수요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] ELECOM 스퀘어형 밸런스 쿠션가볍게 앉아만 있어도 코어 운동 및 신체 밸런스를 잡아주는 스퀘어형 밸런스 쿠션을 펀샵 프리오더 프딩으로 만나봅니..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#262. 당신만의 크리에이티브]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/753#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/753#page=1</guid>
-            <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 4일 화요일 펀샵 오에보 소식입니다.
-01. 레이저 각인기 큐비오2애플 제품을 구매할 때, 공식 홈페이지에서는 언제나 '각인 추가' 선택 옵션이 있습니다.  커뮤니티에는 각인 문구 적는 란을 부재중 메시..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
