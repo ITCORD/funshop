@@ -4,8 +4,8 @@ onFail = "stale"
 
 [funtenna]
 title = "펀샵 ─ 펀테나"
-url = "https://www.funshop.co.kr/Story/FuntennaList"
-entrySelector = "div.story_list ul li"
+url = "https://www.funshop.co.kr/Story/FuntennaList#page=1"
+entrySelector = "div.story_list ul[id='list'] li"
 titleSelector = "dl dt"
 linkSelector = "a"
 contentSelector = "dd p.text"
