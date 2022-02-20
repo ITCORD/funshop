@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 09:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 15:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카시오, 친환경 시계 PRO TREK PRW-61 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19143#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19143#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[카시오의 PROTREK시리즈의 최신작이 출시되었다. 이번 제품이 기존과 차별화되는 부분은&nbsp;피마자 씨앗과 옥수수로 만든 바이오 플라스틱으로 만들어졌다는 것이다.최근 들어 더욱 사람들의 관심을 받게 된 환경 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19143/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CARHARTT WIP X SALOMON 아웃도어 슈즈 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19133#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19071#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포르쉐디자인의 창립 50주년을 기념해 포르쉐 디자인의 첫 번째 제품인 크로노그래프 1 시계가 재출시된다. 1972년에 출시되었을 때 올블랙 케이스와 브레이슬릿을 특징으로 하는 최초의 시계였으며 티타늄 재질과 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19071/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오징어게임 X 베이프, 티셔츠 출시 예정]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18776#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여러가지의미로 충격과 공포였던 지난 고스트버스터즈 리부트로 사실상 프랜차이즈가 끝나지 않을까 싶었던 고스트버스터즈가 애프터 라이프 (국내명: 고스트버스터즈 라이즈) 라는 부제를 달고 제작중임을 세상에 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워너 브라더스와 함께한 반스의 호러 컬렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18767#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18767#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할로윈이 오기는 하는 것 같다. 이번에 스케이드보드 기반의 브랜드 반스에서 워너브라더스의 호러영화들을 기반으로 한 호러 컬렉션을 출시한다. 필자 같은 호러무비 팬들에게는 정말 구미가 당기는 협업이 될 것 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
