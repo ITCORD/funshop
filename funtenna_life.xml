@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 15:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트 허브 선반, Bluelounge SocketStation]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19145#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19145#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 소개할 제품은 아이디어가 재밌어서 소개해보고자 하는 제품이다. 소켓 스테이션이라고 불리는 이 제품은 벽 전원 위에 바로 물건을 올릴 수 있는 작은 선반을 만들어 공간적인 활용이 뛰어난 제품이다.이 제품..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19145/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자전거에서 영감을 받은 피자커터]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19132#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19091#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오늘 소개할 제품은 개인적으로 상당히 재밌는 제품이라고 생각되어 소개한다. 이 제품은 인텐션 디자인이라는 곳에서 제작한 삼각대 스탠딩 데스크로 들고 이동한 곳이 어디든 그곳을 작업 데스크 환경으로 만들어..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19091/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심플하고 실용적인 타이머, Goxx]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18733#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이번에 소개할 제품은 이것저것 넣다 보면 불룩해지는 지갑이 싫은 사람이라면 반가울 제품이다. IDENTITY WALLET은 메탈 소재로 된 카드홀더이자 머니클립, 머니 스트랩 두 가지로 구성되어있다.슬림한 크기의 IDEN..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[접었을때 2cm 두께, 초박형 접이식 의자]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18729#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18729#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
-            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[얼핏 보면 평범한 의자 같은 이 의자는 접었을 때 2cm 두께의 초박형으로 접히는 의자다. 그런데 '홍콩 의자'라는 특이한 이름을 가지고 있다. 그 이유는 전 세계에서 가장 부동산 가격이 비싼 나라가 홍콩이고 그만..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
