@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 15:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NVIDIA, 지포스 RTX 키보드 키캡공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19146#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19146#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아에서 재밌는 키캡 하나를 공개했다. 지포스 RTX 키보드 키캡이라고 불리는 이 제품은 ESC키 하나를 위한 특이한 키캡이다.제품은 키캡 하나로만 구성되어 있으며 RTX ON이라는 글자가 양각으로 새겨져 있다...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19146/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컬러풀, 게이밍 노트북 X15 XS 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19141#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19121#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[벨킨과 더불어 소위 썬더볼트 3 독 중에서는 끝판왕 양대 산맥인 칼 디짓이 ts3 plus에 이은 후속작인 새로운 썬더볼트 4 독을 출시했다. TS4는 기존 칼 디짓 ts3 plus에 비해 다양한 성능적 업그레이드를 하고 나왔..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19121/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kaiser 3, 마그네틱 모듈식 게이밍 의자]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18988#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[처음으로 소식을 접하면서 어? 원래 LG에 게이밍 노트북이 없었나?라는 생각을 했다. 다소 의아했지만 LG가 최초로 게이밍 전용 노트북을 출시한다. LG 울트라 기어(UltraGear™) 게이밍 노트북은 고성능을 기반으로 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연스러운 각도로, MECA 센터 스크린 웹 카메라]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18986#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18986#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그나마 좀 잠잠해져가나 싶던 코로나가 다시 활개 치고 있다. 따라서 잠깐 걱정했던 그 수많은 웹캠들과 화상 근무는 다시 일상으로 돌아오게 될 것 같다. 오늘 소개할 제품은 웹캠이다. 3가지의 기능을 가지고 있는..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
