@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착용후에도 편한 움직임, 언차티드 파크 팩]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19152#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19152#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Uncharted Supply Co. 는 비상시에 유용한 구급용품들과 그에 관련된 물품을 만드는 브랜드다. 오늘 소개할 언차티드 파크 팩은 흔히들 이야기하는 힙색이며 혹독한 환경에서도 견딜 수 있을 뿐만 아니라 편안한 착..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19152/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카시오, 친환경 시계 PRO TREK PRW-61 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19143#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19079#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[저탄소, 지속가능성을 부르짖는 시대지만 사실 탄소가 적은 무엇인가를 새로 생산해내는 것보다 기존에 버릴 것들을 재활용하는 것이 훨씬 효율적이라고 생각하는 사람들이 많다. 이는 전기자동차가 친환경이지만 궁..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19079/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르쉐디자인 창립 50주년 기념 시계]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18798#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[패션 하우스 겐조의 산하 브랜드 겐조 스포츠의 FW21 캡슐 컬렉션이 공개되었다. 이번 컬렉션은 기능성 소재와 첨단 소재를 활용한 디자인이 눈에 띄며 정교한 실루엣을 통해 활동적인 움직임에도 대응할 수 있는 디..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리복, 고스트버스터즈와 협업 스니커즈 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18776#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18776#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여러가지의미로 충격과 공포였던 지난 고스트버스터즈 리부트로 사실상 프랜차이즈가 끝나지 않을까 싶었던 고스트버스터즈가 애프터 라이프 (국내명: 고스트버스터즈 라이즈) 라는 부제를 달고 제작중임을 세상에 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
