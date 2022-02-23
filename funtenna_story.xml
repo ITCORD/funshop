@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 15:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#294. 입춘대길을 바라는 마음으로]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/878#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/878#page=1</guid>
+            <pubDate>Wed, 23 Feb 2022 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 23일 수요일 펀샵 오에보 소식입니다.
+01.&nbsp;단 3일만! 핀즐 리미티드 에디션 돌로레스 펠프스
+핀즐에서 1월에 새롭게 선보인 아티스트 '돌로레스 펠프스' 작가입니다! 봄을 맞아 '입춘대길'을 바라..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/878/thumbnail_1.jpg?1645606691197" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#293. 돌아온 8BitDo 무선 어댑터]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/877#page=1</link>
@@ -104,7 +114,7 @@
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 15일 화요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] 뒤가 파인 U형 스마트패드 거치대뻥 뚫린 공간 덕분에 그립톡 등의 액세서리가 부착되어 있는 스마트폰을 거치할 수 있는 거치대입니다. 맥세이프..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/862/thumbnail_1.jpg?1644918868510" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#287. 활 쏘는 이가 과녁으로 화살을 보내야 한다.]]></title>
@@ -462,14 +472,6 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 7일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] GORILLA BOW 홈트레이닝 기구처음에는 단순한 활인 줄로만 알았습니다. 그래서 진지한 운동 페이지가 아니라 코믹하게 풀어야 하는 게 아닐까 생각..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다마고치, 디지몬을 만나다.]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/766#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/766#page=1</guid>
-            <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 변이종 오미크론 확산으로 인해 에디터의 재택근무가 또다시 시작되었습니다. 2021년 가을을 기점으로 시작되었었던 위드 코로나가 이렇게나 짧게 끝날 거라고는 생각하지 못했죠. 다시 집에 있는 시간이 길..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
