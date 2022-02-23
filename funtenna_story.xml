@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#20. MBTI]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/879#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/879#page=1</guid>
+            <pubDate>Wed, 23 Feb 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[-
+아 글쎄 계획 그렇게 많이 안 세운다니까~
+다 유연하게 대처한다니까~&nbsp;∠(˙˘ ˙」∠)＿]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/879/thumbnail_1.jpg?1645623058867" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#294. 입춘대길을 바라는 마음으로]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/878#page=1</link>
@@ -105,7 +115,7 @@
             <content:encoded><![CDATA[STORY
 [닌텐도] 포켓몬 레전드 아르세우스
 닌텐도 스위치로는 어느덧 벌써 4번째 타이틀이며 포켓몬 게임 전체로는 무려 21번째 타이틀에 해당하는 포켓몬 레전드 아르세우스가 발매되었다. 젤다의 전설 야생의 숨..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/864/thumbnail_1.jpg?1645035228610" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#288. 시~원한 U라인]]></title>
@@ -463,15 +473,6 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[부모님 발의 각질을 갈아봤을때 정말 시원하게 잘 갈리더라구요!이때 각질 잘 보이라고 검은색지 위에서 사용해봤는데 잘 보이시나요??
 이건 딱 사용해보고 사야겠다!! 하는 제품이었습니다.롤러도 총 4가지로 자신..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#265. 전투 도구의 가장 현대적 해석]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/768#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/768#page=1</guid>
-            <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 7일 금요일 펀샵 오에보 소식입니다.
-01.&nbsp;[프딩] GORILLA BOW 홈트레이닝 기구처음에는 단순한 활인 줄로만 알았습니다. 그래서 진지한 운동 페이지가 아니라 코믹하게 풀어야 하는 게 아닐까 생각..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
