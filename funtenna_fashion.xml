@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 15:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼 슬림 모듈식 지갑, MagSnap Wallet]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19158#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19158#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지갑은 항상 들고 다녀야 되지만 누구나 뚱뚱한 지갑을 원하지는 않을 것이다. 오늘 소개할 MagSnap Wallet은 얇은 두께를 가지고 있으면서도 추가하고 싶다면 해당 기능을 가진 모듈을 추가해 사용 가능한 모듈식 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19158/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착용후에도 편한 움직임, 언차티드 파크 팩]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19152#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19090#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 협업을 진행하는 게이밍 기어 브랜드 레이저가 이번에는 신발 브랜드와 협업을 하여 스니커즈를 출시한다. 지속가능성을 중시하는 신발 브랜드인 Cariuma와의 협업에서도 알 수 있듯이 이 신발은 '게이밍'이..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19090/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과일과 야채로 만든 신발, MoEa]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18805#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리나라에서 밀리터리 룩은 꽤나 호불호가 있는 분야다. 그도 그럴 것이 징병제 국가인 대한민국에서 좋든 싫든 군복을 2년 가까이 입어야 하기 때문에 제대 뒤에 카모 쪽은 쳐다도 보지 않는 사람들이 꽤 많기 때..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겐조, 브롬톤과의 협업 자전거 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18798#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18798#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[패션 하우스 겐조의 산하 브랜드 겐조 스포츠의 FW21 캡슐 컬렉션이 공개되었다. 이번 컬렉션은 기능성 소재와 첨단 소재를 활용한 디자인이 눈에 띄며 정교한 실루엣을 통해 활동적인 움직임에도 대응할 수 있는 디..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
