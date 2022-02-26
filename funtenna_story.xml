@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 09:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 15:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,7 +93,7 @@
             <content:encoded><![CDATA[2022년 2월 18일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] 월인공방 사인참사검 (댓글이벤트)
 조선의 시작과 한께 만들어졌던 사인참사검을 월인공방의 특별한 시선으로 바라볼 수 있었던 것 같습니다. 단..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/870/thumbnail_1.jpg?1645174452387" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쭈미툰] #19. 펀샵의 에디터 스토리]]></title>
@@ -103,7 +103,7 @@
             <content:encoded><![CDATA[-
 평범. 흔함. 뻔(fun)한.
 에디터들의 스토리를 주목해주세요!&nbsp;(*´ ˘ `*)]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/869/thumbnail_1.jpg?1645118093637" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브랜드] 8bitdo, 컨트롤러에 진심인 브랜드]]></title>
