@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 09:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소형 필드 레코더, Zoom F3]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19168#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19168#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[각종 리코딩 관련 기기를 생산하는 ZOOM에서 새로운 필드 레코더를 출시한다. Zoom F3는 32비트 정밀도의 2 채널 녹음, 앱 기반 원격 제어 및 내장 USB 오디오 인터페이스가 특징인 제품이다.32비트 녹음은 최대 192..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19168/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천연 코르크로 만든 카메라 스트랩, Szelma]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19166#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
@@ -77,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19144#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보통 무선 이어 버드에서 음질이나 다른 기능도 중요하지만 배터리의 성능도 큰 고려사항 중 하나다. 오늘 소개할 오디오 테크니카의 새로운 무선 이어 버드는 배터리 케이스를 제외하더라도 이어 버드 단독으로 20..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19144/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 호라이즌 포비든 웨스트 툴넥 출시예정]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19009#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 제품의 디자인을 하는 것으로 유명한 포르쉐디자인에서 이번에는 자사 최초로 무선 이어 버드를 출시한다. PDT60은 포르쉐디자인 특유의 다소 날카로우면서 차갑고 모던한 디자인을 잘 보여주고 있다.PDT60은..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo, USB Wireless Adapter 2 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19008#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19008#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임 관련 각종 액세서리를 출시하는 8Bitdo에서 새로운 USB 무선 어댑터를 출시했다. USB Wireless Adapter 2는 기존의 어댑터와 완전하게 동일한 형태지만 몇 가지 사양들이 달라진 형태다.기존에 8Bitdo에서는 두..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

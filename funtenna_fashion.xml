@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 09:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재활용 플라스틱으로 만든 컨버터블 토트백]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19169#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19169#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[킥스타터에서 펀딩 중인 que라는 가방은 토트백, 백팩, 숄더백으로 변형 가능한 가방이다. 또한 이 가방은 친환경적인 방법으로 제작되었다.이 가방은 총 35개의 재활용 플라스틱병으로 제작된 제품이다. 평소에 재..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19169/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼 슬림 모듈식 지갑, MagSnap Wallet]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19158#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19101#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[테크 웨어로 유명한 아크로님이 다시 한번 나이키와의 협업을 진행한다. 대상 모델은 우리에게 익숙한 블레이저 로우이며 단순히 테크 웨어적인 면을 뛰어넘어 상당히 도전적인 디자인이 눈에 띄는 신발이다.일단 힐..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19101/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저 X Cariuma 스니커 출시]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18810#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우노라는 게임을 많이들 알고 계신지 모르겠다. 필자는 어렸을 때 친구가 가져와서 룰을 배우고 재밌게 했던 기억이 있는 게임이다. 대부분은 보드게임에 입문하면서 접하셨을 수도 있겠다. 우리가 트럼프 카드로 즐..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nigel Cabourn x Vans, 빈티지 밀리터리의 정석]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18805#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18805#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라에서 밀리터리 룩은 꽤나 호불호가 있는 분야다. 그도 그럴 것이 징병제 국가인 대한민국에서 좋든 싫든 군복을 2년 가까이 입어야 하기 때문에 제대 뒤에 카모 쪽은 쳐다도 보지 않는 사람들이 꽤 많기 때..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
