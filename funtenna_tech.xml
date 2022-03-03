@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.funshop.co.kr/Story/FuntennaList#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
     <title>펀샵 ─ 펀테나 ─ 미래기술</title>
-    <updated>2022-03-03T09:13:07.077Z</updated>
+    <updated>2022-03-03T15:12:55.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
     <entry>
@@ -39,12 +39,5 @@
         <link href="https://www.funshop.co.kr/Story/FuntennaView/18726#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
         <updated>2021-09-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[우주개발이나 여행에 관한 관심이 갈수록 늘어가고 있는 요즘이다. 사람들은 각종 전염병과 기후의 변화로 인해 우리가 누리고 있는 지구의 환경이 영원하지 않는다는 것을 본능적으로 체감 중이고 자연스럽게 시선..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자체 추진 전기 트레일러, 트레일러 덕]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18699#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18699#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
-        <updated>2021-09-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[친환경을 위해 내연 자동차는 점점 사라지고 전기자동차, 전기 자전거등이 그 뒤를 이어 계속 출시가 되고 있다. 이동수단으로는 전기자전거도 훌륭한 대안이 되긴 한다. 하지만 전기자전거를 운송수단으로 사용할 ..]]></content>
     </entry>
 </feed>

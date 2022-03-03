@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 09:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 15:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자석으로 편하게, 매그나후디]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19173#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19173#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[현재 킥스타터에서 펀딩 중인 매그나 후디는 겉보기엔 일반적인 후디와 별 차이가 없는 것처럼 생겼다. 하지만 이름에서도 알 수 일듯 중요한 디테일이 하나 숨겨져 있는 후디다.보통 스트링이나 버튼 혹은 단추 등..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19173/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재활용 플라스틱으로 만든 컨버터블 토트백]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19169#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19113#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에어포스원은 나이키를 대표하는 아이코닉한 신발 중에 하나다. 전 세계적으로 인기가 있는 스니커즈인 만큼 수많은 베리에이션이 1982년 이후로 이루어졌었다. 오늘 소개할 에어포스원 또한 그런 베리에이션중에 하..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19113/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아크로님 X 나이키, 블레이저 로우 출시예정]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18813#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[20일에 열린 삼성 갤럭시 언팩 파트 2 행사에서 갤럭시 워치 4, 버즈 2의 협업 내용이 공개되었다. 협업 대상 브랜드는 메종 키츠네로 여우 로고로 잘 알려진 패션 브랜드이자 음반 레이블인 브랜드다.메종 키츠네 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, UNO 50주년 기념 에어포스원 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18810#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18810#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우노라는 게임을 많이들 알고 계신지 모르겠다. 필자는 어렸을 때 친구가 가져와서 룰을 배우고 재밌게 했던 기억이 있는 게임이다. 대부분은 보드게임에 입문하면서 접하셨을 수도 있겠다. 우리가 트럼프 카드로 즐..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
