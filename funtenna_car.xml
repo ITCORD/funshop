@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 09:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 15:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19031#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[벤츠에서 마치 돌고래를 연상케 하는 날렵한 유선형의 콘셉트카를 공개했다. EQXX라고 명명된 이 콘셉트카는 한번 완충에 무려 620마일, 약 997km를 운행할 수 있다고 한다. 이는 테슬라의 모델 S 롱 레인지 버전보..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19031/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대자동차가 생각하는 지속가능성]]></title>
@@ -85,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19019#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능성은 당장의 문제가 되어버린 환경보호에 대한 핵심 키워드가 되어가고 있다. 어떤 물건이 가지고 있는 가치를 모두 소진한 뒤에도 또 다른 가치로 환산되어 다른 임무를 수행할 수 있는 것, 사람들은 이제 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19019/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굳이어, 전기자동차에 최적화된 타이어 공개]]></title>
@@ -301,14 +301,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18704#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기름 냄새 물씬 풍기는 대표적인 마초 느낌의 자동차 지바겐. 사실 전기차로는 절대 어울릴 것 같지 않은 이 지바겐 조차도 시대의 흐름을 거스르지는 못하는 것 같다. 벤츠에서 지바겐을 기반으로 한 콘셉트카 EQG..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐, 차세대 보급형 전기 콘셉트카 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18702#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18702#page=1&amp;categoryNo=1&amp;order=0&amp;keyword=</guid>
-            <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[폭스바겐이 미래의 ID를 공개했다. 2만 유로의 가격을 목표로 하는 보급형 전기자동차다. LIFE라는 이름의 콘셉트카는 지속가능성과 디지털화를 대비하는 설계를 가진 자동차라고 한다.일단 콘셉트카이긴 하지만 먼..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
