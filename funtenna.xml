@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 09:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 15:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Razor, Icon 전기 스쿠터 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19177#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19177#page=1</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Razor라는 브랜드를 많이 아시는지 모르겠다. 개인적으로는 20여 년 전 대학을 다닐 때 자취생들이 자주 이 브랜드의 킥보드를 타고 다녔던 기억이 난다. 자취방에서 대학교까지는 오르막이었지만 하굣길은 내리막이..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19177/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dayoo, 스마트 키친 스팀 청소기 & 식기 세척기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19176#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19176#page=1</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인디고고에서 주방에서 그리고 가정생활에서 유용할만한 제품을 펀딩 중이다. Dayoo라는 회사의 스마트 키친 스팀 청소기 &amp; 식기 세척기는 스팀이라는 기본적인 기능을 다양한 방법으로 활용할 수 있도록 제작한..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19176/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HONOR, Earbuds 3 Pro 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19175#page=1</link>
@@ -389,22 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19126#page=1</guid>
             <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엘가토에서 새로운 휴대용 LED 라이트를 출시한다. 키 라이트 미니는 기존 엘가토에서 출시했던 키 라이트의 작은 버전이다. 800 루멘의 밝은 LED 카메라용 조명이며 휴대성이 뛰어나 다양한 곳에서의 활용이 가능하..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리언웨어 x14 게이밍 노트북 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19125#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19125#page=1</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[델의 고성능 게이밍 PC 브랜드인 에일리언웨어에서 새로운 노트북을 출시한다. X14라는 이 노트북은 게이밍을 위한 성능을 가지고 있으면서도 에일리언웨어의 역대 노트북 중 가장 얇은 두께를 자랑한다.이 노트북의..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fanttik, 299Wh의 EVO 300 파워 스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19124#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19124#page=1</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Fanttik이라는 브랜드에서 대용량의 휴대용 파워스테이션을 출시한다. EVO 300이라는 이 파워 스테이션은 다양한 휴대용 기기에 전원을 제공할 수 있는 299Wh 충전식 배터리 팩이 장착되어 어디서든 충전을 할 수 있..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
