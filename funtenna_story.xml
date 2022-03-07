@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#301. 질주 본능을 굿즈에 담다]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/899#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/899#page=1</guid>
+            <pubDate>Mon, 07 Mar 2022 03:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 07일 월요일 펀샵 오에보 소식입니다.
+01.&nbsp;유서울 사진작가 포토 터프 핸드폰 케이스
+사진작품이 한정된 공간에만 공개되고 많은 사람과 함께하지 못함을 아쉬워한 한 사진작가가 있습니다. 자신..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/899/thumbnail_1.jpg?1646644893153" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Upcoming Brooklyn Works! 기어백]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/897#page=1</link>
@@ -15,7 +25,7 @@
             <content:encoded><![CDATA[Upcoming Brooklyn Works! 기어백
 2022년 봄 마지막 출시 예정인 제품, 기어백을 소개합니다.
 기어백은 캠핑 가방을 넘어 카메라, 드론과 같은 장비 수납, 트렁크 정리함 등 일상생활 속 여러 상황에 맞게 사용할 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/897/thumbnail_1.jpg?1646416959790" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브랜드] Aesop을 사랑하는 당신에게.]]></title>
@@ -35,7 +45,7 @@
             <content:encoded><![CDATA[2022년 3월 04일 금요일 펀샵 오에보 소식입니다.
 01. [한정수량] 오메가 시계 10종 모음
 명품 시계라고 하면 가장 먼저 떠오르는 브랜드가 있나요? 이 브랜드는 무려 174년이라는 시간 동안 퀄리티와 고객 만족도..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/895/thumbnail_1.jpg?1646384712537" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Upcoming Brooklyn Works! 팝업 쿨러백]]></title>
@@ -67,7 +77,7 @@ STORY
 기분 좋은 3월이네요!
 이제 슬슬 봄이 오고 있고
 두큰두큰 설렘설렘&nbsp;(*˚ ˘˚*)σ]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/891/thumbnail_1.jpg?1646307182323" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#299. 구강관리의 개념을 새롭게]]></title>
@@ -470,15 +480,6 @@ CheerPod 멀티 마우스 / 텔로 타워 멀티탭 12구 / 17구 / 니들 두�
             <content:encoded><![CDATA[2022년 1월 21일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;강화유리 크롬 프레임 오피스 테이블
 강화유리와 크롬 소재로만 제작된 오피스 테이블입니다. 어디에 배치해도 어울리는 심플하고 심미적인 디자인과 더..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#274. 빠져드는 엄청난 중독성]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/796#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/796#page=1</guid>
-            <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 20일 목요일 펀샵 오에보 소식입니다.
-01. [프딩] GIIKER 휴대용 게임기숏폼 동영상 플랫폼에서 유명해진 제품이 있습니다. 바로 giiker라는 제품입니다.  단순한 게임기인데, 상당한 중독성을 가지고 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
