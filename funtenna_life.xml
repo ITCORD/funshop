@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OCTO Titanium, 18 in 1 멀티툴 카라비너]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19190#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19190#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[펀딩 사이트에서 가장 많이 올라오는 제품군중에 하나를 뽑으라면 바로 멀티 툴일 것이다. 정말 수많은 기능을 가진 멀티 툴들이 등장하곤 하는데 오늘 소개할 멀티 툴은 대형 카라비너 모양의 18가지 기능을 탑재한..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19190/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Steamery, Pilo No.2 보풀제거기]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19178#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19107#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[음악을 제대로 된소리로 감상하기 위해선 좋은 스피커, 좋은 앰프 등 다양한 요소들이 필요하다. 하지만 스피커로 감상 시 중요한 것을 단 하나만 말해보라 하면 단연코 공간과 그 공간음을 제어하는 룸 어쿠스틱이..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19107/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사라 하야트 디자인, 테트리스 모듈러 소파]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18781#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보온병으로 유명한 써모스에서 나온지는 꽤 되었지만 재밌는 상품이 있어 소개한다. 밥이 지어지는 도시락이라고 하는 이 제품은 오전에 쌀과 물을 넣고 전자레인지에 돌린 뒤 밀봉하면 점심시간 때 갓 지은 따끈한 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[척추뼈를 닮은 의자, 쿠거의 터미네이터]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18771#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18771#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[컴퓨터 주변기기를 생산하는 쿠거에서 딱 봐도 어마어마해 보이는 의자를 공개했다. 어마어마한 외관만큼이나 잘 어울리는 이 의자의 이름은 바로 터미네이터. 그야말로 요추를 지지해주겠다는 의지가 외관으로 뿜어..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
