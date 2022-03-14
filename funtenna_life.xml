@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 09:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 15:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고라파덕 물뿌리개 찻주전자]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19196#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19196#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포켓몬스터는 관련 상품만 해도 정말 엄청나게 다양한 것으로 유명하다. 오늘 소개할 제품은 포켓몬스터에서 인기 캐릭터 중 하나인 고라파덕의 모양을 한 찻주전자다. 그런데 이 주전자의 가격이 무려 한화로 약 14..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19196/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OCTO Titanium, 18 in 1 멀티툴 카라비너]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19190#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19112#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[단순한 클립으로 보이는 이 제품은 생각보다 다양한 활용법이 있는 다목적 클립이다. 현재 킥스타터에서 펀딩 중인 CLIPIT 2.0은 머니클립, 마그넷을 이용한 고정, 밴드를 이용한 수납 등 다양한 기능을 가지고 있다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19112/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 모듈식 음향패널, Foresta System]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18783#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스웨덴의 가구 브랜드 이케아와 에이수스의 게이밍 전문 브랜드 ROG의 디자인 합작으로 이케아 게이밍 가구 라인업이 출시되었다. 최근 시국으로 인해 집에서 여가로 게이밍을 즐기는 인구가 급증한 가운데 보다 저..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[써모스의 밥이 지어지는 도시락]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18781#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18781#page=1&amp;categoryNo=3&amp;order=0&amp;keyword=</guid>
-            <pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보온병으로 유명한 써모스에서 나온지는 꽤 되었지만 재밌는 상품이 있어 소개한다. 밥이 지어지는 도시락이라고 하는 이 제품은 오전에 쌀과 물을 넣고 전자레인지에 돌린 뒤 밀봉하면 점심시간 때 갓 지은 따끈한 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
