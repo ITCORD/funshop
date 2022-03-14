@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.funshop.co.kr/Story/FuntennaList#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
     <title>펀샵 ─ 펀테나 ─ 미래기술</title>
-    <updated>2022-03-13T15:12:53.232Z</updated>
+    <updated>2022-03-14T03:15:10.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
     <entry>
@@ -32,12 +32,5 @@
         <link href="https://www.funshop.co.kr/Story/FuntennaView/18962#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
         <updated>2021-12-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[최근 들어 많은 이어 버드가 출시하고 있는 가운데 초창기 출시되었던 이어 버드보다는 그 크기가 많이 작아진 것이 사실이다. 하지만 더 많은 기능 그리고 음질 등을 신경 쓰려면 작은 크기 안에 많은 것을 더 담아..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간의 혈액과 오줌으로 만드는 우주건물]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18726#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18726#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
-        <updated>2021-09-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[우주개발이나 여행에 관한 관심이 갈수록 늘어가고 있는 요즘이다. 사람들은 각종 전염병과 기후의 변화로 인해 우리가 누리고 있는 지구의 환경이 영원하지 않는다는 것을 본능적으로 체감 중이고 자연스럽게 시선..]]></content>
     </entry>
 </feed>
