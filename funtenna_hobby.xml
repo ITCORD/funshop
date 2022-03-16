@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 09:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 15:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가젯 청소패드, WaterBear]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19201#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19201#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[킥스타터에서 재밌는 패드 하나를 펀딩 중이다. 이 패드에는 지구에서 가장 생존력이 뛰어난 것으로 알려진 동물 물곰이 그려져 있으며 사진기의 렌즈나 액정들을 닦는 용도의 패드다.이 패드는 어디든 붙일 수 있고..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19201/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8BitDo, 최초의 Xbox 스타일 컨트롤러 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19197#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19168#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[각종 레코딩 관련 기기를 생산하는 ZOOM에서 새로운 필드 레코더를 출시한다. Zoom F3는 32비트 정밀도의 2 채널 녹음, 앱 기반 원격 제어 및 내장 USB 오디오 인터페이스가 특징인 제품이다.32비트 녹음은 최대 192..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19168/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천연 코르크로 만든 카메라 스트랩, Szelma]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19044#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈어가 새로운 노이즈 캔슬링 헤드폰인 Shure Aonic 40을 출시했다. Aonic 40은 휴대를 편리하게 할 수 있도록 설계가 되어 있으며 다양한 기능을 탑재하고 있다.이런 식으로 접히는 헤드폰은 대부분 예전에 DJ들의 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 레빈슨, 무선헤드폰 No.5909 발표]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19041#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19041#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이엔드 오디오의 대표주자이자 감히 따라갈 수 없는 품질로 최고의 엠프를 제작하는 것으로 명성이 높은 마크레빈슨에서 다소 뜬금없을 수도 있는 제품이 출시된다. No.5909는 엠프와 턴테이블 그리고 하이엔드 오..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
