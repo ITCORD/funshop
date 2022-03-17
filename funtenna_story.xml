@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 15:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 03:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#308. 환상을 당신의 눈앞에서]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/915#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/915#page=1</guid>
+            <pubDate>Thu, 17 Mar 2022 03:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 17일 목요일 펀샵 오에보 소식입니다.
+01. ROTO VR 시뮬레이션 체어&nbsp;
+당시에는 멀게만 느껴졌던 기술들이 있었습니다. 오늘날 대중에 상용화가 이루어진 전기차가 대표적인 예죠. 한때는 스마..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/915/thumbnail_1.jpg?1647508246977" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#307. 살아 숨 쉬는 조명]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/912#page=1</link>
@@ -110,7 +120,7 @@ Q. ..]]></content:encoded>
             <guid>https://www.funshop.co.kr/Story/StoryView/901#page=1</guid>
             <pubDate>Mon, 07 Mar 2022 15:12:34 GMT</pubDate>
             <content:encoded><![CDATA[인도어, 아웃도어 어디서나 남다른 감성과 실용성을 선보이는 브루클린웍스의 봄시즌 상품을 미리 스포일러 합니다.아래 상품들을 확인해주시고, 제품오픈 소식을 누구보다 빠르게 받아보세요!&nbsp;&nbsp;01. 캠핑..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/901/thumbnail_1.png?1646680441330" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#301. 질주 본능을 굿즈에 담다]]></title>
@@ -487,15 +497,6 @@ editor 권아리
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 03일 목요일 펀샵 오에보 소식입니다.
 01. [프딩] TOSY 얼티밋 메이트 디스크&amp;부메랑원반 던지기는 우리나라보다는 외국에서 주로 많이 즐기는 놀이입니다. 원반을 던질 수 있는 넓은 광장이 많은 지역..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#280. 바벨+덤벨 = 최상의 효과]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/845#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/845#page=1</guid>
-            <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 28일 금요일 펀샵 오에보 소식입니다.
-01.&nbsp;25kg 무게조절 덤바벨 세트바벨 혹은 덤벨. 어떤 운동이 나에게 잘 맞을까요? 정답은 둘다입니다. 각 운동기구는 자극을 주는 부위가 달라서 함께 이용하..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
