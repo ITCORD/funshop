@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 09:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 15:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레트로 아미가 마우스, Tank Mouse]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19212#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19212#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[킥스타터에서 재밌는 마우스 하나를 펀딩 중이다. 이 마우스는 진짜 옛날 옛적 마우스 디자인으로 레트로 향취를 물씬 풍기는 마우스다.보시는 분들의 연배가 어찌 될는지는 정확히 모르지만 이 제품은 코모도의 아..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19212/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AMR5, 저소음 AMD 4500U 미니 PC]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19208#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
@@ -61,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19186#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 조립 PC를 만들기 힘든 상황인 것이 사실이다. 가격이 널뛰는 그래픽카드 때문에 오히려 평소에는 인기가 없었던 브랜드의 완본체가 주목을 받고 인기가 생긴 지도 꽤 많은 시간이 흐른 것 같다. 오늘 소개할 P..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19186/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디스플레이가 달린 SSD 케이스, DOCKCASE]]></title>
@@ -77,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19182#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 랩탑 사용자가 많아지기도 했고 USB-C, 썬더볼트로의 전환이 이루어지고 있는 시대라 허브나 도킹스테이션의 사용도가 늘어났으며 그만큼 다양한 제품들이 시장에 출시되었다. 하지만 원하는 기능을 전부 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19182/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lexon의 Oslo Energy+ 3-in-1 블루투스 무선 충전기]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19056#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에이수스는 CES에서 애니메이션 기계식 키보드인 Asus ROG Strix Flare II Animate를 발표했다. 이 키보드는 높은 폴링 속도와 더불어 프리미엄 게임 키보드에서 볼 수 있는 트렌디한 사양을 많이 가지고 있다.이 키..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hella Switch, 기계식 토글 스위치 USB 허브]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19052#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19052#page=1&amp;categoryNo=2&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시대가 시대인만큼 모든 것이 터치로 바뀌어가는 와중에도 손에 걸리는 감각과 무게감을 느끼게 해주는 물리 버튼과 스위치는 그것만의 로망을 가지고 있고 또 아직도 수요가 있다. 필자도 개인적으로 사용하는 오디..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
