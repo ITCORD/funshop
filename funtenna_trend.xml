@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 03:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼 닌텐도 월드, 내년 헐리웃에서 오픈]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19215#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19215#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[닌텐도의 각종 캐릭터들을 이용한 테마파크, 슈퍼 닌텐도 월드가 내년 할리우드에서 오픈한다는 소식이다. 일정이 발표된 만큼 파크의 건설은 거의 마무리에 가까워졌다는 의견이 많다.마리오 카트나 요시 라이드 등..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19215/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오비완 케노비, 새로운 예고편 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19209#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18946#page=1&amp;categoryNo=5&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[철인 28호 하면 어떤 버전을 떠올리시는지 모르겠다. 원조 철인은 국내에서 많이 알려지지 않아서 사실 제대로 즐긴 세대가 전무하고 굳이 나누자면 태양의 사자 버전 철인 28호와 그 후에 등장한 철인 28호 FX가 있..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/037/18946/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NFT 비주얼 신디사이저, Synth#boi]]></title>
