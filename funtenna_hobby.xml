@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 09:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OB-4, Off White와의 협업제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19216#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19216#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[OP-1으로 대변되던 스웨덴의 독특한 악기 제작사이자 최근에는 그들의 특유의 디자인을 이용하여 범위를 확장해나가고 있는 Teenage Engineering이 Off-White와 협업을 진행했다. 제품은 매직 라디오라고도 불리는 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19216/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게이머를 위한 이어버드, Waveform]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19211#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19179#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[샤오미의 제품을 제작해주는 OEM 회사에서 최근에는 다양한 히트상품들로 어찌 보면 더 주목을 받는 HOTO라는 브랜드가 있다. 이번에 소개하려는 제품은 HOTO에서 제작한 타이어 공기 주입기다.사실 OEM 회사였기도 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19179/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HONOR, Earbuds 3 Pro 출시]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19057#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[킥스타터에서 닌텐도 스위치와 새로 출시된 OLED 버전을 위한 케이스를 펀딩 중이다. G 케이스는 교체 가능한 그립, 모듈식 배터리, 분리 가능한 Joy-Con 케이스, 추가 카드 저장 공간 등 스위치에 다양한 기능들을 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테크닉스의 프리미엄 네트워크 CD 리시버, SA-C600]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19053#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19053#page=1&amp;categoryNo=8&amp;order=0&amp;keyword=</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[분명 엊그제 까지만 해도 CD플레이어에 레코드샵에서 산 CD를 담아 들으며 즐거워했던 것 같은데 이제는 물리적인 음악 매체는 거의 사라졌다고 보는 것이 맞는 요즘이다. 하지만 아직도 음악 애호가들은 CD를 모으..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

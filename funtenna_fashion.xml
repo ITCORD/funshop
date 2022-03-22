@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 09:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Print X, 휴대성과 확장성을 가진 프린터]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19217#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19217#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[킥스타터에서 재밌는 프린터 하나를 펀딩 중이다. Print X는 포터블 한 크기를 가진 프린터이며 다양한 변신을 통해 프린팅이라는 분야에서 할 수 있을법한 거의 모든 일들을 할 수 있도록 제작되었다.기본적으로는 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19217/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jacob & Co.의 브루스웨인을 위한 시계]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19210#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19158#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지갑은 항상 들고 다녀야 되지만 누구나 뚱뚱한 지갑을 원하지는 않을 것이다. 오늘 소개할 MagSnap Wallet은 얇은 두께를 가지고 있으면서도 추가하고 싶다면 해당 기능을 가진 모듈을 추가해 사용 가능한 모듈식 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19158/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[착용후에도 편한 움직임, 언차티드 파크 팩]]></title>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19119#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[킥스타터에서 스위스에서 만든 오토매틱 와인딩 시계를 하나 펀딩 중이다. 1545-01이라는 다소 낯선 숫자로만 된 이름을 가진 이 시계는 공군과 전투기에서 영감을 받은 시계라고 한다.1545라는 브랜드명은 스위스 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19119/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스, 벡티브 패스트팩 퓨처라이트 출시]]></title>
@@ -397,14 +405,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/18827#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
             <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[개인적으로 칼하트의 옷을 즐겨 입는 편이다. 워크웨어라는 장르의 특수성 때문에 튼튼하다는 이미지도 있고 다양한 스타일의 의류와 액세서리 그리고 다른 브랜드와의 적극적인 협업이 그 이유다. 다양한 브랜드와..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어페니1 홈컬러 2022년 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/18818#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/18818#page=1&amp;categoryNo=7&amp;order=0&amp;keyword=</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[90년대는 그야말로 NBA의 부흥기라고 해도 과언이 아닐 정도였다. 당시 국민학생이었던 필자도 팔자에도 없는 영문 방송 AFKN을 틀어놓고 NBA 중계를 감상했었다. 당시 조던을 필두로 한 시카고 불스의 인기가 역시 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
