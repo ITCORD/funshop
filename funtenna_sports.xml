@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 15:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 데스스타 참호 돌파 디오라마 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19225#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19225#</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타워즈 팬이라면 누구나 기억하는 그 명장면]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19225/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Sonic the Hedgehog 2" Xbox 컨트롤러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19224#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19224#</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[만우절........아니지?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19224/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르쿠르제, 빵 오븐 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19223#</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어 폴더 기능이!!!...........어..좀 애매한데?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19218/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Print X, 휴대성과 확장성을 가진 프린터]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19217#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19217#</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 변신이 가능한 만능 프린터]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19217/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OB-4, Off White와의 협업제품 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19216#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19216#</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[점차 협업의 범위를 확장해가는 Teenage Engineering]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19216/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
