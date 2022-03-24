@@ -1,36 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.funshop.co.kr/Story/FuntennaList#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-    <title>펀샵 ─ 펀테나 ─ 미래기술</title>
-    <updated>2022-03-23T15:19:23.122Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.funshop.co.kr/Story/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Nuro의 자율주행 배달로봇 3세대 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19061#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19061#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
-        <updated>2022-01-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Nuro가 대중에 소개된 지 꽤 많은 시간이 흘렀다. 다양한 곳에서 자율주행 로봇들이 테스트를 거쳤고 이제 사용화가 가까워져 온 느낌이 들었는데 그에 맞춰서 3세대 자율주행 로봇이 등장했다. 이번 3세대는 전세대..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최대 우주망원경 제임스 웹 발사 성공]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/19000#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/19000#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[나사가 100억 달러, 한화로 약 11조 가량을 투자 해서 만든 인류 최대 우주망원경 제임스 웹이 크리스마스인 25일에 발사되었다. 1960년대 아폴로 프로그램을 성공적으로 진행시킨 인물의 이름을 딴 이 망원경은 아..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대, 소형 모빌리티 플랫폼 MobED 공개]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18980#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18980#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
-        <updated>2021-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[현대가 보스턴 다이내믹스를 인수하면서 과연 어떤 행보를 보일까 궁금했는데 그 첫걸음으로 보이는 플랫폼이 등장한 것 같다. 모베드라고 불리는 이 기기는 첨단 로보틱스 기술이 집약된 신개념 소형 모빌리티 플랫..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무선 이어버드를 위한 실리콘 칩 스피커]]></title>
-        <id>https://www.funshop.co.kr/Story/FuntennaView/18962#page=1&amp;categoryNo=6&amp;order=0&amp;keyword=</id>
-        <link href="https://www.funshop.co.kr/Story/FuntennaView/18962#page=1&amp;categoryNo=6&amp;order=0&amp;keyword="/>
-        <updated>2021-12-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 들어 많은 이어 버드가 출시하고 있는 가운데 초창기 출시되었던 이어 버드보다는 그 크기가 많이 작아진 것이 사실이다. 하지만 더 많은 기능 그리고 음질 등을 신경 쓰려면 작은 크기 안에 많은 것을 더 담아..]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>펀샵 ─ 펀테나 ─ 미래기술</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 24 Mar 2022 03:22:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르쿠르제, 빵 오븐 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19223#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19223#</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[응...? 냄비 같은데...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19223/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 드로리안 타임머신 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19222#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19222#</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아니..3대를 사야 되잖아......]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19222/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불가리, 세계에서 가장 얇은 기계식 시계 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19221#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19221#</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이 종잇장 같은게 기계식 시계라고??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19221/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리복, 파워레인저 빌런 콜렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19220#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19220#</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크으...리타 아줌마!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19220/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M-Audio, BX3BT, BX4BT 모니터 스피커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19219#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19219#</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[엠오디오가 블루투스라니!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19219/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닌텐도 스위치, 시스템 업데이트 14.0.0 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19218#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19218#</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 폴더 기능이!!!...........어..좀 애매한데?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19218/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Print X, 휴대성과 확장성을 가진 프린터]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19217#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19217#</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 변신이 가능한 만능 프린터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19217/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OB-4, Off White와의 협업제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19216#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19216#</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[점차 협업의 범위를 확장해가는 Teenage Engineering]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19216/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

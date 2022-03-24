@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 15:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#313. 굳은 후에도 유연함 유지]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/931#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/931#page=1</guid>
+            <pubDate>Thu, 24 Mar 2022 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 24일 목요일 펀샵 오에보 소식입니다.
+01.&nbsp;[프딩] 록타이트 킨츠글루 화이트마치 클레이 점토처럼 원하는 모양을 만든 후, 시간이 지나면 정교하게 굳어져 파손된 부위를 간단하게 수리할 수 있는 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#312. 저금할 맛 나네]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/926#page=1</link>
@@ -25,7 +34,7 @@
             <content:encoded><![CDATA[2022년 3월 22일 화요일 펀샵 오에보 소식입니다.
 01.&nbsp;[브루클린웍스]&nbsp;스틸 탑 플레이트
 브루클린웍스의 철제상판은 단순 수납박스나 단독 테이블로 활용하던 제트박스의 활용도를 극대화 해 줄 제..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/924/thumbnail_1.jpg?1647939231723" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#310. 때깔부터 다른 가벼운 헤드셋]]></title>
@@ -55,7 +64,7 @@ UPERGO 멀티 플로우 스탠드
 종료일 22.03.31
 발송예정일 22.04.25
 프로젝트 비하..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/920/thumbnail_1.jpg?1647618049483" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고기상 이벤트] 과연 행운의 골든티켓 주인공은?]]></title>
@@ -65,7 +74,7 @@ UPERGO 멀티 플로우 스탠드
             <content:encoded><![CDATA[STORY
 황금범이티켓을 잡아라!
 안녕하세요! 권아리 에디터입니다 오늘 함께 오픈한 '고기상'의 소고기와 돼지고기, 양대창이 오픈되었습니다! 고기상 브랜드에서 고기를 구매하시는 3분을 추첨하여 고기상에서 오..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/919/thumbnail_1.jpg?1647940479593" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#309. 화산암의 재발견]]></title>
@@ -491,19 +500,6 @@ STORY
             <guid>https://www.funshop.co.kr/Story/StoryView/859#page=1</guid>
             <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
             <content:encoded><![CDATA[예로부터 우리나라는 음력을 중심으로 대표적인 명절이 많았다.&nbsp; 음력 1월 1일&nbsp;설날에는 떡국을 해 먹으며, 음력 5월 5일&nbsp;단오에는 씨름을 하거나 그네를 탔고, 음력 8월 15일&nbsp;추석에는 송편을 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에디터 찐추천] 에디터가 찐으로 추천하는 푸드 BEST 3]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/858#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/858#page=1</guid>
-            <pubDate>Wed, 16 Feb 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[할인기간 :&nbsp;~ 2/20(일) 24:00까지
-이상으로 푸드엠디와 에디터가 선정한 찐푸드 모음이었습니다!
-다음에도 에디터가 정말 찐으로 추천하는 제품들로 만나요~!
-&nbsp;
-editor 권아리
-" 갑자기 배가고프넹....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
