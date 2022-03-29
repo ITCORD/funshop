@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 15:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#316. 여러 의미로 참 시원한 좌석]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/941#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/941#page=1</guid>
+            <pubDate>Tue, 29 Mar 2022 03:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 29일 화요일 펀샵 오에보 소식입니다.
+01.[프딩] 사계절용 쿨링/온열 안마 시트 안마와 쿨링 기능이 선사하는 쾌적함보다도 졸음운전 방지를 위한 진동 기능에 더욱 큰 의미를 두고 싶었던 3in1 다기능 ..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/941/thumbnail_1.jpg?1648555097030" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 3월 셋째 주 소식]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/939#page=1</link>
@@ -76,7 +85,7 @@ Q. ..]]></content:encoded>
             <content:encoded><![CDATA[2022년 3월 23일 수요일 펀샵 오에보 소식입니다.
 ﻿﻿
 01.&nbsp;트랜스포머 말하는 저금통저금통, 참 오랜만에 소개해 드리는 것 같습니다. 요새는 현금을 많이 사용하지 않기 때문에 동전 보기가 예전보다 힘들어..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/926/thumbnail_1.jpg?1648025415140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#311. 나만의 모듈 테이블 완성!]]></title>
@@ -86,7 +95,7 @@ Q. ..]]></content:encoded>
             <content:encoded><![CDATA[2022년 3월 22일 화요일 펀샵 오에보 소식입니다.
 01.&nbsp;[브루클린웍스]&nbsp;스틸 탑 플레이트
 브루클린웍스의 철제상판은 단순 수납박스나 단독 테이블로 활용하던 제트박스의 활용도를 극대화 해 줄 제..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/924/thumbnail_1.jpg?1647939231723" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#310. 때깔부터 다른 가벼운 헤드셋]]></title>
@@ -497,15 +506,6 @@ STORY
 8Bitdo,&nbsp;
 컨트롤러에 진심인 브랜드
 펀샵을 오랫동안 이용해 보신 분들이라면 8BitDo라는 브랜드가 익숙할 거라 생각한다. 8BitDo는 컨트롤러 관련 서드파티 컨트롤러 제작 회사이다. 홍콩의 최..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#290. 아이패드를 맥북처럼]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/866#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/866#page=1</guid>
-            <pubDate>Thu, 17 Feb 2022 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 17일 목요일 펀샵 오에보 소식입니다.
-01.&nbsp;[프딩] 11인치 마그네틱 블루투스 키보드글쓰기를 좋아한다면 이 제품은 꼭 필요할 듯합니다. 에디터 역시 글쓰기를 좋아해서 여러 패드 전용 키보드를 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
