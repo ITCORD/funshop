@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nothing, Phone(1) 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19235#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19235#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ear(1)과 마찬가지로 투명한 디자인.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19235/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 스마트 모니터 M8 신규 색상 3종 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19234#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19234#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아..아이맥?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19234/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아스텔앤컨 최초의 무선이어버드, AK UW100]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19233#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19233#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아스텔앤컨이 드디어 무선시장도?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19233/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다양한 기능의 러기드폰, DOOGEE S98]]></title>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19232#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[집어 던져도 될듯한 외관..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19232/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[WALLGANIZE, 창의적인 벽공간 활용]]></title>
@@ -29,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19231#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 착착]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19231/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Tech21, 맥북프로 하드쉘 케이스 출시]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[휴대성의 극대화, DAYFAER Active Sling]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19227#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19227#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[운동이나 간단한 외출시에 적당한 슬링백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19227/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 스피커 겸 램프 Vappeby 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19226#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19226#</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이케아스러운 깔끔한 디자인과 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
