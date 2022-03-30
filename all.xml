@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 15:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19235#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19235#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ear(1)과 마찬가지로 투명한 디자인.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 스마트 모니터 M8 신규 색상 3종 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19234#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19234#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아..아이맥?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아스텔앤컨 최초의 무선이어버드, AK UW100 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19233#</link>
@@ -37,39 +69,39 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19230#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노트북을 험하게 다룬다면...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19235#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19235#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ear(1)과 마찬가지로 투명한 디자인.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴대성의 극대화, DAYFAER Active Sling (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19227#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19227#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[운동이나 간단한 외출시에 적당한 슬링백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19227/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 스피커 겸 램프 Vappeby 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19226#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19226#</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이케아스러운 깔끔한 디자인과 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[삼성전자, 스마트 모니터 M8 신규 색상 3종 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19234#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19234#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아..아이맥?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19234/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아스텔앤컨 최초의 무선이어버드, AK UW100 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -104,36 +136,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴대성의 극대화, DAYFAER Active Sling (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19227#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19227#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[운동이나 간단한 외출시에 적당한 슬링백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19227/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 스피커 겸 램프 Vappeby 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19226#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19226#</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이케아스러운 깔끔한 디자인과 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -141,7 +157,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19235#</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ear(1)과 마찬가지로 투명한 디자인.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19235/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 스마트 모니터 M8 신규 색상 3종 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -157,7 +173,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19233#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아스텔앤컨이 드디어 무선시장도?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19233/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다양한 기능의 러기드폰, DOOGEE S98 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -165,7 +181,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19232#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[집어 던져도 될듯한 외관..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19232/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WALLGANIZE, 창의적인 벽공간 활용 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -173,7 +189,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19231#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 착착]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19231/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech21, 맥북프로 하드쉘 케이스 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -184,20 +200,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19229/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -205,7 +221,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19235#</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ear(1)과 마찬가지로 투명한 디자인.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19235/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 스마트 모니터 M8 신규 색상 3종 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -221,7 +237,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19233#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아스텔앤컨이 드디어 무선시장도?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19233/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다양한 기능의 러기드폰, DOOGEE S98 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -229,7 +245,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19232#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[집어 던져도 될듯한 외관..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19232/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WALLGANIZE, 창의적인 벽공간 활용 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -237,7 +253,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19231#</guid>
             <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 착착]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19231/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech21, 맥북프로 하드쉘 케이스 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -248,20 +264,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19229/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -312,20 +328,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19229/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -376,20 +392,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19229/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -440,20 +456,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19229/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[Ampler, 2세대 전기자전거 라인업 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19236#</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거도 참 매력적인데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Phone(1) 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -504,20 +520,13 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19230/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[콜맨, 원소스 캠핑 샤워 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19229#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원소스 배터리로 윤택해지는 캠핑환경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19229/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폴라로이드 X 나이키, SB 덩크 로우 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19228#</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덩크의 열기는 언제 끝날까]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19228/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[#317. 개인정보를 지키는 방법 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/942#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/942#page=1</guid>
+            <pubDate>Wed, 30 Mar 2022 03:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 30일 수요일 펀샵 오에보 소식입니다.
+01.&nbsp;개인정보 안심서비스 주차번호판지금 우리가 살아가는 온라인 세상을 흔히 정보의 바다라고 표현합니다. 메일과 파일을 주고받으며 게임을 즐기고, 쇼핑..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/942/thumbnail_1.jpg?1648631451333" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#316. 여러 의미로 참 시원한 좌석 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -526,7 +535,7 @@
             <pubDate>Tue, 29 Mar 2022 03:28:33 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 29일 화요일 펀샵 오에보 소식입니다.
 01.[프딩] 사계절용 쿨링/온열 안마 시트 안마와 쿨링 기능이 선사하는 쾌적함보다도 졸음운전 방지를 위한 진동 기능에 더욱 큰 의미를 두고 싶었던 3in1 다기능 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/941/thumbnail_1.jpg?1648555097030" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/941/thumbnail_1.jpg?1648630231780" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 3월 셋째 주 소식 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -551,6 +560,16 @@ Q. ..]]></content:encoded>
 01. A.I. 음성인식 스마트 키보드
 음성인식 기술이 날이 갈수록 발전하고 있습니다. 인식률은 물론 반응속도까지 상당히 빨라졌죠. 이제는 키보드로 타자를 치는 ..]]></content:encoded>
             <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/938/thumbnail_1.jpg?1648457692920" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠나기 좋은 요즘, 캠핑은 어때요? (펀샵 ─ 펀테나 ─ 스토리)]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/937#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/937#page=1</guid>
+            <pubDate>Wed, 30 Mar 2022 03:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[STORY
+떠나기 좋은 요즘, 캠핑은 어때요?
+차가운 겨울을 넘어 따스한 봄이 오고 있습니다. 작게 움츠리고 있는 꽃봉오리들이 서서히 부풀어 가는걸&nbsp;보면 봄이 어느새 봄이 성큼 다가왔다는 것을 느끼게 됩니..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/937/thumbnail_1.jpg?1648228222367" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브랜드] Hyperice가 프로 선수들에게 사랑 받는 이유 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -587,7 +606,7 @@ Q. ..]]></content:encoded>
             <pubDate>Thu, 24 Mar 2022 03:22:24 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 24일 목요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] 록타이트 킨츠글루 화이트마치 클레이 점토처럼 원하는 모양을 만든 후, 시간이 지나면 정교하게 굳어져 파손된 부위를 간단하게 수리할 수 있는 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/931/thumbnail_1.jpg?1648111944940" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#312. 저금할 맛 나네 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -597,7 +616,7 @@ Q. ..]]></content:encoded>
             <content:encoded><![CDATA[2022년 3월 23일 수요일 펀샵 오에보 소식입니다.
 ﻿﻿
 01.&nbsp;트랜스포머 말하는 저금통저금통, 참 오랜만에 소개해 드리는 것 같습니다. 요새는 현금을 많이 사용하지 않기 때문에 동전 보기가 예전보다 힘들어..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/926/thumbnail_1.jpg?1648025415140" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#311. 나만의 모듈 테이블 완성! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -997,27 +1016,6 @@ STORY
             <content:encoded><![CDATA[2022년 2월 18일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] 월인공방 사인참사검 (댓글이벤트)
 조선의 시작과 한께 만들어졌던 사인참사검을 월인공방의 특별한 시선으로 바라볼 수 있었던 것 같습니다. 단..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쭈미툰] #19. 펀샵의 에디터 스토리 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/869#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/869#page=1</guid>
-            <pubDate>Thu, 17 Feb 2022 09:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[-
-평범. 흔함. 뻔(fun)한.
-에디터들의 스토리를 주목해주세요!&nbsp;(*´ ˘ `*)]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브랜드] 8bitdo, 컨트롤러에 진심인 브랜드 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/867#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/867#page=1</guid>
-            <pubDate>Tue, 22 Feb 2022 03:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[brand story
-8Bitdo,&nbsp;
-컨트롤러에 진심인 브랜드
-펀샵을 오랫동안 이용해 보신 분들이라면 8BitDo라는 브랜드가 익숙할 거라 생각한다. 8BitDo는 컨트롤러 관련 서드파티 컨트롤러 제작 회사이다. 홍콩의 최..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
