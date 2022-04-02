@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 03:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19238#</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[태블릿이나 노트북의 화면확장용]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19238/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -564,7 +564,7 @@
             <pubDate>Tue, 29 Mar 2022 03:28:33 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 29일 화요일 펀샵 오에보 소식입니다.
 01.[프딩] 사계절용 쿨링/온열 안마 시트 안마와 쿨링 기능이 선사하는 쾌적함보다도 졸음운전 방지를 위한 진동 기능에 더욱 큰 의미를 두고 싶었던 3in1 다기능 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/941/thumbnail_1.jpg?1648630231780" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 3월 셋째 주 소식 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
