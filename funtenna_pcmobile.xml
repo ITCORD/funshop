@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 09:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 15:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로터스, 전기 SUV Electre 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19245#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19245#</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[로터스 최초의 전기자동차]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19245/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이슨의 공기정화 헤드폰, Zone]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19244#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19244#</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니 시기도 딱 만우절인 이때에...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19244/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니, 6월부터 새로운 구독제 플랜 출시]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19241#</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제작과 스트리밍은 엄연히 다르니..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19241/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GPD WIN Max2 출시예정 및 외관공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[태블릿이나 노트북의 화면확장용]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19238/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RØDE, 전문가용 헤드폰 NTH-100 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19237#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19237#</guid>
-            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이터들을 위한 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19237/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
