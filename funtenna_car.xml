@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 03:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 09:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19260#</guid>
             <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[따듯해진 요즘 날씨 같은 션 워더스푼의 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19260/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반무프, 차세대 S5, A5 자전거 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19258#</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[감성충만한 턴테이블 가방]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19258/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fortitude, 애플워치용 나일론 밴드]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19257#</guid>
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[밴드 하나로 애플워치가 전술시계로 변신]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19257/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7년만의 새로운 건담, 수성의 마녀]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19256#</guid>
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[프랜차이즈 최초 여성 주인공]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19256/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
