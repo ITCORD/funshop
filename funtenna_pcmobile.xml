@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠하이저, 모멘텀 트루 와이어리스 3 유출]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19268#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19268#</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[젠하이저 컨슈머 라인업의 대표주자 모멘텀]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19268/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 명동, 4월9일 개장]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19267#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3.5mm 단자가 있는곳이라면 어디든]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19261/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 X 션 워더스푼, Equipment Support 93]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19260#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19260#</guid>
-            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[따듯해진 요즘 날씨 같은 션 워더스푼의 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19260/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
