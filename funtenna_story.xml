@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#325. 우주를 담은 노트]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/959#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/959#page=1</guid>
+            <pubDate>Mon, 11 Apr 2022 03:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 11일 월요일 펀샵 오에보 소식입니다.
+01. LUNAR AR 노트 4종
+이 한 권에 우주를 담아버렸습니다. 달도, 지구도, 아름다운 별자리도 모두 담았습니다. 이제 노트는 그저 필기만을 위한 도구가 아니죠. ..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/959/thumbnail_1.jpg?1649667618950" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[펀샵 프딩 뉴스] 2022년 4월 첫째 주 소식]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/957#page=1</link>
@@ -79,7 +89,7 @@ editor 권아리
             <pubDate>Mon, 04 Apr 2022 03:41:29 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 4일 월요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] Q Acoustics 무선 스테레오 스피커 M20 HD음악의 본고장 영국 Q Acoustics가 선사하는 꾸밈없이 담백하고 웅장한 소리의 세계를 펀샵 프리오더 프..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/947/thumbnail_1.jpg?1649062397280" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#319. 고추냉이와 마요네즈의 만남]]></title>
@@ -491,15 +501,6 @@ STORY
             <pubDate>Wed, 02 Mar 2022 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[[주간프딩] 2022년 2월 17일 ~ 2월 28일, 지난 12일간 새롭게 런칭한 프딩 신제품 소식을 싹 모아 전달합니다.
 2022년 2월 17일~2월 28일 기간 동안11인치 마그네틱 블루투스 키보드 / 펀큐브 마그네틱 카드 지갑&amp;..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#298. 건강을 위해 한 발 내딛자]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/886#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/886#page=1</guid>
-            <pubDate>Wed, 02 Mar 2022 03:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 02일 수요일 펀샵 오에보 소식입니다.
-01. [프딩] 엘레컴 지압 발매트평소 발과 종아리가 잘 붓는 펀샵인 계신가요? 에디터는 종아리가 잘 안 붓는 타입이라 생각했는데, 얼마 전 PT를 받으면서 종아리..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
