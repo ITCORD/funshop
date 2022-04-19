@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 15:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[접이식 전기자전거, 혼바이크 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 없는 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤을 낮처럼, Duovox Mate Pro (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19290#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야간 투시경 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19289#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19289/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19288#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수많은 프로듀서들이 애용했던 스피커 브랜드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 블루투스와 터프솔라가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림한 야외촬영을 위한 삼각대 및 부착 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19281#</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어질 염려는 없을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -136,6 +136,30 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[접이식 전기자전거, 혼바이크 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 없는 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤을 낮처럼, Duovox Mate Pro (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19290#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야간 투시경 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19290/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19289#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19289/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19288#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19288#</guid>
@@ -176,28 +200,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 블루투스와 터프솔라가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[접이식 전기자전거, 혼바이크 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 없는 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림한 야외촬영을 위한 삼각대 및 부착 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[밤을 낮처럼, Duovox Mate Pro (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19290#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야간 투시경 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19290/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19281#</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어질 염려는 없을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19289#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19289/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -238,30 +262,6 @@
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수많은 프로듀서들이 애용했던 스피커 브랜드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 블루투스와 터프솔라가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림한 야외촬영을 위한 삼각대 및 부착 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19281#</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어질 염려는 없을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -328,6 +328,30 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[접이식 전기자전거, 혼바이크 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 없는 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19291/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤을 낮처럼, Duovox Mate Pro (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19290#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야간 투시경 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19290/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19289#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19289/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19288#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19288#</guid>
@@ -368,28 +392,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 블루투스와 터프솔라가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[접이식 전기자전거, 혼바이크 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 없는 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림한 야외촬영을 위한 삼각대 및 부착 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[밤을 낮처럼, Duovox Mate Pro (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19290#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야간 투시경 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19281#</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어질 염려는 없을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19289#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -432,28 +456,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 블루투스와 터프솔라가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[접이식 전기자전거, 혼바이크 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19291#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19291#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 없는 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림한 야외촬영을 위한 삼각대 및 부착 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[밤을 낮처럼, Duovox Mate Pro (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19290#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19290#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야간 투시경 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19281#</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어질 염려는 없을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[게이머, 스트리머를 위한 마이크, XSTRM USB (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19289#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -496,37 +520,13 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19284/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['지알오크' 의 업그레이드, GA-B2100 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19283#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19283#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 블루투스와 터프솔라가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19283/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다목적 카메라 삼각대, Platypod eXtreme (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19282#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19282#</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림한 야외촬영을 위한 삼각대 및 부착 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19282/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통합형 바이크 컴퓨터, CoreCap (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19281#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19281#</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어질 염려는 없을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19281/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[#330. 데이비드 호크니의 봄 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/970#page=1</link>
             <guid>https://www.funshop.co.kr/Story/StoryView/970#page=1</guid>
             <pubDate>Mon, 18 Apr 2022 03:47:28 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 18일 월요일 펀샵 오에보 소식입니다.
 01.[주문제작]아티쉬 데이비드 호크니(David Hockney)'현존하는 가장 비싼 작가'란 별명이 붙은 데이비드 호크니 작품을 펀샵에서 소개해드립니다. '예술가의 초상..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/970/thumbnail_1.jpg?1650271407747" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#329. 냄비에 물부터 끄리랑! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -536,7 +536,7 @@
             <content:encoded><![CDATA[2022년 4월 15일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;끄리랑 라면 멀티팩 4종
 에디터가 어린 시절에는 14인치 VCR 칼라 텔레비전에서 나오는 코미디 프로그램을 좋아했습니다. 봉숭아 학당을 보면서 배트맨..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/969/thumbnail_1.jpg?1650012970053" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나에게 꼭 맞는 테이블을 찾습니다. (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -555,7 +555,7 @@
             <content:encoded><![CDATA[2022년 4월 14일 목요일 펀샵 오에보 소식입니다.
 01.&nbsp;[하이퍼아이스] Hyperflux 레그 리커버리 시스템
 전문가들의 세계는 우리의 상상을 뛰어넘습니다. 그들의 모든 생활에는 과학이 함께하죠. 체계적인 식..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/967/thumbnail_1.jpg?1649925876123" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#327. 언택트 시대의 만능 기능 툴 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -565,7 +565,7 @@
             <content:encoded><![CDATA[2022년 4월 13일 수요일 펀샵 오에보 소식입니다.
 01.&nbsp;록슨 S705 NO바이러스 비접촉 멀티키툴
 착한 가격, 어딘가 멋진 비주얼, 그리고 무엇보다 요즘에 가장 필요로 하는 제품을 펀샵에서 소개해드립니다! 바..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/966/thumbnail_1.jpg?1649839967887" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심심풀이 땅콩! 펀샵 능력고사_★ (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -575,7 +575,7 @@
             <content:encoded><![CDATA[꽃도 피고 따뜻해진 날씨에 들뜨는 요즘입니다.
 하지만 사무실, 학교 등 어딘가 갇힌&nbsp;&nbsp;우리는 나른함과 춘곤증으로 고통을 받고 있습니다.
 오늘은 나른한 당신을 위해 펀샵 능력고사를(응?) 준비했습니..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/961/thumbnail_1.jpg?1649764727060" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#326. 비밀을 간직한 나만의 공간 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -584,7 +584,7 @@
             <pubDate>Tue, 12 Apr 2022 03:34:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 12일 화요일 펀샵 오에보 소식입니다.
 01.&nbsp;[주문제작] 이탈파마 스팀펑크 스켈레톤마치 해적선을 타고 등장할 것 같은 정교한 해골 흉상. 사후에 인조인간으로 개조된 듯한 기계적인 구조. 꽤 계급..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/960/thumbnail_1.jpg?1649753102730" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#325. 우주를 담은 노트 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
