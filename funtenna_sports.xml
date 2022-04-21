@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 15:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:00:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19289#</guid>
             <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 마이크도 게이밍의 영역]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19289/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외장 GPU 지원가능, Elitemini B550]]></title>
