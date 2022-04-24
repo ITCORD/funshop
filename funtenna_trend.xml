@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 09:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기묘한 이야기 시즌4 첫 방영일 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19300#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19300#</guid>
+            <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 근본이 온다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19300/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키, KD15 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19299#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[충전퍽 없이도 애플워치와 아이폰을 동시충전]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19293/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘가토의 최신 캡처 카드, HD60 X]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19292#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19292#</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[더 부드러운 고화질로 캡처]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19292/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
