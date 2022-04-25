@@ -4,25 +4,9 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 09:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 15:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[실내에서 훈연 바베큐를, Arden]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19302#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19302#</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀찮게 나가서 할 필요없이 실내에서.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19302/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가방을 멘 에어조던 1, "Stash"]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19301#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19301#</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[동전이라도 넣고 다녀야 되나...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19301/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기묘한 이야기 시즌4 첫 방영일 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19300#</link>
@@ -70,6 +54,22 @@
             <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가벼운 느낌의 인체공학 버티컬마우스]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19295/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메르세데스 EQS SUV EV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19294#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19294#</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 벤츠의 전동화는 성공적으로 이루어질것인가]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19294/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nomad, Base One Max 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19293#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19293#</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[충전퍽 없이도 애플워치와 아이폰을 동시충전]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19293/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
