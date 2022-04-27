@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뽀모도로도 귀엽게, Pixeltime]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19314#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19314#</guid>
+            <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여워서 집중이 안될것도 같은..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19314/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구명조끼를 업사이클링 한 액세서리]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19312#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19312#</guid>
+            <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아....이건 너무 사고싶은데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴라, 페이서 프로 러닝 워치 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19311#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19311#</guid>
+            <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[진지하게 달리는 러너들을 위한 시계]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TE, 초소형 믹서 TX-6 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19310#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19306#</guid>
             <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[냥이들의 화장실을 깔끔하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19306/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, Leviathan 사운드바 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19305#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19305#</guid>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록 게이밍 사운드바]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19305/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근본 소닉을 한곳에, 소닉 오리진스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19304#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19304#</guid>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[추억의 대가는 상당했다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19304/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경량 게이밍 무선마우스, 에어록스 9 와이어리스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19303#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19303#</guid>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가벼움, 무선, 그리고 성능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19303/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
