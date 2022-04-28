@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 15:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19314#</guid>
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여워서 집중이 안될것도 같은..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19314/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구명조끼를 업사이클링 한 액세서리]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19312#</guid>
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아....이건 너무 사고싶은데..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19312/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴라, 페이서 프로 러닝 워치 출시]]></title>
@@ -29,7 +29,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19311#</guid>
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진지하게 달리는 러너들을 위한 시계]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19311/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 갤럭시 Z 플립3 포켓몬 에디션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19313#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19313#</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포켓몬 스티커 열풍을 이어받아...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19313/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TE, 초소형 믹서 TX-6 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[손을 자유롭게 하는 산책]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19307/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ChouBox, 편리한 고양이 화장실]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19306#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19306#</guid>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[냥이들의 화장실을 깔끔하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
