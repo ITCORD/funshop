@@ -4,9 +4,18 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 15:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#339. 모니터랑 테이블이 있으면 뭐다? 책상이다!]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/989#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/989#page=1</guid>
+            <pubDate>Fri, 29 Apr 2022 03:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 29일 금요일 펀샵 오에보 소식입니다.
+01. [프딩] UPERGO 이동식 모니터 스탠드랩탑과 태블릿 거치를 넘어 마침내 모니터까지 거치할 수 있게 된 3세대 UPERGO 이동식 테이블입니다. 이와 함께 독서대까..]]></content:encoded>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/989/thumbnail_1.jpg?1651223382720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#338. 집들이 선물이 고민된다면?]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/986#page=1</link>
@@ -78,7 +87,7 @@
             <pubDate>Mon, 18 Apr 2022 03:47:28 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 18일 월요일 펀샵 오에보 소식입니다.
 01.[주문제작]아티쉬 데이비드 호크니(David Hockney)'현존하는 가장 비싼 작가'란 별명이 붙은 데이비드 호크니 작품을 펀샵에서 소개해드립니다. '예술가의 초상..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/970/thumbnail_1.jpg?1650271407747" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#329. 냄비에 물부터 끄리랑!]]></title>
@@ -476,16 +485,6 @@ UPERGO 멀티 플로우 스탠드
             <content:encoded><![CDATA[2022년 3월 14일 월요일 펀샵 오에보 소식입니다.
 01. [아트갤러리] 매드사키 - Rolex Daytona
 국내뿐 아니라 해외 유명 아티스트의 작품을 펀샵에서 만나봅니다. 본 작품은 작가의 원화로써 국내 컬렉터가 개..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#304. 블랙 에디션으로 돌아오다]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/907#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/907#page=1</guid>
-            <pubDate>Fri, 11 Mar 2022 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 11일 금요일 펀샵 오에보 소식입니다.
-01. 플립북 14인치 Full HD 블랙에디션
-집에 구형 갤럭시 스마트폰 하나씩은 구비되어 있는 시대입니다. 오랜 사용을 끝으로 서랍 속에 잠들어 있는 갤럭시를 꺼..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
