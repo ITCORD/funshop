@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 09:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hyper, USB4 Mobile Dock 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19320#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19320#</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[선하나로 엄청난 확장성을..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker, 새로운 Nano II 100W GaN 충전기 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19319#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19319#</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[점점 충전기는 작아지고... 바람직하다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19319/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Groovemade, 가죽 마우스 패드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19318#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19318#</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고급스러운 가죽 재질의 터치감]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이수스, 새로운 포터블 모니터 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19317#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19314#</guid>
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여워서 집중이 안될것도 같은..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19314/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구명조끼를 업사이클링 한 액세서리]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아....이건 너무 사고싶은데..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19312/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴라, 페이서 프로 러닝 워치 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19311#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19311#</guid>
-            <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[진지하게 달리는 러너들을 위한 시계]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19311/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 갤럭시 Z 플립3 포켓몬 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19313#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19313#</guid>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[포켓몬 스티커 열풍을 이어받아...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19313/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TE, 초소형 믹서 TX-6 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19310#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19310#</guid>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 작고 예쁜게 12채널 믹서라고???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19310/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
