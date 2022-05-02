@@ -4,24 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anker, 새로운 Nano II 100W GaN 충전기 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19321#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19321#</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[점점 충전기는 작아지고... 바람직하다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19321/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hyper, USB4 Mobile Dock 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19320#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19320#</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[선하나로 엄청난 확장성을..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anker, 새로운 Nano II 100W GaN 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19319#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19319#</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[점점 충전기는 작아지고... 바람직하다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19319/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19320/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Groovemade, 가죽 마우스 패드]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19318#</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 가죽 재질의 터치감]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19318/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 새로운 포터블 모니터 공개]]></title>
