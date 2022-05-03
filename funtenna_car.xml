@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 15:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ConceptPix, 인체공학적 무선 마우스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19325#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19325#</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정말 특이하게 생겼네...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 루크 스카이워커의 랜드스피더 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19324#</link>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19317#</guid>
             <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[젠북 프로 듀오에서 하단 액정만 뗀듯한.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19317/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 새로운 포터블 SSD t7 실드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19316#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19316#</guid>
-            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[T7 터치의 후속...그런데 내구성을 곁들인..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19316/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

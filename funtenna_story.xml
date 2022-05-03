@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 15:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#341. 탬버린 대신, 하프 연주를!]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/991#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/991#page=1</guid>
+            <pubDate>Tue, 03 May 2022 03:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 3일 화요일 펀샵 오에보 소식입니다.
+01.삼익악기 미니하프
+여러분 하프는 어떤 악기라고 생각하시나요? 비싼 고급 악기? 아니면 다루기 어려운 악기? 오늘은 그런 편견을 없애줄 '미니 하프'를 가져왔..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#340. 'ㅊㅊㅊ'에 담은 의미]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/990#page=1</link>
@@ -79,7 +89,7 @@
             <content:encoded><![CDATA[2022년 4월 21일 목요일 펀샵 오에보 소식입니다.
 01.&nbsp;[금쪽특가][주문제작] 아토제이드 천연옥꽃 플라워 트로피
 '옥'이 지닌 특별한 의미와 아름다운 모습에 많은 분들에게 사랑받고 있는 아토제이드의 옥꽃..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/001/975/thumbnail_1.jpg?1650530386830" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#332. 할리우드 액션 영화 속 주인공처럼]]></title>
@@ -475,16 +485,6 @@ UPERGO 멀티 플로우 스탠드
             <content:encoded><![CDATA[STORY
 귀여운 비글, 스누피
 귀여운 강아지 스누피, 다들 한 번쯤은 보셨거나 들어보신 적이 있을 정도로 전 세계적으로 유명한 캐릭터입니다. 1950년 10월 2일부터 찰스 슈츠는 '피너츠'라는 이름으로 미국 전역 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#306. 보고만 있어도 식욕 자극]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/910#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/910#page=1</guid>
-            <pubDate>Tue, 15 Mar 2022 03:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 15일 화요일 펀샵 오에보 소식입니다.
-01. 술도둑 가문어 통족
-최근 인플루언서와 너튜버들이 소개하면서 매우 핫한 음식이 있습니다. 누적 판매량 무려 25,000개 이상. 먹어본 사람들의 높은 평점..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
