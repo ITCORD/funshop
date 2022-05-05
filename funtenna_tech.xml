@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19327#</guid>
             <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재활용 업체 #tide와의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19327/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Angry Miao, 사이버보드 터미널 키보드 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19326#</guid>
             <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[매트릭스??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19326/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ConceptPix, 인체공학적 무선 마우스]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19322#</guid>
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원터치로 간편한 텐트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19322/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
