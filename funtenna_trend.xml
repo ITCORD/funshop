@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Grovemade x Blackwing 연필 키트 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19343#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19343#</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[책상위도 인테리어 항목이라고 생각한다면..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19343/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sharkoon, SB2 게이밍 USB 사운드 카드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19342#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19342#</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어디서 많이 봤는데....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19342/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스 X 녹투아, RTX 3080 10GB 유출]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19341#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19341#</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[와! 똥색! 근데 굳이 지금....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19341/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DX3, 외장 하드 드라이브 독]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19340#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이놈의 발열....발열....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19336/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lenovo의 새로운 Yoga AIO 7 일체형 PC]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19335#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19335#</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세로모드 쌉가능!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19335/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SANDMAC, 애플기기용 가죽 액세서리 라인업 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19334#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19334#</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 가죽이 좋다면..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19334/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pixy, 미니 셀카 드론]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19333#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19333#</guid>
-            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 셀카도 드론을 띄워서....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19333/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
