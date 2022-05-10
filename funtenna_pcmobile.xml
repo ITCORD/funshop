@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19340#</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편한건 둘째 치고 케이스가 없으면 충격은....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19340/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마샬, Emberton II 및 Willen 스피커 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19339#</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포켓안에 들어가는 강력한 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19339/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤츠, 소형 미니밴 T클래스 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19338#</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운(?) 벤츠]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19338/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 에반게리온 ROG 마더보드 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19337#</guid>
             <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오버클럭 하면....폭주?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19337/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿨러가 장착된 모바일 게임 컨트롤러, GameSir X3]]></title>
