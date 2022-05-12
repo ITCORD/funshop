@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 03:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19346#</guid>
             <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전기가 필요없다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19346/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ugreen의 완전 무선이어버드, HiTune T3]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19345#</guid>
             <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허브로 알던 브랜드인데...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19345/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멀티룸 스피커, Dio Node]]></title>
