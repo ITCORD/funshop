@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 09:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 15:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 적응형 액세서리 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19350#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19350#</guid>
+            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[몸이 불편한 분들을 위한 각종 컴퓨터 장비]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19350/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출퇴근용 전기자전거, STRØM CITY M 2.0]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19349#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19349#</guid>
+            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[역시 배터리는 내장으로 숨겨야...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대용량 슬림 파워뱅크, OISLE]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19347#</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어디서 많이 봤는데....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19342/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스 X 녹투아, RTX 3080 10GB 유출]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19341#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19341#</guid>
-            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[와! 똥색! 근데 굳이 지금....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19341/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DX3, 외장 하드 드라이브 독]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19340#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19340#</guid>
-            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[편한건 둘째 치고 케이스가 없으면 충격은....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
