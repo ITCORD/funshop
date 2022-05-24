@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 15:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주여행을 위한 시계, Fortis Stratoliner S-41]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19376#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19376#</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우주를....나갈수 있을까?....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19376/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GROOMIE BaldiePro, 스킨헤드 남성용 면도기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19375#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19375#</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔하고 쉽게 마무리되는 무선 체모 면도기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19375/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Acer, 휴대가 가능한 3D 디스플레이 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19374#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19374#</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[맨눈으로도 3D 효과가 가능하다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19374/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤오미, 라이카와의 파트너십 공식 발표]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19373#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가벼운 무게와 다양한 기능을 가진 무선 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19369/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AYANEO2 휴대용 콘솔 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19368#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19368#</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스팀덱보다 강하다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19368/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WaterH, 올인원 스마트 물병]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19367#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19367#</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트한 물병]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19367/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 완전변형 옵티머스 프라임 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19366#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19366#</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["I am Optimus Prime"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19366/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
