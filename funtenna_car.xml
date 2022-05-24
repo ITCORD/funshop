@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 09:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 15:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GeIL, 듀얼 액티브 팬 탑재 메모리 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19379#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19379#</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 발열과의 전쟁인 요즘..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스컬캔디, 신형 Mod 트루 와이어리스 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19378#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19378#</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 멀티포인트 페어링 기능 탑재]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WD, WD Black SN850X 및 P40 게임 드라이브 발표]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19377#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19377#</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한층 더 업그레이드 된 게임환경을 위해]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주여행을 위한 시계, Fortis Stratoliner S-41]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19376#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꿈인지 생시인지 모를 역사적인 순간!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19372/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디자이너를 위한 데스크톱, Acer ConceptD 100]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19371#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19371#</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[데스크톱이 인테리어의 방해물이라고? No~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19371/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느, 새로운 애완동물 컬렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19370#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19370#</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[와우! 명품 애완용품.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19370/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, LinkBuds S 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19369#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19369#</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가벼운 무게와 다양한 기능을 가진 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19369/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
