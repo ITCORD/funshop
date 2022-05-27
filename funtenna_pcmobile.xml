@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19384#</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[간단히 말해 터치스크린 자물쇠가 달린 SSD?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19384/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BMX를 닮은 전동 킥보드, PIPEGUN #1]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19383#</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[왠지 묘기를 부려야 할것 같은 모양새...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19383/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계 최초의 휴대용 주방 후드, AirHood]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19382#</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고정형 후드 관리가 너무 힘들었다면..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19382/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OWC, ENVOY PRO MINI 스토리지 드라이브 출시]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19381/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리복 X Eames Office 클랙식 레더 콜렉션 출시]]></title>
+            <title><![CDATA[리복 X Eames Office 클래식 레더 콜렉션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19380#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19380#</guid>
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["형태는 기능을 따라야 한다"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19380/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GeIL, 듀얼 액티브 팬 탑재 메모리 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19379#</guid>
             <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 발열과의 전쟁인 요즘..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19379/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
