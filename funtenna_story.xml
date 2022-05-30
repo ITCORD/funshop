@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 15:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 03:57:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#359. 다른 언어로 같은 주제를 논하다]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/1028#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/1028#page=1</guid>
+            <pubDate>Mon, 30 May 2022 03:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 30일 월요일 펀샵 오에보 소식입니다.
+01.&nbsp;Timekettle WT2 Edge 번역기
+올해 초 이어폰과 번역기를 동시에 할 수 있는 타임캐틀 M2 번역기를 소개해 드린 적이 있습니다. 당시 에디터는 더 이상 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#358. 나의 시선을 담다]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1024#page=1</link>
@@ -53,7 +63,7 @@
             <pubDate>Tue, 24 May 2022 03:56:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 24일 화요일 펀샵 오에보 소식입니다.
 01. [아개운리뉴얼] 라이프치약 110g해로운 성분에 대한 걱정을 덜어낸 치약, 유기농 원료가 첨가된 건강한 치약, 입안 가득 상쾌한 개운함이 오래가는 아개운 라..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1020/thumbnail_1.jpg?1653382301537" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#354. 똑똑하고 강력하다]]></title>
@@ -72,7 +82,7 @@
             <content:encoded><![CDATA[2022년 5월 20일 금요일 펀샵 오에보 소식입니다.
 01.&nbsp;생활맑음 옥타헤드 8중날 5in1 면도기
 면도기는 에디터에게 있어 없어서는 안 되는 꼭 필요한 제품입니다. 에디터뿐만 아니라 남성들이라면 누구나 자기..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1017/thumbnail_1.jpg?1653035527363" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#352. 무엇보다는, 얼마가 더 핵심]]></title>
@@ -469,15 +479,6 @@ editor 권아리
             <pubDate>Wed, 30 Mar 2022 03:28:11 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 30일 수요일 펀샵 오에보 소식입니다.
 01.&nbsp;개인정보 안심서비스 주차번호판지금 우리가 살아가는 온라인 세상을 흔히 정보의 바다라고 표현합니다. 메일과 파일을 주고받으며 게임을 즐기고, 쇼핑..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#316. 여러 의미로 참 시원한 좌석]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/941#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/941#page=1</guid>
-            <pubDate>Tue, 29 Mar 2022 03:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 29일 화요일 펀샵 오에보 소식입니다.
-01.[프딩] 사계절용 쿨링/온열 안마 시트 안마와 쿨링 기능이 선사하는 쾌적함보다도 졸음운전 방지를 위한 진동 기능에 더욱 큰 의미를 두고 싶었던 3in1 다기능 ..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
