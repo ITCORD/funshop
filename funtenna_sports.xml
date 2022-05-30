@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 09:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파나소닉, 새로운 TOUGHBOOK® 40 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19396#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19396#</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[러기드 랩탑의 대명사]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타이맥스, 기묘한 이야기 협업 시계 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19394#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19394#</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데모고르곤!!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[E-Knee3, 에어 쿠셔닝을 갖춘 차세대 무릎 지지대]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19393#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19393#</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나이를 먹어갈수록 시큰거리는 무릎.....아니..허리? 아니...몸무게?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[튼튼한 대마원단의 힙팩, Kodama Bould Pack]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19392#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어 마스터시리즈의 기계식 키보드가!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19386/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주사율에 모든것을 건 모니터, ROG Swift 500 Hz]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19385#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19385#</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네? 몇 Hz 라구요???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19385/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kingston, 터치스크린 암호화 외장 SSD 발표]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19384#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19384#</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[간단히 말해 터치스크린 자물쇠가 달린 SSD?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19384/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMX를 닮은 전동 킥보드, PIPEGUN #1]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19383#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19383#</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[왠지 묘기를 부려야 할것 같은 모양새...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19383/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
