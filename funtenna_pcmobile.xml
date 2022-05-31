@@ -4,24 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타이맥스, 기묘한 이야기 협업 시계 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19404#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19404#</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데모고르곤!!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19404/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파나소닉, 새로운 TOUGHBOOK® 40 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19396#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19396#</guid>
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[러기드 랩탑의 대명사]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이맥스, 기묘한 이야기 협업 시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19394#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19394#</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[데모고르곤!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19396/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[E-Knee3, 에어 쿠셔닝을 갖춘 차세대 무릎 지지대]]></title>
@@ -29,10 +29,10 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19393#</guid>
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나이를 먹어갈수록 시큰거리는 무릎.....아니..허리? 아니...몸무게?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19393/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[튼튼한 대마원단의 힙팩, Kodama Bould Pack]]></title>
+            <title><![CDATA[튼튼한 대마 원단의 힙팩, Kodama Bould Pack]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19392#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19392#</guid>
             <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
