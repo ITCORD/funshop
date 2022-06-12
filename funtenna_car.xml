@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 15:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨킨, 어린이용 무선 이어버드 SOUNDFORM™ Nano​ 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19420#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19420#</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어린이들의 귀 보호를 위해]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, M2 맥북에어 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19419#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19419#</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[소문의 M2칩이 탑재된 신형 맥북에어 출시]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈티지한 외관과 활용도, BAREBONES 파워뱅크]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19418#</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[밤에 한강에서 프리스비 한판?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19413/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kross Studio, 보바펫 트루비용 시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19412#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19412#</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[트루비용 시계 답게 어마어마한 가격..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19412/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uixoo Hi16, 에어팟용 넥마운트 액세서리]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19411#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19411#</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[넥밴드 겸 외장배터리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19411/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
