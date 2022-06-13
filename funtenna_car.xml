@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 04:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닉슨, 다목적 크로스바디 Hatch Bag 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19421#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19421#</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[힙색과 메신저백의 중간 그 어딘가..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19421/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벨킨, 어린이용 무선 이어버드 SOUNDFORM™ Nano​ 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19420#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19420#</guid>
             <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이들의 귀 보호를 위해]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19420/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, M2 맥북에어 출시]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19419#</guid>
             <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[소문의 M2칩이 탑재된 신형 맥북에어 출시]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19419/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈티지한 외관과 활용도, BAREBONES 파워뱅크]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19418#</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[걸고 붙이고 디자인도 멋지고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19418/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Playtime Engineering, 신형 악기 2종 공개]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19416#</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자신이 원하는 조합으로 만드는 게이밍 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19416/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gucci X Oura, 18캐럿 골드 스마트링]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19415#</guid>
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어찌보면 정말 잘어울리는 협업인것 같기도...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19415/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOHI, Magcube 120W 데스크탑 충전기 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴팩트 한 디자인에 엄청난 출력]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19414/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LED 프리스비, miBee]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19413#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19413#</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[밤에 한강에서 프리스비 한판?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19413/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
