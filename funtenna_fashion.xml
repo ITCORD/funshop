@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 15:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닉슨, 다목적 크로스바디 Hatch Bag 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19421#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19421#</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[힙색과 메신저백의 중간 그 어딘가..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19421/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벨킨, 어린이용 무선 이어버드 SOUNDFORM™ Nano​ 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19420#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴팩트 한 디자인에 엄청난 출력]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19414/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LED 프리스비, miBee]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19413#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19413#</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[밤에 한강에서 프리스비 한판?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19413/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
