@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HyperX, 무선 이어버드 Cloud MIX Buds 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19455#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19455#</guid>
+            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[HyperX 최초의 무선이어버드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19455/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 재즈 4중주 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19451#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19451#</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["째에에즈는 말이죠~~"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19451/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BAUX Acoustic Felt, 공간의 분리 그리고 음향]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19449#</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어쿠스틱 패널은 오히려 사무실에서 더 필요하다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19449/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국형 발사체 누리호, 2차발사에서 성공]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19448#</guid>
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대한민국은 7대 우주강국 반열에..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19448/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일반자전거를 전기자전거로, DiskDrive]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[충전과 사용을 동시에]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19444/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마, 포르쉐 911 카레라 RS 2.7 50주년 기념 신발 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19443#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19443#</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[베이스는 푸마의 스웨이드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19443/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
