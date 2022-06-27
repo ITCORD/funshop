@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 15:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가구로 변신하는 자전거]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19459#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19459#</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[합법적인 절세 방안?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이컨 향이 나는 향수, WRIGHT N° 100]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19458#</link>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19452#</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대성이 좋은 접이식 헬멧]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19452/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HyperX, 무선 이어버드 Cloud MIX Buds 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[HyperX 최초의 무선이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19455/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 재즈 4중주 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19451#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19451#</guid>
-            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["째에에즈는 말이죠~~"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19451/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
