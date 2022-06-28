@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가혹한 환경을 위한 랩탑, GETAC X600 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19463#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19463#</guid>
+            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[터프북을 상회하는 혹독한 환경에 대한 적응력]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19463/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[책상위를 깔끔하게, LeMat Magnetic Fixer]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19462#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 어디든 착착착]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19456/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X-0 Knight, 초고휘도 미니 EDC 손전등]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19454#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19454#</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[작은크기, 좋은 휴대성 그리고 밝기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19454/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
