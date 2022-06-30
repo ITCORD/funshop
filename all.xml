@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -323,7 +323,38 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19463#</guid>
             <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[터프북을 상회하는 혹독한 환경에 대한 적응력]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19463/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SunnySide, 태양광 냉,온장고 도시락 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19470#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19470#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[온도 조절에 태양광 충전까지!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ID·Aero, 폭스바겐 최초의 중형 전기 세단 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19469#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19469#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 폭스바겐에서 나오는 전기세단]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19469/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 오디세이 네오 G8 게이밍 모니터 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19468#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19468#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19468/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IONIQ 6, 디자인 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19467#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19467#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[신기한 느낌의 디자인...물방울?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19467/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Epomaker, TH96 무선 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -356,38 +387,6 @@
             <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[터프북을 상회하는 혹독한 환경에 대한 적응력]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19463/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책상위를 깔끔하게, LeMat Magnetic Fixer (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19462#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19462#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔한 책상정리를 위한 매트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19462/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 지형에서도 OK, ENGWE X26 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19461#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19461#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[All-Terrain E-Bike]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19461/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EnCloak HIDE, 암호화된 파일 전송 시스템 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19460#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19460#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[누구도 봐서는 안되는 중요문서 보관을 위한 용도]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19460/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가구로 변신하는 자전거 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19459#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19459#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[합법적인 절세 방안?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19459/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IONIQ 6, 디자인 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -454,6 +453,37 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19460/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SunnySide, 태양광 냉,온장고 도시락 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19470#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19470#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[온도 조절에 태양광 충전까지!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ID·Aero, 폭스바겐 최초의 중형 전기 세단 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19469#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19469#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 폭스바겐에서 나오는 전기세단]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19469/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 오디세이 네오 G8 게이밍 모니터 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19468#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19468#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19468/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IONIQ 6, 디자인 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19467#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19467#</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[신기한 느낌의 디자인...물방울?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19467/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Epomaker, TH96 무선 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19466#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19466#</guid>
@@ -484,38 +514,6 @@
             <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[터프북을 상회하는 혹독한 환경에 대한 적응력]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19463/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책상위를 깔끔하게, LeMat Magnetic Fixer (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19462#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19462#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔한 책상정리를 위한 매트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19462/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 지형에서도 OK, ENGWE X26 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19461#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19461#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[All-Terrain E-Bike]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19461/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EnCloak HIDE, 암호화된 파일 전송 시스템 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19460#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19460#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[누구도 봐서는 안되는 중요문서 보관을 위한 용도]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19460/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가구로 변신하는 자전거 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19459#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19459#</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[합법적인 절세 방안?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19459/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌊양양에서 만나요🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
