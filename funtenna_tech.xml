@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 15:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태양광으로 충전, Lodge Solar Powered 스피커]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19477#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19477#</guid>
+            <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[충전도 파워케이블도 필요하지 않다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬램덩크 극장판, 공식 작품명 및 개봉일 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19476#</link>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19473#</guid>
             <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 아이패드 미니를 충전하는 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19473/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bowers & Wilkins, Px7 S2 헤드폰 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[온도 조절에 태양광 충전까지!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19470/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ID·Aero, 폭스바겐 최초의 중형 전기 세단]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19469#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19469#</guid>
-            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 폭스바겐에서 나오는 전기세단]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19469/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
