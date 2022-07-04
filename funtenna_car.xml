@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19476#</guid>
             <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["초보인 게 어때서?"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19476/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존스플러스, 미니 ITX 케이스 BO 102 공개]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19475#</guid>
             <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공간활용에 유리한 기둥형 구조]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19475/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NERF의 Destiny's Gjallarhorn 로켓런처]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19471#</guid>
             <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모니터, 헤드셋 출시]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19471/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SunnySide, 태양광 냉,온장고 도시락]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19470#</guid>
             <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[온도 조절에 태양광 충전까지!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ID·Aero, 폭스바겐 최초의 중형 전기 세단]]></title>
