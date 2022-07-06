@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19484#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무려 75시간의 배터리 수명]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 로그폰 6 모델 공개]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19483#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꾸준히 출시되는 에이수스의 게이밍 폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19483/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴스타, 폴스타 5 일렉트릭 GT 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19482#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[볼보의 향취가 느껴지지 않는 날렵한 GT 전기차]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19482/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Twelve South, HiRise 3 무선 충전 스탠드 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19481#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3 in 1 충전기의 시대]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19481/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤오미, 12s 울트라 공식 발표]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19479#</guid>
             <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유닛은 리버티 3 프로를 떠올리게 하는..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19479/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스찬 디올, 원예세트 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19477#</guid>
             <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[충전케이블도 파워케이블도 없이 가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19477/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
