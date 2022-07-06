@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 15:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 04:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르쉐 디자인, 무선 헤드폰 PDH80 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19484#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19484#</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무려 75시간의 배터리 수명]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, 로그폰 6 모델 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19483#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19483#</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[꾸준히 출시되는 에이수스의 게이밍 폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19483/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴스타, 폴스타 5 일렉트릭 GT 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19482#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19482#</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[볼보의 향취가 느껴지지 않는 날렵한 GT 전기차]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19482/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Twelve South, HiRise 3 무선 충전 스탠드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19481#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19481#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3 in 1 충전기의 시대]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19481/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤오미, 12s 울트라 공식 발표]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[충전케이블도 파워케이블도 없이 가능]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19477/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬램덩크 극장판, 공식 작품명 및 개봉일 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19476#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19476#</guid>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["초보인 게 어때서?"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19476/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존스플러스, 미니 ITX 케이스 BO 102 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19475#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19475#</guid>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공간활용에 유리한 기둥형 구조]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19475/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NERF의 Destiny's Gjallarhorn 로켓런처]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19474#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19474#</guid>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[크고...아름다워..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19474/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
