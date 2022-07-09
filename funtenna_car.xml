@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 09:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 15:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19491#</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[점점 경계가 무너지는 TV와 모니터]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19491/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갓 오브 워 라그나로크, 발매일 및 트레일러 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19489#</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴팩트한 크기, 그리고 전기자전거 치고는 가벼운 무게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19489/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘레컴, DAC 대응 USB-C 변환케이블 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19488#</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꼬다리의 진화판?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19488/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ULlife, Me-300S 골전도 헤드폰]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19484#</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무려 75시간의 배터리 수명]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
