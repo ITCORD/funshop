@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 09:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 15:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyerdynamic, 무선 이어버드 Free Byrd 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19493#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19493#</guid>
+            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[프로 오디오의 강자들이 컨슈머 라인업으로 몰린다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, 무선 게이밍 헤드셋 신형 ROG Delta S 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19492#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19492#</guid>
+            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게이밍에 최적화된 무선 헤드셋]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기가바이트, 55인치 4k 120Hz 게이밍 모니터 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19491#</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그린저지 7회 우승에 빛나는 피터 사간]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19486/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국닌텐도, 닌텐도 스위치 OLED 스플래툰3 에디션 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19485#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19485#</guid>
-            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[OLED 버전의 첫번째 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19485/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐 디자인, 무선 헤드폰 PDH80 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19484#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19484#</guid>
-            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[무려 75시간의 배터리 수명]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19484/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
