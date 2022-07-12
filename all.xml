@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 15:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -201,11 +201,27 @@
         </item>
         <item>
             <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19496#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19496#</guid>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19500#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19500#</guid>
             <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19496/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 가장 얇은 시계, 리차드밀 X 페라리 RM UP-01 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19499#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19499#</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[두께가 1.75mm....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19499/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19497#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19497#</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[완전한 조명제어가 가능한 최초의 이어버드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19497/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사카이 X 나이키, 코르테즈 4.0 "OG" 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -246,22 +262,6 @@
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[점점 경계가 무너지는 TV와 모니터]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19491/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓 오브 워 라그나로크, 발매일 및 트레일러 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19490#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19490#</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강력한 아버지와 아들.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19490/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lectric XP Lite, 전기 미니벨로 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19489#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19489#</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[컴팩트한 크기, 그리고 전기자전거 치고는 가벼운 무게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19489/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -328,20 +328,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19490/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19500#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19500#</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 가장 얇은 시계, 리차드밀 X 페라리 RM UP-01 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19499#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19499#</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[두께가 1.75mm....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19499/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19497#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19497#</guid>
             <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전한 조명제어가 가능한 최초의 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19496#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19496#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19496/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19497/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사카이 X 나이키, 코르테즈 4.0 "OG" 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[점점 경계가 무너지는 TV와 모니터]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19491/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓 오브 워 라그나로크, 발매일 및 트레일러 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19490#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19490#</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강력한 아버지와 아들.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19490/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -456,20 +456,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19490/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19500#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19500#</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 가장 얇은 시계, 리차드밀 X 페라리 RM UP-01 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19499#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19499#</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[두께가 1.75mm....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19499/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19497#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19497#</guid>
             <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전한 조명제어가 가능한 최초의 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19496#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19496#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19496/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19497/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사카이 X 나이키, 코르테즈 4.0 "OG" 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -512,14 +520,6 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19491/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[갓 오브 워 라그나로크, 발매일 및 트레일러 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19490#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19490#</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강력한 아버지와 아들.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19490/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🌊양양에서 만나요🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1049#page=1</link>
             <guid>https://www.funshop.co.kr/Story/StoryView/1049#page=1</guid>
@@ -528,7 +528,7 @@
 고아웃에 오면 브루클린웍스 부스를 꼭 방문해야 하는 이유 3가지!
 👍! 6월 신상품을 모두 만나볼 수 있다
 ✌! 현장 구매 시 한정판 굿즈..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1049/thumbnail_1.png?1655282886313" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다시 되찾은 이 여름, 새로운 브루클린웍스로 더 뜨겁게! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -538,7 +538,7 @@
             <content:encoded><![CDATA[/🌞2년 만에 다시 되찾은 이 여름🌞
 비워진 지난 여름날의 추억을 채우기 위해 브루클린웍스는 그 어느 때보다 뜨거운 하루하루를 보내고 있습니다. 
 특히 이번 6월, 그동안 준비해온 신상품들로 캠퍼분들의 추억..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1048/thumbnail_1.png?1655914484690" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가전 제품, 여기 어때? (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -547,7 +547,7 @@
             <pubDate>Mon, 13 Jun 2022 04:01:29 GMT</pubDate>
             <content:encoded><![CDATA[초등학교에 입학하는 순간부터 배우는 우리 삶의 필수 요소 의식주(衣食住).
 펀샵에서는 의식주에 필요한 제품을&nbsp;소개하고 판매하고 있는데 유독 주(住 ), 주거 공간에 필요한 것들이 많은 관심과 인기를 얻는..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1044/thumbnail_1.jpg?1655289943320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍 MX Mechanical 기계식 키보드﻿ 와 MX 마스터3 마우스, 둘 중 하나는 사야함. (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -556,7 +556,7 @@
             <pubDate>Mon, 06 Jun 2022 15:18:57 GMT</pubDate>
             <content:encoded><![CDATA[로지텍 MX 시리즈 키보드와 마우스가 새롭게 출시되며 이렇게 눈 앞에 딱!
 로지텍에서 비지니스용 이라 말하며 나름의 전략적 모델로 만들어지고 있는 MX 시리즈에서 '기계식 키보드'가 드디어 만들어졌고 그와 동..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1040/thumbnail_1.jpg?1654593426907" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#361. 돌을 자르는 톱 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -565,7 +565,7 @@
             <pubDate>Fri, 03 Jun 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 3일 금요일 펀샵 오에보 소식입니다.01.&nbsp;스위스밀리터리 만능 몬스터 커터
 '돌을 자르는 톱'이라고 들어보셨나요? 스위스 밀리터리의 몬스터 커터는 철은 물론 돌까지 잘라내는 만능 톱으로 사람들..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1036/thumbnail_1.jpg?1654245080333" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#360. 머리가 시원한 산소베개 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -574,7 +574,7 @@
             <pubDate>Thu, 02 Jun 2022 04:04:36 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 2일 목요일 펀샵 오에보 소식입니다.01.&nbsp;공기순환, 산소베개
 바람도 많이 부드러워지고, 공기도 제법 초여름처럼 느껴지는 계절이 돌아왔습니다. 오늘 소개해 드릴 제품은 쿨링 베개입니다. 날이 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1034/thumbnail_1.jpg?1654158936837" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#359. 다른 언어로 같은 주제를 논하다 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -584,7 +584,7 @@
             <content:encoded><![CDATA[2022년 5월 30일 월요일 펀샵 오에보 소식입니다.
 01.&nbsp;Timekettle WT2 Edge 번역기
 올해 초 이어폰과 번역기를 동시에 할 수 있는 타임캐틀 M2 번역기를 소개해 드린 적이 있습니다. 당시 에디터는 더 이상 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1028/thumbnail_1.jpg?1653900949240" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#358. 나의 시선을 담다 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -593,7 +593,7 @@
             <pubDate>Fri, 27 May 2022 03:59:02 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 27일 금요일 펀샵 오에보 소식입니다.
 01. [프딩] 엘레컴 배낭형 핸즈프리배낭 어깨 끈에 간편하게 거치할 수 있는 클립형 스마트폰 핸즈프리입니다. 산행 길 스마트폰으로 액션캠을 대체할 수 있게 하..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1024/thumbnail_1.jpg?1653641872120" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#357. 솔드아웃을 이어가는 코타로 마치야마 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
