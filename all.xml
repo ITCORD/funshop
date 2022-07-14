@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 04:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 09:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사운드바로도 쓰고 무선스피커로도 쓰고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19507/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SteelSeries, Apex Pro Mini Wireless 키보드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -85,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19506#</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴팩트한 크기와 게이밍을 위한 다양한 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19506/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도심형 전동킥보드, Apollo City 2022 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -264,6 +264,30 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19507#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사운드바로도 쓰고 무선스피커로도 쓰고]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19507/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SteelSeries, Apex Pro Mini Wireless 키보드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19506#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19506#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[컴팩트한 크기와 게이밍을 위한 다양한 기능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19506/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도심형 전동킥보드, Apollo City 2022 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19505#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19505#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[괜찮은 빌드퀄리티의 전동킥보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19505/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웨스턴 디지털, PS5 전용 WD_BLACK SN850 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19504#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19504#</guid>
@@ -304,28 +328,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상에서 가장 얇은 시계, 리차드밀 X 페라리 RM UP-01 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19499#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19499#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[두께가 1.75mm....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19499/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19507#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사운드바로도 쓰고 무선스피커로도 쓰고]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19507/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19497#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19497#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[완전한 조명제어가 가능한 최초의 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19497/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사카이 X 나이키, 코르테즈 4.0 "OG" 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19495#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19495#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[50주년을 맞아 등장한 OG의 향취]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19495/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SteelSeries, Apex Pro Mini Wireless 키보드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19506#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19506#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[컴팩트한 크기와 게이밍을 위한 다양한 기능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19506/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도심형 전동킥보드, Apollo City 2022 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -333,7 +349,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19505#</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[괜찮은 빌드퀄리티의 전동킥보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19505/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, PS5 전용 WD_BLACK SN850 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 얇은 시계, 리차드밀 X 페라리 RM UP-01 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19499#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19499#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[두께가 1.75mm....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19499/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19497#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19497#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[완전한 조명제어가 가능한 최초의 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19497/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -456,12 +456,36 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19507#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사운드바로도 쓰고 무선스피커로도 쓰고]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19507/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SteelSeries, Apex Pro Mini Wireless 키보드 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19506#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19506#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[컴팩트한 크기와 게이밍을 위한 다양한 기능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19506/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도심형 전동킥보드, Apollo City 2022 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19505#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19505#</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[괜찮은 빌드퀄리티의 전동킥보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19505/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웨스턴 디지털, PS5 전용 WD_BLACK SN850 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19504#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19504#</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[PS5 라이센스를 받은 NVMe SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19504/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종이접기에서 영감을 받은 지갑, Smoll Envelope Wallet (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -477,7 +501,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19502#</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대역폭을 나눠 5개의 6Gbps SATA 저장장치를!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19502/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캠프파이어 오디오 X 아스텔앤컨, PATHFINDER (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -485,7 +509,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19501#</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어 진행되는 캠프파이어 오디오와의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19501/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -494,30 +518,6 @@
             <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 얇은 시계, 리차드밀 X 페라리 RM UP-01 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19499#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19499#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[두께가 1.75mm....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19499/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛으로 자신을 표현하는 이어버드, GPods (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19497#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19497#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[완전한 조명제어가 가능한 최초의 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19497/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사카이 X 나이키, 코르테즈 4.0 "OG" 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19495#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19495#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[50주년을 맞아 등장한 OG의 향취]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/038/19495/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌊양양에서 만나요🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
