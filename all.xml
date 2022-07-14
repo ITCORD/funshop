@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 09:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 15:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,22 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/038/19495/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[호리, 스플래툰 3 관련 액세서리 출시 예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19509#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19509#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스플래툰 느낌이 물씬 풍기는 액세서리들.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19509/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, GDDR6 D램 개발 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19508#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[업계 최고 속도...역시 메모리는 삼성?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19508/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19507#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
@@ -248,20 +264,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19502/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캠프파이어 오디오 X 아스텔앤컨, PATHFINDER (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19501#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19501#</guid>
-            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 진행되는 캠프파이어 오디오와의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19501/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[호리, 스플래툰 3 관련 액세서리 출시 예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19509#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19509#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스플래툰 느낌이 물씬 풍기는 액세서리들.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19509/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19500#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19500#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[삼성전자, GDDR6 D램 개발 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19508#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[업계 최고 속도...역시 메모리는 삼성?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19508/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대역폭을 나눠 5개의 6Gbps SATA 저장장치를!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19502/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠프파이어 오디오 X 아스텔앤컨, PATHFINDER (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19501#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19501#</guid>
-            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 진행되는 캠프파이어 오디오와의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19501/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-FOOD가 동물의 숲에 등장? (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19500#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19500#</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 직원분이 만드셨을지 대단...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19500/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
