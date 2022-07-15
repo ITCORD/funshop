@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AOC, 4K 144Hz 모니터 U28G2XU2 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19510#</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4K 고주사율에 피벗, 스탠드 높이 조절까지]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19510/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호리, 스플래툰 3 관련 액세서리 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19509#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[종이접기...라고 하는데 딱지치기가 하고 싶은 이 기분.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19503/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실버스톤, 5포트 SATA Gen3 스토리지 확장카드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19502#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19502#</guid>
-            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대역폭을 나눠 5개의 6Gbps SATA 저장장치를!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19502/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
