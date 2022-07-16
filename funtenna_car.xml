@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 09:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19506#</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴팩트한 크기와 게이밍을 위한 다양한 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19506/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도심형 전동킥보드, Apollo City 2022]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19504#</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[PS5 라이센스를 받은 NVMe SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19504/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종이접기에서 영감을 받은 지갑, Smoll Envelope Wallet]]></title>
