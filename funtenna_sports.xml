@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 04:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 09:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19510#</guid>
             <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4K 고주사율에 피벗, 스탠드 높이 조절까지]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19510/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호리, 스플래툰 3 관련 액세서리 출시 예정]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19509#</guid>
             <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스플래툰 느낌이 물씬 풍기는 액세서리들.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19509/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, GDDR6 D램 개발]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사운드바로도 쓰고 무선스피커로도 쓰고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19507/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SteelSeries, Apex Pro Mini Wireless 키보드 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19505#</guid>
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[괜찮은 빌드퀄리티의 전동킥보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19505/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, PS5 전용 WD_BLACK SN850 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19503#</guid>
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[종이접기...라고 하는데 딱지치기가 하고 싶은 이 기분.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19503/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
