@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 04:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19518#</guid>
             <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팟캐스트 진행자들을 위한 합리적인 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19518/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kingston, DataTraveler Max A타입 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19517#</guid>
             <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DataTraveler Max의 A타입]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19517/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Huntkey, 서지보호 100W GaN 충전기 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19516#</guid>
             <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[안전에 신경을 쓴 100W 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19516/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예티, 로디 48 휠 쿨러 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19514#</guid>
             <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바퀴가 달린 대용량 쿨러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19514/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BleuAir, 휴대용 4500PSI 에어 컴프레서 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -72,6 +72,38 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19510/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포커스라이트, Vocaster 시리즈 출시 예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19518#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19518#</guid>
+            <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팟캐스트 진행자들을 위한 합리적인 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19518/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kingston, DataTraveler Max A타입 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19517#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19517#</guid>
+            <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DataTraveler Max의 A타입]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19517/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huntkey, 서지보호 100W GaN 충전기 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19516#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19516#</guid>
+            <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[안전에 신경을 쓴 100W 충전기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19516/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예티, 로디 48 휠 쿨러 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19514#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19514#</guid>
+            <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바퀴가 달린 대용량 쿨러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19514/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BleuAir, 휴대용 4500PSI 에어 컴프레서 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19513#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19513#</guid>
@@ -102,38 +134,6 @@
             <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4K 고주사율에 피벗, 스탠드 높이 조절까지]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19510/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호리, 스플래툰 3 관련 액세서리 출시 예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19509#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19509#</guid>
-            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스플래툰 느낌이 물씬 풍기는 액세서리들.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19509/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, GDDR6 D램 개발 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19508#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19508#</guid>
-            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업계 최고 속도...역시 메모리는 삼성?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19508/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이티브, Creative Stage Air V2 사운드바 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19507#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19507#</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사운드바로도 쓰고 무선스피커로도 쓰고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19507/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SteelSeries, Apex Pro Mini Wireless 키보드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19506#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19506#</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[컴팩트한 크기와 게이밍을 위한 다양한 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19506/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포커스라이트, Vocaster 시리즈 출시 예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -528,7 +528,7 @@
 고아웃에 오면 브루클린웍스 부스를 꼭 방문해야 하는 이유 3가지!
 👍! 6월 신상품을 모두 만나볼 수 있다
 ✌! 현장 구매 시 한정판 굿즈..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1049/thumbnail_1.png?1655282886313" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 되찾은 이 여름, 새로운 브루클린웍스로 더 뜨겁게! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -538,7 +538,7 @@
             <content:encoded><![CDATA[/🌞2년 만에 다시 되찾은 이 여름🌞
 비워진 지난 여름날의 추억을 채우기 위해 브루클린웍스는 그 어느 때보다 뜨거운 하루하루를 보내고 있습니다. 
 특히 이번 6월, 그동안 준비해온 신상품들로 캠퍼분들의 추억..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1048/thumbnail_1.png?1655914484690" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가전 제품, 여기 어때? (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -556,7 +556,7 @@
             <pubDate>Mon, 06 Jun 2022 15:18:57 GMT</pubDate>
             <content:encoded><![CDATA[로지텍 MX 시리즈 키보드와 마우스가 새롭게 출시되며 이렇게 눈 앞에 딱!
 로지텍에서 비지니스용 이라 말하며 나름의 전략적 모델로 만들어지고 있는 MX 시리즈에서 '기계식 키보드'가 드디어 만들어졌고 그와 동..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1040/thumbnail_1.jpg?1654593426907" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#361. 돌을 자르는 톱 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -584,7 +584,7 @@
             <content:encoded><![CDATA[2022년 5월 30일 월요일 펀샵 오에보 소식입니다.
 01.&nbsp;Timekettle WT2 Edge 번역기
 올해 초 이어폰과 번역기를 동시에 할 수 있는 타임캐틀 M2 번역기를 소개해 드린 적이 있습니다. 당시 에디터는 더 이상 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1028/thumbnail_1.jpg?1653900949240" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#358. 나의 시선을 담다 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -593,7 +593,7 @@
             <pubDate>Fri, 27 May 2022 03:59:02 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 27일 금요일 펀샵 오에보 소식입니다.
 01. [프딩] 엘레컴 배낭형 핸즈프리배낭 어깨 끈에 간편하게 거치할 수 있는 클립형 스마트폰 핸즈프리입니다. 산행 길 스마트폰으로 액션캠을 대체할 수 있게 하..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1024/thumbnail_1.jpg?1653641872120" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#357. 솔드아웃을 이어가는 코타로 마치야마 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
