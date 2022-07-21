@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영원한 연필? Stilform AEON]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
+            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영원한것은 없지만...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쉐보레, 블레이저 EV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19528#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
+            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nerf Pro, Gelfire Mythic Full Auto Blaster 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19527#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19527#</guid>
+            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[초당 최대 10발 발사!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신카이 마코토 감독의 스즈메의 문단속 예고편 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19531#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오데마 피게, 로열 오크 오프쇼어 뮤직 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19521#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19521#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오옷...젊은감성의 로열 오크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19521/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Levante, 완전방수 모듈러 확장 백팩]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19520#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19520#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[완전 방수 백팩이면서 기능확장이 가능한 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19520/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노키아, 피처폰 5710 XpressAudio 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19519#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19519#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[피처폰이지만 나름 신박한 디테일이..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19519/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
