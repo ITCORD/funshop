@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 15:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 03:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19527#</guid>
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[초당 최대 10발 발사!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19527/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신카이 마코토 감독의 스즈메의 문단속 예고편 공개]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19531#</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈수록 아름다워지는 작화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19531/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루미녹스, Navy SEAL Foundation 모델 출시]]></title>
