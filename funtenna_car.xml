@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19527#</guid>
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[초당 최대 10발 발사!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19527/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신카이 마코토 감독의 스즈메의 문단속 예고편 공개]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19531#</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈수록 아름다워지는 작화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19531/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루미녹스, Navy SEAL Foundation 모델 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19525#</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레고를 봤을뿐인데 흥겹다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19525/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 픽셀아트를 그린다, 픽셀 아트보드]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이들에게 좋은...아니 내가 갖고싶은데?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

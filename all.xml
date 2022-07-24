@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19527#</guid>
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[초당 최대 10발 발사!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19527/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신카이 마코토 감독의 스즈메의 문단속 예고편 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19531#</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈수록 아름다워지는 작화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19531/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루미녹스, Navy SEAL Foundation 모델 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19525#</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레고를 봤을뿐인데 흥겹다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19525/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 픽셀아트를 그린다, 픽셀 아트보드 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이들에게 좋은...아니 내가 갖고싶은데?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -136,6 +136,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이들에게 좋은...아니 내가 갖고싶은데?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
@@ -320,12 +328,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이들에게 좋은...아니 내가 갖고싶은데?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -456,6 +456,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
@@ -512,14 +520,6 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19523/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에이수스, ROG CETRA TRUE WIRELESS PRO 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19522#</guid>
-            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 무선이 레이턴시가 얼마라고? 유선은 '0' 이다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19522/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🌞여름이 떠나기 전에, 가뿐하게 떠나 만난 여름 바다🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1081#page=1</link>
             <guid>https://www.funshop.co.kr/Story/StoryView/1081#page=1</guid>
@@ -538,7 +538,7 @@
 고아웃에 오면 브루클린웍스 부스를 꼭 방문해야 하는 이유 3가지!
 👍! 6월 신상품을 모두 만나볼 수 있다
 ✌! 현장 구매 시 한정판 굿즈..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1049/thumbnail_1.png?1655282886313" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다시 되찾은 이 여름, 새로운 브루클린웍스로 더 뜨겁게! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -566,7 +566,7 @@
             <pubDate>Mon, 06 Jun 2022 15:18:57 GMT</pubDate>
             <content:encoded><![CDATA[로지텍 MX 시리즈 키보드와 마우스가 새롭게 출시되며 이렇게 눈 앞에 딱!
 로지텍에서 비지니스용 이라 말하며 나름의 전략적 모델로 만들어지고 있는 MX 시리즈에서 '기계식 키보드'가 드디어 만들어졌고 그와 동..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1040/thumbnail_1.jpg?1654593426907" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#361. 돌을 자르는 톱 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -575,7 +575,7 @@
             <pubDate>Fri, 03 Jun 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 3일 금요일 펀샵 오에보 소식입니다.01.&nbsp;스위스밀리터리 만능 몬스터 커터
 '돌을 자르는 톱'이라고 들어보셨나요? 스위스 밀리터리의 몬스터 커터는 철은 물론 돌까지 잘라내는 만능 톱으로 사람들..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1036/thumbnail_1.jpg?1654245080333" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#360. 머리가 시원한 산소베개 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
