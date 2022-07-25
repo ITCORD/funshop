@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 15:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커세어, K70 PRO MINI WIRELESS 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19536#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19536#</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공간활용이 뛰어난 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 아타리 2600 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19535#</link>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nerf Pro, Gelfire Mythic Full Auto Blaster 출시예정]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈수록 아름다워지는 작화]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19531/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루미녹스, Navy SEAL Foundation 모델 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19526#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19526#</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SEAL 참전용사와 그 가족을 지원하는 Navy Seal Foundation을 위한 시계]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19526/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
