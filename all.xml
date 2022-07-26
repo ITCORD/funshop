@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 15:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIGISM, 슬램덩크 피규어 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19539#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19539#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북산 베스트 멤버들의 공식 라이센스 피겨화!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, 스트림 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19538#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19538#</guid>
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[루프덱과의 협업으로 탄생한 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19538/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지샥, 허프 20주년 기념 협업모델 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19537#</guid>
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허프버전 지얄오크...인가]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19537/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어, K70 PRO MINI WIRELESS 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원한것은 없지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉐보레, 블레이저 EV 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어, K70 PRO MINI WIRELESS 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -200,6 +200,22 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19540/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIGISM, 슬램덩크 피규어 출시예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19539#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19539#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북산 베스트 멤버들의 공식 라이센스 피겨화!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19539/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레이저, 스트림 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19538#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19538#</guid>
@@ -248,20 +264,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원한것은 없지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19532/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19540/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쉐보레, 블레이저 EV 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DIGISM, 슬램덩크 피규어 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19539#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19539#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북산 베스트 멤버들의 공식 라이센스 피겨화!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19539/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 스트림 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -312,20 +328,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원한것은 없지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19532/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19540/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쉐보레, 블레이저 EV 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DIGISM, 슬램덩크 피규어 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19539#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19539#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북산 베스트 멤버들의 공식 라이센스 피겨화!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19539/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 스트림 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -374,22 +390,6 @@
             <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원한것은 없지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19532/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉐보레, 블레이저 EV 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 스트림 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -456,6 +456,22 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19540/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIGISM, 슬램덩크 피규어 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19539#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19539#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북산 베스트 멤버들의 공식 라이센스 피겨화!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19539/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레이저, 스트림 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19538#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19538#</guid>
@@ -502,22 +518,6 @@
             <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원한 연필? Stilform AEON (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19532#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19532#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원한것은 없지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19532/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉐보레, 블레이저 EV 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19528#</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레의 전기 크로스오버]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19528/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌞여름이 떠나기 전에, 가뿐하게 떠나 만난 여름 바다🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
