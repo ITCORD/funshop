@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 15:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키크론, 인체공학 키보드 Q8 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19542#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19542#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[앨리스 배열의 인체공학적 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19542/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 에어 조던 3 파이어 레드 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19541#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19541#</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그 시절 그 감성 그대로]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19541/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니....E.T 카트리지는 어딨는거죠??]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19535/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OAK & IRON ONE Pro, 휴대용 ​​타이어 공기 주입기]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19534#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19534#</guid>
-            <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비슷한 공기주입기 대비 4배 빠른 속도....라고 하는데..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19534/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HEIMPLANET, 2인용 텐트 Kirra 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19533#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19533#</guid>
-            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[바람으로 훅훅!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19533/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
