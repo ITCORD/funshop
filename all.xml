@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초소형 테트리스 게임기, Asterisk (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19549#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19549#</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[손가락에 쏙!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ESQ Retro, 고전 붐박스 스타일의 블루투스 스피커 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19548#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19548#</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고전의 디테일이 살아있는 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ouTask, 텔레스코픽 랜턴 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19547#</link>
@@ -29,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19545#</guid>
             <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[과연 과거의 실망을 희망으로 바꿀수 있을것인가]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19545/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JBL, Tune Flex 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[앨리스 배열의 인체공학적 키보드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19542/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어 조던 3 파이어 레드 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19541#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19541#</guid>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그 시절 그 감성 그대로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19541/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ouTask, 텔레스코픽 랜턴 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -527,7 +527,7 @@
             <content:encoded><![CDATA[여러 날을 계속해서 내리던 장맛비가 서서히 그치고 다시 무더위가 찾아왔습니다.&nbsp;
 모든 것을 녹이는 뜨거운 여름, 브루클린웍스는 여름 바다를 만나고 왔습니다.&nbsp;
 일상을 분연히 떨치고 밖으로 나가고 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1081/thumbnail_1.png?1658392450587" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[🌊양양에서 만나요🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -538,7 +538,7 @@
 고아웃에 오면 브루클린웍스 부스를 꼭 방문해야 하는 이유 3가지!
 👍! 6월 신상품을 모두 만나볼 수 있다
 ✌! 현장 구매 시 한정판 굿즈..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1049/thumbnail_1.png?1655282886313" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다시 되찾은 이 여름, 새로운 브루클린웍스로 더 뜨겁게! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
