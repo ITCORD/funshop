@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ouTask, 텔레스코픽 랜턴]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19547#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19547#</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[텔레스코픽 되는 마그네틱 랜턴]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유유백서, 넷플릭스에서 실사화 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19546#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19540/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIGISM, 슬램덩크 피규어 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19539#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19539#</guid>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[북산 베스트 멤버들의 공식 라이센스 피겨화!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19539/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
