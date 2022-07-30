@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 15:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초소형 테트리스 게임기, Asterisk]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19549#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19549#</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[손가락에 쏙!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19549/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ESQ Retro, 고전 붐박스 스타일의 블루투스 스피커]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19548#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19548#</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고전의 디테일이 살아있는 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19548/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ouTask, 텔레스코픽 랜턴]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19547#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19547#</guid>
             <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[텔레스코픽 되는 마그네틱 랜턴]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19547/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유유백서, 넷플릭스에서 실사화 예정]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[앨리스 배열의 인체공학적 키보드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19542/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어 조던 3 파이어 레드 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19541#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19541#</guid>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그 시절 그 감성 그대로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19541/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐딜락, 순수 전기 플래그십 CELESTIQ Halo Car 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19540#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19540#</guid>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실제로 나온다구요? 그것도 곧?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19540/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
