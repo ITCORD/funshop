@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 09:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19545#</guid>
             <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[과연 과거의 실망을 희망으로 바꿀수 있을것인가]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19545/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JBL, Tune Flex 무선 이어버드 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19543#</guid>
             <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍기어의 편견을 깨는 컬렉션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19543/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키크론, 인체공학 키보드 Q8 출시]]></title>
