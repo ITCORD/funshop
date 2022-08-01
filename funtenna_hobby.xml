@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼 액티브 노이즈 캔슬링, Serena 무선 이어버드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19556#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19556#</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청력 보호를 위한 강력한 액티브 노이즈 캔슬링]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19556/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zenchey, 접이식 노트북 스탠드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19555#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19555#</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[간편하게 접어서 다니는 노트북 스탠드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19555/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dango, Carabiner & Shackle 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19554#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19554#</guid>
+            <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남자의 향취?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19554/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mercedes Benz X Master & Dynamic 컬렉션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19553#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[손가락에 쏙!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19549/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESQ Retro, 고전 붐박스 스타일의 블루투스 스피커]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19548#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19548#</guid>
-            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고전의 디테일이 살아있는 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19548/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ouTask, 텔레스코픽 랜턴]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19547#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19547#</guid>
-            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[텔레스코픽 되는 마그네틱 랜턴]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19547/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유유백서, 넷플릭스에서 실사화 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19546#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19546#</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실사화의 악몽을 떨쳐낼수 있을것인지..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19546/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
