@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 09:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 15:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파슬 X 스테이플, 한정 시계 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19557#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19557#</guid>
+            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해시계 뚜껑이 달려있다....응??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼 액티브 노이즈 캔슬링, Serena 무선 이어버드]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19556#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19555#</guid>
             <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[간편하게 접어서 다니는 노트북 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19555/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dango, Carabiner & Shackle 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[480Hz....찰나의 움직임도 파악?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19550/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초소형 테트리스 게임기, Asterisk]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19549#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19549#</guid>
-            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손가락에 쏙!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19549/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
