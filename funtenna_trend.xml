@@ -4,16 +4,16 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 15:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[레이저, DeathStalker V2 Pro 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19564#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19564#</guid>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19568#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19568#</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[옵티컬 스위치를 활용한 무선키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19564/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19568/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Airvida E1, 웨어러블 공기청정 이어버드]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19557#</guid>
             <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해시계 뚜껑이 달려있다....응??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19557/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
