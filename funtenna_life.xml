@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 04:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GaN이 내장된 HyperDrive 썬더볼트 4 허브]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19567#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19567#</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[GaN이 내장되어 간단해진 전원 연결성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19567/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abacus, 키보드형 PC]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19566#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19566#</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[라떼는 아이큐 2000이라는게 있었지....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19566/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[iVoler, 스팀덱 도킹 솔루션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19565#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19565#</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정품 독이 출시 지연이 되니....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19565/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, DeathStalker V2 Pro 키보드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19568#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[5.9인치의 플래그쉽 스마트폰]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19560/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐의 하늘을 나는 자동차]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19559#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19559#</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[현대의 'Urban Air Mobility' 같은 느낌]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19559/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Telesin, 전동 카메라 돌리 슬라이더]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19558#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19558#</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀엽지만 꼭 필요한 경우에 빛이나는 돌리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19558/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파슬 X 스테이플, 한정 시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19557#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19557#</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해시계 뚜껑이 달려있다....응??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19557/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
