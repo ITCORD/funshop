@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Geminos, 활용성을 극대화 한 듀얼모니터 시스템]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19571#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19571#</guid>
+            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멀티태스킹을 자주하는 사람들에게 추천]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19571/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker, GaNPrime 100W 727 충전 스테이션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19570#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19570#</guid>
+            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최대 6개의 장치에 동시 전원 공급]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19570/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어항이 위에 올려진 PC 케이스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19569#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19569#</guid>
+            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 이름을 그대로 실천에 옮긴...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19569/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GaN이 내장된 HyperDrive 썬더볼트 4 허브]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19567#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공기청정...뭐요?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19563/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백본 원 플레이스테이션 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19562#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19562#</guid>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PS Remote Play 앱으로 어디서나 PS게임을]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19562/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고 마리오, 피치공주 관련 제품 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19561#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19561#</guid>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어장관리의 화신인 그녀가 돌아온다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19561/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 젠폰 9 발표]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19560#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19560#</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5.9인치의 플래그쉽 스마트폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19560/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
