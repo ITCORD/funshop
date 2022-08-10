@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 09:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠하이저, 모멘텀 4 무선 헤드폰 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19580#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19580#</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[젠하이저의 인기 헤드폰, 그 최신작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시티즌, 스파이더맨 60주년 기념 시계 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19579#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리,,동년배들,,,다,,하두리,,,좋아합니다,,]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19573/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일반 카시오시계를 약간 더 스마트하게]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19572#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19572#</guid>
-            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 손목시계를 좋아하는 사람이라면 해본 상상.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19572/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
