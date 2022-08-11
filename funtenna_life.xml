@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 09:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 15:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간편하게 거치후 편하게, 클램프 테이프 디스펜서]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19586#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19586#</guid>
+            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스카치 테이프를 자주 쓴다면 아주 좋아보이는 제품]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19586/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG 무선이어폰 톤 프리 신제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19585#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19585#</guid>
+            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2년만에 출시된 신제품]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19585/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glorious, GMMK 무선 넘버패드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19584#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19584#</guid>
+            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[페이더와 노브가 특징]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19584/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킴 카다시안과 비츠의 만남]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19583#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["Beyond Amazing"]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19579/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pro-Ject, 메탈리카와의 협업 턴테이블 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19578#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19578#</guid>
-            <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Master! Master!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19578/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽클레어, Trailgrip GTX 스니커즈 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19577#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19577#</guid>
-            <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강력해보이는 몽클레어의 트레일화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19577/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donner, Dobuds ONE 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19576#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19576#</guid>
-            <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[악기샵이 만든 이어버드는 어떤느낌일까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19576/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
