@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 09:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 15:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌트 미니, 충전식 미니 EDC 손전등]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19587#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19587#</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[작은 크기, 내장형 배터리, 방수기능 그리고 티타늄]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간편하게 거치후 편하게, 클램프 테이프 디스펜서]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19586#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[젠하이저의 인기 헤드폰, 그 최신작]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19580/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시티즌, 스파이더맨 60주년 기념 시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19579#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19579#</guid>
-            <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["Beyond Amazing"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19579/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
