@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 15:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Urbanista, 무선 이어 버드 Phoenix 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19589#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19589#</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[태양광으로 충전하는 이어 버드 케이스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19589/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NuPhy, Halo65 무선 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19588#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19588#</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[앗! 흰색이다!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19588/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헌트 미니, 충전식 미니 EDC 손전등]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19587#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19587#</guid>
             <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[작은 크기, 내장형 배터리, 방수기능 그리고 티타늄]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19587/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간편하게 거치후 편하게, 클램프 테이프 디스펜서]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이머,스트리머들을 위한 오디오 인터페이스/믹서]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19582/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, ‘더 뉴 기아 레이’ 디자인 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19581#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19581#</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 대표 박스카의 새로운 변신]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19581/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠하이저, 모멘텀 4 무선 헤드폰 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19580#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19580#</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[젠하이저의 인기 헤드폰, 그 최신작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19580/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
