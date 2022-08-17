@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아디다스, RPT-02 SOL 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19595#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19595#</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 재료, 그리고 태양광 충전]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19595/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴스타 6 EV 로드스터, 양산확정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19594#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19594#</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멋지다..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19594/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고 아이디어스에 올라온 G-SHOCK 머드마스터]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19593#</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[앗! 흰색이다!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19588/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌트 미니, 충전식 미니 EDC 손전등]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19587#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19587#</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[작은 크기, 내장형 배터리, 방수기능 그리고 티타늄]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19587/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간편하게 거치후 편하게, 클램프 테이프 디스펜서]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19586#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19586#</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스카치 테이프를 자주 쓴다면 아주 좋아보이는 제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19586/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
