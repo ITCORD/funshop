@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 09:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 15:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TOOB, 자전거 튜브를 재활용한 액세서리]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19601#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19601#</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재활용이 어려운 고무튜브를 재활용하는 기발한 방법]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19601/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야마하, 플래그십 무선 이어버드 TW-E7B 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19600#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[멋지다..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19594/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고 아이디어스에 올라온 G-SHOCK 머드마스터]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19593#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19593#</guid>
-            <pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[역시 능력자들의 손이란...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19593/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
