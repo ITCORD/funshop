@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 15:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brydge, 새로운 맥북용 도킹 스테이션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19605#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19605#</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공간 활용, 연결 확장 무엇하나 빠지지 않는 도킹 스테이션]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19605/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원펀맨, 3기 제작발표]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19604#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19604#</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 그가 돌아온다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진보된 턴테이블, 테크닉스 SL-1200RE-S 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19603#</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그런데 2002는 뭐지? 월드컵?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19598/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, ACG Gaiadome 부츠 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19597#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19597#</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일반 소비자용으로는 안만든다고 그랬었는데...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creative, Sound Blaster X1 USB DAC 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19596#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19596#</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[책상위에서 거슬리지 않는 작은 크기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19596/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
