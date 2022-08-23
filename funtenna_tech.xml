@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르쉐,  911 GT3 RS 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19607#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19607#</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공도위를 다닐수 있는 궁극의 트랙머신]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19607/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MusicStar5, AMT 트위터가 탑재된 블루투스 스피커]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19606#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19606#</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리본 트위터가 아닙니다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19606/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brydge, 새로운 맥북용 도킹 스테이션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19605#</link>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19604#</guid>
             <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어 그가 돌아온다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19604/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진보된 턴테이블, 테크닉스 SL-1200RE-S 출시]]></title>
@@ -29,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19603#</guid>
             <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레퍼런스 클래스의 고급 턴테이블 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19603/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어의 새로운 XENEON 게이밍 모니터 출시]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[특이하게 생겼는걸...?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19600/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nord, 나무가 없는 연필]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19599#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19599#</guid>
-            <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나무들이 고마워할듯한 연필]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19599/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국을 모티브로 한 에어맥스 97]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19598#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19598#</guid>
-            <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그런데 2002는 뭐지? 월드컵?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19598/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
