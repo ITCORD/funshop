@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 15:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루시드 에어 사파이어 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19618#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19618#</guid>
+            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1200마력!!!!!!!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19618/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스와치 X 드래곤볼 시계 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19617#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19617#</guid>
+            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가~메~하~메~~~~하!!!!!!!!!!!!!!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19617/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반스 X 기묘한이야기 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19616#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19616#</guid>
+            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헬파이어 클럽!!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19616/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, PS5 듀얼센스 엣지 컨트롤러 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19615#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재활용 나일론으로 만든 카메라 백팩]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19611/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상태액정이 달린 썬더볼트 4 허브, CrossHub]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19610#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19610#</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[액정 달려나오는게 유행인가?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19610/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 오디세이 아크 55인치 게이밍 모니터 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19609#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19609#</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세로로 세울수가....있다고?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19609/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이오닉 6 사전계약 개시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19608#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19608#</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[첫날 3.7만대 사전계약 기록]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19608/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
