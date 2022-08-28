@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 09:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 15:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GPD Win 4 휴대용 게임PC 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19621#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19621#</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[VAIO가 떠오르는 외관]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19621/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구찌와 스탠리 큐브릭의 만남]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19620#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19620#</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022 F/W 캠페인...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19620/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커세어의 세계 최초 벤더블 모니터, 제네온 플렉스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19619#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19619#</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아니 왜 LG로 먼저 안나오고 커세어..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19619/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루시드 에어 사파이어 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19618#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[면도의 칼날...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19614/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 고성능 SSD 990 Pro 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19613#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19613#</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[앗....루머와는 다르게 4.0..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19613/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 9월 이벤트 초대장 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19612#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19612#</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 정체를 드러내는 아이폰 14]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19612/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NYA-EVO 피요르드, 친환경 백팩]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19611#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19611#</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재활용 나일론으로 만든 카메라 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19611/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
