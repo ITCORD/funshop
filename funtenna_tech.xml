@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 04:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 09:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19629#</guid>
             <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[케이스를 벗기지 않아도 되서 좋다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19629/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
