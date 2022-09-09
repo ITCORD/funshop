@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 15:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 04:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19649#</guid>
             <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니...우리나라도 좀 팔아줘라....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19649/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뱅엔올룹슨의 TV 스탠드겸 사운드바, Beosound Theatre]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19648#</guid>
             <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[개성없는 TV가 고급스러운 가구로 변신]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19648/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해즈브로, 파워레인저 메가조드 출시]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19647#</guid>
             <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무적 파워레이인저어어~~ 무적 파워레이인저어어~~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19647/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JBL Tour Pro 2 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19645#</guid>
             <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니..이렇게 한 세트를?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19645/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Atom Studios, 맥세이프 지갑 Keep 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19643#</guid>
             <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SD카드! 3.5mm 잭!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19643/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DSPTCH의 애견가방, 펫슬링]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19642#</guid>
             <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리집 멍멍이는 커서 안되겠다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19642/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
