@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 04:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 09:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19645#</guid>
             <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니..이렇게 한 세트를?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19645/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Atom Studios, 맥세이프 지갑 Keep 출시]]></title>
