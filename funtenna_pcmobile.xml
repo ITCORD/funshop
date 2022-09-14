@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페라리 최초의 SUV, 푸로산게 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19656#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19656#</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SUV의 탈을 쓴 괴물?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19656/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젤다의 전설 신작, 공식 출시일 및 타이틀 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19655#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19655#</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5월12일 출시 확정!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19655/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DROP, SENSE75 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19654#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19654#</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[프리미엄 기계식 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19654/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게이밍 오디오 인터페이스, M-GAME RGB Dual]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19653#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고성능 해치백의 'R']]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19649/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅엔올룹슨의 TV 스탠드겸 사운드바, Beosound Theatre]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19648#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19648#</guid>
-            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[개성없는 TV가 고급스러운 가구로 변신]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19648/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해즈브로, 파워레인저 메가조드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19647#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19647#</guid>
-            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[무적 파워레이인저어어~~ 무적 파워레이인저어어~~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19647/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JBL Tour Pro 2 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19646#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19646#</guid>
-            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[케이스에 터치 디스플레이가? 화면 커스텀도 가능하면 좋겠...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19646/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
