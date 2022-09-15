@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 09:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 15:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,30 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19653/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[켄코, 초소형 디지털 토이카메라 Pieni II 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19663#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19663#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여워..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19663/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mophie, snap+ 멀티 디바이스 여행용 충전기 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19662#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19662#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유,무선 최대 4개까지의 충전 가능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19662/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반다이 남코, 철권 8 트레일러 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19661#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19661#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국어판도 정식 출시 결정!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19661/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19660#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19660#</guid>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SUV의 탈을 쓴 괴물?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19656/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤다의 전설 신작, 공식 출시일 및 타이틀 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19655#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19655#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5월12일 출시 확정!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19655/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DROP, SENSE75 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19654#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19654#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19654/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게이밍 오디오 인터페이스, M-GAME RGB Dual (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19653#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19653#</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[엠오디오가???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19653/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -264,6 +264,30 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19649/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[켄코, 초소형 디지털 토이카메라 Pieni II 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19663#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19663#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여워..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19663/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mophie, snap+ 멀티 디바이스 여행용 충전기 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19662#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19662#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유,무선 최대 4개까지의 충전 가능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19662/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반다이 남코, 철권 8 트레일러 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19661#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19661#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국어판도 정식 출시 결정!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19661/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19660#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19660#</guid>
@@ -302,30 +326,6 @@
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SUV의 탈을 쓴 괴물?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19656/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤다의 전설 신작, 공식 출시일 및 타이틀 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19655#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19655#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5월12일 출시 확정!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19655/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DROP, SENSE75 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19654#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19654#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19654/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게이밍 오디오 인터페이스, M-GAME RGB Dual (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19653#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19653#</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[엠오디오가???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19653/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -525,7 +525,7 @@
             <guid>https://www.funshop.co.kr/Story/StoryView/1156#page=1</guid>
             <pubDate>Wed, 14 Sep 2022 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[▶ 본 행사는 초대권(문자)이 있으신 분에 한정해서 입장 가능합니다.]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1156/thumbnail_1.jpg?1663174500553" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 Z폴드4 & Z플립4 출시기념 댓글 이벤트 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -535,7 +535,7 @@
             <content:encoded><![CDATA[삼성 갤럭시 Z폴드4 &amp; Z플립4 사전예약
 새롭게 출시하는&nbsp;삼성 갤럭시 Z 폴드4 와 Z 플립4 를 펀샵에서 사전 예약으로 가질 수 있습니다.
 두 제품의 출시를 기념해 본 페이지의 댓글창을 통해 기대평 댓글 이..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1103/thumbnail_1.jpg?1660327537993" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌞여름이 떠나기 전에, 가뿐하게 떠나 만난 여름 바다🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -593,7 +593,7 @@
             <pubDate>Fri, 03 Jun 2022 03:41:53 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 3일 금요일 펀샵 오에보 소식입니다.01.&nbsp;스위스밀리터리 만능 몬스터 커터
 '돌을 자르는 톱'이라고 들어보셨나요? 스위스 밀리터리의 몬스터 커터는 철은 물론 돌까지 잘라내는 만능 톱으로 사람들..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1036/thumbnail_1.jpg?1654245080333" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#360. 머리가 시원한 산소베개 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
