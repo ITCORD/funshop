@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 15:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[켄코, 초소형 디지털 토이카메라 Pieni II 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19663#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19663#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여워..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mophie, snap+ 멀티 디바이스 여행용 충전기 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19662#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19662#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유,무선 최대 4개까지의 충전 가능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반다이 남코, 철권 8 트레일러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19661#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19661#</guid>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국어판도 정식 출시 결정!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19660#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19656#</guid>
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SUV의 탈을 쓴 괴물?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19656/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤다의 전설 신작, 공식 출시일 및 타이틀 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19655#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19655#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5월12일 출시 확정!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19655/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DROP, SENSE75 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19654#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19654#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19654/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게이밍 오디오 인터페이스, M-GAME RGB Dual]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19653#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19653#</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[엠오디오가???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19653/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
