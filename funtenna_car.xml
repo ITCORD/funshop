@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 04:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19663#</guid>
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여워..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19663/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[mophie, snap+ 멀티 디바이스 여행용 충전기 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19662#</guid>
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유,무선 최대 4개까지의 충전 가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19662/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반다이 남코, 철권 8 트레일러 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19661#</guid>
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국어판도 정식 출시 결정!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19661/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19658#</guid>
             <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[M.2 SSD 장착가능!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19658/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠하이저, AMBEO Soundbar Plus 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19656#</guid>
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SUV의 탈을 쓴 괴물?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19656/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
