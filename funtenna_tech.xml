@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 15:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW, 재활용 어망으로 만든 부품 사용 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19666#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19666#</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바다의 골칫거리 폐어망..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19666/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매킨토시, 프리미엄 센터 스피커 XCS1.5K 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19665#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19665#</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1,500 와트 출력의 다연장포??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19665/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫셀블라드, 중형 미러리스 X2D 100C 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19664#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19664#</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[X시리즈 최초 1억화소 센서 탑재]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19664/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄코, 초소형 디지털 토이카메라 Pieni II 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19663#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탄소발자국을 75%까지 줄이는 공법]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19659/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JSAUX, 스팀덱용 6 in 1 도킹스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19658#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19658#</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[M.2 SSD 장착가능!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19658/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠하이저, AMBEO Soundbar Plus 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19657#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19657#</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MAX보다 컴팩트하지만 몰입감 넘치는 사운드는 그대로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19657/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페라리 최초의 SUV, 푸로산게 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19656#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19656#</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SUV의 탈을 쓴 괴물?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19656/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
