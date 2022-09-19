@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 15:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포칼의 헤드폰 유토피아 신제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19668#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19668#</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포칼의 플래그십 헤드폰의 새로운 업그레이드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19668/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키아누 리브스의 '콘스탄틴' 이 속편 제작 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19667#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19667#</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["This is Constantine, John Constantine axxhole!!"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19667/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BMW, 재활용 어망으로 만든 부품 사용 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19666#</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국어판도 정식 출시 결정!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19661/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bose, 2세대 QuietComfort 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19660#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19660#</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사운드의 Bose, 그 두번째 QuietComfort]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19660/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 친환경 스포츠웨어 Forward 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19659#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19659#</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탄소발자국을 75%까지 줄이는 공법]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19659/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
