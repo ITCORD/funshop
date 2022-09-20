@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 15:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJI, 오즈모 액션 3 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19670#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19670#</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더 강력해진 성능으로 등장]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Twelve south, 아이폰 14 시리즈용 BookBook 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19669#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19669#</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제 슬슬 등장하는 아이폰 14 시리즈용 액세서리들...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포칼의 헤드폰 유토피아 신제품 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19668#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19668#</guid>
             <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포칼의 플래그십 헤드폰의 새로운 업그레이드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19668/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키아누 리브스의 '콘스탄틴' 이 속편 제작 예정]]></title>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19667#</guid>
             <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["This is Constantine, John Constantine axxhole!!"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19667/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BMW, 재활용 어망으로 만든 부품 사용 예정]]></title>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19663#</guid>
             <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여워..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19663/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[mophie, snap+ 멀티 디바이스 여행용 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19662#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19662#</guid>
-            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유,무선 최대 4개까지의 충전 가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19662/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반다이 남코, 철권 8 트레일러 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19661#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19661#</guid>
-            <pubDate>Fri, 16 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국어판도 정식 출시 결정!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19661/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
