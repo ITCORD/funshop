@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 09:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아디다스, 헬로키티 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19675#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19675#</guid>
+            <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아...삼선 츄리닝 키티는 못참지..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 엑스페리아 1 IV 용 액티브 쿨러 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19674#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19674#</guid>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꽤나 멋져보이는 모바일 게이밍 액세서리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19674/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 재팬, 22 F/W MATERNITY+ 공개]]></title>
@@ -61,14 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19668#</guid>
             <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포칼의 플래그십 헤드폰의 새로운 업그레이드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키아누 리브스의 '콘스탄틴' 이 속편 제작 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19667#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19667#</guid>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["This is Constantine, John Constantine axxhole!!"]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
