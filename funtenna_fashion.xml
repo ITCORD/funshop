@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 15:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니, PS5 그레이 카모 컬렉션 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19680#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19680#</guid>
+            <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 공기청정기도 바꿀때가 되었나...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19680/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴발란스 X 팔라스, MT580 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19679#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19679#</guid>
+            <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[라떼는 580이....크흑..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19679/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키크론의 경량 광 마우스, M3 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19678#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19678#</guid>
+            <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[키크론 최초의 무선마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19678/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DROP, 녹투아 키캡세트 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19677#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[육아를 하고있는 엄마, 아빠를 위한 의류]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19673/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALPAKA의 허브키체인 호환 지퍼 파우치]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19672#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19672#</guid>
-            <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가볍게 들고다닐수 있는 실용적인 지퍼 파우치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19672/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 3.1 채널 돌비 애트모스 사운드바 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19671#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19671#</guid>
-            <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드마다 가성비 제품들이 하나 둘..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19671/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJI, 오즈모 액션 3 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19670#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19670#</guid>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[더 강력해진 성능으로 등장]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19670/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
