@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 15:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 04:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19680#</guid>
             <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내 공기청정기도 바꿀때가 되었나...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19680/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴발란스 X 팔라스, MT580 공개]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19679#</guid>
             <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[라떼는 580이....크흑..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19679/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키크론의 경량 광 마우스, M3 출시예정]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19678#</guid>
             <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키크론 최초의 무선마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19678/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DROP, 녹투아 키캡세트 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19674#</guid>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꽤나 멋져보이는 모바일 게이밍 액세서리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19674/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 재팬, 22 F/W MATERNITY+ 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19673#</guid>
             <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[육아를 하고있는 엄마, 아빠를 위한 의류]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19673/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
