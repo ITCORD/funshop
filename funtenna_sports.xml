@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 15:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 04:45:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아스텔앤컨, 차세대 플래그쉽 DAP SP3000 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19690#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19690#</guid>
+            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[DAP 끝판왕의 귀환]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소형 전기 캠핑카, Potential Motors Adventure 1]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19689#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노스 프로젝트의 첫 신발 컬렉션]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19683/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AirBox Go, 3 in 1 맥세이프 배터리 팩]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19682#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19682#</guid>
-            <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3개의 기기를 동시 충전하는 휴대용 배터리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19682/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
