@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 09:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 15:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이케아, 음악을 위한 가구 컬렉션 OBEGRÄNSAD 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19697#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19697#</guid>
+            <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스웨디시 하우스 마피아와의 협업으로 제작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19697/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alterbell, 접이식 3 in 1 충전 스탠드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19696#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19696#</guid>
+            <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[잘 접어서 편하게 휴대!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19696/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미러리스 카메라를 위한 백팩, 키보코 시티 커뮤터]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19695#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19695#</guid>
+            <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[컨텐츠 크리에이터를 위한 다양한 수납]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19695/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로지텍, G 클라우드 휴대용 게임콘솔 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19694#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DAP 끝판왕의 귀환]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19690/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소형 전기 캠핑카, Potential Motors Adventure 1]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19689#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19689#</guid>
-            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이 작은 전기자동차가 오프로드에 캠핑까지?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19689/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Civilist x Nike, 에어포스 원 로우 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19688#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19688#</guid>
-            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[온도에 따라 색이 변한다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19688/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(펀샵 판매예정) 초소형 장착식 EDC 나이프, EDCEST]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19687#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19687#</guid>
-            <pubDate>Tue, 27 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴대가 간편해야 의미가 있는 EDC, 그에 부합하는 나이프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19687/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
