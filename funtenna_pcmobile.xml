@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 15:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 04:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19690#</guid>
             <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DAP 끝판왕의 귀환]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19690/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
