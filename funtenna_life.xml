@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 09:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19694#</guid>
             <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 게이밍이라....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19694/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니어 오토마타, TV 애니메이션 방영 확정]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19691#</guid>
             <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아포지의 하이파이 사운드를 저렴한 가격으로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19691/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아스텔앤컨, 차세대 플래그쉽 DAP SP3000 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19690#</guid>
             <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DAP 끝판왕의 귀환]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19690/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
