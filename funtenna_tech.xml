@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 03:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 09:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19696#</guid>
             <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[잘 접어서 편하게 휴대!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19696/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미러리스 카메라를 위한 백팩, 키보코 시티 커뮤터]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19693#</guid>
             <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[또다시 꿈도 희망도 없을것인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19693/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 갤럭시 준지(JUUN.J) 에디션 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19691#</guid>
             <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아포지의 하이파이 사운드를 저렴한 가격으로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19691/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아스텔앤컨, 차세대 플래그쉽 DAP SP3000 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19690#</guid>
             <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DAP 끝판왕의 귀환]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19690/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
