@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 04:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19700#</guid>
             <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배트 시그널!!!!!!!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19700/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에드 시런과 포켓몬스터의 만남]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19699#</guid>
             <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포켓몬의 열정적인 팬이기도 한 에드 시런]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19699/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, 맥 전용 MX Mechanical Mini 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19695#</guid>
             <pubDate>Fri, 30 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컨텐츠 크리에이터를 위한 다양한 수납]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19695/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, G 클라우드 휴대용 게임콘솔 공개]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19694#</guid>
             <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 게이밍이라....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19694/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니어 오토마타, TV 애니메이션 방영 확정]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19693#</guid>
             <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[또다시 꿈도 희망도 없을것인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19693/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
