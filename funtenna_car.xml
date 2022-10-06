@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 15:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 03:58:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19703#</guid>
             <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대가 간편한 업무용 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19703/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴라로이드, 새로운 블루투스 스피커 라인업 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19701#</guid>
             <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Seal이라는 가수를 아십니까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19701/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, ROG Phone 6 Batman Edition 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19700#</guid>
             <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배트 시그널!!!!!!!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19700/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
