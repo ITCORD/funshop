@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 15:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 04:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19713#</guid>
             <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[잭 블랙의 쿠파!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19713/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AKEEYO AKY-998GX, 오토바이용 전, 후면 카메라]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19706#</guid>
             <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역시 울버린은 휴 잭맨이...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19706/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
