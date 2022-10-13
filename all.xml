@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 15:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19721#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그들의 두번째 만남]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -136,6 +136,30 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19721#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19721#</guid>
@@ -176,28 +200,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -240,28 +264,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -304,28 +328,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -368,28 +392,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -432,28 +456,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포칼, 배티스 하이엔드 블루투스 헤드폰 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19724#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19723#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19723#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용해보이는 자석달린 파우치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Acer, 세계에서 가장 가벼운 16인치 OLED 노트북 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19722#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -496,30 +520,6 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울트라 로우 프로파일 기계식 키보드, 커세어 K100 에어 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19716#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펜타그래프 아닙니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19716/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸브, 스팀 덱용 도킹 스테이션 정식 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19715#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19715#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니콘인줄 알았다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19715/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PS5용 파이트 패드, Victrix Pro BFG 컨트롤러 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19714#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19714#</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나름 수요가 있는 격투용 게임 패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19714/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[WEEKLY BEST] 10월 1주차 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1210#page=1</link>
             <guid>https://www.funshop.co.kr/Story/StoryView/1210#page=1</guid>
@@ -536,7 +536,7 @@
             <content:encoded><![CDATA[국내 최초 마시는 샤*주스 오리진 아미네이드&nbsp;Nº6
 피부과 명품 시술주사 성분 7종과, 프랑스 DSM의 고농축 순수 아미노산 마시는 스킨 부스터&nbsp;🔥
 섬유아세포의 기능활성 및 주름 및 탄력이 떨어진 피부..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1192/thumbnail_1.png?1664475649003" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뒤 프리마켓 초대장 안내 공지! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -554,7 +554,7 @@
             <content:encoded><![CDATA[삼성 갤럭시 Z폴드4 &amp; Z플립4 사전예약
 새롭게 출시하는&nbsp;삼성 갤럭시 Z 폴드4 와 Z 플립4 를 펀샵에서 사전 예약으로 가질 수 있습니다.
 두 제품의 출시를 기념해 본 페이지의 댓글창을 통해 기대평 댓글 이..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1103/thumbnail_1.jpg?1660327537993" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌞여름이 떠나기 전에, 가뿐하게 떠나 만난 여름 바다🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -564,7 +564,7 @@
             <content:encoded><![CDATA[여러 날을 계속해서 내리던 장맛비가 서서히 그치고 다시 무더위가 찾아왔습니다.&nbsp;
 모든 것을 녹이는 뜨거운 여름, 브루클린웍스는 여름 바다를 만나고 왔습니다.&nbsp;
 일상을 분연히 떨치고 밖으로 나가고 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1081/thumbnail_1.png?1658392450587" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌊양양에서 만나요🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -575,7 +575,7 @@
 고아웃에 오면 브루클린웍스 부스를 꼭 방문해야 하는 이유 3가지!
 👍! 6월 신상품을 모두 만나볼 수 있다
 ✌! 현장 구매 시 한정판 굿즈..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1049/thumbnail_1.png?1655282886313" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 되찾은 이 여름, 새로운 브루클린웍스로 더 뜨겁게! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
