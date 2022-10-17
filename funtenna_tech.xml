@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 04:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 09:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19725#</guid>
             <pubDate>Mon, 17 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[예쁘긴한데 가격이....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19725/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(펀샵판매중) 포칼, 배티스 하이엔드 블루투스 헤드폰 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19724#</guid>
             <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[과연 포칼의 명성은 무선에서도 이어질것인가?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19724/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마그네틱 파우치가 있는 Velites Storm 피트니스 백팩]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19722#</guid>
             <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[물론 "16인치" 중에서..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, 사운드 블래스터 카타나 V2X 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19721#</guid>
             <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사운드 블래스터 최신 게이밍 사운드바]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19721/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, SanDisk Professional PRO-G40 SSD 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19720#</guid>
             <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전문가들을 위한 프로페셔널 외장 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19720/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
