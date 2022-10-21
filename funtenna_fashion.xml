@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 15:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 04:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(펀샵판매중) 매킨토시 RS250 리뷰]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19740#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19740#</guid>
+            <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[푸른눈의 전설이 제안하는 홈오디오 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태그호이어, 마리오 카트 한정판 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19739#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19738#</guid>
             <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스타리아를 눌러 놓은....듯한...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19738/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레노버, 롤스크린 노트북 및 스마트폰 공개]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19737#</guid>
             <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상소문 에디션........흑....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YSMART MQ3, 마그네틱 퀵 릴리즈 EDC 라이트]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[크리스토퍼 래번의 지속가능함에 대한 제안]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19733/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스메그 X 뵈브 클리코 냉장고 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19732#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19732#</guid>
-            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가슴을 움직이는 옐로우 라벨]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19732/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
