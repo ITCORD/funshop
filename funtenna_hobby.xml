@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 15:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 04:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨로이, Apex Note Sleeve 지갑 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19743#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19743#</guid>
+            <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[벨로이에서 가장 얇은 지갑]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19743/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, ENKI PRO AUTOMOBILI 람보르기니 에디션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19742#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19742#</guid>
+            <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[람보르기니...는 못사지만 이 의자는..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19742/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애즈락, 소닉 Z790 PG 메인보드 유출]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19741#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19741#</guid>
             <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[소닉이 메인보드에...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19741/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(펀샵판매중) 매킨토시 RS250 리뷰]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[강력한 자석으로 간편하게 휴대 및 빠른 사용]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19736/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르윗, CONNECT 6 오디오 인터페이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19735#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19735#</guid>
-            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍, 팟캐스트, 컨텐츠 제작자들을 위한 다양한 입출력]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19735/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[iFory, 고속 충전이 가능한 40,000mAh 보조 배터리]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19734#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19734#</guid>
-            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아웃도어에서 사용하기 좋은 내구성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19734/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
