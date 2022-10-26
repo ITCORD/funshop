@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 15:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 04:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 테이블 축구 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19751#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19751#</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재밌긴 할것 같은데....레고 가격 왜이러냐..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티타늄과 황동으로 만든 볼트 카라비너]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19750#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19749#</guid>
             <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그래..정말 헨리카빌만한 슈퍼맨이 없지.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19749/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지프, 새로운 전기 SUV 어벤저 공개]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19747#</guid>
             <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[75% 컴팩트 레이아웃]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19747/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 클라우드 게이밍 콘솔 EDGE 공개]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19746#</guid>
             <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[너도 나도 클라우드 게임기를....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19746/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파티 스피커, Tronsmart Bang Mini]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19744#</guid>
             <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 가죽으로 만든 무선충전기......응?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19744/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨로이, Apex Note Sleeve 지갑 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19743#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19743#</guid>
-            <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[벨로이에서 가장 얇은 지갑]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19743/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
