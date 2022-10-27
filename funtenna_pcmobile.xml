@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 04:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19753#</guid>
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IPX7 등급으로 어디에서든 음악을 감상]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19753/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤랜드, 50주년 기념 콘셉트 모델 피아노 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19751#</guid>
             <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재밌긴 할것 같은데....레고 가격 왜이러냐..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19751/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티타늄과 황동으로 만든 볼트 카라비너]]></title>
@@ -53,15 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19750#</guid>
             <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스팀펑크의 향취가...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헨리 카빌이 다시 슈퍼맨으로 돌아온다.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19749#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19749#</guid>
-            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그래..정말 헨리카빌만한 슈퍼맨이 없지.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19750/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지프, 새로운 전기 SUV 어벤저 공개]]></title>
@@ -69,7 +61,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19748#</guid>
             <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배터리로 굴러가는 지프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19748/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키크론, K3 Pro 무선 커스텀 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19747#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19747#</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[75% 컴팩트 레이아웃]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19747/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

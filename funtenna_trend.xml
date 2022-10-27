@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 04:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바워스앤윌킨스, PX8 007 에디션 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19755#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19755#</guid>
+            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["Bond. James Bond."]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19755/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키, 에어조던 5 고어텍스 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19754#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19754#</guid>
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고어텍스! 조던5! 서태웅!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19754/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브, MUVO Go 아웃도어 스피커 공개]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19753#</guid>
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IPX7 등급으로 어디에서든 음악을 감상]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19753/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤랜드, 50주년 기념 콘셉트 모델 피아노 공개]]></title>
@@ -48,14 +56,6 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19750/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헨리 카빌이 다시 슈퍼맨으로 돌아온다.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19749#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19749#</guid>
-            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그래..정말 헨리카빌만한 슈퍼맨이 없지.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19749/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지프, 새로운 전기 SUV 어벤저 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19748#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19748#</guid>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19747#</guid>
             <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[75% 컴팩트 레이아웃]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19747/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
