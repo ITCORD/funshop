@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 15:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 04:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19758#</guid>
             <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실용적이면서 멋진 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19758/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메갈로돈, NINDOIO 매크로 패드 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19756#</guid>
             <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스프링이 내장??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19756/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바워스앤윌킨스, PX8 007 에디션 헤드폰 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -77,7 +77,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19758#</guid>
             <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실용적이면서 멋진 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19758/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메갈로돈, NINDOIO 매크로 패드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -85,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19757#</guid>
             <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임보이 어드밴스 그 형태 그대로!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19757/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MUJJO, 아이폰용 풀 가죽 마그네틱 지갑 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -93,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19756#</guid>
             <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스프링이 내장??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19756/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바워스앤윌킨스, PX8 007 에디션 헤드폰 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -141,7 +141,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19758#</guid>
             <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실용적이면서 멋진 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19758/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메갈로돈, NINDOIO 매크로 패드 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -293,7 +293,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19755#</guid>
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["Bond. James Bond."]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19755/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키, 에어조던 5 고어텍스 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -520,6 +520,17 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19751/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WEEKLY BEST] 10월 4주차 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/1280#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/1280#page=1</guid>
+            <pubDate>Fri, 28 Oct 2022 04:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[🥇 사이버보드 터미널 기계식 키보드
+기계식 스위치 등을 손맛에 맞게 교체함은 기본이며, 스위치의 RGB LED 그리고,&nbsp;
+오직 사이버보드 터미널에서만 경험할 수 있는 광활한 면적의 디스플레이까지도
+자유롭..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[✨AZIO Cascade 무선 키보드와 Minbay 픽셀 아트 이벤트✨ (펀샵 ─ 펀테나 ─ 스토리)]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1255#page=1</link>
             <guid>https://www.funshop.co.kr/Story/StoryView/1255#page=1</guid>
@@ -529,7 +540,7 @@
 현재 [프딩]에서 두 가지 상품 이벤트를 진행하고 있습니다!!🥳
 먼저 첫 번째는 AZIO CasCade 기계식 무선 키보드!
 AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1255/thumbnail_1.jpg?1666806771680" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY BEST] 10월 3주차 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -539,7 +550,7 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <content:encoded><![CDATA[[프딩] Eilik 로봇
 일상은 다시 정상 수준으로 회복되었지만, 후유증으로 인해 우울과 상실감 등을 겪게 된 코로나 블루는 여전히 진행중에 있습니다.&nbsp;
 1인 가구의 비중이 사회에서 가장 외로운 시대에 찾아..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1248/thumbnail_1.png?1666288012570" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY BEST] 10월 1주차 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -548,7 +559,7 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <pubDate>Fri, 07 Oct 2022 04:06:28 GMT</pubDate>
             <content:encoded><![CDATA[Melgeek Mojo84 기계식 무선 키보드
 투명한 플라스틱 바디에 담긴 독보적인 매력의 키보드 Melgeek Mojo 무선 키보드가 F1~F12 키 배열이 추가된 Mojo84로 돌아왔습니다. 전 세계 수많은 유저들로부터 호평받은 68 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1210/thumbnail_1.png?1665133264137" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY BEST] 9월 5주차 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -558,7 +569,7 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <content:encoded><![CDATA[국내 최초 마시는 샤*주스 오리진 아미네이드&nbsp;Nº6
 피부과 명품 시술주사 성분 7종과, 프랑스 DSM의 고농축 순수 아미노산 마시는 스킨 부스터&nbsp;🔥
 섬유아세포의 기능활성 및 주름 및 탄력이 떨어진 피부..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1192/thumbnail_1.png?1664475649003" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뒤 프리마켓 초대장 안내 공지! (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -566,7 +577,7 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <guid>https://www.funshop.co.kr/Story/StoryView/1156#page=1</guid>
             <pubDate>Wed, 14 Sep 2022 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[▶ 본 행사는 초대권(문자)이 있으신 분에 한정해서 입장 가능합니다.]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1156/thumbnail_1.jpg?1663174500553" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 Z폴드4 & Z플립4 출시기념 댓글 이벤트 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -576,7 +587,7 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <content:encoded><![CDATA[삼성 갤럭시 Z폴드4 &amp; Z플립4 사전예약
 새롭게 출시하는&nbsp;삼성 갤럭시 Z 폴드4 와 Z 플립4 를 펀샵에서 사전 예약으로 가질 수 있습니다.
 두 제품의 출시를 기념해 본 페이지의 댓글창을 통해 기대평 댓글 이..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1103/thumbnail_1.jpg?1660327537993" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌞여름이 떠나기 전에, 가뿐하게 떠나 만난 여름 바다🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -586,7 +597,7 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <content:encoded><![CDATA[여러 날을 계속해서 내리던 장맛비가 서서히 그치고 다시 무더위가 찾아왔습니다.&nbsp;
 모든 것을 녹이는 뜨거운 여름, 브루클린웍스는 여름 바다를 만나고 왔습니다.&nbsp;
 일상을 분연히 떨치고 밖으로 나가고 ..]]></content:encoded>
-            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1081/thumbnail_1.png?1658392450587" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌊양양에서 만나요🌊 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -986,15 +997,6 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <content:encoded><![CDATA[꽃도 피고 따뜻해진 날씨에 들뜨는 요즘입니다.
 하지만 사무실, 학교 등 어딘가 갇힌&nbsp;&nbsp;우리는 나른함과 춘곤증으로 고통을 받고 있습니다.
 오늘은 나른한 당신을 위해 펀샵 능력고사를(응?) 준비했습니..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#326. 비밀을 간직한 나만의 공간 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/960#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/960#page=1</guid>
-            <pubDate>Tue, 12 Apr 2022 03:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 12일 화요일 펀샵 오에보 소식입니다.
-01.&nbsp;[주문제작] 이탈파마 스팀펑크 스켈레톤마치 해적선을 타고 등장할 것 같은 정교한 해골 흉상. 사후에 인조인간으로 개조된 듯한 기계적인 구조. 꽤 계급..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
