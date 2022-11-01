@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 09:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 15:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이저, 인터넷 방송용 블루스크린 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19767#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19767#</guid>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레이저의 스트리밍에 대한 진심]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반스, 원피스 협업 제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19766#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19766#</guid>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[We are!!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스컬캔디, 스트리트 파이터 PLYR 게임 헤드셋 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19765#</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[끊어갈테면 끊어가봐..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19760/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충전식 헤드램프, 헤드램프 800프로]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19759#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19759#</guid>
-            <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[초소형 디자인에 전문가 수준의 성능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19759/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Brand, Palmer 유틸리티 나이프]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19758#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19758#</guid>
-            <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실용적이면서 멋진 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19758/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
