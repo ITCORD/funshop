@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 09:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오디오 테크니카, 휴대용 턴테이블 사운드 버거 재출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19771#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19771#</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[60주년 기념으로 40년만에 부활하는 사운드버거]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[V-MAG, 모듈식 콤비네이션 카드 홀더]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19770#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19770#</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 기능을 가진 카드 홀더]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이즈 변형 여행용 캐리어, VELO Luggage]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19769#</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Ear(1)에 이은 NOTHING의 두번째 무선 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19764/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pro-Ject 오디오, 컬러풀 오디오 세트]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19763#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19763#</guid>
-            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[올인원 아날로그 오디오 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19763/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anker, 피카츄 진화 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19762#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19762#</guid>
-            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아..그래도 라이츄로는 진화 안시킬거잖아...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19762/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
