@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 04:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 09:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이즈 변형 여행용 캐리어, VELO Luggage]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19769#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19769#</guid>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[짐의 양만큼 줄이거나 늘리는 똑똑한 3-in-1 캐리어]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티타늄 피젯토이, Triangular Ti Slider]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19768#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19768#</guid>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[피젯토이 붐일때가 있었는데..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19768/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, 인터넷 방송용 블루스크린 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19767#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19767#</guid>
             <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레이저의 스트리밍에 대한 진심]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19767/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반스, 원피스 협업 제품 출시]]></title>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19762#</guid>
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아..그래도 라이츄로는 진화 안시킬거잖아...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19762/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KRK, 휴대용 스피커 GoAux 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19761#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19761#</guid>
-            <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴대용이라기엔 배터리가 없는게..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19761/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강력한 자전거 잠금장치, LITELOK X1]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19760#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19760#</guid>
-            <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[끊어갈테면 끊어가봐..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19760/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

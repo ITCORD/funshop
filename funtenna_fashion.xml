@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 04:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 09:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19769#</guid>
             <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[짐의 양만큼 줄이거나 늘리는 똑똑한 3-in-1 캐리어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19769/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티타늄 피젯토이, Triangular Ti Slider]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19766#</guid>
             <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[We are!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19766/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스컬캔디, 스트리트 파이터 PLYR 게임 헤드셋 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19762#</guid>
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아..그래도 라이츄로는 진화 안시킬거잖아...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19762/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
