@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 04:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19776#</guid>
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1UP!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19776/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SSL, CONNEX 쿼드 어레이 USB 마이크 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19775#</guid>
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일상 생활 영역에선 만능인 마이크? SSL에서?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19775/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 테크니카, 하이엔드 무선 헤드폰 ATH-WB2022 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19774#</guid>
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아직은 어색한 무선과 하이엔드라는 단어.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19774/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xeter Spark, 4-in-1 모듈식 손전등]]></title>
