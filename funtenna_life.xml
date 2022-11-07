@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 09:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1MORE, Aero 무선 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19783#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19783#</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시네마틱 3D 오디오]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오디오 테크니카, 60주년 기념 턴테이블 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19782#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19782#</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[투명하다!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 빠른 신발? Shift Robotics의 Moonwalker]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19780#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19780#</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최첨단 힐리스인가.......했는데...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, PS VR2 출시일 및 가격공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19779#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일상 생활 영역에선 만능인 마이크? SSL에서?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19775/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오디오 테크니카, 하이엔드 무선 헤드폰 ATH-WB2022 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19774#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19774#</guid>
-            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아직은 어색한 무선과 하이엔드라는 단어.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xeter Spark, 4-in-1 모듈식 손전등]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19773#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19773#</guid>
-            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 용도로 변신하는 손전등....그러면 손전등이 아닌가?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19773/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VANS X TSP, 스케이트 하이 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19772#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19772#</guid>
-            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스케이트 보드=토니 호크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19772/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
