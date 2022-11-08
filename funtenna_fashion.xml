@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 15:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 03:59:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19783#</guid>
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시네마틱 3D 오디오]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19783/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 테크니카, 60주년 기념 턴테이블 출시예정]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19782#</guid>
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[투명하다!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19782/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가장 빠른 신발? Shift Robotics의 Moonwalker]]></title>
@@ -29,7 +29,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19780#</guid>
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최첨단 힐리스인가.......했는데...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19780/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air.0, 폴더블 블루투스 마우스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19781#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19781#</guid>
+            <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[접어서 이동.  최강의 휴대성을 가진 블루투스 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19781/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니, PS VR2 출시일 및 가격공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1UP!!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19776/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSL, CONNEX 쿼드 어레이 USB 마이크 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19775#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19775#</guid>
-            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일상 생활 영역에선 만능인 마이크? SSL에서?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19775/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
