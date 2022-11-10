@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 09:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 15:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 갤럭시 Z플립4 메종 마르지엘라 에디션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19794#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19794#</guid>
+            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[혁신이라 불리던 브랜드와의 만남]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19794/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지윤테크, Zhiyun SMOOTH 5S 스마트폰 짐벌 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19793#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19793#</guid>
+            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[꾸준히 짐벌을 제작하는 지윤테크의 새로운 스마트폰 짐벌]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리에이티브, 페블 프로 스피커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19792#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19792#</guid>
+            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리에이티브의 대표적인 PC 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이수스, ROG Falchion Ace 키보드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19791#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19789#</guid>
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진한 워크웨어의 향취가 느껴지는 부츠]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19789/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMSL, SU-9 PRO DAC 출시]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19787#</guid>
             <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[플레이스테이션 공식 라이선스 헤드셋.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19787/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3가지 기기를 동시에 충전, Anker 3-in-1 큐브]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19786#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19786#</guid>
-            <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공간을 효율적으로 쓰자..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19786/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 덩크 로우 프루티 페블스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19785#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19785#</guid>
-            <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프루티~ 한 시리얼의 느낌 그대로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19785/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬램덩크 극장판 공식 예고편 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19784#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19784#</guid>
-            <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[설마...피어스?? 주인공은 송태섭??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19784/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
