@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 03:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펀샵에 한파주의보가 떴따?]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/1340#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/1340#page=1</guid>
+            <pubDate>Mon, 14 Nov 2022 09:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 정말 '겨울이다' 느낄 정도로 일교차가 크고, 날씨도 점점 쌀쌀해지는 것 같아요~
+특히 이맘때쯤 감기가 유행이죠! 더 추워지기 전에 따뜻한 아이템을 장만해야 할 때인 것 같습니다.
+&amp;amp;amp;amp;amp;a..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WEEKLY BEST} 11월 2주차]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1334#page=1</link>
@@ -473,15 +483,6 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <pubDate>Mon, 14 Nov 2022 03:56:01 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 20일 수요일 펀샵 오에보 소식입니다.
 01.&nbsp;[프딩] 최고 수준의 신축성과 방수 능력의 X-SUIT 2.1놀라운 신축성의 6방향 스트레치, 주름방지, 얼룩과 악취 방지, 경량 및 통기성, 오랜 착용을 가능..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#330. 데이비드 호크니의 봄]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/970#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/970#page=1</guid>
-            <pubDate>Mon, 14 Nov 2022 03:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 18일 월요일 펀샵 오에보 소식입니다.
-01.[주문제작]아티쉬 데이비드 호크니(David Hockney)'현존하는 가장 비싼 작가'란 별명이 붙은 데이비드 호크니 작품을 펀샵에서 소개해드립니다. '예술가의 초상..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
