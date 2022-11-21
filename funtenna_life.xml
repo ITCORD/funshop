@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 15:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 03:47:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘가토, 스트림 덱 플러스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19815#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19815#</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Tap, Turn, Touch.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 에펠탑 모델 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19814#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19814#</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크다...크고 아름다워..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랙탈 디자인, Ridge 케이스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19813#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19813#</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PC케이스가 인테리어를 망친다고? No~ No~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, NAGA V2 PRO 무선 마우스 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19812#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19812#</guid>
             <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교체 가능한 측면 플레이트 그리고 휠의 미세조정]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19812/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충전식 가열 보온병, Kimos]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19808#</guid>
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[접이식에 전기자전거인데 11kg??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SANDMARC 아이폰용 드라마 편광판 필터]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19807#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19807#</guid>
-            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰 사진에 편광 필터를 원한다면..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드불레이싱, 카본소재의 전기 스쿠터 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19806#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19806#</guid>
-            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카본은 옳다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NITECORE, BB2 무선 블로어 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19805#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19805#</guid>
-            <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[블로어 베이비의 업그레이드 후속제품!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
