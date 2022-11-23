@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 09:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 15:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풀 카본 전기자전거, Carbon One]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19824#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19824#</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[풀카본으로 풀사이즈 전기자전거를 더 가볍게]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로디 에사니와의 협업 파워비츠 프로]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19823#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19823#</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[강제 거리두기용 어이폰?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Teenage Engineering, Choir 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19822#</link>
@@ -37,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19819#</guid>
             <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 붙이고 충전하고 연결하고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19819/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(프딩예정) 아름다운 금속 볼펜, 한셉트 제로]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[크으...아이맥 G3의 갬성이..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19817/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 911 다카르 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19816#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19816#</guid>
-            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다카르 랠리의 영혼을 담은 911]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19816/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘가토, 스트림 덱 플러스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19815#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19815#</guid>
-            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Tap, Turn, Touch.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
