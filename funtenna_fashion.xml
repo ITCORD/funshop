@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 03:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 09:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19829#</guid>
             <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[5....5천달러...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reebok X DC, 영웅과 악당을 모티브로 한 스니커즈]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19825#</guid>
             <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[요망한 박스로고...그것도 두개나..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19825/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[풀 카본 전기자전거, Carbon One]]></title>
