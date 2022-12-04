@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 09:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19847#</guid>
             <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역시 RODE는 마이크지]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19847/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬럼비아, 스타워즈 의류 컬렉션 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19846#</guid>
             <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공화국의 일원이 되어보자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19846/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hyperkin, XBOX 360 컨트롤러 복각 출시예정]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19845#</guid>
             <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[XBOX 360도 이제 레트로라니...세월 참..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19845/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로모그래피 30주년 기념 카메라 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19844#</guid>
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기술이나 스펙으로 설명할수 없는 그 감성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19844/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 슈퍼 마리오 브라더스, 2번째 예고편 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19842#</guid>
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[밀리터리 or 아웃도어. 골라잡는 느낌의 지얄오크.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19842/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NOMAD, 아이폰 14 시리즈용 러기드케이스 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19840#</guid>
             <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀...귀엽...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19840/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
