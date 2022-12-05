@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 09:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19850#</guid>
             <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Xbox Series X|S 그리고 Xbox One까지!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19850/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음료를 따뜻하게 유지해주는 GREATIC 가열 머그]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19843#</guid>
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[와! 마리오카트! 와! 피치!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19843/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
