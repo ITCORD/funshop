@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 15:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,12 +136,44 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[켄싱턴, 슬림블레이드 프로 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19863#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19863#</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[슬림블레이드 유저들의 염원이 드디어 현실로..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prelude X 맥세이프 양방향 무선 충전기 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19861#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19861#</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유선까지 합치면 총 3대까지 충전?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양한 수납이 가능한 힙색, Grayl Bottlelock Hip Pack (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19860#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19860#</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이팩으로도 아웃도어 용으로도 활용가능한 만능 힙팩]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가벼운 전기 생활 자전거, ANGELL S/Rapide (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19859#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19859#</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예쁜 전기 따릉이?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벨킨, 에어팟 클리닝 키트 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19858#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19858#</guid>
             <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[물티슈로 맨날 슥슥 닦던 나는...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19858/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[M1 아이맥을 위한 8 in 1 도킹 스테이션 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -149,7 +181,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19857#</guid>
             <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뭐지 이 일체감..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19857/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Zens의 지속가능한 4 in 1 애플 스탠드 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -157,7 +189,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19856#</guid>
             <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모듈식으로 부피관리까지]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19856/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스, 눕시 자켓 30주년 기념 제품 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -165,39 +197,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19855#</guid>
             <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원조 등골브레이커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19855/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X-230, 헤드램프 비니 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19854#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19854#</guid>
-            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비니라는점이 특이하다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19854/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿랩, 스타워즈 임페리얼 컬렉션 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19853#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19853#</guid>
-            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에임이 중요하다면 스톰트루퍼는............]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19853/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GameSir, Xbox 인증 G7 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19852#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19852#</guid>
-            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유선이라는 점만 빼면...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19852/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RECON GMC Hummer 전기 자전거 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19851#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19851#</guid>
-            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[험머의 이름을 달고 나온 전기자전거..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19851/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄싱턴, 슬림블레이드 프로 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -527,7 +527,7 @@
             <content:encoded><![CDATA[🥇&nbsp;미니엔 제트 에어건
 집에서 털이개를 이용해 먼지 청소를 해보신 분들이라면 다들 한 번쯤 먼지를 터는 탁탁 소리와 함께 우당탕 물건이 떨어지는 경험 해보셨을 거라 생각합니다.&nbsp;
 에디터도 다수의 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1393/thumbnail_1.jpg?1669973998650" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펀샵 22주년 고객과 함께한 월드컵 응원 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
@@ -554,7 +554,7 @@
             <pubDate>Fri, 18 Nov 2022 03:40:45 GMT</pubDate>
             <content:encoded><![CDATA[🥇태국의 착한 실수, 키위 나이프 12종
 흔히 들던 칼과 다르게 무게가 굉장히 가벼워 손에 들기 쉬우며, 그만큼 장시간 쓰기 좋고날이 예리하여 부드럽게 썰리는 것이 특징인 키위 나이프를 소개합니다태국의 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1353/thumbnail_1.png?1668762152363" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로지텍 MX 시리즈와 G 시리즈, 당신의 선택은? (펀샵 ─ 펀테나 ─ 스토리)]]></title>
