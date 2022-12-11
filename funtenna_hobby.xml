@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 03:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 09:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19864#</guid>
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[머니클립...나이프??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19864/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄싱턴, 슬림블레이드 프로 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19861#</guid>
             <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유선까지 합치면 총 3대까지 충전?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19861/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다양한 수납이 가능한 힙색, Grayl Bottlelock Hip Pack]]></title>
