@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 03:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19872#</guid>
             <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀욤귀욤한 외관과는 다른 파워풀한 스펙]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19872/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계 최초의 270W 충전 어댑터, Zeus]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19867#</guid>
             <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오래 걸렸다...근데 좀 늦은것 아닌가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19867/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아코디언 방식의 지갑, Mbacco Wallet]]></title>
