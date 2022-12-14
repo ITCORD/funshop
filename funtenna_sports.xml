@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 03:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19875#</guid>
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그런데 들고 다닐일이 있나...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19875/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 가장 강력한 S 클래스, S63 AMG E 퍼포먼스 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19873#</guid>
             <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[예전이었다면 등산화라고 생각못했을 비주얼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19873/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이파이 블루투스 스피커, dB1 DOUBLEBASS]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19870#</guid>
             <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공간을 차지하는 다양한 조미료병을 하나로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19870/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
