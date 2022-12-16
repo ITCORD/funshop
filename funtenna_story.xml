@@ -4,9 +4,19 @@
         <title>펀샵 ─ 펀테나 ─ 스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 15:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 03:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WEEKLY BEST] 12월 3주차]]></title>
+            <link>https://www.funshop.co.kr/Story/StoryView/1457#page=1</link>
+            <guid>https://www.funshop.co.kr/Story/StoryView/1457#page=1</guid>
+            <pubDate>Fri, 16 Dec 2022 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[🥇&nbsp;아이팟 클래식 5세대 SSD
+애플 최초의 비디오 재생 지원 플레이어 아이팟 클래식 5세대를 SSD 저장소로 커스텀 리퍼한 제품입니다.⚒️
+파일 전송이 새 거보다 빠른 32GB/128GB 용량의 SSD로 교체되어 ..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 이벤트 한눈에 살펴보기 👀]]></title>
             <link>https://www.funshop.co.kr/Story/StoryView/1434#page=1</link>
@@ -477,16 +487,6 @@ AZIO Cascade 기계식 무선 키보드는 두 가지 이벤트를..]]></content
             <pubDate>Mon, 14 Nov 2022 03:56:01 GMT</pubDate>
             <content:encoded><![CDATA[2022년 5월 4일 수요일 펀샵 오에보 소식입니다.
 01.펀코 POP 오징어게임 피규어오징어 게임 속 인기 캐릭터가 Funko 사의 POP 라인으로 제작되었습니다. 등장인물들의 특징을 잘 살려 만들어진 피규어를 펀샵에서 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#341. 탬버린 대신, 하프 연주를!]]></title>
-            <link>https://www.funshop.co.kr/Story/StoryView/991#page=1</link>
-            <guid>https://www.funshop.co.kr/Story/StoryView/991#page=1</guid>
-            <pubDate>Mon, 14 Nov 2022 03:56:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 3일 화요일 펀샵 오에보 소식입니다.
-01.삼익악기 미니하프
-여러분 하프는 어떤 악기라고 생각하시나요? 비싼 고급 악기? 아니면 다루기 어려운 악기? 오늘은 그런 편견을 없애줄 '미니 하프'를 가져왔..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
