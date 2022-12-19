@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 15:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HyperX, Cloud Stinger 2 무선 및 유선 게이밍 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19887#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19887#</guid>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가성비로 승부하는 게이밍기어]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19887/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miansai X Gab Bois, 스마트폰에서 영감을 받은 액세서리]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19886#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19885#</guid>
             <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일단 가격이 후덜덜...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19885/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AZIO Cascade 98, 풀사이즈 알루미늄 기계식 키보드]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레트로한 느낌의 멀티플레이어]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19880/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아스텔앤컨, 휴대용 DAC AK HC3 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19879#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19879#</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["Hi-Fi Sound Anywhere"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
