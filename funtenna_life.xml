@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 15:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Artifox x Twelve South Desk, 맞춤형 작업공간]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19902#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19902#</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[IT 액세서리 업체와 가구 업체의 찰떡 콜라보]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19902/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dockcase, M.2 NVMe 스마트 외장 SSD 인클로저]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19901#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19901#</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[액정! 투명!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19901/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비욘드 노르딕의 산악 구조 기술이 적용된 등산화]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19900#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19900#</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Recco 반사경 기술 적용]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19900/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3륜 전기 자전거, RadTrike]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19899#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19897#</guid>
             <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공기를 채우는 패딩조끼.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19897/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대, 디 올 뉴 코나 디자인 공개]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19895#</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[본질에 충실한 러기지 브랜드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PowerSoo, 데스크톱 충전 스테이션 허브]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19894#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19894#</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하나있으면 선정리의 중심이 될듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3T X 람보르기니, 그래블 바이크 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19893#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19893#</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둘다 오프로드를 달리는 빠른 탈것.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wool & Oak, 5 in 1 백팩]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19892#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19892#</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 변신이 가능한 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19895/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
