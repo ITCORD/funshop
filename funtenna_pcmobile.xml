@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 03:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 09:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19895#</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[본질에 충실한 러기지 브랜드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19895/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PowerSoo, 데스크톱 충전 스테이션 허브]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19894#</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하나있으면 선정리의 중심이 될듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19894/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3T X 람보르기니, 그래블 바이크 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19892#</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 변신이 가능한 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19892/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
