@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 03:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 09:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -461,7 +461,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19902#</guid>
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IT 액세서리 업체와 가구 업체의 찰떡 콜라보]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19902/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dockcase, M.2 NVMe 스마트 외장 SSD 인클로저 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -501,7 +501,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19897#</guid>
             <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공기를 채우는 패딩조끼.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19897/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대, 디 올 뉴 코나 디자인 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -580,7 +580,7 @@
             <content:encoded><![CDATA[🥇&nbsp;미니엔 제트 에어건
 집에서 털이개를 이용해 먼지 청소를 해보신 분들이라면 다들 한 번쯤 먼지를 터는 탁탁 소리와 함께 우당탕 물건이 떨어지는 경험 해보셨을 거라 생각합니다.&nbsp;
 에디터도 다수의 ..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/002/1393/thumbnail_1.jpg?1669973998650" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펀샵 22주년 고객과 함께한 월드컵 응원 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
