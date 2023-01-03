@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 15:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19927#</guid>
             <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어째 게이밍 모니터가 점점 커지는 기분..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19927/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러기드 에어팟 케이스, GRAVITY Shock Resist Case Pro]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19926#</guid>
             <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이젠 비싼 이어폰을 위한 케이스도 필요하다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19926/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MSI, 하이엔드 게이밍 노트북 TITAN GT77 HX 13V 공개]]></title>
@@ -29,6 +29,14 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19925#</guid>
             <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세계 최초 4K 144Hz 미니 LED 노트북]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19925/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RØDE NT-USB+, 프로페셔널 USB 마이크]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19928#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19928#</guid>
+            <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스튜디오 품질의 사운드 프로세스를 USB 케이블 하나로..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19923#</guid>
             <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클램쉘 모드를 자주 사용하는 이들에게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19923/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성, 신형 갤럭시 북2 프로 360 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19922#</guid>
             <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스냅드래곤 8cx 3세대 프로세서를 탑재]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19922/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지샥, G-B001 시리즈 출시]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19921#</guid>
             <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[입맛대로 교체해서 스타일에 맞게!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19921/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤오미, 사운드 프로 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19920#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19920#</guid>
-            <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LED 앰비언트 램프 내장]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19920/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
