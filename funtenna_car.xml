@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 03:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19937#</guid>
             <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[프로 디스플레이 XDR과 같은 6K]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19937/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cleer Audio, ARC II 오픈 이어 무선 이어버드 공개]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19936#</guid>
             <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[활동적인 사람들을 위한 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19936/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B&O, Lunar New Year Collection 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19934#</guid>
             <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루보틀이 인스턴트?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19934/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Creative, Zen Air True Wireless 이어폰 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19933#</guid>
             <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴팩트한 폼팩터 그리고 있을건 다있는 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19933/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vans와 Timberland 최초의 협업 제품 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19932#</guid>
             <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이코닉한 두 브랜드의 의아할정도로 늦은 첫만남]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19932/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HYPERPACK PRO, 다양한 기능과 수납을 가진 모바일 툴킷 벡팩]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19929#</guid>
             <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[플라스틱 둘둘의 느낌이 아닌 익숙한 가방같은 느낌]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19929/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
