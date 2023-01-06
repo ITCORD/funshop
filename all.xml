@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 09:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 15:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -564,7 +564,7 @@
             <content:encoded><![CDATA[사람들을 웃게 하는 게 목표인 작가
 유머러스하고 재밌는 일러스트로 우리나라에서도 많은 인기를 끌고 있는 작가, 장 줄리앙.
 줄리앙은 세계에서 가장 주목받는 일러스트레이터이자 그래픽 디자이너이다. 단..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dw3nkyfm845lb.cloudfront.net/story/003/1522/thumbnail_1.jpg?1672906204447" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명절 선물가이드#1. 실패없는 고기 선물 가이드 (펀샵 ─ 펀테나 ─ 스토리)]]></title>
