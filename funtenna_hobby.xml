@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 09:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cake, 실용성을 강조한 Åik :work 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19958#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19958#</guid>
+            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최대 이동거리 360km????]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사테치, USB 4 NVMe SSD 인클로저 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19957#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19957#</guid>
+            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도구가 필요없는 간편한 설치]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JBL, Quantum 910X/P 헤드셋 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19956#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19956#</guid>
+            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[콘솔게임을 위한 JBL의 무선 헤드셋]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄싱턴, QuietType Pro 저소음 기계식 키보드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19955#</link>
@@ -45,30 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19951#</guid>
             <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[북유럽의 깔끔한디자인 그리고 실용성]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼다와 소니의 전기 자동차, 아필라 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19950#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19950#</guid>
-            <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그들의 만남은 과연 어떤 미래를 제시했는가?]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사테치 역사상 가장 강력한 충전기 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19949#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19949#</guid>
-            <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[200W, 최대 6개의 장치 동시 충전]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델, Concept Nyx Game Controller 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19948#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19948#</guid>
-            <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[콘셉트지만 탐나는 형태의 컨트롤러..]]></content:encoded>
             <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
