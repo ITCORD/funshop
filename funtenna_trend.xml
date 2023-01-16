@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 15:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 03:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19958#</guid>
             <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최대 이동거리 360km????]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19958/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사테치, USB 4 NVMe SSD 인클로저 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19957#</guid>
             <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도구가 필요없는 간편한 설치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19957/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JBL, Quantum 910X/P 헤드셋 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19956#</guid>
             <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콘솔게임을 위한 JBL의 무선 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19956/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄싱턴, QuietType Pro 저소음 기계식 키보드 공개]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19955#</guid>
             <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업무를 위한 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19955/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RAM, 전기 픽업 트럭 램 1500 레볼루션 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19954#</guid>
             <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사이버트럭은 언제 나올까..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19954/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
