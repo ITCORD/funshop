@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 03:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 09:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19976#</guid>
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그냥 일반 자전거 같은데?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19976/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nomad, 새로운 알루미늄 애플워치 밴드 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19974#</guid>
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역시 메탈의 멋이란...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19974/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, DESTRIER ERGO 게이밍 체어 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19969#</guid>
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인체공학적인 게이밍 체어..탐난다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19969/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DROP, BMR1 니어필드 모니터 스피커 출시예정]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19973#</guid>
             <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이렇게 작은 모니터 스피커?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19973/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키, 에어조던 3 리이매진드 출시예정]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19971#</guid>
             <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가벼운 무게의 일체형 VR]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19971/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nitecore, HA11 헤드램프 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19970#</guid>
             <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헤드램프가 가져야될 덕목중 하나..경량..목아파..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19970/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, 신형 맥미니 및 맥북프로 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19975#</guid>
             <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[M2 Pro 맥미니!! 기다렸다구!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19975/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
