@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 09:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 15:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Parallel, 컴패니언 클락 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19986#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19986#</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[키보드 제작사에서 만드는 시계......?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19986/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대자동차, 디 올 뉴 코나 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19985#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19985#</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["룰 브레이커"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19985/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Native Union, Belt Cable 듀오 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19984#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19984#</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 2 in 1 케이블]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19984/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀걸이형 이어폰, NOVA H1]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19983#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19982#</guid>
             <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시인성 하나만으로도 추천]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19982/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니, 워크맨 새로운 A300 라인업 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[외관만 바꿔주는것이 아닌...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19979/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Klipsch와 McLaren의 한정판 시네마 스피커]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19978#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19978#</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이 스피커를 놓을만한 집이 가지고 싶습니다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19978/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NYXI, 게임큐브형 스위치 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19977#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19977#</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이것은....대난투 전용 컨트롤러??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19977/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일반 자전거 같은 전기 자전거, DB-E]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19976#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19976#</guid>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그냥 일반 자전거 같은데?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19976/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
