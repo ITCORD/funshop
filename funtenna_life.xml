@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 09:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 15:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anker, 12 in 1 675 도킹스테이션 스탠드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19989#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19989#</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[필요한 모든 포트에 모니터 스탠드까지]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19989/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레트로한 사이버펑크, AIRO LED 손목시계]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19988#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19988#</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[90년대에 생각했던 미래의 모습...은 없어서 다행이기도?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19988/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독특한 힌지의 포켓나이프, Provoke EDC]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/19987#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/19987#</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보기에도 멋지고 편리하기까지한 힌지의 구조]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19987/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Parallel, 컴패니언 클락 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/19986#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시인성 하나만으로도 추천]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/039/19982/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 워크맨 새로운 A300 라인업 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19981#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19981#</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보급형 DAP 워크맨]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19981/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉐보레, 2024 콜벳 E-Ray 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19980#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19980#</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레 최초의 하이브리드 콜벳]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19980/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JSUAX,스팀덱 투명 하우징 케이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/19979#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/19979#</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[외관만 바꿔주는것이 아닌...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19979/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
