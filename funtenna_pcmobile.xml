@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 03:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 09:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20001#</guid>
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥과 윈도우 모두 가능한 75% 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20001/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴대용 사우나, SweatTent]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20000#</guid>
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노천탕까지는 못해도 사우나는??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20000/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최상급 항공등급 티타늄 카라비너, Kootenay]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19998#</guid>
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[앰프회사들이 헤드폰을 참 잘만드는것 같은....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19998/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벨로이, 테크 킷 Karan Singh 에디션]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/19997#</guid>
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실용성이 뛰어난 테크킷에 수놓아진 아티스트의 감각]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/039/19997/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
