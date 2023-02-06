@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 03:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 15:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20007#</guid>
             <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진동을 이용한 가상세계의 감각 재현]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20007/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사테치, USB-4 멀티포트 어댑터 출시]]></title>
@@ -29,10 +29,10 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20006#</guid>
             <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[작은 크기로 휴대가 편한 USB 4 허브]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20006/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jabra, Evolve2 Buds 무선 이어버드 출시]]></title>
+            <title><![CDATA[[펀샵판매중] Jabra, Evolve2 Buds 무선 이어버드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20005#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20005#</guid>
             <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20003#</guid>
             <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최소한의 공간차지로 스릴있는 영화사운드를..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20003/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몰입형 사운드 헤드 서포트, 프로젝트 캐롤]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20001#</guid>
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥과 윈도우 모두 가능한 75% 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20001/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴대용 사우나, SweatTent]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20000#</guid>
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노천탕까지는 못해도 사우나는??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20000/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
