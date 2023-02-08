@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 15:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UNIT 1의 FARO 스마트 Mips 헬멧]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20017#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20017#</guid>
+            <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스마트한 기능들을 탑재한 어번헬멧]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20017/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칼하트의 X-1 스마트 온열 조끼]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20016#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다재다능한 핸드 헬드 레코더]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20010/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티파니 X 나이키, 에어포스 원 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20009#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20009#</guid>
-            <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실버..실버...아름답다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20009/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
