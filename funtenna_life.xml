@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 09:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 15:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 최대 3.8GB의 속도, ZikeDrive 인클로저]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20026#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20026#</guid>
+            <pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[USB4의 성능을 최대로 활용하는 최초의 SSD 인클로저]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도난 없는 안전한 여행, SnapPack 백팩]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20025#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20025#</guid>
+            <pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[TSA 락, RFID 차단 등 다양한 보안능력을 갖춘 백팩]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[편안한 여행 베개, napEazy]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20024#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20024#</guid>
+            <pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어디든 들고 다니며 잠시 눈 붙일때 사용하는 베개]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, Viper Mini Signature Edition 마우스 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20023#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 기능을 가진 헤드폰 걸이]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20019/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초소형 포켓 에어 펌프, GIGA Pump 4.0]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20018#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20018#</guid>
-            <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[작은 크기로 휴대성이 좋은 에어 펌프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20018/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNIT 1의 FARO 스마트 Mips 헬멧]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20017#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20017#</guid>
-            <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트한 기능들을 탑재한 어번헬멧]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20017/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼하트의 X-1 스마트 온열 조끼]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20016#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20016#</guid>
-            <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[체온과 환경을 분석하여 자동으로 온도조절]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20016/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
