@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 15:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MSCHF, WD-40 향이 나는 향수 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20052#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20052#</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나만 WD-40 향이 좋은가....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20052/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀여운 패밀리 로봇, EBO X]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20038#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20037#</guid>
             <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[악천후에서 에어팟을 완벽하게 보호해주는 케이스]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20037/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소형 EDC 나이프, RZE HexEdge 마이크로 블레이드]]></title>
@@ -29,15 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20036#</guid>
             <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄 재질의 EDC 소형 나이프]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RME, 디지페이스 AES 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20035#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20035#</guid>
-            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이건 디지페이스인가 UCX인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20035/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20036/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이맥용 도킹스테이션, INVZI MagHub 2]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20032#</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마샬 휴대용 스피커중 가장 큰 제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20032/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PALACE X RIMOWA, 협업 제품 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20031#</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어울리나? 싶은 두 브랜드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20031/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
