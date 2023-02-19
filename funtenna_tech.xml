@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 03:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 09:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20061#</guid>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄으로 만들어진 EDC 나이프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NOMAD, 애플워치용 잉글리쉬 탄 모던밴드 출시]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20041#</guid>
             <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전작에 비해 눈에 띄게 향상된 성능들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20041/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레더맨 개러지, 포켓 멀티툴]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20040#</guid>
             <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[멀티툴의 강자, 레더맨의 개러지 라인업 포켓 멀티툴]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20040/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MSCHF, WD-40 향이 나는 향수 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20052#</guid>
             <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나만 WD-40 향이 좋은가....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20052/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Onionthings의 전천후 에어팟 케이스]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20034#</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전히 핏되는 형태 그리고 신기한 팝업 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20034/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
