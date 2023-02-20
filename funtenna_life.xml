@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 09:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 15:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,39 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20061#</guid>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄으로 만들어진 EDC 나이프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원목 알루미늄 맥세이프 거치대, MagSafe Halter]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20048#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20048#</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원목으로 따뜻한 느낌을 주는 스탠드]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[접이식 전기 자전거, Blaupunkt]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20047#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20047#</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이캐스트 마그네슘 합금 프레임]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[켄싱턴 스마트뷰 오거나이징 랩탑 라이저]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20046#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20046#</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[올인원 랩탑 데스크 솔루션]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20046/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기가바이트, AORUS Gen 5 10000 SSD 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20045#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20045#</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크~고 아름다운 방열판..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20045/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원플러스, 브랜드 최초의 기계식키보드 출시]]></title>
@@ -21,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20044#</guid>
             <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키크론과의 협업 제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20044/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기자전거로 변환, Swytch 바이크 킷]]></title>
@@ -29,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20043#</guid>
             <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쉬운 배터리 교환이 매력포인트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20043/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠하이저, HD 660S2 헤드폰 출시]]></title>
@@ -37,39 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20042#</guid>
             <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[HD 600의 유산..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20042/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOMAD, 애플워치용 잉글리쉬 탄 모던밴드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20055#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20055#</guid>
-            <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탄 컬러의 클래식한 매력]]></content:encoded>
             <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원플러스 버즈 프로 2 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20041#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20041#</guid>
-            <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전작에 비해 눈에 띄게 향상된 성능들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20041/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레더맨 개러지, 포켓 멀티툴]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20040#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20040#</guid>
-            <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[멀티툴의 강자, 레더맨의 개러지 라인업 포켓 멀티툴]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MSCHF, WD-40 향이 나는 향수 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20052#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20052#</guid>
-            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나만 WD-40 향이 좋은가....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20052/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
