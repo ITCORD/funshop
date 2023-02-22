@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 15:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 03:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20061#</guid>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄으로 만들어진 EDC 나이프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ProtoArc, 모듈식 2 in 1 허브 마우스]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20049#</guid>
             <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[충전뿐만 아니라 다양한 데이터관련 기능까지 탑재]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20049/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RME, 디지페이스 AES 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20048#</guid>
             <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원목으로 따뜻한 느낌을 주는 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20048/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[접이식 전기 자전거, Blaupunkt]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20047#</guid>
             <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이캐스트 마그네슘 합금 프레임]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20047/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[켄싱턴 스마트뷰 오거나이징 랩탑 라이저]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20046#</guid>
             <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[올인원 랩탑 데스크 솔루션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20046/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
