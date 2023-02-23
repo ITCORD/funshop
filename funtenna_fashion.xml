@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 03:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20056#</guid>
             <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Vindstyrka....이거 어떻게 읽어야되지..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20056/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속가능한 무선 이어버드, Majority Tru Bio]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20053#</guid>
             <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[불안한 수면패턴을 개선시켜주는 헤드폰.....앗...내가 사야되나..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20053/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀여운 패밀리 로봇, EBO X]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20061#</guid>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄으로 만들어진 EDC 나이프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ProtoArc, 모듈식 2 in 1 허브 마우스]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20049#</guid>
             <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[충전뿐만 아니라 다양한 데이터관련 기능까지 탑재]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20049/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
