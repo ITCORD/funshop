@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20050#</guid>
             <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쉽게 분리와 결합이 가능한 퀵릴리스 타입]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20050/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Superdock, 데스크탑 충전스테이션]]></title>
