@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 15:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우드 마이크로폰, 클라우드 리프터 X 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20059#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20059#</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다이나믹 마이크를 컨덴서 마이크처럼 크고 깨끗하게]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커세어, iCUE Murals Lighting 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20058#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20058#</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최신 RGB 커스텀 소프트웨어로 더 화려하게]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINISFORUM, MC560 미니PC 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20057#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20057#</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[웹캠이 내장된 올인원 미니 PC]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20057/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이케아, 공기질 모니터 기기 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20056#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20061#</guid>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄으로 만들어진 EDC 나이프]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ProtoArc, 모듈식 2 in 1 허브 마우스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20051#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20051#</guid>
-            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[USB 허브와 마우스의 만남...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20051/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Q, 퀵릴리스 티타늄 키체인 카라비너]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20050#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20050#</guid>
-            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쉽게 분리와 결합이 가능한 퀵릴리스 타입]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Superdock, 데스크탑 충전스테이션]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20049#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20049#</guid>
-            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[충전뿐만 아니라 다양한 데이터관련 기능까지 탑재]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
