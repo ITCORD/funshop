@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 03:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20058#</guid>
             <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최신 RGB 커스텀 소프트웨어로 더 화려하게]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20058/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINISFORUM, MC560 미니PC 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20056#</guid>
             <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Vindstyrka....이거 어떻게 읽어야되지..]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20056/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속가능한 무선 이어버드, Majority Tru Bio]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20038#</guid>
             <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[집안의 다양한 상황을 감지하고 대응하는 보안로봇.]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20038/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티타늄으로 제작된 Ti 유틸리티 나이프]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20061#</guid>
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[티타늄으로 만들어진 EDC 나이프]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20061/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
