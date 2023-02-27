@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 15:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20059#</guid>
             <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다이나믹 마이크를 컨덴서 마이크처럼 크고 깨끗하게]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20059/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어, iCUE Murals Lighting 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20058#</guid>
             <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최신 RGB 커스텀 소프트웨어로 더 화려하게]]></content:encoded>
-            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20058/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINISFORUM, MC560 미니PC 출시]]></title>
