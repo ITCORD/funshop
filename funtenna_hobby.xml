@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 09:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈을 상쾌하게, 아이 스파 마사지기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20075#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20075#</guid>
+            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하루동안 지쳤던 눈을 상쾌하게 마사지해주는 기기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20075/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트렉, 전기 카고바이크 Fetch 플러스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20074#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20074#</guid>
+            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자전거에 짐싣는게 너무 좋은 나....]]></content:encoded>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 신형 ACG 목 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20073#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20073#</guid>
+            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑장, 해변 어디든 가볍게 신고 다니는 목의 최신작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20073/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vortex, 티타늄 멀티툴 자]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20072#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20070#</guid>
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[저 하나 필요합니다...드르렁...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20070/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, DeathAdder V3 Pro 페이커 에디션 출시]]></title>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20069#</guid>
             <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["불좀 꺼줄래?"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20069/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대자동차, 더 뉴 아반떼 디자인 공개]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20068#</guid>
             <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바뀐듯 안바뀐듯....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20068/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HyperX, 듀얼센스 충전기 ChargePlay Duo 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20067#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20067#</guid>
-            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어째 이쪽이 소니에서 나온듯한 느낌의 충전기...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20067/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LED 디스플레이가 장착된 저소음 키보드, KT68 Pro]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20066#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20066#</guid>
-            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디스플레이, 노브, 토글 그야말로 화려함의 집합체]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20066/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KÜHL, 이스케이프 50 더플]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20065#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20065#</guid>
-            <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[더블백의 용량에 백팩의 편리함]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20065/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn2.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
