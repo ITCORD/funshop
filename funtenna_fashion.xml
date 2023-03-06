@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다양한 커스텀이 가능한 게이밍 마우스, Swiftpoint Z2]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20077#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20077#</guid>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[단축키를 많이 쓴다면 추천할만한 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20077/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 디즈니 100주년 기념 미니피겨 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20076#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20076#</guid>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[적어도 내게는 꽝이 없는 이번 미니피겨..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20076/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈을 상쾌하게, 아이 스파 마사지기]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20075#</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[저 하나 필요합니다...드르렁...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20070/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, DeathAdder V3 Pro 페이커 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20069#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20069#</guid>
-            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["불좀 꺼줄래?"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20069/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대자동차, 더 뉴 아반떼 디자인 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20068#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20068#</guid>
-            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[바뀐듯 안바뀐듯....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
