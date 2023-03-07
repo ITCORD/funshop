@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 15:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테크 제품 휴대를 간편하게, Elements Tech Case Max]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20079#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20079#</guid>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전자 제품 휴대에 유용한 케이스 혹은 슬링백]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20079/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sabrent, USB 듀얼드라이브 도킹 스테이션]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20078#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20078#</guid>
+            <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제작과 저장이 빈번한 이들이라면 주목해볼만한 제품]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20078/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 커스텀이 가능한 게이밍 마우스, Swiftpoint Z2]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20077#</link>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20076#</guid>
             <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[적어도 내게는 꽝이 없는 이번 미니피겨..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20076/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈을 상쾌하게, 아이 스파 마사지기]]></title>
@@ -45,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20073#</guid>
             <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[캠핑장, 해변 어디든 가볍게 신고 다니는 목의 최신작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20073/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vortex, 티타늄 멀티툴 자]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자 처럼 생겼지만..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20072/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지샥, GBD-H2000 모델 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20071#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20071#</guid>
-            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지 스쿼드의 신작 플래그십 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20071/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sleepmi Z3, 코골이 방지 시스템]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20070#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20070#</guid>
-            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[저 하나 필요합니다...드르렁...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20070/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
