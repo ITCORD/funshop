@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 09:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 15:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M-20, 9-in-1 마그네틱 EDC 티타늄 멀티툴]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20090#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20090#</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그냥 비트 보관함 처럼 생겼지만..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20090/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후지필름, 인스탁스 미니 12 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20089#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20089#</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 12세대...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20089/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, 테렉스 프리하이커 2.0 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20088#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20088#</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Made with Nature, 친환경 트레일]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20088/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변형 가능한 모듈식 프로그래밍 키보드, GrabShell]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20087#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임기...라고 하기엔 본격적인 비트머신..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20083/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트웰브 사우스, 하이라이즈 프로 스탠드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20082#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20082#</guid>
-            <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥세이프 충전 하우징이 포함..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20082/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니멀한 알람시계, Arc Alarm Clock]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20081#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20081#</guid>
-            <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 시대를 역행하는 아날로그 알람 시계]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20081/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모피, 파워스테이션 프로 AC 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20080#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20080#</guid>
-            <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[AC, USB-C PD, USB-C, USB-A 출력이 가능한 휴대용 배터리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20080/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
