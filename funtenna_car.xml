@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 15:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 03:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20090#</guid>
             <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그냥 비트 보관함 처럼 생겼지만..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20090/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후지필름, 인스탁스 미니 12 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20089#</guid>
             <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[벌써 12세대...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20089/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 테렉스 프리하이커 2.0 출시]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20088#</guid>
             <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Made with Nature, 친환경 트레일]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20088/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변형 가능한 모듈식 프로그래밍 키보드, GrabShell]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20086#</guid>
             <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[현행 E 클래스 가격 떨어지는 소리가....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20086/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지샥, 메탈 커버 GM-2100 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20085#</guid>
             <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한층 더 고급스럽고 개성있어진 지얄 오크..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20085/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[G-CUBE, 야광 에어팟 프로 아머 케이스]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20083#</guid>
             <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임기...라고 하기엔 본격적인 비트머신..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20083/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
