@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 15:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아우디, 전기 MTB 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20105#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20105#</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Fantic 과의 협업으로 만든 엔듀로바이크]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20105/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디올의 트래킹화? B31 러너 스니커즈]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20104#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20104#</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 봐도 살로몬 슈즈인데...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20104/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기아, 전기차 EV9 양산형 디자인 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20103#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20103#</guid>
             <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 속속 등장하는 대형 전기 SUV..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20103/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[M-스탠드, 다목적 티타늄 멀티툴]]></title>
@@ -37,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20100#</guid>
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[따듯해진 날씨, 달려보자!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20100/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독특한 형태의 수제 턴테이블, Black Wheel]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역대 통산 득점 1위의 르브론과 PS5의 만남]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20098/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반려견의 휴대용 구급키트, Wolf Pack]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20097#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20097#</guid>
-            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소중한 반려견의 위급상황을 위해..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20097/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pwnage, 마그네슘 합금 마우스 Stormbreaker 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20096#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20096#</guid>
-            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가벼운 무게에 무게대비 높은 강도]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20096/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
