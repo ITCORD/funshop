@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 15:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GRAUGEAR, PS5 SSD 히트파이프 쿨러 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20106#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20106#</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 PS5 SSD의 온도를 낮춰주는 쿨러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20106/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아우디, 전기 MTB 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20105#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20105#</guid>
             <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Fantic 과의 협업으로 만든 엔듀로바이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20105/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디올의 트래킹화? B31 러너 스니커즈]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 형태로 거치가 가능한 고급 턴테이블]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20099/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 르브론 제임스와의 협업 PS5 액세서리 발표]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20098#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20098#</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[역대 통산 득점 1위의 르브론과 PS5의 만남]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
