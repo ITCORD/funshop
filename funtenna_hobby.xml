@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[christian cowan X 텔레토비]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20108#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20108#</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[테엘..레토..비....뚜비~....뚜비..???]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20108/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밖에서도 편안한 잠을, Ursa 수면 시스템]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20107#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20107#</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밖에서도 집같이 자자.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20107/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GRAUGEAR, PS5 SSD 히트파이프 쿨러 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20106#</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가볍고 작으면서 성능이 좋은 크로스백]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20101/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, 신형 아디다스 울트라부스트 라이트 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20100#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20100#</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[따듯해진 날씨, 달려보자!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20100/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독특한 형태의 수제 턴테이블, Black Wheel]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20099#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20099#</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 형태로 거치가 가능한 고급 턴테이블]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20099/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
