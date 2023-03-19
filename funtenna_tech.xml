@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 09:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 15:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 디펜더 90 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20110#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20110#</guid>
+            <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스티어링과 서스펜션까지 구현]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BMW, M3 투어링 국내 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20109#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20109#</guid>
+            <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[진정한 아빠들의 드림카?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[christian cowan X 텔레토비]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20108#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20108#</guid>
             <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[테엘..레토..비....뚜비~....뚜비..???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20108/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밖에서도 편안한 잠을, Ursa 수면 시스템]]></title>
@@ -29,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20106#</guid>
             <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제대로 PS5 SSD의 온도를 낮춰주는 쿨러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20106/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아우디, 전기 MTB 출시]]></title>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20103#</guid>
             <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 속속 등장하는 대형 전기 SUV..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20103/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M-스탠드, 다목적 티타늄 멀티툴]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20102#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20102#</guid>
-            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 킥스타터는 티타늄이 지배한겁니까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20102/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트코어, EDC 크로스백 SLB05 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20101#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20101#</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가볍고 작으면서 성능이 좋은 크로스백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20101/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
