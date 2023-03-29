@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 15:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dockcase, Explorer 스마트 USB-C 허브 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20137#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20137#</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[항상 안이 보이게 만드는 Dockcase]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20137/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포드, 새로운 전기 익스플로러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20136#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20136#</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이젠 익스플로러로 전기구나..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20136/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바퀴달린 휴대용 냉장고, Anker EverFrost]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20135#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20135#</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어디에서도 시원한 음료를!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20135/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빠르게 공기를 채우자, Wave Pro]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20134#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[메기라고 놀림받던 그 쏘나타가!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20130/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOMAD, 맥세이프 충전기 스탠드원 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20129#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20129#</guid>
-            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔하고 든든한 맥세이프 아이폰 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20129/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jabra, 보급형 이어버드 Elite 4 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20128#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20128#</guid>
-            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 보급형에도 들어가는 노이즈 캔슬링]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20128/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작고 간편하게, Aura 패커블 백팩]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20127#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20127#</guid>
-            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손바닥만하게 접었다가 펴면 든든한 백팩으로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20127/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
