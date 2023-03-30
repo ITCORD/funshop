@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 15:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미니, 클럽맨 파이널 에디션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20141#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20141#</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제 역사속으로 사라지는 양문형 트렁크의 미니..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20141/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker, 568 USB4 도킹 스테이션]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20140#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20140#</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윈도우 전용...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20140/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turtle Beach, Stealth Pro 무선 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20139#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20139#</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 기능을 가진 프리미엄 게이밍 헤드셋]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20139/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기아, 콘셉트카 EV5 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20138#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20138#</guid>
             <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아쉽게도 일단은 중국에서만 출시]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20138/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dockcase, Explorer 스마트 USB-C 허브 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 곧 여름이겠구나..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20134/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MSCHF, 앞으로도 뒤로도 신을수 있는 신발 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20133#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20133#</guid>
-            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이걸 대체 어떻게 설명해야 할지 모르겠는 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20133/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nothing, Ear(2) 무선 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20132#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20132#</guid>
-            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Ear(1)보다 한층 발전된 성능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20132/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈도우용 USB-C 도킹스테이션, NewQ]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20131#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20131#</guid>
-            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥도 되지만 윈도우 유저만 쓰세요..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20131/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
