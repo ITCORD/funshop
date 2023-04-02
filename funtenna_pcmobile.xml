@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 15:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 03:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20142#</guid>
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엄지손가락으로 느끼는 레이싱 휠]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20142/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니, 클럽맨 파이널 에디션 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20140#</guid>
             <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윈도우 전용...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20140/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Turtle Beach, Stealth Pro 무선 헤드셋 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20137#</guid>
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[항상 안이 보이게 만드는 Dockcase]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20137/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
