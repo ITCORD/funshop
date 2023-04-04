@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 15:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페셜라이즈드, 카본 바이크 시러스 X 5.0 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20155#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20155#</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[플랫바 기반의 그래블바이크?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라, GigaBier 맥주 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20154#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20154#</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사이버트럭에서 영감을 받은....그래서 트럭은 언제나오는거요??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Future Eternal City 2 in 1 무선 충전기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20153#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20153#</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우주선 착륙장같은 멋진 충전기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬라이딩 방식의 폴딩, Pop-cycle]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20152#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나만의 공간을 만드는 조명 액세서리]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20146/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 카이엔 페이스리프트 인테리어 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20145#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20145#</guid>
-            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인테리어 부터 공개하는게 대세인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20145/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필립스, 슈퍼와이드 커브드 비즈니스 모니터 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20147#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20147#</guid>
-            <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[32:9, 듀얼 QHD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20147/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이들을 위한 헤드폰, 로지텍 Zone Learn]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20144#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20144#</guid>
-            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라에도 출시되면 인기 있을듯한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20144/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
