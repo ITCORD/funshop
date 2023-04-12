@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 09:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 15:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UBCO, 2x2 스페셜 에디션 유틸리티 바이크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20175#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20175#</guid>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모험..두근대는 그 이름]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20175/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 썬더볼트 4 서피스 독 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20174#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이폰 14 Pro를 최대 124회 충전가능]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20168/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숄더백? 캐리어?, 1or2 Luggage Carry-On]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20167#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20167#</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1-2일 여행에 적합한 캐리어 혹은 숄더백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20167/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
