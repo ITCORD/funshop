@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 15:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 03:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW, 738마력의 XM 라벨 레드 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20178#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20178#</guid>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[콧구멍에 립스틱을 바른 맷돼지.....가 떠올랐다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20178/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Plugable의 새로운 맥북전용 USB C 허브]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20177#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20177#</guid>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[맥세이프가 있는 신형 맥북 전용]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20177/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker, Motion X600 스피커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20176#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20176#</guid>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[합리적인 가격으로 즐기는 공간오디오]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20176/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UBCO, 2x2 스페셜 에디션 유틸리티 바이크 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20175#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 기능을 가진 잠금장치]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20171/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니멀한 로우프로파일 키보드, ALTAR I]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20170#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20170#</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[슬림한 레트로 느낌의 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20170/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아크로님 X 에이수스, 테크웨어 태블릿 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20169#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20169#</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[패션과 태블릿 PC의 만남....엿장수 같기도 하고..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20169/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃도어용 대용량 배터리, NES2000]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20168#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20168#</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰 14 Pro를 최대 124회 충전가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20168/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
