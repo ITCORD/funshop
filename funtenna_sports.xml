@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 09:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 15:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[링컨, 풀페인지 노틸러스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20198#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20198#</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[48인치 디스플레이의 위용..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20198/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, Basilisk V3 X HyperSpeed 마우스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20197#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20197#</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[18,000 DPI 게이밍 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20197/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카시오, 지샥 G-SQUAD DW-H5600 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20196#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20196#</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[5600 형태의 스마트워치..하지만 GPS는..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20196/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤츠, 마이바흐 EQS SUV 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20195#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바뀐듯, 안바뀐듯....예쁘네..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20191/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bellroy, Venture Hip Pack 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20190#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20190#</guid>
-            <pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가볍고 실용적인 힙색]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20190/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VogDUO, 차량용 마그네틱 가죽 무선 충전기]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20189#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20189#</guid>
-            <pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[차량용 충전기도 고급스럽게 가죽으로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20189/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COUGAR의 오픈 에어 타입 CRATUS PC 케이스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20188#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20188#</guid>
-            <pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 케이스가격도 어마어마 하구나...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20188/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
