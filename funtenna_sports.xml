@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 03:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20196#</guid>
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[5600 형태의 스마트워치..하지만 GPS는..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20196/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤츠, 마이바흐 EQS SUV 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20194#</guid>
             <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[책상위 공간활용에 좋을듯한 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20194/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가민, 인스팅트 2X 솔라 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20191#</guid>
             <pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바뀐듯, 안바뀐듯....예쁘네..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20191/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
