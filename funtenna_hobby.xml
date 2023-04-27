@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 09:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키, 에어 조던 1 로우 '버니 래빗' 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20215#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20215#</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아니...이건 뭐 토끼 그 자체..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20215/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hardgraft의 Thumbs Up 카드 케이스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20214#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20214#</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[엄지 손가락으로 밀어서 스윽!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20214/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Acer, Predator Orion X pc 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20213#</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1cm의 초슬림 두께]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20208/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NuPhy, Field75 무선 기계식 게이밍 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20207#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20207#</guid>
-            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[NuPhy 다운 멋진 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20207/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴스타, SUV 쿠페 폴스타 4 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20206#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20206#</guid>
-            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니..리어윈도우는 어디??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20206/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
