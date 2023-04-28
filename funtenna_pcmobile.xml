@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 15:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인이어 모니터를 무선으로, IFI GO POD]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20216#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20216#</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이젠 무선도 고품질의 인이어를 활용하자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20216/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키, 에어 조던 1 로우 '버니 래빗' 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20215#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20215#</guid>
             <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니...이건 뭐 토끼 그 자체..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20215/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[hardgraft의 Thumbs Up 카드 케이스]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20214#</guid>
             <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엄지 손가락으로 밀어서 스윽!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20214/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Acer, Predator Orion X pc 공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수질에 민감하다면 이녀석을..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20209/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 세계에서 가장 얇은 13.3인치 노트북 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20208#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20208#</guid>
-            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1cm의 초슬림 두께]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20208/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
