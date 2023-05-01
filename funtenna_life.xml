@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 09:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 15:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DENTEN, 계산기 겸 넘버패드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20219#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20219#</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계산기 프로그램을 안켜도 되는 장점..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20219/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤츠, 올 뉴 E 클래스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20218#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20218#</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[삼각별의 대향연]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20218/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벨킨, USB-C to 4-Port 허브 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20217#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20217#</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔하게, 하지만 고성능으로]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20217/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인이어 모니터를 무선으로, IFI GO POD]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20216#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['소셜 사이클링']]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20212/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스터 앤 다이나믹, 람보르기니 콜렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20211#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20211#</guid>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 생애 람보르기니를 끌일은 없겠지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20211/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erkapo, 240W 듀얼 LED 충전 & 데이터 케이블]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20210#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20210#</guid>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[240W까지 충전가능한 USB C 케이블]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20210/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들고다니는 정수기, LIFESTRAW GO]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20209#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20209#</guid>
-            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[수질에 민감하다면 이녀석을..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20209/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
