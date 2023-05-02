@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 15:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 03:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20217/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인이어 모니터를 무선으로, IFI GO POD]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20216#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20216#</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 무선도 고품질의 인이어를 활용하자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20216/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어 조던 1 로우 '버니 래빗' 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20215#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20215#</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니...이건 뭐 토끼 그 자체..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20215/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[펀샵판매중] 이어맨의 두 헤드폰 앰프, 엔젤과 콜리브리]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20179#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20179#</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[훌륭한 만듦새와 그에 걸맞은 소리]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[hardgraft의 Thumbs Up 카드 케이스]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['소셜 사이클링']]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20212/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들고다니는 정수기, LIFESTRAW GO]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20209#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20209#</guid>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[수질에 민감하다면 이녀석을..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20209/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
