@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티타늄 멀티툴, 블레이드클립]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20226#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20226#</guid>
+            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[블레이드 기반의 티타늄 멀티툴]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20226/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Native Union, W.F.A 백팩 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20225#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20225#</guid>
+            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 라이프스타일 백팩]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뱅앤올룹슨, 베오사운드 A5 블루투스 스피커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20224#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20224#</guid>
+            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무선 충전기로도 사용가능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20224/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경량 휴대용 캠핑 체어, Camster 2]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20223#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계산기 프로그램을 안켜도 되는 장점..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20219/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벤츠, 올 뉴 E 클래스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20218#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20218#</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼각별의 대향연]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20218/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨킨, USB-C to 4-Port 허브 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20217#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20217#</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔하게, 하지만 고성능으로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20217/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵판매중] 이어맨의 두 헤드폰 앰프, 엔젤과 콜리브리]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20179#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20179#</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[훌륭한 만듦새와 그에 걸맞은 소리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20179/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
