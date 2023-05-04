@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 09:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 15:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20225#</guid>
             <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 라이프스타일 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20225/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뱅앤올룹슨, 베오사운드 A5 블루투스 스피커 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20223#</guid>
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뛰어난 휴대성과 편리한 설치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20223/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틴에이지 엔지니어링, CM-15 콘덴서 마이크 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20222#</guid>
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진짜 스튜디오 장비를 다 자기네 스타일로 만들어버릴 기세]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20222/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100% 재활용 소재로 제작, 38리터 하이브리드 더플 팩]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20219#</guid>
             <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계산기 프로그램을 안켜도 되는 장점..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20219/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
