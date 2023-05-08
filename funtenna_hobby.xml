@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 09:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 15:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HEXCAL Studio, 데스크톱 관리 스탠드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20232#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20232#</guid>
+            <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[선정리, 멀티탭, 충전 그리고 조명]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20232/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, ACG 아이센 데이 팩 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20231#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20231#</guid>
+            <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가볍고 튼튼한 아웃도어 데이 팩]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20231/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜드로버, 새로운 8기통 디펜더 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20230#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20230#</guid>
+            <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[V8! V8!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20230/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EDC 파우치, Zip Pouch Pro]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20229#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 라이프스타일 백팩]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20225/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅앤올룹슨, 베오사운드 A5 블루투스 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20224#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20224#</guid>
-            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[무선 충전기로도 사용가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20224/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경량 휴대용 캠핑 체어, Camster 2]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20223#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20223#</guid>
-            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뛰어난 휴대성과 편리한 설치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20223/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틴에이지 엔지니어링, CM-15 콘덴서 마이크 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20222#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20222#</guid>
-            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 스튜디오 장비를 다 자기네 스타일로 만들어버릴 기세]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20222/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
