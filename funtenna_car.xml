@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 09:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 15:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 클래식 랜드로버 디펜더 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20235#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20235#</guid>
+            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이번엔 귀여운 사이즈로 출시]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HEXCAL Studio, 데스크톱 관리 스탠드]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20234#</link>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20230#</guid>
             <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[V8! V8!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20230/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EDC 파우치, Zip Pouch Pro]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20229#</guid>
             <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[프로가 붙은 만큼 더 확실한 느낌]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20229/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[INVZI, MagHub 3 iPad 태블릿 스탠드 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20228#</guid>
             <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[훌륭한 태블릿 스탠드이자 허브]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20228/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에어 조던 1 'Next Chapter' 출시예정]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어크로스 더 스파이더버스 개봉 기념]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20227/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티타늄 멀티툴, 블레이드클립]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20226#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20226#</guid>
-            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[블레이드 기반의 티타늄 멀티툴]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20226/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
