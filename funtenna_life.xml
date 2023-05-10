@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 15:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eeva, 2-in-1 스마트 세탁 솔루션]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20238#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20238#</guid>
+            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어디든 설치 가능한 세탁기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20238/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기자전거용 헬멧, VIRGO Plus]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20237#</guid>
+            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기자전거의 속도에 걸맞은 안전한 헬멧]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20237/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIREUP의 뚜껑이 있는 프라이팬]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20236#</guid>
+            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다재다능한 특이하게 생긴 프라이팬]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20236/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 클래식 랜드로버 디펜더 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20235#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20230#</guid>
             <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[V8! V8!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EDC 파우치, Zip Pouch Pro]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20229#</guid>
-            <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로가 붙은 만큼 더 확실한 느낌]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[INVZI, MagHub 3 iPad 태블릿 스탠드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20228#</guid>
-            <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[훌륭한 태블릿 스탠드이자 허브]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어 조던 1 'Next Chapter' 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20227#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20227#</guid>
-            <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어크로스 더 스파이더버스 개봉 기념]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20227/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20230/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
