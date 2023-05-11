@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 15:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모듈식 7포트 120W GaN 충전기]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20245#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20245#</guid>
+            <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유용한 모듈식에 멋진 레트로 디자인. 그러나 숨이 턱 막히는 전원 포트...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20245/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[래칫 사운드의 감성, MetMo 포켓 드라이버]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20244#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20244#</guid>
+            <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기능 뿐만아니라 래칫사운드로 감성까지 챙긴 드라이버]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20244/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가민, 전기자전거용 레이다 센서 후미등 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20243#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20243#</guid>
+            <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레이다 센서로 다양한 정보를 전달하는 후미등]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20243/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6개의 기기를 동시충전 가능한 배터리, BOLD 2]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20242#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20241#</guid>
             <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[책상위를 정리하면서 무선충전까지 가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20241/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HyperX, ChargePlay Quad 2 조이콘 충전 스테이션]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어디든 설치 가능한 세탁기]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20238/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기자전거용 헬멧, VIRGO Plus]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20237#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20237#</guid>
-            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전기자전거의 속도에 걸맞은 안전한 헬멧]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20237/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIREUP의 뚜껑이 있는 프라이팬]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20236#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20236#</guid>
-            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다재다능한 특이하게 생긴 프라이팬]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 클래식 랜드로버 디펜더 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20235#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20235#</guid>
-            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이번엔 귀여운 사이즈로 출시]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20235/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
