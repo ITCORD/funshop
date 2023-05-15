@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 03:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 09:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프리오더] K3 폴더블 터치 스크린 키보드]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20250#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20250#</guid>
+            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모니터에 키보드가 달린 격]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20250/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lexon의 무선배터리팩 Softpower Magbank]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20248#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무선충전도 가능한 290W 파워 뱅크]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20242/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무선충전 기능이 있는 트레이, Bamboo Valet Tray]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20241#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20241#</guid>
-            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[책상위를 정리하면서 무선충전까지 가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20241/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
