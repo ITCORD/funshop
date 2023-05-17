@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 03:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 랩탑에 설치하는 마우스 패드.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20258#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20258#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재택근무 시켜주세요! 잘할 수 있어요!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20258/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반다이남코, 괴혼 최신작 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20257#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이게 얼마만의 근본 '맥' 화랑인가..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20251/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] K3 폴더블 터치 스크린 키보드]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20250#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20250#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모니터에 키보드가 달린 격]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20250/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
