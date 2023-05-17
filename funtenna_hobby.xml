@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 03:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반다이남코, 괴혼 최신작 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20257#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20257#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아바마마와 돌아온 데굴데굴~ 쫀득쫀득~ 괴혼]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20257/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fairphone, 지속가능한 헤드폰 Fairbuds XL 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20256#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20256#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모듈형으로 편리한 유지보수]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20256/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이카, ZM 모노크롬 에디션 시계 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20255#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20255#</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[M11 모노크롬 카메라에서 영감을 받은 시계]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20255/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드에 결합되는 미니 PC]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20254#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모니터에 키보드가 달린 격]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20250/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lexon의 무선배터리팩 Softpower Magbank]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20248#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20248#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔하고 휴대성이 좋은 무선충전 파워뱅크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20248/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸조, 새로운 2008 SUV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20247#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20247#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최신 디자인으로 찾아온 2008]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20247/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충전식 자전거 헤드라이트, 센터 라이트]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20246#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20246#</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가운데로 딱! 깔끔하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20246/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
