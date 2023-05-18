@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 09:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 15:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틴에이지 엔지니어링, 핸드헬드 레코더 TP-7 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20266#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20266#</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예쁘다..하지만 여전히 비싸다..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20266/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 배트케이브 섀도우 박스 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20265#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20265#</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배트맨 2에 등장했던 그 가슴설레던 배트케이브]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20265/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UFO 로보 그렌다이저 게임, 한국어 출시 확정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20264#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20264#</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["그랜다이저~는 생명을 건다. UFO 군단을 무찌른다아~"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20264/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 세계 최초의 10인치 60Hz 컬러 RLCD Ebook]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20263#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재택근무 시켜주세요! 잘할 수 있어요!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20258/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반다이남코, 괴혼 최신작 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20257#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20257#</guid>
-            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아바마마와 돌아온 데굴데굴~ 쫀득쫀득~ 괴혼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20257/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fairphone, 지속가능한 헤드폰 Fairbuds XL 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20256#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20256#</guid>
-            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모듈형으로 편리한 유지보수]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20256/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이카, ZM 모노크롬 에디션 시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20255#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20255#</guid>
-            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[M11 모노크롬 카메라에서 영감을 받은 시계]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20255/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
