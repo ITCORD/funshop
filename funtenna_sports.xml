@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 15:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이슨의 공기정화 헤드폰 '다이슨 존']]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20261#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20261#</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[만우절 농담인줄 알았겠지만...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20261/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨러마스터, Oracle Air 외장 SSD 인클로저 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20260#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20260#</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이중레이어 냉각으로 더 쾌적한 환경 조성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20260/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 일루전 아일랜드 상세 내용 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20259#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20259#</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀엽다고 샀던 컵헤드를 집어던졌던 나는 두렵다...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20259/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 랩탑에 설치하는 마우스 패드.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20258#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20256#</guid>
             <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모듈형으로 편리한 유지보수]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20256/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이카, ZM 모노크롬 에디션 시계 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내 눈에는 체리 밖에 안 보이는걸]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20254/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃도어 라이터 아머, PyroVault 2.0]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20253#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20253#</guid>
-            <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일반 지포라이터 인서트를 강력한 아웃도어 라이터로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20253/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 718 스파이더 RS 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20252#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20252#</guid>
-            <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[루프탑을 여는 스파이더! 911 GT3의 심장!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20252/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철권 8, 추가 캐릭터 '화랑' 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20251#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20251#</guid>
-            <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이게 얼마만의 근본 '맥' 화랑인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20251/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
