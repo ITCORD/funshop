@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 03:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이거어때] 광촉매 필터가 탑재된 공기 청정기 Eteria]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20267#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20267#</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[믿는 도끼에 발등 찍히고 살았었네.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20267/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틴에이지 엔지니어링, 핸드헬드 레코더 TP-7 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20266#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀엽다고 샀던 컵헤드를 집어던졌던 나는 두렵다...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20259/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 랩탑에 설치하는 마우스 패드.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20258#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20258#</guid>
-            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재택근무 시켜주세요! 잘할 수 있어요!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20258/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
