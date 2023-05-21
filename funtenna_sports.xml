@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 09:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 15:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐논, 파워샷 V10 카메라 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20270#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20270#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[브이로그 카메라, 빅시아 미니의 사실상 후속작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20270/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GPD WIN Max 2, 핸드헬드 게이밍 PC 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20269#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20269#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[외관을 보니 아련하게 피어오르는 넷북의 추억....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20269/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제네렉, 45주년 기념 8381A 스피커 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20268#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20268#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 모니터링 스피커의 끝판왕]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20268/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이거어때] 광촉매 필터가 탑재된 공기 청정기 Eteria]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20267#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[색(色) 다른 전자책.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20263/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이슨의 공기정화 헤드폰 '다이슨 존']]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20261#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20261#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[만우절 농담인줄 알았겠지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20261/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터, Oracle Air 외장 SSD 인클로저 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20260#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20260#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이중레이어 냉각으로 더 쾌적한 환경 조성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20260/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 일루전 아일랜드 상세 내용 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20259#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20259#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀엽다고 샀던 컵헤드를 집어던졌던 나는 두렵다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20259/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
