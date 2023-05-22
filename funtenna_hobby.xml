@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 03:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 09:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 세상 편한 사용성을 지닌 4K 휴대용 모니터.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20272#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20272#</guid>
+            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[케이블 하나로 싹 다 해결.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20272/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐논, 파워샷 V10 카메라 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20270#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["그랜다이저~는 생명을 건다. UFO 군단을 무찌른다아~"]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20264/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 세계 최초의 10인치 60Hz 컬러 RLCD Ebook]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20263#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20263#</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[색(色) 다른 전자책.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20263/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
