@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 고이 접을 수 있는 일체형 PC.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20283#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20283#</guid>
+            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[짭피스 스튜디오2.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 예사롭지 않은 손전등 Wuben X3.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20277#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Bimmy가 아니다...Billy다..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20271/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 세상 편한 사용성을 지닌 4K 휴대용 모니터.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20272#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20272#</guid>
-            <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[케이블 하나로 싹 다 해결.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20272/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
