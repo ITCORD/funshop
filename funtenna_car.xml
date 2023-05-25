@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 03:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 타자기 형태의 FINEDAY 3.0 기계식 키보드.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20287#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20287#</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기억의 습작.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20287/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위블로, 빅뱅 유니코 네스프레소 오리진 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20282#</link>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20283#</guid>
             <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[짭피스 스튜디오2.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20283/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 예사롭지 않은 손전등 Wuben X3.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박스터보다 카이맨을 좋아하는 필자같은 사람이라면....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20278/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 팩맨 아케이드 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20276#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20276#</guid>
-            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아케이드 감성 그대로 담은 레고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
