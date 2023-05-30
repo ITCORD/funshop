@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 03:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 16:10 화면비의 6.7인치 E-ink 전자책]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20295#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20295#</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이럴거면 차라리 폰으로 만들지.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20295/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벨킨, BoostCharge Pro 파워 뱅크 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20291#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20291#</guid>
             <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[애플워치 울트라도 호환]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20291/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펜더, 휴대용 스피커 겸 엠프 Fender RIFF 출시]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20290#</guid>
             <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대용 기타엠프로 혹은 블루투스 스피커로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20290/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코나미, 메탈기어 솔리드 3 리메이크 출시예정]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20289#</guid>
             <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[코지마가 없는 메탈기어..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20289/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 혁신적인 모듈형 기계식 무선 키보드 Naya Create.]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20286#</guid>
             <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이들에게 우주의 꿈과 희망을.....이라구요 아저씨!!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20286/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이슨, 로봇 청소기 360 비즈 나브 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3인치 풀레인지 드라이버 스피커와 무선 서브우퍼의 조합]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20284/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 타자기 형태의 FINEDAY 3.0 기계식 키보드.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20287#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20287#</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기억의 습작.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20287/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
