@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 03:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 공전하는 공중부양 태양계.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20308#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20308#</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공중에서 돈다니까요 이게]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20308/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로지텍, PRO X 2 LIGHTSPEED 게이밍 헤드셋 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20298#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아 뭐야...한국도 내줘요...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20292/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 16:10 화면비의 6.7인치 E-ink 전자책]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20295#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20295#</guid>
-            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이럴거면 차라리 폰으로 만들지.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20295/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
