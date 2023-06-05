@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 09:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 15:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20302#</guid>
             <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3개를 사야 되나......허허...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20302/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PS5 마블 스파이더맨 2, 플레이 영상 공개]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20301#</guid>
             <pubDate>Fri, 02 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어! 심비오트!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20301/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 공전하는 공중부양 태양계.]]></title>
