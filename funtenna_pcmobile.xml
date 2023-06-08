@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 09:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 15:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dango, M1 Lite 지갑 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20321#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20321#</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전술 EDC 지갑]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8BitDo, Xbox용 무선 아케이드 스틱 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20320#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20320#</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최초의 Xbox 라이선스 무선 아케이드 스틱]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼보, 소형 전기 SUV EX30 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20319#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20319#</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[작다 하지만 빠르다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 태양광 충전 스피커 Lodge Solar Powered.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20315#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20314#</guid>
             <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 본 허브 중 가장 괜찮네.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, MR 헤드셋 '애플 비전 프로' 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20313#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20313#</guid>
-            <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[키노트 내내 거슬려보이던 저 '선']]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20313/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orange, 블루투스 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20312#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20312#</guid>
-            <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기타 앰프 브랜드들의 연이은 블루투스 스피커 출시]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20312/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 격투게임용 컨트롤러 키츠네 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20311#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20311#</guid>
-            <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스틱이 없다...버튼만 있다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20311/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20314/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
