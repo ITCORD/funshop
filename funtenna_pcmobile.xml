@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 09:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 15:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이케아 X Little Sun, 태양광 LED 램프 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20333#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20333#</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[태양 에너지 전문가와 이케아의 협업]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20333/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세가, 소닉 슈퍼스타즈 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20332#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20332#</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사실상의 소닉 4?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드 달린 휴대용 무선 모니터 울트라 랩독]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20329#</link>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20321#</guid>
             <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전술 EDC 지갑]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20321/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8BitDo, Xbox용 무선 아케이드 스틱 출시]]></title>
@@ -45,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20315#</guid>
             <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마당 갖고 싶어지네...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20315/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG, 스탠바이미 Go 출시]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[007 가방에서 갑툭튀하는 모니터.....오히려 좋아?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20318/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STATE BICYCLE CO. X 비틀즈, 4130 로드 바이크 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20317#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20317#</guid>
-            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[수평 탑튜브, 크로몰리 프레임 그리고 애비로드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20317/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국닌텐도, 피크민 4 공식 프롤로그 트레일러 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20316#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20316#</guid>
-            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[피크민은 귀엽습니다......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20316/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
