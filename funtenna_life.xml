@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 09:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 15:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 아우디 RS Q E-Tron 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20337#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20337#</guid>
+            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사막의 모래를 가로지르며 달리던 그 전기차가 레고로]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이널 판타지 7 리버스, 트레일러 및 출시일 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20336#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20336#</guid>
+            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추억속에 있......지말고 얼른 나와!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20336/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 SHARGE DISK.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20335#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20335#</guid>
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(이벤트) 플로피 디스크 쓰던 때가 엊그제 같은데]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20335/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fractal Design, 미니 ITX 케이스 Terra 공개]]></title>
@@ -37,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20332#</guid>
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사실상의 소닉 4?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20332/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 키보드 달린 휴대용 무선 모니터 울트라 랩독]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전술 EDC 지갑]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20321/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo, Xbox용 무선 아케이드 스틱 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20320#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20320#</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최초의 Xbox 라이선스 무선 아케이드 스틱]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20320/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼보, 소형 전기 SUV EX30 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20319#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20319#</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[작다 하지만 빠르다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20319/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
