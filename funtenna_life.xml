@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 03:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 09:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 작고 가벼운 지능형 드론캠 Hover Camera X1.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20339#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20339#</guid>
+            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게 작은데 접을 수 있기까지.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20339/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 게이밍 모니터 오디세이 OLED G9 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20338#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사실상의 소닉 4?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20332/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 키보드 달린 휴대용 무선 모니터 울트라 랩독]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20329#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20329#</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깡통인 줄 알았는데 속이 묵직한걸?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
