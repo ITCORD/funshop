@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 15:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 03:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이수스, 마시멜로 키보드 KW100 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20342#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20342#</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예쁜 디자인, 익숙한 키감]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20342/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hyperlite Mountain Gear의 Elevate 22 백팩]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20341#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20341#</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[초경량, 내구성 그리고 방수]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20341/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타워즈 Outlaws, 첫번째 예고편 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20340#</link>
@@ -45,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20336#</guid>
             <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[추억속에 있......지말고 얼른 나와!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20336/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 SHARGE DISK.]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(이벤트) 플로피 디스크 쓰던 때가 엊그제 같은데]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20335/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fractal Design, 미니 ITX 케이스 Terra 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20334#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20334#</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게이밍 PC가 우락부락 큰것도 옛말..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20334/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아 X Little Sun, 태양광 LED 램프 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20333#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20333#</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[태양 에너지 전문가와 이케아의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20333/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
