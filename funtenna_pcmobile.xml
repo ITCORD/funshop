@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 09:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 15:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pantheone Audio의 Obsidian 스마트 멀티룸 스피커]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20344#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20344#</guid>
+            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어용 전시품같은 멋진 외관]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20344/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 일체형 듀얼 모니터 Trio & Trio Max 3세대.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20343#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사막의 모래를 가로지르며 달리던 그 전기차가 레고로]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20337/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이널 판타지 7 리버스, 트레일러 및 출시일 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20336#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20336#</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[추억속에 있......지말고 얼른 나와!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20336/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
