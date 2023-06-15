@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 03:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 09:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 에어팟 호환 충전 넥밴드 AirCord]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20350#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20350#</guid>
+            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에어팟을 넥밴드 이어폰으로 만들기.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20350/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴발란스 X DTLR, 90/60 '글로우' 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20346#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[극장만 빼면 종횡무진 중인 스타워즈 프랜차이즈]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20340/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 작고 가벼운 지능형 드론캠 Hover Camera X1.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20339#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20339#</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 작은데 접을 수 있기까지.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20339/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
