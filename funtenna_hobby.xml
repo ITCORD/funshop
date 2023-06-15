@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 15:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 03:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴발란스 X DTLR, 90/60 '글로우' 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20346#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20346#</guid>
+            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴발란스의 Y2K]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20346/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사테치, 트리플 4K 디스플레이 도킹 스테이션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20345#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20345#</guid>
+            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 맥북프로는 두개 밖에 안된다...슬프다...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20345/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pantheone Audio의 Obsidian 스마트 멀티룸 스피커]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20344#</link>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20339#</guid>
             <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이렇게 작은데 접을 수 있기까지.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 게이밍 모니터 오디세이 OLED G9 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20338#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20338#</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[49인치.. 내 책상엔 못 올리겠네..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20338/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 아우디 RS Q E-Tron 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20337#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20337#</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사막의 모래를 가로지르며 달리던 그 전기차가 레고로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20337/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20339/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
