@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 15:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 03:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[희소식]  SHARGE DISK 펀샵 프리오더 진행 예정 안내]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20355#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20355#</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[저희가 해냈어요 여러분!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20355/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지샥, 40주년 기념 클리어 리믹스 모델 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20354#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20354#</guid>
             <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 여름에 어울리는 시원한 클리어 재질]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20354/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원피스 실사화, 공식 티저 예고편 공개]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20352#</guid>
             <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[선생님 어제부터 어금니 쪽이...아 이게 아니구나..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20352/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 올인원 스마트뱅크 Starship Seer]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[감동의 도가니였던 그 장면]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20347/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 에어팟 호환 충전 넥밴드 AirCord]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20350#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20350#</guid>
-            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에어팟을 넥밴드 이어폰으로 만들기.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20350/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
