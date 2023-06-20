@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 09:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 15:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG, 휘센 오브제컬렉션 아트쿨 에어컨 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20360#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20360#</guid>
+            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[액자형이 처음은 아니지만..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 아이패드를 디지털 액자로 만들 수 있는 iFramix]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20359#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[플레이 버튼을 누르기까지 걸린 5초정도의 망설임...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20353/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리클라이닝 게이밍 체어, Gee Manticore]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20352#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20352#</guid>
-            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[선생님 어제부터 어금니 쪽이...아 이게 아니구나..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20352/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
