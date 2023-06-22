@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 15:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데논, PerL/Pro 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20367#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20367#</guid>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당장 턴테이블이 먼저 생각나는 브랜드지만...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20367/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닌텐도, 슈퍼 마리오 브라더스 원더 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20366#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20366#</guid>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[역시 마리오의 근본은 플랫포머!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20366/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메르세데스 벤츠, 2024 E-클래스 에스테이트 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20365#</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레티나 디스플레이에 그린 그림.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20359/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MACHENIKE G5 Pro 게임 컨트롤러]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20358#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20358#</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 기능, 합리적인 가격]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20358/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MICROMILSPEC, 미국 우주군 공식 시계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20357#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20357#</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우주....그 멋진 울림의 단어..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20357/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
