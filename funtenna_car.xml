@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 09:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 15:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[bauhutte의 게이밍 소파 디럭스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20371#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20371#</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게임을 할때는 한껏 게으르고 싶다...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20371/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반스 X 타카 하야시, 발목가드 Era 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20370#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20370#</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이거이거...헬스 마니아들에게??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20370/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼마리오 RPG 리메이크 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20368#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20368#</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마리오 RPG의 원점, 27년만의 부활]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20368/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 심비오트 스피커 Van der Waals.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20369#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20365#</guid>
             <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국내에 나올지 미지수지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20365/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 미니 디스플레이 Nextus Spacepod.]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엄청 크게는 어렵겠니.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20363/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LifeStraw, 정수 필터 신형 Peak Solo 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20362#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20362#</guid>
-            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어디서든 깨끗한 식수를 얻을수 있는 조그만 필터]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20362/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HyperX, Cirro Buds Pro 게이밍 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20361#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20361#</guid>
-            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 무거운 게이밍 헤드폰을 대신할 이어폰으로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20361/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 휘센 오브제컬렉션 아트쿨 에어컨 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20360#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20360#</guid>
-            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[액자형이 처음은 아니지만..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20360/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
