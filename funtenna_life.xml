@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 15:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닌텐도, 끝내주게 춤춰라 메이드 인 와리오 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20376#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20376#</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 온몸을 쓰는 와리오!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20376/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BEYERDYNAMIC, 스페이스 맥스 스피커폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20375#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20375#</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[회의나 화상통화를 위한 스피커폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20375/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RICOH, 휴대용 모니터 150/150BW 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20374#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20374#</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[RICOH가 모니터를?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20374/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 세기말 감성의 무선 충전 보조 배터리 Wizman Green Powerbank.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20372#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20372#</guid>
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[20세기의 유산.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20372/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[bauhutte의 게이밍 소파 디럭스]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여기, 놈이 들어있다.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20369/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데논, PerL/Pro 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20367#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20367#</guid>
-            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당장 턴테이블이 먼저 생각나는 브랜드지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20367/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도, 슈퍼 마리오 브라더스 원더 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20366#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20366#</guid>
-            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[역시 마리오의 근본은 플랫포머!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20366/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메르세데스 벤츠, 2024 E-클래스 에스테이트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20365#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20365#</guid>
-            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내에 나올지 미지수지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20365/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
