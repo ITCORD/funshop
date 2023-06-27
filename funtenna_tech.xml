@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 03:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 3인치 크기의 스마트폰 Jelly Star]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20380#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20380#</guid>
+            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[있어... 매력이...!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20380/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sabrent, Thunderbolt 4 KVM 스위치 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20379#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[20세기의 유산.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20372/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bauhutte의 게이밍 소파 디럭스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20371#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20371#</guid>
-            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임을 할때는 한껏 게으르고 싶다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20371/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
