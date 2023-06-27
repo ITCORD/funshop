@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 09:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 15:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이저, 다양한 장치에 적용하는 레이저 스킨 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20383#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20383#</guid>
+            <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[닌텐도 스위치도 나와주면 안될까요?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20383/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG, 무선 포터블 파티스피커 엑스붐 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20382#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20382#</guid>
+            <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 조명이 나를 감싸네~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20382/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 신기술을 적용한 에어로가미 자켓 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20381#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20381#</guid>
+            <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자켓이 숨을 쉰다!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20381/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 3인치 크기의 스마트폰 Jelly Star]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20380#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어 온몸을 쓰는 와리오!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20376/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEYERDYNAMIC, 스페이스 맥스 스피커폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20375#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20375#</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[회의나 화상통화를 위한 스피커폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20375/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RICOH, 휴대용 모니터 150/150BW 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20374#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20374#</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[RICOH가 모니터를?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20374/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 세기말 감성의 무선 충전 보조 배터리 Wizman Green Powerbank.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20372#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20372#</guid>
-            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20세기의 유산.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20372/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
