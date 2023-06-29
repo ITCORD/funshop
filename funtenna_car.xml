@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 03:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 세계에서 가장 얇은 프로젝터 Yaber Pico T1]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20386#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20386#</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가방도 필요 없어, 주머니면 돼.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20386/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 양면 무선 충전 보조 배터리 allroundo Pro.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20385#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세가 새턴!!!!!!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20378/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, 신형 M2 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20377#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20377#</guid>
-            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["아빠! 왜 저차는 옆으로 달려?"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20377/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
