@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 09:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 15:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메르세데스 벤츠, G500 V8 Final Edition 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20390#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20390#</guid>
+            <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[8기통 지바겐의 마지막 모델..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20390/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 다이아몬드, DISTANCE 1500 헤드램프 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20389#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20389#</guid>
+            <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하드코어한 아웃도어 라이프를 위한 굉장한 밝기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20389/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker, 548 파워뱅크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20388#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20388#</guid>
+            <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑 조명으로 활용 가능한 파워뱅크]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20388/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 세계에서 가장 얇은 프로젝터 Yaber Pico T1]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20386#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자켓이 숨을 쉰다!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20381/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 3인치 크기의 스마트폰 Jelly Star]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20380#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20380#</guid>
-            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[있어... 매력이...!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20380/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sabrent, Thunderbolt 4 KVM 스위치 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20379#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20379#</guid>
-            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[두대의 컴퓨터에 동시 연결하는 도킹스테이션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20379/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8bitdo, 새로운 컬러의 M30 패드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20378#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20378#</guid>
-            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세가 새턴!!!!!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20378/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
