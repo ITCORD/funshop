@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 03:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 09:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 카메라 달린 무선 보조 배터리 SuperCam]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20391#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20391#</guid>
+            <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 보는 보조 배터리.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20391/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메르세데스 벤츠, G500 V8 Final Edition 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20390#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[화려한 조명이 나를 감싸네~]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20382/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 신기술을 적용한 에어로가미 자켓 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20381#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20381#</guid>
-            <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[자켓이 숨을 쉰다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20381/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
