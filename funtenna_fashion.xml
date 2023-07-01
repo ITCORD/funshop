@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 03:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 09:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20382#</guid>
             <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[화려한 조명이 나를 감싸네~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20382/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
