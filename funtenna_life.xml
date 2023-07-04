@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 03:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 뽑아 쓰는 손전등 YSMART MQ4.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20400#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20400#</guid>
+            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[서부의 총잡이처럼.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20400/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CASETiFY, 애플 비전 프로 액세서리 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20399#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[5대의 기기전환이라....업무용으로??]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20392/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 카메라 달린 무선 보조 배터리 SuperCam]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20391#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20391#</guid>
-            <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세상을 보는 보조 배터리.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20391/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
