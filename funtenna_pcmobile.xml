@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 15:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 03:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20403#</guid>
             <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[라이트닝 커넥터?? 이제 애플도 c타입인데.........]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20403/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[sonnettech, Echo 20 썬더볼트 4 슈퍼독 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20402#</guid>
             <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공돌이 감성이라면 이쪽이 구미가 당길듯한....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20402/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 인이어 모니터 이어폰 모레이 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20395#</guid>
             <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여기 우주가 있소.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20395/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
