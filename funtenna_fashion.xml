@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 09:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 15:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW, Exploro 자전거 라인업 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20407#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20407#</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3T와의 협업 제품들]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20407/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, Liebherr LR 13000 크롤러 크레인 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20406#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20406#</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크다! 크고 아름답다! 흐아아...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20406/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boox, 컬러 ePaper 태블릿 Tab Mini C 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20405#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20405#</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[만화책....이걸로 만화책을 보고싶다!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20405/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 모듈식 충전 거치대 Matrix]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20404#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[서부의 총잡이처럼.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20400/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CASETiFY, 애플 비전 프로 액세서리 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20399#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20399#</guid>
-            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니 벌써?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20399/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, DARKSTAR WIRELESS 게이밍 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20398#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20398#</guid>
-            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로그래밍 가능한 다양한 버튼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20398/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스컬캔디, Rail ANC 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20397#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20397#</guid>
-            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스컬캔디의 새로운 플래그십 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20397/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
