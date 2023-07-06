@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 03:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 09:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 멀티 터치패드 CheerTok.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20411#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20411#</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마우스+트랙패드+레이저포인터.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BMW, Exploro 자전거 라인업 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20407#</link>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20401#</guid>
             <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이젠 유선이 어색해진데다가 레이저라니...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20401/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 뽑아 쓰는 손전등 YSMART MQ4.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20400#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20400#</guid>
-            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서부의 총잡이처럼.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20400/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
