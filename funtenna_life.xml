@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 15:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20409#</guid>
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[후면 커버까지 업그레이드..이제 완벽한 투명]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20409/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽블랑, MTB 03 ANC 이어버드 출시]]></title>
@@ -29,14 +29,14 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20408#</guid>
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명품 브랜드 몽블랑의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20408/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 멀티 터치패드 CheerTok.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20411#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20411#</guid>
             <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마우스+트랙패드+레이저포인터.]]></content:encoded>
+            <content:encoded><![CDATA[윙가르디움 레비오우사.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20411/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20404#</guid>
             <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유사한 제품 판매해 줄 국내 수입사를 찾습니다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20404/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
