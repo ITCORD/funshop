@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 03:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 09:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 엄~청 작은 Tiny TV]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20416#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20416#</guid>
+            <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지나간 기억을 재생하는 TV.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20416/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8BitDo, NEOGEO 무선 컨트롤러 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20415#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명품 브랜드 몽블랑의 무선 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20408/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 멀티 터치패드 CheerTok.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20411#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20411#</guid>
-            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윙가르디움 레비오우사.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20411/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
