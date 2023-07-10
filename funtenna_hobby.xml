@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 09:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 15:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고 아이디어,  파이오니어 CDJ 2000 넥서스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20419#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20419#</guid>
+            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클럽에가면 꼭 볼수 있었던 전설의 CDJ를 레고로....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20419/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소니, 휴대용 서라운드 스피커 HT-AX7 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20418#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20418#</guid>
+            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[들고 다니는 멀티채널 스피커?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20418/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FISHPOND의 Thunderhead 슬링백]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20417#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20417#</guid>
+            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물속에 집어던져도 안전!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20417/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 엄~청 작은 Tiny TV]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20416#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꼭꼭 숨어라 머리카락 보일라]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20412/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZXT, 릴레이 오디오 생태계 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20410#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20410#</guid>
-            <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PC 게이머들을 위한 오디오 시스템 라인업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20410/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JSAUX, 스팀덱용 투명 전면 커버 시리즈 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20409#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20409#</guid>
-            <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[후면 커버까지 업그레이드..이제 완벽한 투명]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20409/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽블랑, MTB 03 ANC 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20408#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20408#</guid>
-            <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명품 브랜드 몽블랑의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20408/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
