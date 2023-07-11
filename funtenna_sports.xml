@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 03:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 09:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 마그네틱으로 척, Magnito 리모컨 마우스.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20420#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20420#</guid>
+            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마우스에 자성은 또 뭐고, 리모컨은 또 뭐래.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20420/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고 아이디어,  파이오니어 CDJ 2000 넥서스]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20419#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경차에 대한 관심이 상대적으로 적어진것 같은....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20413/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 투명인간에 대한 꿈, INVISIBILITY SHIELD.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20412#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20412#</guid>
-            <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[꼭꼭 숨어라 머리카락 보일라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20412/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
