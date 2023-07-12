@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 가장 가벼운 7840U UMPC 아야네오 AIR 1S]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20424#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20424#</guid>
+            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이쯤 되면 장인 정신이라고 해야 하나..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20424/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리가 작아보이는 스트리머스 체어, G-210]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20423#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[물속에 집어던져도 안전!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20417/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 엄~청 작은 Tiny TV]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20416#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20416#</guid>
-            <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지나간 기억을 재생하는 TV.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20416/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
