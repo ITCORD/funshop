@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 03:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 맥세이프 노트&펜 Side Note.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20429#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20429#</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[종이에 쓰는 감성을 이길 순 없지.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20429/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BMW의 두번째 전기 오토바이, CE 02]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20427#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비록 아다만티움이 아닌 플라스틱이지만....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20421/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 마그네틱으로 척, Magnito 리모컨 마우스.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20420#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20420#</guid>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마우스에 자성은 또 뭐고, 리모컨은 또 뭐래.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20420/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
