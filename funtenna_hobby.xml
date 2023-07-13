@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 15:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정식 라이센스 레트로 미니 콘솔, 슈퍼 포켓]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20430#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20430#</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정식으로 라이센스를 받은 레트로게임이 담긴 휴대용 콘솔]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20430/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 맥세이프 노트&펜 Side Note.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20429#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[험난한 환경에서도 시원~한 음료수를 한잔!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20422/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 울버린 아다만티움 발톱 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20421#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20421#</guid>
-            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비록 아다만티움이 아닌 플라스틱이지만....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20421/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
