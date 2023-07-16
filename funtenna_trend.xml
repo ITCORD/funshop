@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 09:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 15:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로터스, 전기 SUV Eletre 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20436#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20436#</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[로터스 최초의 4도어 모델이자 SUV]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20436/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매킨토시, ML1 라우드 스피커 Mk2 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20435#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20435#</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[매킨토시 최초의 스피커의 현대적 재해석]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20435/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지샥, 나사 협업 DW6900 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20434#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20434#</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[새하얀 우주복 컬러에 빨간 나사 로고]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20434/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 천연 이끼를 품은 가습기 Moss Air.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20433#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[종이에 쓰는 감성을 이길 순 없지.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20429/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW의 두번째 전기 오토바이, CE 02]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20427#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20427#</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[콘셉트로만 남을줄 알았지만 당당히 실제품으로!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20427/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소닉 슈퍼스타즈 X 레고, 다운로드 콘텐츠 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20426#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20426#</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소닉이 레고로 출시되었고 그 레고 소닉이 다시 소닉게임에 등장....선순환?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20426/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에반게리온 X 케이스티파이 제품 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20425#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20425#</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아 초호기옹....어째서 머리만 오셨소...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20425/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
