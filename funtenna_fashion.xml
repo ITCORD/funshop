@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 15:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 03:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진정한 친환경 신발의 끝이 등장]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20453/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(가등록) 무제]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20396#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20396#</guid>
-            <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가등록 수정]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 놀랍고도 아름다운 키네틱 아트 Oasis Mini.]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[애플 맥스?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20449/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외펀딩] 그림을 그리면 벡터 이미지로, Shaper Trace.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20448#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20448#</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[만들어 쓰는 픽토그램.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20448/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
