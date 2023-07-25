@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 15:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펠리칸, 9000 라이트]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20460#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20460#</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조명, 케이스...난 둘다!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20460/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyerdynamic의 무선 넥밴드 이어폰, Blue Byrd ANC]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20459#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20459#</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생각보다 꾸준한 수요가 있는 넥밴드 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20459/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, PS5 Access 컨트롤러 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20458#</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모래 위에서 그림 그리는 구슬.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20452/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 비츠 스튜디오 프로 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20451#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20451#</guid>
-            <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비츠의 플래그십 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20451/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Plugable, USB4 도킹 스테이션 UD-4VPD 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20450#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20450#</guid>
-            <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[듀얼 4K HDMI]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20450/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
