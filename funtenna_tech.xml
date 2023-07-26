@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 03:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 09:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 바람 나오는 손목 받침대 X-Turbo.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20464#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20464#</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[For 다한증 환자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20464/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sharkoon, OfficePal C30 의자 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20463#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리 애는 안 터져요.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20457/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 신개념 캡슐 커피머신 듀오보 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20456#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20456#</guid>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LG가 펀딩을??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20456/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
