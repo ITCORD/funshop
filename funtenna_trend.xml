@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 15:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 03:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sharkoon, OfficePal C30 의자 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20463#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20463#</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[메쉬로 제작된 인체공학적 의자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20463/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소니, WF-1000XM5 무선이어폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20462#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20462#</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[소니의 플래그십 무선이어폰....그 5번째 제품]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20462/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 마블 스파이더맨 2 한정판 ps5 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20461#</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[LG가 펀딩을??]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20456/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨킨, BoostCharge Pro 2-in-1 무선 충전 패드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20454#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20454#</guid>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥세이프 듀오를 노리고 나온듯한 느낌의 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20454/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올버즈, 탄소 배출 제로 신발 M0.0NSHOT 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20453#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20453#</guid>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[진정한 친환경 신발의 끝이 등장]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20453/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
