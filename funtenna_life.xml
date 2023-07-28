@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 15:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 03:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 일체형 듀얼 모니터 Lepow DualViews]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20471#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20471#</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3층에 모니터 있어요.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20471/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리에이티브, Outlier Free+ 및 Outlier Free Pro+ 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20470#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[For 다한증 환자]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20464/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharkoon, OfficePal C30 의자 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20463#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20463#</guid>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[메쉬로 제작된 인체공학적 의자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20463/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
