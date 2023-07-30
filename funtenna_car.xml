@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 03:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 09:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20469#</guid>
             <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 작은 부위에 세밀하게 도포...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20469/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Genesis, Nitro 550 G2 게이밍 체어 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20465#</guid>
             <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이게 진정한 지속 가능성 아닌지?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20465/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 바람 나오는 손목 받침대 X-Turbo.]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20464#</guid>
             <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[For 다한증 환자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20464/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
