@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 15:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 03:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOMAD, ChargeKey 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20474#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20474#</guid>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[C to C 케이블이자 열쇠고리]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20474/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건담베이스 20주년 기념, 한국 한정 건프라 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20473#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아무리 닌자거북이 하면 떠오르는 게 피자라지만...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20467/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크론, Crucial X9 Pro,X10 Pro 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20466#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20466#</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[점점 대중화 되어가는 휴대용 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20466/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
