@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 15:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 03:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EasySMX, 9124 프로 게임 컨트롤러 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20482#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20482#</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드리프트 현상이 없는 홀 이펙트 센서 탑재]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20482/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어둠 속에 나홀로 티저 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20481#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20481#</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그시절 그게임...어떤식으로 바뀌었을지]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20481/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴발란스, 블루보틀과의 협업 제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20480#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20480#</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산뜻한 느낌의 러닝화]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20480/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 폰으로 달 보기, Hestia Smart Telescope.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20479#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[100W 출력 위에 무선 충전기 3개.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20475/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOMAD, ChargeKey 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20474#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20474#</guid>
-            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[C to C 케이블이자 열쇠고리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20474/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건담베이스 20주년 기념, 한국 한정 건프라 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20473#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20473#</guid>
-            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 한정 MG 어스트레이]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20473/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[REDMAGIC, Cyberbuds DAO 무선 이어폰 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20472#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20472#</guid>
-            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[투명 재질이 확실히 대세인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20472/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
