@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 09:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 15:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJI, Osmo Action 4 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20490#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20490#</guid>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더 개선된 센서와 각종 기능들]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20490/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, SQ8 e-tron 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20489#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20489#</guid>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고성능 Q8 e-tron, 그럼 RS는 과연..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20489/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salomon, Elixir mid GORE-TEX 하이킹 슈즈 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20488#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20488#</guid>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[장거리 하이킹에서도 편안한 착용감을..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 타워형 식물 재배기 Nutraponics.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20487#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드리프트 현상이 없는 홀 이펙트 센서 탑재]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20482/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어둠 속에 나홀로 티저 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20481#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20481#</guid>
-            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그시절 그게임...어떤식으로 바뀌었을지]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20481/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스, 블루보틀과의 협업 제품 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20480#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20480#</guid>
-            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산뜻한 느낌의 러닝화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20480/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 폰으로 달 보기, Hestia Smart Telescope.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20479#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20479#</guid>
-            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우주를 관찰하는 낭만.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20479/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
