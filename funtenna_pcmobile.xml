@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 03:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 조명 달린 웹캠 EYECAM.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20498#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20498#</guid>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[안 씻었지만 씻은 것처럼]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20498/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전기자전거용 루프 캐리어, E바이크 리프터]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20497#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고개 움직임으로 시점 전환.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20491/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJI, Osmo Action 4 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20490#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20490#</guid>
-            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[더 개선된 센서와 각종 기능들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20490/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
