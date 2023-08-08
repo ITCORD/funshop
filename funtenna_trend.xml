@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 09:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 15:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pioneer의 하이브리드 턴테이블, PLX-CRSS12]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20500#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20500#</guid>
+            <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[디지털과 아날로그를 하나로]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20500/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반스, Tagi. 와의 협업제품 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20499#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20499#</guid>
+            <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 라이프스타일 브랜드 Tagi. 와의 재밌는 협업]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20499/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 조명 달린 웹캠 EYECAM.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20498#</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[갈곳없는 케이블과 어댑터들 한곳에 정리]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20493/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이스티파이, 스파이더맨 에어팟 맥스 케이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20492#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20492#</guid>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[케이스라기보단 패션 스킨의 느낌?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20492/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 안경 형태의 모션 컨트롤러 Mocap X.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20491#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20491#</guid>
-            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고개 움직임으로 시점 전환.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20491/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
