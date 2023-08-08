@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 15:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 03:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기자전거용 루프 캐리어, E바이크 리프터]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20497#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20497#</guid>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무거운 전기자전거를 안전하게 운반 가능하게하는 리프팅 암]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20497/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nitecore, MH12 Pro 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20496#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20496#</guid>
             <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UHi 40 LED를 사용하는 최초의 손전등]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20496/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포켓사이즈의 카드형 미니 PC, RY-P1]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20494#</guid>
             <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 기능의 LCD 스크린이 내장된 미니멀한 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20494/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hardgraft, 콘텐츠 케이블 케이스 출시]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20493#</guid>
             <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[갈곳없는 케이블과 어댑터들 한곳에 정리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20493/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이스티파이, 스파이더맨 에어팟 맥스 케이스 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 개선된 센서와 각종 기능들]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20490/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아우디, SQ8 e-tron 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20489#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20489#</guid>
-            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고성능 Q8 e-tron, 그럼 RS는 과연..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20489/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
