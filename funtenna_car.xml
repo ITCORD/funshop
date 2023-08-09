@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 15:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 03:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOKA, Restore TC 슬립온 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20501#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20501#</guid>
+            <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최소한의 재료로 최대한의 편안함을..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20501/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pioneer의 하이브리드 턴테이블, PLX-CRSS12]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20500#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20499#</guid>
             <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중국의 라이프스타일 브랜드 Tagi. 와의 재밌는 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20499/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 조명 달린 웹캠 EYECAM.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 기능의 LCD 스크린이 내장된 미니멀한 키보드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20494/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hardgraft, 콘텐츠 케이블 케이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20493#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20493#</guid>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[갈곳없는 케이블과 어댑터들 한곳에 정리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20493/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
