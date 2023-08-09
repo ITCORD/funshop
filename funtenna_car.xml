@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 09:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 15:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PowerA, 소닉과의 협업 제품공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20503#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20503#</guid>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고슴도치는 아직 현역이다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노키아, 피처폰 노키아 150 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20502#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20502#</guid>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 나오는구나....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20502/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOKA, Restore TC 슬립온 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20501#</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UHi 40 LED를 사용하는 최초의 손전등]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20496/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포켓사이즈의 카드형 미니 PC, RY-P1]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20495#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20495#</guid>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[외장메모리만한 PC..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20495/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WORK LOOUDER, Nomad [E] 키보드]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20494#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20494#</guid>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 기능의 LCD 스크린이 내장된 미니멀한 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20494/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
