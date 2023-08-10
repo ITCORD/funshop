@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 15:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 03:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아크로님, 3A-6TS 메신저백 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20504#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20504#</guid>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 X-PAC 원단을 기반으로 한 강력한 내구성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20504/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PowerA, 소닉과의 협업 제품공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20503#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무거운 전기자전거를 안전하게 운반 가능하게하는 리프팅 암]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20497/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nitecore, MH12 Pro 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20496#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20496#</guid>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[UHi 40 LED를 사용하는 최초의 손전등]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20496/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
