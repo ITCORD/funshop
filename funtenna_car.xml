@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 03:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 09:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20504#</guid>
             <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[새로운 X-PAC 원단을 기반으로 한 강력한 내구성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20504/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PowerA, 소닉과의 협업 제품공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20501#</guid>
             <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최소한의 재료로 최대한의 편안함을..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20501/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
