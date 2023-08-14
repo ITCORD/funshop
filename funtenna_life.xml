@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 15:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 작고 가벼운 고사양 UMPC ONEXFLY.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20515#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20515#</guid>
+            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아마도 완성형 UMPC.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20515/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐딜락, 에스컬레이드 IQ 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20511#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[새로운 X-PAC 원단을 기반으로 한 강력한 내구성]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20504/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PowerA, 소닉과의 협업 제품공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20503#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20503#</guid>
-            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고슴도치는 아직 현역이다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20503/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
