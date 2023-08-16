@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 09:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 15:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대, 싼타페 XRT 콘셉트 SUV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20518#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20518#</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아...너무 멋진 오프로드 감성..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20518/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8BitDo, PS1과 PS2를 위한 레트로 리시버 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20517#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20517#</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언제까지 먼지쌓인 옛날 듀얼쇼크로....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20517/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 모기 쫓는 손전등 EVO REPEL.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20516#</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[풀사이즈 전기 대형 SUV]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20511/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 새로운 크라켄 키티 헤드셋 라인업 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20510#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20510#</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나는 절대 못쓰겠지......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20510/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pro-Ject Audio, Automat A2 자동 턴테이블 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20509#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20509#</guid>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[편리하지만 타협없이 만든 자동 턴테이블]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20509/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
