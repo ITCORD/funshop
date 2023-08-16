@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 03:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 09:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 모기 쫓는 손전등 EVO REPEL.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20516#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20516#</guid>
+            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[#모기 #손전등 #충전]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20516/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Epomaker, Shadow-X 기계식 키보드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20514#</link>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20510#</guid>
             <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나는 절대 못쓰겠지......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20510/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pro-Ject Audio, Automat A2 자동 턴테이블 공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편리하지만 타협없이 만든 자동 턴테이블]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20509/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐디자인, P´8951 선글라스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20506#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20506#</guid>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미래지향적인 느낌의 선글라스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20506/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
