@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 15:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 03:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 싸우자 탈모야! niostem]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20524#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20524#</guid>
+            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무럭무럭 자라나는 기적을 행하리라.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20524/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로지텍, CASA 팝업 데스크 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20522#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[#모기 #손전등 #충전]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20516/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Epomaker, Shadow-X 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20514#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20514#</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔한 70% 레이아웃의 디자인 그리고 LCD 스크린]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20514/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
