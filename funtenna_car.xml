@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 03:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 09:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20520#</guid>
             <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역사속으로 사라진 비운의 초음속 여객기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20520/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터틀비치, 아이폰용 아톰 모바일 게임 컨트롤러 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20519#</guid>
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편리한 휴대성 그리고 일체감]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20519/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대, 싼타페 XRT 콘셉트 SUV 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20518#</guid>
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아...너무 멋진 오프로드 감성..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20518/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8BitDo, PS1과 PS2를 위한 레트로 리시버 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20516#</guid>
             <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[#모기 #손전등 #충전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20516/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
