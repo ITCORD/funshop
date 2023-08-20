@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 09:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 15:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Epomaker, TH80-X 무선 기계식키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20527#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20527#</guid>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[깨물어 먹고싶은 달콤한 디자인]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20527/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Technics, 무선 이어버드 EAH-AZ40M2 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20526#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20526#</guid>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[턴테이블 만으로 유명한 브랜드라는건 옛말]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20526/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사테치, 듀얼 독 스탠드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20525#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20525#</guid>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SSD 인클로저가 포함된 다양한 기능의 도킹 스테이션]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20525/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 싸우자 탈모야! niostem]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20524#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편리한 휴대성 그리고 일체감]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20519/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대, 싼타페 XRT 콘셉트 SUV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20518#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20518#</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아...너무 멋진 오프로드 감성..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20518/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo, PS1과 PS2를 위한 레트로 리시버 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20517#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20517#</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[언제까지 먼지쌓인 옛날 듀얼쇼크로....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20517/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 모기 쫓는 손전등 EVO REPEL.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20516#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20516#</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[#모기 #손전등 #충전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20516/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
