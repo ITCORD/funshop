@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 15:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커세어, K70 MAX 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20536#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20536#</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[MGX 마그네틱 기계식 스위치가 탑재된 최초의 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20536/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤츠, 2세대 AMG GT 쿠페 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20535#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20535#</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과연 911의 아성에 도전할수 있을런지..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20535/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로지텍  G Pro X Superlight 2 유출]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20534#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20534#</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[꽤나 눈에 띄는 성능 업그레이드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20534/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄싱턴, Pro Fit Ergo TB450 및 TB550 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20532#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쫀쫀한 헤드밴드를 가진 게이밍 헤드셋]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20529/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 프리스타일 프로젝터 2세대 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20528#</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가격은 내리고 성능은 올리고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20528/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Epomaker, TH80-X 무선 기계식키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20527#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20527#</guid>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깨물어 먹고싶은 달콤한 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20527/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Technics, 무선 이어버드 EAH-AZ40M2 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20526#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20526#</guid>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[턴테이블 만으로 유명한 브랜드라는건 옛말]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20526/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
