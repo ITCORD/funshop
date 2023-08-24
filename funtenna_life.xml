@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 09:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 15:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디파이어, TWS1 Pro 2 무선 이어폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20539#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20539#</guid>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가성비의 대명사 에디파이어]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20539/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, 34인치 OLED 커브드 게이밍 모니터 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20538#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20538#</guid>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[800R 곡률...호불호가 있을듯한 느낌적 느낌..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20538/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundcore, ANC 무선 헤드폰 Space One 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20537#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20537#</guid>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[적당한 가격에 다양한 기능을 가진 무선 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20537/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 안드로이드 게임기 Odin 2]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20540#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인체공학적인 엄지 트랙볼]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20532/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[람보르기니, 최초의 전기차 란자도르 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20531#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20531#</guid>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로산게 같은 느낌이...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20531/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, PC DIY 정밀 툴킷 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20530#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20530#</guid>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[커세어 답지 않은 가격....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20530/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, Vivobook S 15 OLED 베이프 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20533#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20533#</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 귀여운 베이비 마일로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20533/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
