@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 03:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 09:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 50대 한정, 에르고휴먼 히말라야 리미티드 에디션]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20541#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20541#</guid>
+            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과학 위에 얹은 디자인.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20541/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디파이어, TWS1 Pro 2 무선 이어폰 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20539#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꽤나 눈에 띄는 성능 업그레이드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20534/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[켄싱턴, Pro Fit Ergo TB450 및 TB550 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20532#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20532#</guid>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인체공학적인 엄지 트랙볼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20532/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
