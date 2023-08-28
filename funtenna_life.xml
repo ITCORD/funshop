@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 09:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 15:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커세어, 모듈식 컴퓨터 데스크 Platform 6 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20547#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20547#</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 공간을 꾸밀수 있는 스탠딩 데스크]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20547/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HyperX, Cloud III 무선 게이밍 헤드셋 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20546#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20546#</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 게이머들이 사용하던 Cloud III의 무선버전]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20546/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, 션 위더스푼 가젤 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20545#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20545#</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[따듯한 원단 느낌에 달콤한 컬러 배합, 션 위더스푼 그 자체]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20545/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[템퍼 X 스타필드, 우주선 느낌의 게이밍 체어]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20544#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가성비의 대명사 에디파이어]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20539/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 34인치 OLED 커브드 게이밍 모니터 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20538#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20538#</guid>
-            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[800R 곡률...호불호가 있을듯한 느낌적 느낌..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20538/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundcore, ANC 무선 헤드폰 Space One 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20537#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20537#</guid>
-            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[적당한 가격에 다양한 기능을 가진 무선 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20537/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 안드로이드 게임기 Odin 2]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20540#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20540#</guid>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최고 사양의 에뮬 머신 탄생.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20540/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
