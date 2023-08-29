@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 03:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 자그마한 모듈형 고사양 PC Khadas Mind.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20551#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20551#</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하나의 장치, 무한한 꿈]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20551/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커세어, 모듈식 컴퓨터 데스크 Platform 6 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20547#</link>
@@ -32,6 +40,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20545/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20478#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[템퍼 X 스타필드, 우주선 느낌의 게이밍 체어]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20544#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20544#</guid>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그리운 두 이름의 제대로 된 협업 제품]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20542/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 50대 한정, 에르고휴먼 히말라야 리미티드 에디션]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20541#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20541#</guid>
-            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학 위에 얹은 디자인.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20541/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디파이어, TWS1 Pro 2 무선 이어폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20539#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20539#</guid>
-            <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가성비의 대명사 에디파이어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20539/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
