@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 15:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[헤외펀딩] 10인치 UMPC TJD T101]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20555#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20555#</guid>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[거대한 빅소식!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20555/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UNEVN, 휴대용 게임 데스크 BASE 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20550#</link>
@@ -32,6 +40,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20548/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20478#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
+            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외펀딩] 자그마한 모듈형 고사양 PC Khadas Mind.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20551#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20551#</guid>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[많은 게이머들이 사용하던 Cloud III의 무선버전]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20546/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, 션 위더스푼 가젤 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20545#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20545#</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[따듯한 원단 느낌에 달콤한 컬러 배합, 션 위더스푼 그 자체]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20545/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20478#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
