@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 09:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 15:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿨러마스터, 레이싱 게이밍 체어 Dyn X 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20554#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20554#</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이걸 놓을수 있는 공간...부럽다..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BMW, X5 롱휠베이스 버전 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20553#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20553#</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국 한정출시.....한국도 내줘요...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20553/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성, 전문가를 위한 SD 카드 PRO Ultimate 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20552#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20552#</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포토그래퍼, 크리에이터를 위한 전문가용 메모리카드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20552/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 10인치 UMPC TJD T101]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20555#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 자그마한 모듈형 고사양 PC Khadas Mind.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20551#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20551#</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하나의 장치, 무한한 꿈]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20551/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, 모듈식 컴퓨터 데스크 Platform 6 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20547#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20547#</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 공간을 꾸밀수 있는 스탠딩 데스크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20547/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HyperX, Cloud III 무선 게이밍 헤드셋 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20546#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20546#</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[많은 게이머들이 사용하던 Cloud III의 무선버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20546/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
