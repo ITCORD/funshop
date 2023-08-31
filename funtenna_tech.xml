@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 09:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 15:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마샬, Motif II ANC 이어버드 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20558#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20558#</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전작에 비해 발전된 성능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glorious, 무선 게임용 마우스 모델 I 2 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20557#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20557#</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인체공학적 디자인의 다기능 무선마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20557/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필립스, 퀀텀닷 OLED패널의 게이밍모니터 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20556#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20556#</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 TV 만해지는 게 당연해진 것 같은 게이밍 모니터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20556/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿨러마스터, 레이싱 게이밍 체어 Dyn X 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20554#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이걸 정말 휴대가 가능합니까?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20550/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Solo stove, 파이 프라임 피자 오븐 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20549#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20549#</guid>
-            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴대용 피자 오븐!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20549/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, PS5 리모트 플레이 휴대콘솔 PS 포털 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20548#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20548#</guid>
-            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PS 비타의 후속도 좀 고려를....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20548/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20478#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
