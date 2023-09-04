@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 15:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 접이식 무선 마우스 myAir.0]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20563#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20563#</guid>
+            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[형태와 소재로 경계를 허물다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20563/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ErgoAV, ErgoFx 스탠딩 데스크 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20562#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20562#</guid>
+            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스탠딩 데스크 좋습니다...저도 씁니다..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20562/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레노버, 게이밍 UMPC Legion Go 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20561#</link>
@@ -14,14 +30,6 @@
             <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 게이밍 UMPC의 춘추전국시대]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20561/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ErgoAV, ErgoFx 스탠딩 데스크 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20560#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20560#</guid>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스탠딩 데스크 좋습니다...저도 씁니다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20560/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무중력 리클라이닝 워크스테이션, ZGW-0a]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이걸 놓을수 있는 공간...부럽다..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20554/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, X5 롱휠베이스 버전 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20553#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20553#</guid>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중국 한정출시.....한국도 내줘요...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20553/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
