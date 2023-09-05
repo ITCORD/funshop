@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 09:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 15:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플워치 휴대용 충전 솔루션, qCharge 2.0]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20569#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20569#</guid>
+            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[편하게 휴대하는 애플워치만을 위한 충전 배터리]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20569/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커세어, 신형 SCIMITAR ELITE 무선 마우스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20568#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20568#</guid>
+            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[MMO 게임에 최적화 된 게이밍 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20568/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈어, AONIC 50 Gen 2 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20567#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20567#</guid>
+            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사운드로 호평받던 헤드폰의 2세대]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20567/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jabra, Elite 8 Active 무선 이어버드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20566#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20564#</guid>
             <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역대 가장 강력한 카이엔]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20564/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[형태와 소재로 경계를 허물다.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20563/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ErgoAV, ErgoFx 스탠딩 데스크 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20562#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20562#</guid>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스탠딩 데스크 좋습니다...저도 씁니다..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20562/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레노버, 게이밍 UMPC Legion Go 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20561#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20561#</guid>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그야말로 게이밍 UMPC의 춘추전국시대]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20561/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무중력 리클라이닝 워크스테이션, ZGW-0a]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20559#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20559#</guid>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과연 여기서 일하면 편할지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20559/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
