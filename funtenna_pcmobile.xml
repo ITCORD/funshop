@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 03:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 09:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
             <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 접이식 무선 마우스 myAir.0]]></title>
