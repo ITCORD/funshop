@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 09:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 15:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭스바겐, ID GTI 콘셉트 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20572#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20572#</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이젠 GTI도 전기....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20572/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RE:FORM의 테크니컬 지갑, RE:01]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20571#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20571#</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 주머니에서 덜렁거리는 동전은 못참....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20571/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] AYANEO의 첫 번째 8인치대 UMPC KUN]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20570#</link>
@@ -37,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20567#</guid>
             <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사운드로 호평받던 헤드폰의 2세대]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20567/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jabra, Elite 8 Active 무선 이어버드 공개]]></title>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20565#</guid>
             <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[KEEN 최초의 워킹화 거기에 방수를 더한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20565/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 카이엔 터보 E-하이브리드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20564#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20564#</guid>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[역대 가장 강력한 카이엔]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20564/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵 판매예정] 8BitDo, 레트로 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20478#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20478#</guid>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제대로 각잡고 만든 닌텐도 테이스트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/040/20478/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
