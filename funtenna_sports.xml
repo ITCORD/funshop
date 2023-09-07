@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 09:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 15:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디오라마 게임 컨트롤러, REALMz]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20576#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20576#</guid>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게임의 피규어와 디오라마가 컨트롤러 안에!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20576/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BMW, Vision Neue Klasse 콘셉트 카 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20575#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20575#</guid>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[BMW의 완전히 새로운 플랫폼으로 제작될 앞으로의 전기차들]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20575/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JBL, Authentics 스피커 라인업 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20574#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20574#</guid>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[복고풍 디자인의 무선 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20574/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노트북위에 자신의 최애 키보드를, 타입 스틱스]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20573#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편하게 휴대하는 애플워치만을 위한 충전 배터리]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20569/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, 신형 SCIMITAR ELITE 무선 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20568#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20568#</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MMO 게임에 최적화 된 게이밍 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20568/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈어, AONIC 50 Gen 2 헤드폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20567#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20567#</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사운드로 호평받던 헤드폰의 2세대]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20567/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jabra, Elite 8 Active 무선 이어버드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20566#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20566#</guid>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 내구성을 가진 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20566/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
