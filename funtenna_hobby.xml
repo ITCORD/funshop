@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 15:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노트북위에 자신의 최애 키보드를, 타입 스틱스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20573#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20573#</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조그만 공간도 소중한 데스크를 위해]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20573/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭스바겐, ID GTI 콘셉트 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20572#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[독보적인 내구성을 가진 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20566/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEEN, WK400의 방수버전 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20565#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20565#</guid>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[KEEN 최초의 워킹화 거기에 방수를 더한..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20565/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
