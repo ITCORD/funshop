@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 09:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jabra, Elite 10 무선 이어폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20579#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20579#</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[돌비 애트모스를 지원하는 무선 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20579/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유그린, 300W GaN 충전기 Nexode 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20578#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20578#</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[300W 용량으로 깔끔한 데스크위 충전환경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20578/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젠하이저, AMBEO Soundbar Mini 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20577#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20577#</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[AMBEO 라인업중 가장 작은 사운드바]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20577/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디오라마 게임 컨트롤러, REALMz]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20576#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이젠 GTI도 전기....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20572/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RE:FORM의 테크니컬 지갑, RE:01]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20571#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20571#</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 주머니에서 덜렁거리는 동전은 못참....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20571/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] AYANEO의 첫 번째 8인치대 UMPC KUN]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20570#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20570#</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[64GB RAM과 8.4인치 디스플레이.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20570/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플워치 휴대용 충전 솔루션, qCharge 2.0]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20569#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20569#</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[편하게 휴대하는 애플워치만을 위한 충전 배터리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20569/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
