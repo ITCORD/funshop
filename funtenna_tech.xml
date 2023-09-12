@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 15:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 03:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 매킨토시 형태의 멀티 허브 RayCue 128K.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20583#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20583#</guid>
+            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[21세기의 클래식.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20583/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JAKEMY 200 in 1, 스페셜 전기 드라이버 세트]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20582#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임의 피규어와 디오라마가 컨트롤러 안에!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20576/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, Vision Neue Klasse 콘셉트 카 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20575#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20575#</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[BMW의 완전히 새로운 플랫폼으로 제작될 앞으로의 전기차들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20575/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
