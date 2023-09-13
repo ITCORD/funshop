@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 09:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 15:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 아이폰 15 프로, 프로맥스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20589#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20589#</guid>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마침내...C타입...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20589/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 썬더볼트 5 규격 발표]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20588#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20588#</guid>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[썬더볼트 4보다 최대 3배의 전송속도....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20588/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니, 레거시 애니메이션 무비 컬렉션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20587#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20587#</guid>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[총 100편의 애니메이션 무비 수록]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20587/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 맥도날드와 테슬라의 만남, 사이버스푼]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20586#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뭘 돌릴지 몰라서 전부 가져왔어...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20582/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐논데일, 새로운 카고바이크 2종 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20581#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20581#</guid>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일상에 녹아드는 실용성을 가진 자전거들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20581/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르노, 세닉 이테크 전기차 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20580#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20580#</guid>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실용적인 세닉의 차세대 전기버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20580/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jabra, Elite 10 무선 이어폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20579#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20579#</guid>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[돌비 애트모스를 지원하는 무선 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20579/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
