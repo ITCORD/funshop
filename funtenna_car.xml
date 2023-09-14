@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 03:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20587#</guid>
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[총 100편의 애니메이션 무비 수록]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20587/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국 맥도날드와 테슬라의 만남, 사이버스푼]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20583#</guid>
             <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[21세기의 클래식.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20583/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JAKEMY 200 in 1, 스페셜 전기 드라이버 세트]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20582#</guid>
             <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뭘 돌릴지 몰라서 전부 가져왔어...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20582/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
