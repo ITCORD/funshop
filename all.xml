@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 15:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20591#</guid>
             <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[독서용 스탠드 혹은 영상용 조명]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20591/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤츠, 콘셉트 CLA 클래스 EV 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20590#</guid>
             <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[CLA의 전기차 버전.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20590/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, 아이폰 15 프로, 프로맥스 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20588#</guid>
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 4보다 최대 3배의 전송속도....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20588/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니, 레거시 애니메이션 무비 컬렉션 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
