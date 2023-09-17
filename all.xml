@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 15:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 03:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20594#</guid>
             <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유일무이한 쿼티 키보드.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20594/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소노스, 무선 스피커 무브2 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20592#</guid>
             <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4년만에 출시된 무브의 후속작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20592/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아, 링 LED 조명 스텡크렝 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20589#</guid>
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마침내...C타입...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20589/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인텔, 썬더볼트 5 규격 발표 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -85,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20592#</guid>
             <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4년만에 출시된 무브의 후속작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20592/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아, 링 LED 조명 스텡크렝 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
