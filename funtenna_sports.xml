@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 09:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 15:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드비알레, 제미니 2 무선이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20607#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20607#</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팬텀 스피커의 미니어처 같은 고급진 느낌]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20607/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baseus, Free2Draw 케이블 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20606#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20606#</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고속충전이 가능한 휴대용 접이식 케이블]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20606/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, Viper V3 Hyperspeed 게이밍 마우스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20605#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20605#</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심플하고 가벼운 게이밍 무선마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20605/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 눈에 넣어도 안 아픈 모니터 E-ink 모니터 Paperlike Color.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20608#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[반짝이는 PS5 액세서리 컬렉션]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20600/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMsystem, 터프 TG-7 카메라 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20599#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20599#</guid>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아직은 올림푸스가 더 익숙하지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20599/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도, 프린세스 피치 Showtime! 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20598#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20598#</guid>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[피치공주 단독 주인공!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20598/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 입/출력 140W 보조 배터리 AOHi Starship.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20601#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20601#</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이런 걸 볼 때마다 격세지감.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20601/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
