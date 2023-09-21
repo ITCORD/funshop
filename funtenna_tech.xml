@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 15:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Stitch X Danner, 리지 부츠 카모 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20612#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20612#</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이름만 들어도 튼튼해 보이는 두 브랜드의 만남]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20612/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드비알레, 제미니 2 무선이어버드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20607#</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팬텀 스피커의 미니어처 같은 고급진 느낌]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20607/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baseus, Free2Draw 케이블 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20606#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20606#</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고속충전이 가능한 휴대용 접이식 케이블]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20606/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, Viper V3 Hyperspeed 게이밍 마우스 출시]]></title>
