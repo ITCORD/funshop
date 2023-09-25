@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 03:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 멀티 디바이스 Wokpad]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20625#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20625#</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일단 마우스라고 하면 될려나..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20625/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AOC, 휴대용 게이밍 모니터 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20614#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구글이 인증한 안드로이드 TV 박스 내장]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20609/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Stitch X Danner, 리지 부츠 카모 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20612#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20612#</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이름만 들어도 튼튼해 보이는 두 브랜드의 만남]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20612/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
