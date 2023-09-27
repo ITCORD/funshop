@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 09:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 15:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20616/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Baseus, Free2Draw 케이블 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20606#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20606#</guid>
+            <title><![CDATA[[해외펀딩] 멀티 디바이스 Wokpad]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20625#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20625#</guid>
             <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고속충전이 가능한 휴대용 접이식 케이블]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20606/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[일단 마우스라고 하면 될려나..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20625/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
