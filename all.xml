@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 09:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20621#</guid>
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비싼 아이폰...그것보다 훨씬 더 비싸게 제작한 커스텀 아이폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20621/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어, VIRTUOSO PRO 오픈백 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
