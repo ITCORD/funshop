@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 09:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 15:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[nacon, 레볼루션 5 프로 게임 컨트롤러 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20628#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20628#</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마그네틱 홀 이펙트 스틱으로 드리프트 현상을 제거]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20628/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바워스앤윌킨스, Px7 S2e 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20627#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20627#</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보급형이지만 여러모로 보급형 같지 않은 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20627/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 에어 포스 1 "윈터라이즈드" 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20615#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20615#</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[당장 신고 겨울 캠핑 해야될것 같은 디자인]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20615/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anker, 올 뉴 모션 300 스피커 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20624#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비싼 아이폰...그것보다 훨씬 더 비싸게 제작한 커스텀 아이폰]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20621/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, VIRTUOSO PRO 오픈백 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20620#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20620#</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[흔하지 않은 오픈형 게이밍 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20620/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍 G, Yeti 마이크, Litra Lights 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20619#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20619#</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[로지텍의 간편한 게임 스트리밍 장비들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20619/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 폴더블 노트북 '그램 폴드' 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20626#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20626#</guid>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그래도 접는 디스플레이는 LG지..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20626/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
