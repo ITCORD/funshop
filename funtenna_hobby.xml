@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 09:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 15:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후지필름, INSTAX Pal 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20631#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20631#</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가볍게 촬영후 인쇄하는 즐거운 카메라]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20631/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SOUNDBOKS, SOUNDBOKS 4 스피커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20630#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20630#</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[혼자 콘서트도 가능할만한 거대한 블루투스 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20630/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, Fujin Pro 메시재질의 게이밍 체어 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20629#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20629#</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[메시가 참 좋긴 합니다....특히 저같은 뚱뚱이에겐..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20629/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] MES Retro Mini 게임기]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20633#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고해상도 무선음악을 야외에서~]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20624/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 슈퍼마리오 뻐끔 플라워 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20623#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20623#</guid>
-            <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[책상 위에 시들지 않는 식물 한번 키워보지 않으실래요?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20623/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nocs 디자인, 무선스피커 'Mini' 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20622#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20622#</guid>
-            <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모노리스의 동생 같은 느낌의 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20622/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 판 스프링 마운트가 내장된 무선 키보드 Black Diamond.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20632#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20632#</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 꿈은 람보르기니.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20632/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
