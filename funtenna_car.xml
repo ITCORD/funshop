@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 09:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 세발자전거의 진화 VOOK E-trike]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20634#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20634#</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기로 달리는 슈퍼초울트라 세발자전거]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20634/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후지필름, INSTAX Pal 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20631#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20630#</guid>
             <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[혼자 콘서트도 가능할만한 거대한 블루투스 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20630/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, Fujin Pro 메시재질의 게이밍 체어 출시]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20628#</guid>
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마그네틱 홀 이펙트 스틱으로 드리프트 현상을 제거]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20628/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바워스앤윌킨스, Px7 S2e 헤드폰 출시]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20615#</guid>
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당장 신고 겨울 캠핑 해야될것 같은 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anker, 올 뉴 모션 300 스피커 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20624#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20624#</guid>
-            <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고해상도 무선음악을 야외에서~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20624/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20615/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
