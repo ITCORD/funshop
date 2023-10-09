@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 03:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 09:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20631#</guid>
             <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가볍게 촬영후 인쇄하는 즐거운 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20631/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SOUNDBOKS, SOUNDBOKS 4 스피커 출시]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20630#</guid>
             <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[혼자 콘서트도 가능할만한 거대한 블루투스 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20630/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, Fujin Pro 메시재질의 게이밍 체어 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20615#</guid>
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[당장 신고 겨울 캠핑 해야될것 같은 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20615/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
