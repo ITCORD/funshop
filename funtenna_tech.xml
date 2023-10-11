@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 09:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 15:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄스 댄스 레볼루션 클래식 미니 펀딩예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20643#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20643#</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미니사이즈로 살아나는 DDR의 추억]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20643/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이어다이나믹, 자사 최초의 무선 게이밍 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20642#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20642#</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[프로 장비를 넘어 정말 다양한 컨슈머라인업까지 침투중인 브랜드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20642/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이밴, 메타 스마트 안경 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20641#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20641#</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[메타와의 합작으로 이루어진 2세대 스마트 안경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20641/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 배터리 수명을 늘려주는 충전량 제한기 Leo.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20647#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비싸지만 라이카 치곤 싸다.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20637/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티볼리 오디오, SongBook 라인업 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20636#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20636#</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지한 디자인 그렇지 않은 성능과 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20636/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 신형 카이엔 S E-하이브리드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20635#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20635#</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이브리드의 'S'...과연..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20635/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 세발자전거의 진화 VOOK E-trike]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20634#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20634#</guid>
-            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전기로 달리는 슈퍼초울트라 세발자전거]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20634/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
