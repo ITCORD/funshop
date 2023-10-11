@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 03:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 09:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 배터리 수명을 늘려주는 충전량 제한기 Leo.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20647#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20647#</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비움의 미학.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20647/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MSI, IMMERSE GH50 WIRELESS 게이밍 헤드셋 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20640#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20639#</guid>
             <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이젠 귀여운 충전기가 팔도 움직인다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20639/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브롬톤, 베어그릴스 익스플로어 바이크 출시]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20636#</guid>
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빈티지한 디자인 그렇지 않은 성능과 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20636/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르쉐, 신형 카이엔 S E-하이브리드 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20635#</guid>
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이브리드의 'S'...과연..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20635/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 세발자전거의 진화 VOOK E-trike]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전기로 달리는 슈퍼초울트라 세발자전거]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20634/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, INSTAX Pal 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20631#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20631#</guid>
-            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가볍게 촬영후 인쇄하는 즐거운 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20631/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
