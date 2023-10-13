@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 아주 작고 아주 가벼운 공기압 주입기, ZERO PUMP.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20648#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20648#</guid>
+            <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바람이 불어오는 곳]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20648/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AIAIAI Audio, Unit 4 Wireless Plus 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20646#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비움의 미학.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20647/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MSI, IMMERSE GH50 WIRELESS 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20640#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20640#</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가성비의 무선 게이밍 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20640/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
