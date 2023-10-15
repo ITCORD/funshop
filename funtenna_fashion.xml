@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 09:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 15:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니메이션 드래곤볼 다이마 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20649#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20649#</guid>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 어려진 손오공 일행들??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20649/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 아주 작고 아주 가벼운 공기압 주입기, ZERO PUMP.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20648#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[메타와의 합작으로 이루어진 2세대 스마트 안경]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20641/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 배터리 수명을 늘려주는 충전량 제한기 Leo.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20647#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20647#</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비움의 미학.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20647/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
