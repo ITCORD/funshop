@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 03:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 09:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 투명하고 삼각한 보조 배터리 Shargeek 170]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20652#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20652#</guid>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배터리 맛집에 새로운 메뉴가 나왔데요.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20652/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈어, SM7dB 마이크 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20651#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이브리드 슈퍼카, 레부엘토의 시그니처 컬러 기반의 디자인]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20644/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄스 댄스 레볼루션 클래식 미니 펀딩예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20643#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20643#</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미니사이즈로 살아나는 DDR의 추억]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20643/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
