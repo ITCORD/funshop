@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 15:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 03:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈어, SM7dB 마이크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20651#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20651#</guid>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전설적인 마이크 SM7B에 모자라던 그 '하나'를 추가.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20651/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칼하트 WIP x 뉴발란스 990v6 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20650#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20650#</guid>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 스포츠웨어 느낌을 잘 살려줬던 둘의 또다른 만남]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20650/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애니메이션 드래곤볼 다이마 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20649#</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미니사이즈로 살아나는 DDR의 추억]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20643/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이어다이나믹, 자사 최초의 무선 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20642#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20642#</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로 장비를 넘어 정말 다양한 컨슈머라인업까지 침투중인 브랜드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20642/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이밴, 메타 스마트 안경 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20641#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20641#</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타와의 합작으로 이루어진 2세대 스마트 안경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20641/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
