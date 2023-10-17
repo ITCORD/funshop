@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 09:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 15:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20652#</guid>
             <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배터리 맛집에 새로운 메뉴가 나왔데요.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20652/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈어, SM7dB 마이크 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20650#</guid>
             <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 스포츠웨어 느낌을 잘 살려줬던 둘의 또다른 만남]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20650/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애니메이션 드래곤볼 다이마 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
