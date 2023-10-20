@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 15:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 03:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체인리스 전기 자전거, Honbike HF01]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20665#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20665#</guid>
+            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[체인이 필요없는 클린 샤프트 드라이브 시스템]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20665/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[델, 신형 래티튜드 7030 러기드 익스트림 태블릿 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20664#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20664#</guid>
+            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[열악한 환경에서 사용하는 태블릿 PC]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20664/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mophie, snap+ juice pack mini 배터리 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20663#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20663#</guid>
+            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가볍게 들고다니는 무선 배터리 겸 스탠드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20663/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들고다니는 데스크톱, HP Envy Move 24]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20662#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모멘텀의 가격이 부담이 되었다면?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20658/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커세어, M75 AIR 와이어리스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20657#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20657#</guid>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최고의 FPS 게임 경험을 위한 경량 무선 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20657/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SCUF 게이밍, SCUF 엔비전 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20656#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20656#</guid>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고성능 모듈형 게임 컨트롤러의 창시자 격인 SCUF]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20656/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COUGAR, NXSYS AERO 의자 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20655#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20655#</guid>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[와 통풍시트!!!! 그런데 엉덩이는?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20655/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
