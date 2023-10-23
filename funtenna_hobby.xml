@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 09:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩]  픽셀 디스플레이 Tidbyt Gen 2]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20670#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20670#</guid>
+            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나에게 픽셀 아트라는 재능이!?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20670/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 동물의 숲 시리즈 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20669#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가볍게 들고다니는 무선 배터리 겸 스탠드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20663/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들고다니는 데스크톱, HP Envy Move 24]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20662#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20662#</guid>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[집안에서 어디든 들고다니며 활용하는 일체형 PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20662/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
