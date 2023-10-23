@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 15:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롤랜드, SP-404 MKII 스톤스 스로우 한정판 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20671#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20671#</guid>
+            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[로파이 샘플러의 대명사, 그 한정판]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20671/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩]  픽셀 디스플레이 Tidbyt Gen 2]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20670#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[열악한 환경에서 사용하는 태블릿 PC]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20664/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[mophie, snap+ juice pack mini 배터리 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20663#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20663#</guid>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가볍게 들고다니는 무선 배터리 겸 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20663/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
