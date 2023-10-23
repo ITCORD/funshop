@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 15:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 동물의 숲 시리즈 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20669#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20669#</guid>
+            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[저는 전부 다 살겁니다....여러분은요?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20669/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사테치, 아이패드 프로용 비건 가죽 마그네틱 케이스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20668#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20668#</guid>
+            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스마트 커넥터 패스스루가 내장된 몇 안되는 케이스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20668/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤츠,  GLC 63 S E PERFORMANCE 쿠페 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20667#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20667#</guid>
             <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이젠 63이라는 숫자가 붙어도 4기통.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20667/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 궁합 측정기 Gadget 88.]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[집안에서 어디든 들고다니며 활용하는 일체형 PC]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20662/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 새로운 디자인의 PS5 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20661#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20661#</guid>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이걸 슬림해졌다고 해야할지....아리송...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20661/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닉슨, 2PAC 콜렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20660#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20660#</guid>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전설적인 래퍼, 2PAC을 기념하는 시계 라인업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20660/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
