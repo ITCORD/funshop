@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 09:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 15:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아디다스, 새로운 심슨 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20680#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20680#</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[반가운 산타스 리틀 헬퍼~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20680/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오징어게임, 리얼리티 쇼로 공개 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20679#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20679#</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예능으로 즐기는 오징어게임]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20679/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2륜 SUV? 고고로 크로스오버]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20678#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20678#</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 유틸리티성을 가진 재능많은 전기스쿠터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20678/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 시계이자 커프링크스, Creamy Patina.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20677#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[광대역 멀티 채널 액티브 노이즈 캔슬링]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20673/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마하, ZG 01 니어오토마타 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20672#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20672#</guid>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여러모로 화제였던 그 게임과의 협업 제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20672/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤랜드, SP-404 MKII 스톤스 스로우 한정판 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20671#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20671#</guid>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[로파이 샘플러의 대명사, 그 한정판]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20671/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩]  픽셀 디스플레이 Tidbyt Gen 2]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20670#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20670#</guid>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나에게 픽셀 아트라는 재능이!?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20670/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
