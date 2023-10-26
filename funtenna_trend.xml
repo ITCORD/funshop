@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 03:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20677#</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세상 가장 격식 있는 셔츠 소매.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20677/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이티브 페블 V3 아티산 에디션 출시]]></title>

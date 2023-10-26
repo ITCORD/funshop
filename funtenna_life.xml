@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 03:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20673#</guid>
             <pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[광대역 멀티 채널 액티브 노이즈 캔슬링]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20673/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
