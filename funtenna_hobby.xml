@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 09:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOOX, Tab Ultra C Pro 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20689#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20689#</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[BOOX의 최신 ePaper 태블릿 PC]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20689/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 에어포스 1 07 Pro-Tech 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20688#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20688#</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고어텍스를 넘어 이제는 방수 재질로]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20688/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뱅앤올룹슨, 베오사운드 A5 Spaced Aluminium 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20687#</link>
@@ -24,7 +40,7 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20686/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1MORE의 펜타 드라이버 이어폰, P50]]></title>
+            <title><![CDATA[[펀샵판매중] 1MORE의 펜타 드라이버 이어폰, P50]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20685#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20685#</guid>
             <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명품과도 협업하는 레이저]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20682/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클립쉬, The Three Plus 블루투스 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20681#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20681#</guid>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이파이부터 모바일까지..모든 음향제품을 아우르는 클립쉬의 신제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20681/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, 새로운 심슨 컬렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20680#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20680#</guid>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[반가운 산타스 리틀 헬퍼~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20680/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
