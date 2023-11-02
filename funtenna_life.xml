@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 15:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 03:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트모스 핑크 X 아디다스, 가젤 볼드 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20698#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20698#</guid>
+            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아쉽게도 여성사이즈만....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20698/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 자연사 박물관 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20696#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20696#</guid>
+            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하나만 모을수없는 마성의 모듈러 세트 컬렉션............]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20696/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aston Martin X J.Laverack, 비스포크 티타늄 로드바이크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20695#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20695#</guid>
+            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[티타늄과 카본 거기에 끝내주는 마감]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20695/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 휴대용 에뮬 게임기 XGO.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20694#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[먼지 쌓이고 있는 CD에 새 생명을...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20690/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BOOX, Tab Ultra C Pro 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20689#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20689#</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[BOOX의 최신 ePaper 태블릿 PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20689/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어포스 1 07 Pro-Tech 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20688#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20688#</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고어텍스를 넘어 이제는 방수 재질로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20688/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅앤올룹슨, 베오사운드 A5 Spaced Aluminium 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20687#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20687#</guid>
-            <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[단언컨대, 메탈은 가장 완벽한 물질입니다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20687/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
