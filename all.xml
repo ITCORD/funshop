@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 15:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 03:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해외펀딩] 마침내 SHARGE Disk 판매 준비 완료 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20714#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20714#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[늦었지만, 약속을 지키기 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20713#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20713#</guid>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20712#</guid>
             <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[밀리터리 느낌 물씬나는 멋진 필드 워치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20712/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아우디, TT 로드스터 파이널 에디션 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -117,7 +125,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20703#</guid>
             <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 가죽질감으로 다시 태어난 상징적인 캐리어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20703/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 키네틱 아트 Mezmoglobe Luna. (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가만 보니 돌겠네 이거.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20702/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건전지가...건전지가 커졌어요!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -200,6 +200,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해외펀딩] 마침내 SHARGE Disk 판매 준비 완료 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20714#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20714#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[늦었지만, 약속을 지키기 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20714/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20713#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20713#</guid>
@@ -256,12 +264,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20702/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건전지가...건전지가 커졌어요!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 마침내 SHARGE Disk 판매 준비 완료 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20714#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20714#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[늦었지만, 약속을 지키기 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20714/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -320,12 +328,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20702/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건전지가...건전지가 커졌어요!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 마침내 SHARGE Disk 판매 준비 완료 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20714#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20714#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[늦었지만, 약속을 지키기 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20714/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -384,12 +392,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20702/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건전지가...건전지가 커졌어요!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 마침내 SHARGE Disk 판매 준비 완료 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20714#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20714#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[늦었지만, 약속을 지키기 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20714/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -448,12 +456,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20702/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건전지가...건전지가 커졌어요!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 마침내 SHARGE Disk 판매 준비 완료 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20714#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20714#</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[늦었지만, 약속을 지키기 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20714/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤리 케인의 오디오 브랜드, OUR PURE PLANET (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가만 보니 돌겠네 이거.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20702/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀라셀, 휴대용 파워뱅크 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20701#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20701#</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건전지가...건전지가 커졌어요!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20701/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
