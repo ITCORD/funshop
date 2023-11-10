@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 15:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 작동 가능한 NASA 화성 탐사차 퍼서비어런스 DIY 키트]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20718#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20718#</guid>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[코딩은 무섭지만 탐사 로봇은 멋진걸?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20718/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 어벤져스 타워 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20725#</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어찌보면 정말 잘어울리는 두 브랜드의 재회]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20717/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로터스, 타입 136 전기 로드바이크 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20716#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20716#</guid>
-            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[로터스하면 경량과 핸들링....응? 아니라고?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20716/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
