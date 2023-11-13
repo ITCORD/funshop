@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 09:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 15:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카시오, 지샥 DW-5000 카본 버전 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20730#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20730#</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남자의 가슴을 뛰게 하는 카본]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 살아 숨 쉬는 포옹 인형 fufuly]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20729#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미니PC의 명가로 거듭나고 있는 MINISFORUM의 새로운 키보드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20724/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나소닉, 스타워즈 스톰트루퍼 에디션 ARC3 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20723#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20723#</guid>
-            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[왠지 수염이 듬성듬성 잘릴것 같은 불길한 예감..........]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20723/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
