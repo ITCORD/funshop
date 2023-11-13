@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 03:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 09:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 살아 숨 쉬는 포옹 인형 fufuly]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20729#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20729#</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아 다음 달 크리스마스...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20729/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밸드, 스팀 덱 OLED 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20728#</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[왠지 수염이 듬성듬성 잘릴것 같은 불길한 예감..........]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20723/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HyperX, Clutch Gladiate RGB 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20722#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20722#</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[RGB의 화려함과 적당한 가격]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20722/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
