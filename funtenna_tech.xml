@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 15:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 03:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밸드, 스팀 덱 OLED 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20728#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20728#</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스위치 OLED 같은 느낌?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20728/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NOMAD, 자동차용 모바일 충전기 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20727#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20727#</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔하고 쉬운 연결]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20727/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADATA, SE920 USB4 외장 SSD 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20726#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20726#</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[냉각용 팬이 내장된 USB4 외장 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20726/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 작동 가능한 NASA 화성 탐사차 퍼서비어런스 DIY 키트]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20718#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[RGB의 화려함과 적당한 가격]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20722/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Satisfy X Osprey, 친환경 백팩 Talon Mineral 22 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20720#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20720#</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[bluesign이 승인한 재활용 재료와 트림으로 제작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20720/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스틸시리즈, 스트리머용 Alias 마이크 라인업 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20719#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20719#</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소나라는 앱을통해 전문가급의 마이크 컨트롤을...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20719/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀버랜드 X 논네이티브, 6인치 프리미엄 부츠 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20717#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20717#</guid>
-            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어찌보면 정말 잘어울리는 두 브랜드의 재회]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20717/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
