@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 15:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 03:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOFREE, 터치 PBT 무선마우스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20732#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20731#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20731#</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고급스러운 복고풍의 삼바]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20731/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카시오, 지샥 DW-5000 카본 버전 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20730#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20730#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남자의 가슴을 뛰게 하는 카본]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20730/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 살아 숨 쉬는 포옹 인형 fufuly]]></title>
@@ -24,7 +40,7 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20729/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸드, 스팀 덱 OLED 공개]]></title>
+            <title><![CDATA[밸브, 스팀 덱 OLED 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20728#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20728#</guid>
             <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
@@ -53,23 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20718#</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[코딩은 무섭지만 탐사 로봇은 멋진걸?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 어벤져스 타워 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20725#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20725#</guid>
-            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가슴이 웅장해지던 그 시절 어벤져스...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20725/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MINISFORUM, MKB i83 무선 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20724#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20724#</guid>
-            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미니PC의 명가로 거듭나고 있는 MINISFORUM의 새로운 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20724/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20718/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
