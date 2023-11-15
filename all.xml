@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 03:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 09:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20730#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[남자의 가슴을 뛰게 하는 카본]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20730/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 살아 숨 쉬는 포옹 인형 fufuly (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
