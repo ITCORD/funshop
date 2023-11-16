@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 15:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 03:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20736#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[의외로 괜찮은데?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20736/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lofree, Block 무선 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -70,6 +70,30 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 복고풍의 삼바]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20731/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스터 앤 다이나믹, MW09 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20738#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20738#</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마스터 앤 다이나믹의 새로운 플래그십 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20738/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커세어, K70 CORE SE 게이밍 키보드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20737#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20736#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20736#</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[의외로 괜찮은데?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20736/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lofree, Block 무선 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -101,7 +125,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 복고풍의 삼바]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20731/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카시오, 지샥 DW-5000 카본 버전 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20730#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20730#</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남자의 가슴을 뛰게 하는 카본]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20730/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 살아 숨 쉬는 포옹 인형 fufuly (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20729#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20729#</guid>
-            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아 다음 달 크리스마스...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20729/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸브, 스팀 덱 OLED 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20728#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20728#</guid>
-            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스위치 OLED 같은 느낌?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20728/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마스터 앤 다이나믹, MW09 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -149,7 +149,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -189,7 +189,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -213,7 +213,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -253,7 +253,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -277,7 +277,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -317,7 +317,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -341,7 +341,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -405,7 +405,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -445,7 +445,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -469,7 +469,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20737#</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K70 CORE의 스페셜 에디션 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20737/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 유유백서 실사화 예고편 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -509,7 +509,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20732#</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키보드키가 들어간 마우스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20732/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스, 삼바 OG SPORTY & RICH 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
