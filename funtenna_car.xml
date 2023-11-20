@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Xbox, 웡카 관련 경품 이벤트 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20748#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20748#</guid>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[컨트롤러 초콜릿이라니....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20748/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머라이어 캐리 바비 인형 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20747#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20747#</guid>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 연금 같은 그 명곡의 주인공]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20747/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼보, EM90 전기 자동차 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20745#</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오랜시간 인기를 끌어온 HS 시리즈의 콤팩트 라인업]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20741/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 8TB T5 EVO 휴대용 SSD 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20740#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20740#</guid>
-            <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴대용이 8TB.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20740/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스터 앤 다이나믹, MW09 무선 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20738#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20738#</guid>
-            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마스터 앤 다이나믹의 새로운 플래그십 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20738/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
