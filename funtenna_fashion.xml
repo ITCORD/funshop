@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짱구는 못말려! 탄광마을의 흰둥이 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20764#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20764#</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이번엔 처음부터 한글화로!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20764/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다기능 올인원 헬멧, Calyx]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20763#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20763#</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스키, 등산, 사이클링 모두 착용~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20763/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파나소닉, 터프북 55 MK3 세미 러기드 노트북 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20762#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20762#</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[험준한 환경에서의 사용이 목적인 러기드 노트북]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20762/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체리, KC 200 MX 키보드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20760#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포켓오퍼레이터 PO-33 K.O의 정식 후속작]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20761/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타360 에이스/ 에이스 프로 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20758#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20758#</guid>
-            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고프로, 오즈모 액션 그리고 에이스 프로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20758/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어 조던 스피자이크 브레드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20756#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20756#</guid>
-            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인기 조던의 디자인적 요소를 하나씩 떼서 합친 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20756/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIIO, 하이파이 오디오 내장 기계식 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20755#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20755#</guid>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오디오? 키보드? 난 둘 다!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20755/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
