@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 09:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 15:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로에베. 다용도 펭귄백 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20771#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20771#</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[펭귄 한마리 몰고 가세요~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20771/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COUGAR, 게이밍 체어 Hotrod 라인 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20770#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20770#</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 레이싱체어 같은 게이밍 의자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20770/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HW일렉트로, 소형 EV 퍼즐 콘셉트 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20769#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20769#</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 소형 상용 EV]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20769/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 매킨토시 케이스 디자인의 AYANEO Retro Mini PC]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20775#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20767#</guid>
             <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헉...스쿠나 손가락이....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20767/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AQIRYS, Alnair 노이즈 캔슬링 게이밍 헤드셋 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이번엔 처음부터 한글화로!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20764/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다기능 올인원 헬멧, Calyx]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20763#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20763#</guid>
-            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스키, 등산, 사이클링 모두 착용~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20763/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나소닉, 터프북 55 MK3 세미 러기드 노트북 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20762#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20762#</guid>
-            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[험준한 환경에서의 사용이 목적인 러기드 노트북]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20762/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리, KC 200 MX 키보드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20760#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20760#</guid>
-            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MX2A 스위치 탑재]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20760/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
