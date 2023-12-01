@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 15:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20767#</guid>
             <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헉...스쿠나 손가락이....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20767/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이모어 휴대용 블루투스 스피커 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -285,7 +285,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20772#</guid>
             <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내화성을 가진 운동화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20772/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로에베. 다용도 펭귄백 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
