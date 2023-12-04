@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 15:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨리오사, 매드 맥스 사가 공식 예고편 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20784#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20784#</guid>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[V8! V8! V8!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20784/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 ACG, 토레 미드 워터프루프 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20782#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20782#</guid>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지한 아웃도어 슈즈의 디자인]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20782/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8Bitdo, 얼티밋 컨트롤러 원신 중운 에디션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20781#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20781#</guid>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원신의 인기 캐릭터 중운을 테마로한 에디션 모델]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20781/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐논데일, 테소로 네오 카본 전기자전거 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20780#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['FRONT TOWARD PARTY']]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20774/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨킨, USB-C 11-in-1 Pro 독 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20773#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20773#</guid>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[USB-C로 다양한 확장성을 주는 독이자 받침대]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20773/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살로몬, X-ALP ESILL GR10K 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20772#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20772#</guid>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내화성을 가진 운동화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20772/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로에베. 다용도 펭귄백 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20771#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20771#</guid>
-            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[펭귄 한마리 몰고 가세요~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
