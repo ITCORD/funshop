@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 03:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 09:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 반짝반짝 PB Tails Crush 무선 컨트롤러.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20788#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20788#</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포르쉐를 닮은 컨트롤러.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20788/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MOMENT, Long Weekend 35mm 필름카메라 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20787#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[카본으로 제작된 통근용 전기 자전거]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20780/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터틀 비치, 스텔스 울트라 게임 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20779#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20779#</guid>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[각종 정보가 표시되는 컬러 디스플레이 탑재]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20779/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
