@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 03:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BenQ, beCreatus DP1310 USB-C 하이브리드 독 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20797#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20797#</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[USB4가 아니네....하지만?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20797/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리바이스 X 뉴발란스 580 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20796#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20796#</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[MTB, 얼룩진 블루진 그리고 스트릿 컬쳐]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20796/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OWC, Express 1M2 USB4 외장 SSD 인클로저 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20795#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20795#</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최대 8TB까지 지원하는 고속 스토리지 인클로저]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20795/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Twelve South, ButterFly 2-in-1 충전기 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20794#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20794#</guid>
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[주머니에 쏙들어가는 작은 크기로 접히는 콤팩트한 맥세이프 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20794/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, G8 갈릴레오 모바일 게임 컨트롤러 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근본 포켓몬들의 근본 그래픽]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20790/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[morphie, 신형 3-in-1 여행용 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20789#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20789#</guid>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여행에서의 충전을 도와줄 완벽한 동반자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 반짝반짝 PB Tails Crush 무선 컨트롤러.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20788#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20788#</guid>
-            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[포르쉐를 닮은 컨트롤러.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20788/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOMENT, Long Weekend 35mm 필름카메라 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20787#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20787#</guid>
-            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀엽고 간편하고 저렴한 필름 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20787/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
