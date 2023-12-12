@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 15:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 03:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20797/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리바이스 X 뉴발란스 580 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20796#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20796#</guid>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MTB, 얼룩진 블루진 그리고 스트릿 컬쳐]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20796/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[OWC, Express 1M2 USB4 외장 SSD 인클로저 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20795#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20795#</guid>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 아이폰 버전 따로 낼필요가 없어져서 좋...은건가?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20793/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[켄싱턴, USB4 도킹스테이션 SD5800T 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20792#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20792#</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 USB4의 시대]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20792/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
