@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 09:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20807#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20807#</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠파의 인상적인 머슬카가 포함]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20807/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리에이티브, 젠 에어 프로 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20806#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20805#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20805#</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포르쉐 디자인과의 협업 모니터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20805/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 휴대용 홀로그램 디스플레이 Looking Glass Go]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20803#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADATA, 러기드 휴대용 SSD SD810 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20799#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20799#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[IP68 방수,방진 등급에 낙하테스트를 통과한 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20799/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마하, 하이파이 CD플레이어 CD-C603 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20798#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20798#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[CD플레이어...과연..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20798/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BenQ, beCreatus DP1310 USB-C 하이브리드 독 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20797#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20797#</guid>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[USB4가 아니네....하지만?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20797/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
