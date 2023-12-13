@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 15:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 휴대용 홀로그램 디스플레이 Looking Glass Go]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20803#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20803#</guid>
+            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마이 리틀 홀로그램.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20803/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드래곤볼 스파킹! 제로 한글화 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20804#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[USB4가 아니네....하지만?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20797/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OWC, Express 1M2 USB4 외장 SSD 인클로저 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20795#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20795#</guid>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최대 8TB까지 지원하는 고속 스토리지 인클로저]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20795/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
