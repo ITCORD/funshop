@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 09:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20807#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[PS2 시절의 그 느낌을 다시!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -136,6 +136,30 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20807#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20807#</guid>
@@ -149,7 +173,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -176,28 +200,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20809/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -213,7 +237,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -240,28 +264,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20809/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -277,7 +301,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -304,28 +328,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20809/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -341,7 +365,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -368,28 +392,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20809/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -405,7 +429,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -432,28 +456,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MOUSE, 얼리 게임 트레일러 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20810#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20810#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20809/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제네시스, G80 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -469,7 +493,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20806/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -494,30 +518,6 @@
             <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[PS2 시절의 그 느낌을 다시!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20804/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리모와, 시그니처 컬렉션 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20802#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20802#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐리어 명가에서 제작한 가방들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20802/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스, 라듐 600 G2 마이크 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20801#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20801#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[별도의 프리앰프 없이도 사용이 가능한 카디오이드 콘덴서 마이크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20801/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Punkt, 미니멀 스마트폰 MC02 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20800#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20800#</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Punkt와 스마트폰이 어울리는것일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20800/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
