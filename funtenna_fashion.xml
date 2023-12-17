@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 09:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포터리반 틴, 스타워즈 타이파이터 램프 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20814#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20814#</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[You don't know the power of the Darkside.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20814/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ORNUS, 나무로 만든 그래블 바이크]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20813#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20813#</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나무 프레임이라...과연..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20813/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디다스, JJJound 삼바 클래식 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20812#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20812#</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사람들이 기다린 둘의 협업]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20812/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 맥세이프 SSD & 보조배터리,  MagDisk]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20811#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠파의 인상적인 머슬카가 포함]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20807/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이티브, 젠 에어 프로 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20806#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20806#</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[블루투스 LE 오디오 기반의 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AOC X 포르쉐 디자인, 와이드 게이밍 모니터 PD49 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20805#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20805#</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[포르쉐 디자인과의 협업 모니터]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20805/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 휴대용 홀로그램 디스플레이 Looking Glass Go]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20803#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20803#</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마이 리틀 홀로그램.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20803/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
