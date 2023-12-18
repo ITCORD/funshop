@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 09:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 15:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로지텍, G502X 플러스 밀레니엄 팔콘 에디션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20817#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20817#</guid>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타워즈 덕후들이라면!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터틀 비치, VelocityOne Flightdeck 컨트롤러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20816#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20816#</guid>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 된 플라이트 시뮬레이터 경험을 위한 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20816/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ZOWIE, E 스포츠 게이밍 모니터 XL2586X 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20815#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20815#</guid>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[응답속도에 민감한 게이머라면 주목]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20815/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포터리반 틴, 스타워즈 타이파이터 램프 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20814#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1930년대 흑백 애니메이션에서 모티브를 따온 FPS]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20810/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAVEN X 클락스, Weaver GTX 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20809#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20809#</guid>
-            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[클래식하지만 기능성도 갖춘 멋진 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20809/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스, G80 페이스리프트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20808#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20808#</guid>
-            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여전한 고급스러움 그리고 올라간 상품성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20808/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 쿠파의 하이웨이 카 확장팩 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20807#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20807#</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠파의 인상적인 머슬카가 포함]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20807/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
