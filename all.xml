@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 03:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 09:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20828#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20828#</guid>
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈 이어 방식의 운동용 무선 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20828/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누비아, 게이밍 폰 레드매직9 프로 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20827#</guid>
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍 폰은 어떤 느낌일까 경험해보고 싶은 1인..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20827/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UGREEN, Nexode Pro 160W 충전기 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20823#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인과 휴대성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20823/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰소닉, 소형 프로젝터 M10 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -61,15 +69,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20821#</guid>
             <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Chat GPT를 품은 무선 마우스.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -77,7 +85,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20828#</guid>
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈 이어 방식의 운동용 무선 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20828/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누비아, 게이밍 폰 레드매직9 프로 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -85,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20827#</guid>
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍 폰은 어떤 느낌일까 경험해보고 싶은 1인..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20827/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UGREEN, Nexode Pro 160W 충전기 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -101,7 +109,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -109,7 +117,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20823#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인과 휴대성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20823/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰소닉, 소형 프로젝터 M10 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -149,7 +157,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20827#</guid>
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍 폰은 어떤 느낌일까 경험해보고 싶은 1인..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20827/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UGREEN, Nexode Pro 160W 충전기 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -165,7 +173,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -173,7 +181,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20823#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인과 휴대성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20823/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰소닉, 소형 프로젝터 M10 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -192,12 +200,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -229,7 +237,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -237,7 +245,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20823#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인과 휴대성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20823/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰소닉, 소형 프로젝터 M10 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -253,15 +261,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20821#</guid>
             <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Chat GPT를 품은 무선 마우스.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -293,7 +301,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -301,7 +309,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20823#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인과 휴대성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20823/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰소닉, 소형 프로젝터 M10 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -320,12 +328,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -357,7 +365,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -365,7 +373,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20823#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인과 휴대성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20823/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰소닉, 소형 프로젝터 M10 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -384,12 +392,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -421,7 +429,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 신형 젠북 14인치 OLED 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -448,12 +456,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[해외펀딩] 다용도 티타늄 멀티툴 TiSpanner (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20829#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20829#</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상 이상으로 작은 멀티툴.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20829/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 스포츠 이어폰 에어로핏 프로 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Chat GPT를 품은 무선 마우스.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20821/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 폴라로이드 원스텝 SX-70 카메라 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20820#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20820#</guid>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고로 귀엽게 구현된 레전드 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20820/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
