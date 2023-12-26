@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 09:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 15:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 공전하는 지구와 달]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20835#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20835#</guid>
+            <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레고 삼구의?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1MORE, PistonBuds PRO Q30 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20834#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20834#</guid>
+            <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이젠 정말 다양해지는 가성비 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트리머를 위한 믹서, HyperX 오디오 믹서]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20833#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20833#</guid>
+            <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[책상위에 간편하게 올려놓고 쓸수 있는 다기능 믹서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG, 해상도와 주사율을 최적화하는 게이밍 모니터 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20832#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈 이어 방식의 운동용 무선 이어폰]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20828/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누비아, 게이밍 폰 레드매직9 프로 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20827#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20827#</guid>
-            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게이밍 폰은 어떤 느낌일까 경험해보고 싶은 1인..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20827/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UGREEN, Nexode Pro 160W 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20826#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20826#</guid>
-            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[책상위가 깔끔해질것같은 4포트 160W 고속충전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20826/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOMAD, 스마트폰 마그네틱 충전 스탠드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20824#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20824#</guid>
-            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[심플하고 고급스러운 모바일 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20824/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
