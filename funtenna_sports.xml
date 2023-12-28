@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 15:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 03:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20834#</guid>
             <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이젠 정말 다양해지는 가성비 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20834/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트리머를 위한 믹서, HyperX 오디오 믹서]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20833#</guid>
             <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[책상위에 간편하게 올려놓고 쓸수 있는 다기능 믹서]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20833/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
