@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 15:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 03:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20840#</guid>
             <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[강력한 썬더볼트로 그에 걸맞은 다양한 확장성을 제공]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20840/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 화성 탐사대원의 탐사용 로버 출시예정]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20583#</guid>
             <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[21세기의 클래식.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20583/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
