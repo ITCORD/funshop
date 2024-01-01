@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 09:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 15:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KU02, 티타늄 EDC 7 in 1 멀티툴 카라비너]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20846#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20846#</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바지춤이든 가방이든 어디든 걸고 사용하는 멀티툴 카라비너]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20846/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MONDO by Defunc의 프리스타일 레드폰]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20845#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20845#</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[80년대 디자인을 가진 최신 기능의 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20845/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG, 초소형 4K 프로젝터 시네빔 큐브 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20844#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20844#</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레트로한 디자인을 가진 멋진 프로젝터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20844/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 공중 부양 디퓨저, The New Spirale.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20843#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥세이프를 비롯한 무선충전에 유선 고속 충전까지]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20838/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, MyView 룸앤스타일 모니터 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20837#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20837#</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[때로는 TV같이 때로는 모니터 같이]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20837/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵판매중] 모프트의 트라이팟 폰 스탠드]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20836#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20836#</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[빠르고 작고 가볍게 사용하는 다용도 폰 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20836/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 매킨토시 형태의 멀티 허브 RayCue 128K.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20583#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20583#</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[21세기의 클래식.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20583/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
