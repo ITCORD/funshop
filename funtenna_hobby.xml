@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 09:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 15:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JSAUX의 RGB 도킹 스테이션, HB1201S]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20849#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20849#</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스팀덱을 비롯한 다양한 휴대콘솔과 호환 가능한 독]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20849/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키크론, 무선 기계식 키보드 Q5 MAX 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20848#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20848#</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심플한 디자인을 가진 프리미엄 풀사이즈 기계식 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20848/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG, 신형 톤프리 무선 이어폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20847#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20847#</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[돌비 헤드 트래킹을 지원하는 최초의 무선 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20847/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KU02, 티타늄 EDC 7 in 1 멀티툴 카라비너]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20846#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[생산성과 멀티태스킹 그리고 내 PC의 모니터링까지~]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20841/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UGREEN, Revodok Max 213 썬더볼트 4 도킹 스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20840#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20840#</guid>
-            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강력한 썬더볼트로 그에 걸맞은 다양한 확장성을 제공]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20840/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 화성 탐사대원의 탐사용 로버 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20839#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20839#</guid>
-            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테크닉과 참 잘어울리는 스페이스 레고]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20839/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESR, 100W 6 in 1 충전 스테이션]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20838#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20838#</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[맥세이프를 비롯한 무선충전에 유선 고속 충전까지]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20838/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
