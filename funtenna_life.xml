@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 03:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 09:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 구슬과 막대로 이루어진 시계 TempoFlow.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20856#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20856#</guid>
+            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어딜 봐서 시계 같냐만, 분명 시계]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20856/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[COLORFLY, CDA-M2 하이파이 USB DAC 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20852#</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바지춤이든 가방이든 어디든 걸고 사용하는 멀티툴 카라비너]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20846/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONDO by Defunc의 프리스타일 헤드폰]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20845#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20845#</guid>
-            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[80년대 디자인을 가진 최신 기능의 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20845/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
