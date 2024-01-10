@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 03:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 09:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20862#</guid>
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업힐을 담당했던 다카하시 케이스케의 노란 FD!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20862/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴발란스 X 스노우피크, Niobium C_3 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20860#</guid>
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그래피티 아티스트 Bounce와의 협업 PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20860/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤리디자인, 스타게이저 S1000S-R 전자시계 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -117,7 +117,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20860#</guid>
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그래피티 아티스트 Bounce와의 협업 PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20860/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤리디자인, 스타게이저 S1000S-R 전자시계 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
