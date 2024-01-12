@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 15:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 03:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20870#</guid>
             <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[3 in 1 충전기에 이동시 사용가능한 맥세이프 파워뱅크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20870/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵 판매예정] 사테치, 무선 기계식 키보드 SM1 슬림 공개]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20869#</guid>
             <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사테치 최초의 무선 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20869/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭스바겐, 8세대 골프 GTI 페이스리프트 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20868#</guid>
             <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[반갑다 물리버튼!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20868/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[mophie, 아이폰 15시리즈용 주스 팩 출시예정]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20864#</guid>
             <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[iOS의 독킷을 활용한 오토 트래킹 스탠드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20864/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
