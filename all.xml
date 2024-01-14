@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 15:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 03:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20871#</guid>
             <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슬림한 디자인임에도 뛰어난 확장성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20871/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ALOGIC, 파워뱅크 내장 3 in 1 충전기 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20867#</guid>
             <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인기가 많던 주스 팩의 컴백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20867/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xbox 시리즈 S 2 슬라이스 토스터 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -117,7 +117,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20867#</guid>
             <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인기가 많던 주스 팩의 컴백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20867/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xbox 시리즈 S 2 슬라이스 토스터 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
