@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 15:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20882#</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[털복숭이들의 로봇 동반자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20882/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스와로브스키 옵틱, AI 기반의 쌍안경 공개]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20881#</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 쌍안경에도 AI....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20881/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ZOWIE, E스포츠용 U2 무선 게이밍 마우스 공개]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20879#</guid>
             <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 휴대용 AI 하드웨어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20879/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, ROG Falchion RX 무선 게이밍 키보드]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20876#</guid>
             <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모든 SSD에 대한 시원한 인클로저.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20876/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, 트리플 4K 썬더볼트 4 독 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20875#</guid>
             <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슬림, 심플한 썬더볼트 4 독]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20875/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

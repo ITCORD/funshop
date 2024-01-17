@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 15:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 03:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강아지를 위한 로봇, Ogmen Oro]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20882#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20882#</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[털복숭이들의 로봇 동반자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20882/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스와로브스키 옵틱, AI 기반의 쌍안경 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20881#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20881#</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 쌍안경에도 AI....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20881/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ZOWIE, E스포츠용 U2 무선 게이밍 마우스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20880#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20880#</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경쟁에서 이기기 위한 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20880/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독립형 AI 하드웨어, rabbit r1 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20879#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20877#</guid>
             <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미니멀한 디자인과 다양한 기능을 가진 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20877/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 쿨링팬이 내장된 ORICO 외장 SSD 인클로저]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슬림, 심플한 썬더볼트 4 독]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20875/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵 판매예정] 사테치, 145W 4포트 GaN 여행용 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20874#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20874#</guid>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계 어디서도 편리하게 사용가능한 GaN 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20874/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAND LAND 한국어판 4월 25일 발매 결정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20873#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20873#</guid>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[토리야마 아키라의 단편만화를 게임으로!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20873/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONOKEI, MONOKEI Systems 무선 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20872#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20872#</guid>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미니멀이 대세인가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20872/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
