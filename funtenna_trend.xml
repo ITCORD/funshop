@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 09:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 15:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오디오 웨어러블 장치, Feelbelt]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20888#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20888#</guid>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[백팩도 있었던 기억이.....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20888/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, ZenScreen Fold OLED 디스플레이 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20887#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20887#</guid>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴대 가능한 접이식 모니터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20887/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, Aether 모니터 라이트바 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20886#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20886#</guid>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[RGB...RGB Everywhere~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20886/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FIIO, 휴대용 카세트 플레이어 CP13 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20885#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 쌍안경에도 AI....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20881/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZOWIE, E스포츠용 U2 무선 게이밍 마우스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20880#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20880#</guid>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경쟁에서 이기기 위한 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20880/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립형 AI 하드웨어, rabbit r1 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20879#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20879#</guid>
-            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 휴대용 AI 하드웨어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20879/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG Falchion RX 무선 게이밍 키보드]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20878#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20878#</guid>
-            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[65% 배열의 로우 프로파일 게이밍 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20878/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
