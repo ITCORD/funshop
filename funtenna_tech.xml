@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 15:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 03:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FIIO, 휴대용 카세트 플레이어 CP13 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20885#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20885#</guid>
+            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[워크맨의 귀환]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20885/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[twelvesouth, 북아크 플렉스 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20884#</link>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20882#</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[털복숭이들의 로봇 동반자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20882/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스와로브스키 옵틱, AI 기반의 쌍안경 공개]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20880#</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경쟁에서 이기기 위한 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20880/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독립형 AI 하드웨어, rabbit r1 공개]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20879#</guid>
             <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 휴대용 AI 하드웨어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20879/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, ROG Falchion RX 무선 게이밍 키보드]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[65% 배열의 로우 프로파일 게이밍 키보드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONANOFF, Fokus+ 무선 하이브리드 ANC 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20877#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20877#</guid>
-            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미니멀한 디자인과 다양한 기능을 가진 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20877/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
