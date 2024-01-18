@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 03:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 09:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20882#</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[털복숭이들의 로봇 동반자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20882/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스와로브스키 옵틱, AI 기반의 쌍안경 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20880#</guid>
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경쟁에서 이기기 위한 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20880/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독립형 AI 하드웨어, rabbit r1 공개]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20879#</guid>
             <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 휴대용 AI 하드웨어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20879/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, ROG Falchion RX 무선 게이밍 키보드]]></title>
