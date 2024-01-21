@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 09:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 15:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터틀비치, 벨로시티원 레이스 휠 및 페달 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20892#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20892#</guid>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제대로 된 레이싱경험을 위한 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥키, DLZ 크리에이터 XS 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20891#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20891#</guid>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팟캐스트, 스트리밍에 최적화된 컴팩트 적응형 디지털 믹서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인디아나 존스 -그레이트 서클-, 게임 플레이 트레일러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20890#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20890#</guid>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정식 한글화!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20890/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 손으로 그린 시계 Halcyon 1.5]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20889#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[워크맨의 귀환]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20885/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[twelvesouth, 북아크 플렉스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20884#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20884#</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공간은 아끼면서 노트북을 데스크톱처럼..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20884/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마하, 모바일 뮤직 스테이션 SEQTRAK 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20883#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20883#</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴대가능한 뮤직 프로덕션 기어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20883/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강아지를 위한 로봇, Ogmen Oro]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20882#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20882#</guid>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[털복숭이들의 로봇 동반자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20882/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
