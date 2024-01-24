@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 거대한 11인치 UMPC OneXPlayer X1]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20899#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20899#</guid>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 큰 UMPC]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20899/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[써멀테이크, The Tower 300 시리즈 케이스 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20898#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20898#</guid>
             <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[독특한 프리즘 모양의 PC 케이스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20898/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[접이식 6피트 당구테이블, Fat Cat 트루샷]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20892#</guid>
             <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제대로 된 레이싱경험을 위한 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥키, DLZ 크리에이터 XS 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20891#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20891#</guid>
-            <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팟캐스트, 스트리밍에 최적화된 컴팩트 적응형 디지털 믹서]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20892/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
