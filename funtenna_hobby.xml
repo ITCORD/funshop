@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 15:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20903#</guid>
             <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 CT5-V도 마지막 내연기관인가...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20903/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, MagGo Magnetic 충전 스테이션 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20902#</guid>
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동글 동글 귀여운 외모에 든든한 8 in 1 구성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20902/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠하이저, HD 490 PRO 헤드폰 출시]]></title>
