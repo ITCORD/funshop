@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 09:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 15:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20905#</guid>
             <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[파워뱅크로 혹은 충전 스탠드로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20905/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CANVAS, 2세대 하이파이 TV 스피커 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20902#</guid>
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동글 동글 귀여운 외모에 든든한 8 in 1 구성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20902/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
