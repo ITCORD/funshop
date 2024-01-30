@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 15:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 03:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복고풍 초소형 TV, Tiny TV 2]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20912#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20912#</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[디오라마 소품으로 쓰기에 제격!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20912/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백본, 데스 스트랜딩 한정판 백본 원 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20911#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20911#</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미래의 택배기사 체험게임이 드디어 모바일로!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20911/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대, 아이오닉 5 디즈니100 플래티넘 에디션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20910#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20910#</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1,000대 한정]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EMEET, 에어플로우 무선 이어버드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20909#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20908#</guid>
             <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SEED는 죽지 않아!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20908/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOKA, 신형 토르 서밋 2 출시]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20905#</guid>
             <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[파워뱅크로 혹은 충전 스탠드로]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20905/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CANVAS, 2세대 하이파이 TV 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20904#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20904#</guid>
-            <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔하게 인테리어를 완성시키는 TV용 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20904/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐딜락, CT5-V와 CT5-V 블랙윙 페이스리프트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20903#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20903#</guid>
-            <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 CT5-V도 마지막 내연기관인가...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20903/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anker, MagGo Magnetic 충전 스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20902#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20902#</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[동글 동글 귀여운 외모에 든든한 8 in 1 구성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20902/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
