@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 15:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 03:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20922#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김형태 디렉터가 참여한 국산 액션 RPG 게임]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20922/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dango, MC02 티타늄 머니 클립 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20921#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[LESS IS MORE..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20921/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주술회전의 첫 콘솔게임, 주술회전 전화향명 출시]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20920#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영역전개!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20920/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thrustmaster, ESWAP X2 게임 컨트롤러 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20917#</guid>
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 익숙해져버린 그 콧구멍]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20917/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조던, Roam 슬립온 출시 예정]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20914#</guid>
             <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[드디어 등장한 네번째 모멘텀 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20914/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
