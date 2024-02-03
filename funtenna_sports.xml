@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 09:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 15:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20923#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이름부터 닌텐도 DS.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20923/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스텔라 블레이드, PS5로 출시 곧 출시예정]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20918#</guid>
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ms 단위의 차이도 느끼는 민감한 게이머라면...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20918/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BMW, 2025 M4 디자인 및 제원 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20917#</guid>
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 익숙해져버린 그 콧구멍]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20917/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조던, Roam 슬립온 출시 예정]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20916#</guid>
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조던 브랜드의 크록스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20916/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이 비통, LV 나노그램 스피커 공개]]></title>
