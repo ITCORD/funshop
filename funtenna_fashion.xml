@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 15:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 03:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20923#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이름부터 닌텐도 DS.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20923/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스텔라 블레이드, PS5로 출시 곧 출시예정]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20920#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영역전개!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20920/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Thrustmaster, ESWAP X2 게임 컨트롤러 출시]]></title>
