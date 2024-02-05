@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 15:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vapor Xbox 무선 컨트롤러 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20926#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20926#</guid>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[볼링공에서 많이 보던 그 패턴......]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20926/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 에어 맥스 Dn 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20925#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20925#</guid>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에어 맥스 역사상 가장 혁신적이고 역동적인 기술]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20925/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[elgato, HDMI 2.1 캡처 카드 4K X 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20924#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20924#</guid>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최초의 HDMI 2.1 캡처 카드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20924/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 듀얼 스크린 UMPC AYANEO FLIP DS]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20923#</link>
@@ -29,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20921#</guid>
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[LESS IS MORE..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20921/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주술회전의 첫 콘솔게임, 주술회전 전화향명 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ms 단위의 차이도 느끼는 민감한 게이머라면...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20918/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, 2025 M4 디자인 및 제원 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20917#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20917#</guid>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 익숙해져버린 그 콧구멍]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조던, Roam 슬립온 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20916#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20916#</guid>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조던 브랜드의 크록스?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20916/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통, LV 나노그램 스피커 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20915#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20915#</guid>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[거대한 스피커 키링?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20915/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
