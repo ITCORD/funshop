@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 09:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 15:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MOONDROP, 휴대용 CD 플레이어 DISCDREAM 공개.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20929#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20929#</guid>
+            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴대용 cd플레이어를 가장한 올인원 오디오 기기...인듯한?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, 웨어러블 디스플레이 에어비전 M1 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20928#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20928#</guid>
+            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비전 프로와 비슷한 느낌으로 기능하는 웨어러블 디스플레이]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필립스, 업무용 대형 커브드 모니터 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20927#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20927#</guid>
+            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멀티태스킹, 팀워크 등을 염두에 둔 모니터]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20927/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vapor Xbox 무선 컨트롤러 컬렉션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20926#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김형태 디렉터가 참여한 국산 액션 RPG 게임]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20922/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dango, MC02 티타늄 머니 클립 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20921#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20921#</guid>
-            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LESS IS MORE..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20921/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주술회전의 첫 콘솔게임, 주술회전 전화향명 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20920#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20920#</guid>
-            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영역전개!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20920/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thrustmaster, ESWAP X2 게임 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20918#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20918#</guid>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ms 단위의 차이도 느끼는 민감한 게이머라면...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20918/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
