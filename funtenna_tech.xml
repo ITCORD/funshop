@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 09:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파나소닉, 신형 팜 면도기 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20935#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20935#</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이름대로 손안에 쏙들어오는 휴대성이 좋은 면도기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20935/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스피드를 위한 HOKA, 씨엘로 X1 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20934#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20934#</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 디자인 그리고 확실한 레이스 성능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[란치아, 입실론 EV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20933#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20933#</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[란치아 최초의 전기차..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20933/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커세어, 드롭 CSTM65 키보드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20932#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비전 프로와 비슷한 느낌으로 기능하는 웨어러블 디스플레이]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20928/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필립스, 업무용 대형 커브드 모니터 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20927#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20927#</guid>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[멀티태스킹, 팀워크 등을 염두에 둔 모니터]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20927/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vapor Xbox 무선 컨트롤러 컬렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20926#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20926#</guid>
-            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[볼링공에서 많이 보던 그 패턴......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20926/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어 맥스 Dn 출시 예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20925#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20925#</guid>
-            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에어 맥스 역사상 가장 혁신적이고 역동적인 기술]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20925/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
