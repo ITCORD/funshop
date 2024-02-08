@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 줄자 같은 보조 배터리, MChaos.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20943#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20943#</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[줄자야, 충전기야.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20943/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[란치아, 입실론 EV 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20942#</link>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20931#</guid>
             <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공간조명으로 혹은 개인 작업용 조명으로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20931/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IK 멀티미디어, iRig 스트림 마이크 USB 출시]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20929#</guid>
             <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대용 cd플레이어를 가장한 올인원 오디오 기기...인듯한?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 웨어러블 디스플레이 에어비전 M1 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20928#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20928#</guid>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비전 프로와 비슷한 느낌으로 기능하는 웨어러블 디스플레이]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20928/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20929/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
