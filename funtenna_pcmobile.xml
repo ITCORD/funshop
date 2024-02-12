@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 15:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20943#</guid>
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[줄자야, 충전기야.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20943/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[란치아, 입실론 EV 공개]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20934#</guid>
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[화려한 디자인 그리고 확실한 레이스 성능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20934/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어, 드롭 CSTM65 키보드 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20932#</guid>
             <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전 커스텀이 가능한 드롭의 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20932/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이트사이드, NS01 개인 작업 램프 출시]]></title>
