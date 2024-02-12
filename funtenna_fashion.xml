@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 09:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 15:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야마하, ZG02 게임 스트리밍 오디오 믹서 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20938#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20938#</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[좀 더 간편하고 쉬운 스트리밍 오디오 믹서가 필요하다면..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20938/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데스 스트랜딩 2, 공식 트레일러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20937#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20937#</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해변에서..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20937/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포드, 2025 익스플로러 페이스리프트 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20936#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20936#</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서도  사랑받는 익스플로러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20936/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 줄자 같은 보조 배터리, MChaos.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20943#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20932#</guid>
             <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전 커스텀이 가능한 드롭의 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트사이드, NS01 개인 작업 램프 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20931#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20931#</guid>
-            <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공간조명으로 혹은 개인 작업용 조명으로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20931/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IK 멀티미디어, iRig 스트림 마이크 USB 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20930#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20930#</guid>
-            <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스튜디오 품질의 마이크를 USB 선 하나로 간편하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20930/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOONDROP, 휴대용 CD 플레이어 DISCDREAM 공개.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20929#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20929#</guid>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[휴대용 cd플레이어를 가장한 올인원 오디오 기기...인듯한?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20932/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
