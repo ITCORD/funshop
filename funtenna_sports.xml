@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 03:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 09:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 자동 백업 기능을 갖춘 OTG, PhotoCube PD+]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20950#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20950#</guid>
+            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자동 백업은 반칙이지!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[써멀테이크, T100 브롬톤 및 자전거 백 라인업 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20941#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20941#</guid>
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니 컴퓨터 부품이 아니고??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20941/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RAYCON, 더 에브리데이 이어버즈 프로 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[줄자야, 충전기야.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20943/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[란치아, 입실론 EV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20942#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20942#</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[란치아 최초의 전기차..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20942/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
