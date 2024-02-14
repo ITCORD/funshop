@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 15:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 03:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20939#</guid>
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[싱글 보드 PC의 그 오렌지 파이가 맞다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20939/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야마하, ZG02 게임 스트리밍 오디오 믹서 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20937#</guid>
             <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해변에서..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20937/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포드, 2025 익스플로러 페이스리프트 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20943#</guid>
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[줄자야, 충전기야.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20943/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[란치아, 입실론 EV 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20942#</guid>
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[란치아 최초의 전기차..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20942/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
