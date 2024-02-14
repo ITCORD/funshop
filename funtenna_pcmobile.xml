@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 15:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[링컨, 2025 에비에이터 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20946#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20946#</guid>
+            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아니 실내는 왜 이래....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20946/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JLab, Epic Lab Edition 무선 이어폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20945#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20945#</guid>
+            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[JLab의 플래그십 무선 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20945/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINISFORUM, V3 3 in 1 태블릿 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20944#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20944#</guid>
+            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 방식으로 활용가능한 태블릿]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20944/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 자동 백업 기능을 갖춘 OTG, PhotoCube PD+]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20950#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20950#</guid>
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자동 백업은 반칙이지!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20950/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[써멀테이크, T100 브롬톤 및 자전거 백 라인업 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[좀 더 간편하고 쉬운 스트리밍 오디오 믹서가 필요하다면..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20938/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데스 스트랜딩 2, 공식 트레일러 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20937#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20937#</guid>
-            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해변에서..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20937/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포드, 2025 익스플로러 페이스리프트 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20936#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20936#</guid>
-            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내에서도  사랑받는 익스플로러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20936/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 줄자 같은 보조 배터리, MChaos.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20943#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20943#</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[줄자야, 충전기야.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
