@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 09:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 15:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MSI, Cubi N ADL 팬리스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20949#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20949#</guid>
+            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팬없이 조용히 사용하는 업무용 미니 PC]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20949/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸마, 치토스와의 협업 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20948#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20948#</guid>
+            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["치토스!! 언젠간 먹고 말거야!!"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20948/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이수스, ROG Carnyx 게이밍 마이크 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20947#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20947#</guid>
+            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이젠 마이크도 게이밍......]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20947/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[링컨, 2025 에비에이터 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20946#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니 컴퓨터 부품이 아니고??]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20941/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAYCON, 더 에브리데이 이어버즈 프로 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20940#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20940#</guid>
-            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이전 버전들 대비 편안한 착용감과 다양한 기능들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20940/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지 파이, 게이밍 UMPC 오렌지 파이 네오 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20939#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20939#</guid>
-            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[싱글 보드 PC의 그 오렌지 파이가 맞다...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20939/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마하, ZG02 게임 스트리밍 오디오 믹서 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20938#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20938#</guid>
-            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좀 더 간편하고 쉬운 스트리밍 오디오 믹서가 필요하다면..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20938/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
