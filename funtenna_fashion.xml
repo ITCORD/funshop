@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 15:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보스, 울트라 오픈 이어버드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20958#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20958#</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[특이한 착용법의 귀를 막지 않는 이어폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20958/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리에이티브, 페블X 시리즈 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20957#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20957#</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동글동글 귀엽지만 강력한 페블의 새로운 시리즈]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20957/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[렉사, SL600 휴대용 SSD 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20956#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20956#</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[휴대성을 극대화한 휴대용 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20956/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 백설공주와 일곱 난쟁이의 오두막 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20955#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팬없이 조용히 사용하는 업무용 미니 PC]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20949/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마, 치토스와의 협업 컬렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20948#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20948#</guid>
-            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["치토스!! 언젠간 먹고 말거야!!"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20948/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG Carnyx 게이밍 마이크 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20947#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20947#</guid>
-            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 마이크도 게이밍......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20947/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[링컨, 2025 에비에이터 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20946#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20946#</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니 실내는 왜 이래....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20946/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
