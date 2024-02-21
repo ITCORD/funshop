@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 03:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 09:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20956#</guid>
             <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대성을 극대화한 휴대용 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20956/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 백설공주와 일곱 난쟁이의 오두막 출시예정 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -117,7 +117,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20956#</guid>
             <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대성을 극대화한 휴대용 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20956/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 백설공주와 일곱 난쟁이의 오두막 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
