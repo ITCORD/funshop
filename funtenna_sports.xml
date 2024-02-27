@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 15:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온몸을 활용하는 VR 머신, Virtuix Omni One]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20978#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20978#</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이것이 미래의 VR인가....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20978/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클립쉬, 뮤직시티 스피커 시리즈 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20977#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20977#</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클립쉬가 선보이는 휴대용 블루투스 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20977/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제임스 브랜드, 머니클립 마틴데일 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20976#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20976#</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재료도 미니멀, 디자인도 미니멀]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20976/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외직구] 뽑아 쓰는 초소형 손전등 YSMART MQ5.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20975#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[후지필름의 인기 하이엔드 컴팩트 디지털 카메라...그 최신작]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20971/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹스톤, DataTraveler SE9 3세대 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20970#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20970#</guid>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 USB 메모리에서 이런 용량이 자연스러운 시대가..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20970/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZXT, 유선 게이밍 마우스 리프트 2 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20969#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20969#</guid>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레이턴시? 유선에서는 필요 없는 이야기..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20969/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 리더기 기능을 겸비한 SD 카드 수납 케이스 CAZE.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20965#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20965#</guid>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아마도 포토그래퍼를 위한.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20965/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
