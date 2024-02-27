@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 15:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 03:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외직구] 뽑아 쓰는 초소형 손전등 YSMART MQ5.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20975#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20975#</guid>
+            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무선 충전을 지원하는 초소형 손전등.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20975/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿨러마스터, 마스터키 MK770 키보드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20974#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20973#</guid>
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 형태로 변형, 스위치도 교체가능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20973/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sharkoon, SKILLER SGH50 게이밍 헤드셋 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아마도 포토그래퍼를 위한.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20965/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[final, VR500 for Gaming 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20968#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20968#</guid>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임이나 영상등 3D 사운드에 최적화된 유선 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20968/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
