@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 15:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 03:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 접이식 3in1 무선 충전기 INVZI MagFree Transform.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20982#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20982#</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[서있으면 앉고 싶고, 앉으면 눕고 싶은 법!?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20982/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마샬, 앰버튼 2 파타에디션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20981#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20981#</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스트리트 웨어로 유명한 파타와의 협업 제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20981/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AZIO, RC 프레스티지 컬렉션 출시]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20980#</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 레트로 감성..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20980/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tsticks, GRS 슈퍼 조이스틱 이카리 워리어스 한정판 출시]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20979#</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[랄프와 클라크의 그때 그시절...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20979/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온몸을 활용하는 VR 머신, Virtuix Omni One]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무선 충전을 지원하는 초소형 손전등.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20975/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨러마스터, 마스터키 MK770 키보드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20974#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20974#</guid>
-            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게이밍 혹은 업무 모두 활용가능한 풀사이즈 무선 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20974/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
