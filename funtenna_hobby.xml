@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 09:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 15:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이어플라이, 여행용 미니벨로 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20991#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20991#</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[분리해서 캐리어에 쏙!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20991/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호카, 호파라 2 하이킹 샌들 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20990#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20990#</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[샌들처럼 편하게 신고 등산화처럼 험한 곳도 거뜬히]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20990/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] UVC 살균 침구류 청소 로봇 X1.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20987#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레고로 꾸밀수 있는 무선 기계식 키보드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20985/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠하이저, 모멘텀 트루 와이어리스 4 이어버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20984#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20984#</guid>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴 스냅 드래곤 2세대 사운드 플랫폼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20984/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트러스트, 페이조 무선 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20983#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20983#</guid>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[초 저 레이턴시의 무선 게이밍 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20983/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 접이식 3in1 무선 충전기 INVZI MagFree Transform.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20982#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20982#</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서있으면 앉고 싶고, 앉으면 눕고 싶은 법!?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20982/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
