@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 15:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 03:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] UVC 살균 침구류 청소 로봇 X1.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20987#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20987#</guid>
+            <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[혼자서도 잘해요]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20987/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대자동차, 더 뉴 아이오닉 5 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20989#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20989#</guid>
             <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 늘어난 배터리로 만족스러운 주행가능거리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20989/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EPOMAKER x Feker, Galaxy80 키보드 출시]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20988#</guid>
             <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[텐키리스 콤팩트 레이아웃의 무선 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20988/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기가바이트, AORUS FO32U2P 모니터 공개]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20986#</guid>
             <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[DP1.4의 3배나 더 큰 대역폭을 가진 DP2.1 탑재]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20986/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Epomaker, Brick 87 키보드 공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[서있으면 앉고 싶고, 앉으면 눕고 싶은 법!?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20982/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마샬, 앰버튼 2 파타에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20981#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20981#</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스트리트 웨어로 유명한 파타와의 협업 제품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20981/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
