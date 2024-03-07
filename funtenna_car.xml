@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 03:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 09:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/20997#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/20997#</guid>
+            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[온디바이스 AI 부럽지 않은 반려로봇.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20997/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, BMW M4 GT3와 M 하이브리드 V8 레이스카 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20995#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20994#</guid>
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[봄 등산에 어울릴만한 경량 재킷]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20994/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스컬캔디, EcoBuds 무선 이어버드 출시]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20993#</guid>
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능성을 위한 가성비 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20990#</guid>
             <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[샌들처럼 편하게 신고 등산화처럼 험한 곳도 거뜬히]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20990/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] UVC 살균 침구류 청소 로봇 X1.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[혼자서도 잘해요]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20987/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대자동차, 더 뉴 아이오닉 5 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20989#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20989#</guid>
-            <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[더 늘어난 배터리로 만족스러운 주행가능거리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20989/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
