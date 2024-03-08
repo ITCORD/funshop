@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 03:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/20997#</link>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20994#</guid>
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[봄 등산에 어울릴만한 경량 재킷]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20994/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스컬캔디, EcoBuds 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -64,12 +72,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -192,12 +200,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -320,12 +328,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -384,12 +392,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -448,12 +456,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[토리야마 아키라, 향년 68세로 별세 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21000#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21000#</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI. (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능성을 위한 가성비 무선 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, M3 칩을 탑재한 맥북에어 라인업 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20992#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20992#</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 발매된 맥북에어의 리프레쉬 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20992/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
