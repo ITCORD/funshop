@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 03:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 09:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20996#</guid>
             <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[옷깃에 편하게 꼽고 쓰는 무선 라발리에 마이크 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20996/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, BMW M4 GT3와 M 하이브리드 V8 레이스카 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/20993#</guid>
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능성을 위한 가성비 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20993/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
