@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 03:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 09:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.funshop.co.kr/Story/FuntennaView/21006#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21006#</guid>
             <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21006/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메제 오디오, 리릭 2세대 발표]]></title>
@@ -44,7 +44,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21003#</guid>
             <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마치 예술품이 된것 같은 고담 시티의 풍경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21003/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BenQ, 맥을위한 모니터 PD3225U 출시]]></title>
