@@ -4,9 +4,16 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 15:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 03:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 티타늄으로 만든 EDC 멀티툴 JOAT.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21006#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21006#</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21006/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메제 오디오, 리릭 2세대 발표]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21007#</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[덕분에 즐거웠습니다. 편히 쉬시길....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21000/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 데스크 AI 로봇 LOOI.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/20997#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/20997#</guid>
-            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[온디바이스 AI 부럽지 않은 반려로봇.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/041/20997/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
