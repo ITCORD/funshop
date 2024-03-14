@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 15:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MOZA 레이싱, TSW 트럭 휠 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21017#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21017#</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[트럭 게임은 트럭휠로 해야지~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아스텔앤컨, SP3000T 출시예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21016#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21016#</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[들고다니는 진공관의 따듯한 사운드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, 세이렌 V3 미니 마이크 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21014#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21014#</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이왕이면 작고 귀여우면 좋잖아?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21014/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 비스듬한 인체공학적 눈금자 25°Ruler.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21018#</link>
@@ -46,29 +70,6 @@
             <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ELAC의 스피커 위에 얹혀진 ADSUM의 컬러]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21010/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조던 브랜드, 윙스 컬렉션 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21009#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21009#</guid>
-            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조던과 만난 럭셔리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 타이칸 터보 GT 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21008#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21008#</guid>
-            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 등장한 1,000마력이 넘는 타이칸의 끝판왕]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 티타늄으로 만든 EDC 멀티툴 JOAT.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21006#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21006#</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
