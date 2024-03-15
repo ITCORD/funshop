@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 15:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 03:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21017#</guid>
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[트럭 게임은 트럭휠로 해야지~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21017/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아스텔앤컨, SP3000T 출시예정]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21016#</guid>
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[들고다니는 진공관의 따듯한 사운드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21016/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 세이렌 V3 미니 마이크 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21018#</guid>
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보기 좋은 자가 쓰기도 좋은 법.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21018/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캡콤, 몬스터헌터 스토리즈 1 한글판 출시예정]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21012#</guid>
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[애플TV용으로 제작되었지만 다양한 용도로 활용가능한 마운트]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21012/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라운지플라이, 스타워즈 반란군 컬렉션 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21011#</guid>
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[포스가 함께하길]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21011/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ELAC X ADSUM, 액티브 스피커 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21010#</guid>
             <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ELAC의 스피커 위에 얹혀진 ADSUM의 컬러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21010/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
