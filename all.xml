@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 03:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 09:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,67 +136,68 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21010/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MOZA 레이싱, TSW 트럭 휠 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21017#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21017#</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[트럭 게임은 트럭휠로 해야지~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21017/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아스텔앤컨, SP3000T 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21016#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21016#</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[들고다니는 진공관의 따듯한 사운드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21016/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, 세이렌 V3 미니 마이크 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21014#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21014#</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이왕이면 작고 귀여우면 좋잖아?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21014/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외펀딩] 비스듬한 인체공학적 눈금자 25°Ruler. (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21018#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21018#</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보기 좋은 자가 쓰기도 좋은 법.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21018/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캡콤, 몬스터헌터 스토리즈 1 한글판 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21013#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21013#</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한글화가 안되었던 1편이 드디어 정식으로...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21013/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벨킨, 맥세이프 아이폰 마운트 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21012#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21012#</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[애플TV용으로 제작되었지만 다양한 용도로 활용가능한 마운트]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21012/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라운지플라이, 스타워즈 반란군 컬렉션 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21011#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21011#</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포스가 함께하길]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21011/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ELAC X ADSUM, 액티브 스피커 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21010#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21010#</guid>
             <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ELAC의 스피커 위에 얹혀진 ADSUM의 컬러]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21010/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조던 브랜드, 윙스 컬렉션 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21009#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21009#</guid>
-            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조던과 만난 럭셔리]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21009/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 타이칸 터보 GT 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21008#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21008#</guid>
-            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 등장한 1,000마력이 넘는 타이칸의 끝판왕]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21008/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 티타늄으로 만든 EDC 멀티툴 JOAT. (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21006#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21006#</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21006/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메제 오디오, 리릭 2세대 발표 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21007#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21007#</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 고급스러운 외관과 품질]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21007/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이카, SL3 풀프레임 미러리스 카메라 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21005#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21005#</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감성의 라이카, 하지만 눈에 띄는 성능.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21005/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NYXI, 워리어 게임 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21004#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21004#</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임큐브의 향수를 담은 최신 기능의 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21004/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 배트맨: 애니메이션 시리즈 고담 시티™ 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21003#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21003#</guid>
-            <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마치 예술품이 된것 같은 고담 시티의 풍경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21003/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MOZA 레이싱, TSW 트럭 휠 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -484,7 +485,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21018#</guid>
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보기 좋은 자가 쓰기도 좋은 법.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21018/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캡콤, 몬스터헌터 스토리즈 1 한글판 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
