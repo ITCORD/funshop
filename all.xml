@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 15:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 03:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21010/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해외펀딩] 전자동 높이 조절 모니터 스탠드 FlexStand PRO. (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21019#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21019#</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[버튼으로 오르락, 내리락]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DROP의 메갈로돈 히트박스 콘솔 컨트롤러 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21022#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21022#</guid>
@@ -149,7 +157,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21021#</guid>
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[닌텐도 스위치를 넣고 다니기 편한 전용 슬링백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21021/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후지필름, 인스탁스 미니 99 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -157,7 +165,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21020#</guid>
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컬러와 빛을 자신의 취향껏]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21020/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MOZA 레이싱, TSW 트럭 휠 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -165,7 +173,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21017#</guid>
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[트럭 게임은 트럭휠로 해야지~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21017/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아스텔앤컨, SP3000T 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -189,15 +197,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21018#</guid>
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보기 좋은 자가 쓰기도 좋은 법.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21018/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캡콤, 몬스터헌터 스토리즈 1 한글판 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21013#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21013#</guid>
-            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한글화가 안되었던 1편이 드디어 정식으로...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21013/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DROP의 메갈로돈 히트박스 콘솔 컨트롤러 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
