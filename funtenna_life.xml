@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 15:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 납작한 무선 이어폰 Thin Magnetic 5mm Air TWS.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21042#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21042#</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 납작한 무선 이어폰.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21042/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TEAMGROUP, PD20M Mag 휴대용 SSD 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21045#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21044#</guid>
             <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가성비가 좋은 무선 게임 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21044/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TRUST, PC용 스피커 2종 출시]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21043#</guid>
             <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실용성이 좋은 블루투스 스피커와 RGB 라이트가 화려한 유선 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21043/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스,  ROG Cetra SpeedNova 게이밍 이어폰 출시]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21040#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어둠속에서 빛나는 마리오카트의 심벌들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21040/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렉사, 휴대용 SSD SL500 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[닉값 하는구나 너.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21030/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드래곤볼 스파킹! 제로 게임플레이 쇼케이스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21037#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21037#</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스파킹을 좋아했던 사람이라면 놓칠 수 없는 시리즈의 집대성 격인 작품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21037/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
