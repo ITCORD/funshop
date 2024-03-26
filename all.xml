@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 03:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 09:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,7 +373,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21040#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어둠속에서 빛나는 마리오카트의 심벌들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21040/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렉사, 휴대용 SSD SL500 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21039#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이폰 친화적인 슬림한 휴대용 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21039/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 6in1 멀티 케이블 Zeus-X Go Ultra. (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -437,7 +437,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21040#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어둠속에서 빛나는 마리오카트의 심벌들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21040/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렉사, 휴대용 SSD SL500 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -445,7 +445,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21039#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이폰 친화적인 슬림한 휴대용 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21039/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 6in1 멀티 케이블 Zeus-X Go Ultra. (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -456,12 +456,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21030/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해외펀딩] 납작한 무선 이어폰 Thin Magnetic 5mm Air TWS. (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21042#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21042#</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 납작한 무선 이어폰.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21042/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TEAMGROUP, PD20M Mag 휴대용 SSD 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21045#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21045#</guid>
             <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세계 최초의 맥세이프 호환 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21045/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, 노바 라이트 게이밍 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -469,7 +477,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21044#</guid>
             <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가성비가 좋은 무선 게임 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21044/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TRUST, PC용 스피커 2종 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -501,7 +509,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21039#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이폰 친화적인 슬림한 휴대용 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21039/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 6in1 멀티 케이블 Zeus-X Go Ultra. (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[닉값 하는구나 너.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21030/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드래곤볼 스파킹! 제로 게임플레이 쇼케이스 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21037#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21037#</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스파킹을 좋아했던 사람이라면 놓칠 수 없는 시리즈의 집대성 격인 작품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21037/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
