@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 03:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 09:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21048#</guid>
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용,마법 그리고 던전...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21048/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, Mevo 4K 라이브 스트리밍 카메라 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21045#</guid>
             <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세계 최초의 맥세이프 호환 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21045/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, 노바 라이트 게이밍 컨트롤러 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21041#</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍을 위해 최적화된 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21041/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
