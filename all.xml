@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 09:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 15:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,12 +328,36 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에디파이어, 액티브 모니터 스피커 QR65 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21055#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21055#</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유,무선 지원에 GaN 충전까지?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21055/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노블 오디오, FoKus Triumph 이어 버드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21054#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21054#</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[xMEMS Cowell이 적용된 드라이버를 사용한 이어 버드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21054/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sabrent, 7포트 USB-C 허브 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21053#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21053#</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포트별 스위치와 전원 공급의 유용성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외펀딩] 과학이 접목된 베개 SURURU Pillow P17. (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21049#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21049#</guid>
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[꿀잠을 위한 17가지 처방.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21049/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키크론, Q0 MAX 넘버패드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -349,7 +373,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21051#</guid>
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[장난감처럼 보이지만...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21051/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제네시스, 네오룬 콘셉트 SUV 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -357,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21050#</guid>
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사실상의 GV90?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21050/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 던전 앤 드래곤: 레드 드래곤 이야기 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -365,30 +389,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21048#</guid>
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용,마법 그리고 던전...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21048/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, Mevo 4K 라이브 스트리밍 카메라 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21047#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21047#</guid>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로 포서드 렌즈를 교환할수 있는 스트리밍 카메라]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG NUC 게이밍 미니 PC 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21046#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21046#</guid>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[크기는 작지만 뛰어난 게임 성능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 납작한 무선 이어폰 Thin Magnetic 5mm Air TWS. (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21042#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21042#</guid>
-            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세상에서 가장 납작한 무선 이어폰.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
