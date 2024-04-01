@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 03:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 09:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21056#</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대하는 용도의 태양광 충전 무선 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21056/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디파이어, 액티브 모니터 스피커 QR65 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21052#</guid>
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[커스터마이징이 가능한 무선 넘버패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21052/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
