@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 03:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 09:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 계단을 오르는 로봇 청소기 MIGO Ascender.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21059#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21059#</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최초의 다리 달린 로봇 청소기.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21059/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이저, 만우절 기념 게이밍 체어 크툴루 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21062#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21062#</guid>
             <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스파이더맨!!! 여기에요 여기!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21062/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elgato, Facecam MK.2 웹캠 출시]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21057#</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이파이 브랜드의 프리미엄 무선 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21057/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태양광으로 충전, Solgaard 솔라 붐박스]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21056#</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대하는 용도의 태양광 충전 무선 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21056/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디파이어, 액티브 모니터 스피커 QR65 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유,무선 지원에 GaN 충전까지?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21055/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노블 오디오, FoKus Triumph 이어 버드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21054#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21054#</guid>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[xMEMS Cowell이 적용된 드라이버를 사용한 이어 버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21054/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
