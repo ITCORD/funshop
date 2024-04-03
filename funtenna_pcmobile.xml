@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 03:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 09:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21065#</guid>
             <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에이수스의 초경량 게이밍 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21065/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JLab, Studio Pro ANC 무선 오버이어 헤드폰 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21063#</guid>
             <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전작대비 시원하게 커진 디스플레이]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21063/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 계단을 오르는 로봇 청소기 MIGO Ascender.]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21058#</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[누구든 작은 다람쥐를 GUN드리면....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21058/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
