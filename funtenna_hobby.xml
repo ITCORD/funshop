@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 15:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쥬라기 공원 서바이벌, 게임 트레일러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21079#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21079#</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[역시 1인칭으로 해야 공포감이....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21079/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케임브리지 오디오, EVO 150. 들로리안 에디션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21078#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21078#</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[들로리안 DMC-12의 디자인을 입힌 오디오 플레이어]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21078/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RAX, 스마트 아웃도어 선글라스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21077#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21077#</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스마트....한가?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21077/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키 X .SWOOSH, 에어포스 1 로우 404 에러 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21075#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[코모도어 64!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21071/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 43인치 모니터용 무빙 스탠드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21070#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21070#</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[43인치 정도는 되야...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21070/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아더 에러 X 뱅엔올룹슨, 베오사운드 A1과 스피커백]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21069#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21069#</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아더에러의 컬러가 입혀진 베오사운드 그리고 맞춤형 스피커백]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21069/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드매직, VC 쿨러 5 프로 스마트폰용 쿨러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21068#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21068#</guid>
-            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰 뒤에 착 붙여서 냉각]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21068/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
