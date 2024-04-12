@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 09:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 초소형 전동 드라이버 SES NANO.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21087#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21087#</guid>
+            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[작은 ARROWMAX가 맵다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21087/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 삼성 올인원 Pro 일체형 PC 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21085#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21085#</guid>
             <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아무리봐도 떠오르는 그 제품.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21085/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BIGBIG WON의 게일 무선 컨트롤러]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21083#</guid>
             <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[낡은 경찰서의 서장이되어 경찰서를 올바르게 이끌자.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21083/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 히어로 아카데미아 극장판, 새로운 트레일러 공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[라미 볼펜 심이 들어있는 손전등.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21086/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥬라기 공원 서바이벌, 게임 트레일러 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21079#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21079#</guid>
-            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[역시 1인칭으로 해야 공포감이....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21079/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
