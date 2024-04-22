@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 09:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,12 +264,36 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21100/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엘가토, 스트림 덱 네오 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21109#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21109#</guid>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일반인들에게 쉽게 다가가기 위한 느낌의 스트림 덱]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마샬, 메이저 V 무선 헤드폰 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21108#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21108#</guid>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 눈에 너무 익숙한 마샬의 그 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마세라티, 그란카브리오 폴고어 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21107#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21107#</guid>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4도어 컨버터블 전기차]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나이트코어, EDC25 손전등 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21106#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21106#</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대가 간편한 강력한 손전등]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21106/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJI, POWER 시리즈 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -277,7 +301,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21105#</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[외부에서 바로바로 드론 및 장비를 충전할수 있는 대용량 파워스테이션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21105/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nothing, Ear 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -285,7 +309,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21104#</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[넘버링이 빠진 후속작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21104/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, PS와 Xbox용 BlackShark V2 Pro 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -293,7 +317,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21103#</guid>
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[e스포츠 헤드셋의 대명사가 콘솔용으로 출시]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21103/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아, 게이밍 가구 컬렉션 BRÄNNBOLL 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -301,31 +325,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21102#</guid>
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게이밍이라고 무조건 화려하란 법은 없는 법.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21102/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페어폰, 지속가능한 이어버드인 페어버드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21101#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21101#</guid>
-            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[편하게 수리가 가능한 무선 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 움직이는 걸작, Helios 키네틱 아트. (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21097#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21097#</guid>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원에 가까운 40일.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21097/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gamesir, 노바 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21100#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21100#</guid>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로콘을 대체 할수 있을까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21100/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이트코어, EDC25 손전등 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
