@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 03:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,7 +317,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21106#</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대가 간편한 강력한 손전등]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21106/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJI, POWER 시리즈 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -325,7 +325,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21105#</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[외부에서 바로바로 드론 및 장비를 충전할수 있는 대용량 파워스테이션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21105/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린, 공식 예고편 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -357,7 +357,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21109#</guid>
             <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일반인들에게 쉽게 다가가기 위한 느낌의 스트림 덱]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21109/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마샬, 메이저 V 무선 헤드폰 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
