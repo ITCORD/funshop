@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 09:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 15:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21119#</guid>
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[라이젠 8000G 시리즈가 탑재된 미니PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21119/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤랜드 GO:팟캐스트 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21116#</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콜롬비아 GP-3R 휴대용 레코드 플레이어의 복각]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21116/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DeepCool, CH160 ITX 케이스 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21115#</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도란스....를 아십니까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21115/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[펀샵판매중] 엘라고, MS W5 맥세이프 충전거치대 출시]]></title>
