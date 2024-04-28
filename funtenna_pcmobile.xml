@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 15:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 03:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21117#</guid>
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[물론 내가 이걸 쓴다고 브론즈를 벗어날리는 없고..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21117/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 휴대용 신발 건조 살균기 BreezeCare.]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21113#</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비가 오는 날엔 난 항상 널 그리워 해.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21113/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버후드, GP-N3NH 레코드 플레이어 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21116#</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콜롬비아 GP-3R 휴대용 레코드 플레이어의 복각]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21116/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DeepCool, CH160 ITX 케이스 공개]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21114#</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임보이의  모습이 그대로...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21114/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린, 공식 예고편 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21112#</guid>
             <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[힐링팩터의 대명사 둘이 만났다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21112/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
