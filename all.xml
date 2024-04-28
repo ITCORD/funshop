@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,30 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Epomaker, TH80 Pro V2 키보드 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21122#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21122#</guid>
+            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레트로 테마의 75% 배열의 기계식 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JLab, JBuds ANC 3 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21121#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21121#</guid>
+            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가성비가 좋은 액티브 노이즈 캔슬링 이어버드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트러스트, Redex 2 무선 게이밍 마우스 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21120#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21120#</guid>
+            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가성비가 좋은 저 레이턴시의 게이밍 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기가바이트, 메탈 기어 플러스 미니PC 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21119#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21119#</guid>
@@ -237,31 +261,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21116#</guid>
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콜롬비아 GP-3R 휴대용 레코드 플레이어의 복각]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DeepCool, CH160 ITX 케이스 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21115#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21115#</guid>
-            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도란스....를 아십니까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21115/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[펀샵판매중] 엘라고, MS W5 맥세이프 충전거치대 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21114#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21114#</guid>
-            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임보이의  모습이 그대로...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21114/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데드풀과 울버린, 공식 예고편 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21112#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21112#</guid>
-            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[힐링팩터의 대명사 둘이 만났다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21112/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21116/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기가바이트, 메탈 기어 플러스 미니PC 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
