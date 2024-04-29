@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 09:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 15:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, NASA 아르테미스 우주 발사 시스템 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21125#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21125#</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금봐도 두근대는 아르테미스 1호의 웅장한 모습]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lofree, Edge 로우 프로파일 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21124#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21124#</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심플한 로우 프로파일 기계식 키보드를 원했다면..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[람보르기니, 우르스 SE 플러그인 하이브리드 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21123#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21123#</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우르스에 살짝 얹은 전기맛..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Epomaker, TH80 Pro V2 키보드 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21122#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰을 이용한 팟캐스트나 스트리밍을 위한 간결한 형태의 솔루션]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21118/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 바이퍼 V3 Pro 게이밍 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21117#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21117#</guid>
-            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[물론 내가 이걸 쓴다고 브론즈를 벗어날리는 없고..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21117/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 휴대용 신발 건조 살균기 BreezeCare.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21113#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21113#</guid>
-            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비가 오는 날엔 난 항상 널 그리워 해.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21113/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버후드, GP-N3NH 레코드 플레이어 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21116#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21116#</guid>
-            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[콜롬비아 GP-3R 휴대용 레코드 플레이어의 복각]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21116/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
