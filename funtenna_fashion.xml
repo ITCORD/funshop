@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 03:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 09:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21131#</guid>
             <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀보다 눈이 더 즐거울 스피커.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21131/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, NASA 아르테미스 우주 발사 시스템 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21124#</guid>
             <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 로우 프로파일 기계식 키보드를 원했다면..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21124/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[람보르기니, 우르스 SE 플러그인 하이브리드 공개]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21123#</guid>
             <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우르스에 살짝 얹은 전기맛..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21123/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Epomaker, TH80 Pro V2 키보드 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21119#</guid>
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[라이젠 8000G 시리즈가 탑재된 미니PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21119/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

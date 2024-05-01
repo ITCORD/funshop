@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 03:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 09:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 홀로그램 스피커 Haloasis A1.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21131#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21131#</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀보다 눈이 더 즐거울 스피커.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21131/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, NASA 아르테미스 우주 발사 시스템 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21125#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21124#</guid>
             <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 로우 프로파일 기계식 키보드를 원했다면..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21124/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[람보르기니, 우르스 SE 플러그인 하이브리드 공개]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21121#</guid>
             <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가성비가 좋은 액티브 노이즈 캔슬링 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21121/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트러스트, Redex 2 무선 게이밍 마우스 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[라이젠 8000G 시리즈가 탑재된 미니PC]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21119/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤랜드 GO:팟캐스트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21118#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21118#</guid>
-            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰을 이용한 팟캐스트나 스트리밍을 위한 간결한 형태의 솔루션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21118/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
