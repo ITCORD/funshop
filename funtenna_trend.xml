@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 03:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 09:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21151#</guid>
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사진빨 좀 받겠는걸.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21151/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타거스, USB4 트리플 비디오 도킹 스테이션 출시]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21146#</guid>
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대성이 좋은 붐박스 형태의 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21146/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[InWin, POC One 미니 ITX 케이스 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21145#</guid>
             <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[AI 그리고 OLED]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21145/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니, 신형 미니 에이스맨 EV 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21143#</guid>
             <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전 전기 크로스오버 미니]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21143/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐일레븐, 테트리스와의 협업 게임기 공개]]></title>
