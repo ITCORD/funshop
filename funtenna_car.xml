@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 15:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 03:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 맥세이프 카드 지갑 거치대 Hellomaco Phone Stand Wallet.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21161#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21161#</guid>
+            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지갑이요, 거치대요 그리고, 맥세이프요.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21161/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EasySMX, M05 모바일 게임 컨트롤러 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21154#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21154#</guid>
             <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰은 게임콘솔 처럼~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21154/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠하이저, 액센텀 트루 와이어리스 이어폰 공개]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21153#</guid>
             <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편안한 착용감과 다양한 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21153/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샌디스크, 데스크 드라이브 SSD 공개]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21152#</guid>
             <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한곳에 두고 사용하는 용도로 제작된 외장 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21152/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이티브 유니온, (Re)Classic 파워뱅크 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21148#</guid>
             <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[12기통 그리고 헤리티지..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21148/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 맥세이프 조명 WUBEN E1.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사진빨 좀 받겠는걸.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21151/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타거스, USB4 트리플 비디오 도킹 스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21147#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21147#</guid>
-            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노트북 가방으로 유명한 그 타거스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21147/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
