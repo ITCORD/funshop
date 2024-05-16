@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 15:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 03:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21156#</guid>
             <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[멀티플랫폼에서 사용가능한 저지연 게이밍 헤드셋]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21156/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤스로이스, 컬리넌 시리즈 II 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21155#</guid>
             <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여전한 12기통, 여전한 웅장함]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21155/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 맥세이프 카드 지갑 거치대 Hellomaco Phone Stand Wallet.]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21153#</guid>
             <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[편안한 착용감과 다양한 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21153/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샌디스크, 데스크 드라이브 SSD 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21150#</guid>
             <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[매우 슬림한 5,000mAh 파워뱅크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21150/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
