@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 15:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 03:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,12 +328,20 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴발란스, 새로운 MT580 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21178#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21178#</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스트릿으로 시작한 신발에 얹어진 기능성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21178/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엘레컴, IST 트랙볼 마우스 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21177#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21177#</guid>
             <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교체가능한 베어링 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21177/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 반지의 제왕: 바랏두르 출시 예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -349,7 +357,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21175#</guid>
             <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[케이블 달린 외장 SSD?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21175/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테크닉스 X 람보르기니, SL1200 mk7 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[주머니속에 넣고 다니는 감성 카메라]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21174/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CONO, 휴대용 스마트 램프 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21170#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21170#</guid>
-            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[묘하게 예쁘게 생긴램프, 거기에 실용성 까지..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21170/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엘레컴, IST 트랙볼 마우스 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
