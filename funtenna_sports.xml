@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 15:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 03:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 토치 달린 케이블, STYLEPIE ELF.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21176#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21176#</guid>
+            <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[단언컨대 가장 독특한 케이블.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21176/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파나소닉, 루믹스 S9 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21188#</link>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21179#</guid>
             <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아주 작은 렌치와 드라이버.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소노스, 에이스 헤드폰 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21182#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21182#</guid>
-            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소노스의 첫번째 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21182/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21179/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
