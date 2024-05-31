@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 09:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 15:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[작은 크기로 간편하게 스트리밍 준비를 끝내자]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21192/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호리, 포스 피드백 트럭 컨트롤 시스템 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21211#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21211#</guid>
+            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유로트럭을 더 실감나게 즐기자!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21211/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8BitDo, Retro 18 기계식 넘버패드 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21204#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21204#</guid>
+            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계산기도 되는 레트로 디자인의 넘버패드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21204/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IRDM, Pro Nano SSD 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21195#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21195#</guid>
+            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[UMPC들을 위한 M.2 2230 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21195/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 플랜테리어의 끝판왕 Moss Echo]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[휴대성을 극대화한 SSD 인클로저]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21193/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소노스, 로암 2 휴대용 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21191#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21191#</guid>
-            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인기 휴대용 스피커 로암의 후속작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21191/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 소형 전기차 EV3 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21190#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21190#</guid>
-            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전기차의 대중화를 위한 모델]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21190/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GameSir X4 Aileron 모바일 게임 컨트롤러]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21189#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21189#</guid>
-            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[무선으로 연결되는 부착형 게임 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21189/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
