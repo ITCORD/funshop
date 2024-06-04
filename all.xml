@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 03:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 09:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,7 +357,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21201#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 가죽과 유려한 라인을 가진 콘셉트 쿠페]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21201/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHERRY XTRFY, NgaleR 스트리밍 마이크 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -373,7 +373,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21199#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클래식 아웃도어 혹은 프레피룩의 무드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21199/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호리, 포스 피드백 트럭 컨트롤 시스템 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21211#</guid>
             <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유로트럭을 더 실감나게 즐기자!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21211/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8BitDo, Retro 18 기계식 넘버패드 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -389,7 +389,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21204#</guid>
             <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계산기도 되는 레트로 디자인의 넘버패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21204/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[mondo by defunc, 블루투스 스피커 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
