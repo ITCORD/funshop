@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 15:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 03:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,12 +328,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21193/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[mondo by defunc, 블루투스 스피커 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21203#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21203#</guid>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[올드스쿨 붐박스를 세련되게 다듬은 디자인]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21203/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터틀비치, Vulcan II TKL Pro 키보드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21197#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21197#</guid>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[홀 이펙트 마그네틱 스위치를 탑재]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21197/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오디오 테크니카, AT-UMX3 스트리밍 믹서 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21192#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21192#</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[작은 크기로 간편하게 스트리밍 준비를 끝내자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21192/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[bmw, 콘셉트 스카이탑 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -341,7 +357,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21201#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 가죽과 유려한 라인을 가진 콘셉트 쿠페]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21201/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHERRY XTRFY, NgaleR 스트리밍 마이크 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -349,7 +365,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21200#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체리의 게이밍, 스트리머 전용 브랜드 XTRFY]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21200/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빔즈 X 팀버랜드, 7 Eye 클래식 러그 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -357,7 +373,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21199#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클래식 아웃도어 혹은 프레피룩의 무드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21199/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호리, 포스 피드백 트럭 컨트롤 시스템 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -373,23 +389,23 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21204#</guid>
             <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계산기도 되는 레트로 디자인의 넘버패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21204/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IRDM, Pro Nano SSD 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21195#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21195#</guid>
-            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[UMPC들을 위한 M.2 2230 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21195/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[mondo by defunc, 블루투스 스피커 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21203#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21203#</guid>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[올드스쿨 붐박스를 세련되게 다듬은 디자인]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21203/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 플랜테리어의 끝판왕 Moss Echo (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21198#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21198#</guid>
-            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리상자 말고 이끼상자.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[터틀비치, Vulcan II TKL Pro 키보드 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21197#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21197#</guid>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[홀 이펙트 마그네틱 스위치를 탑재]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21197/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 테크니카, AT-UMX3 스트리밍 믹서 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -397,7 +413,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21192#</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[작은 크기로 간편하게 스트리밍 준비를 끝내자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21192/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[bmw, 콘셉트 스카이탑 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -413,7 +429,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21200#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체리의 게이밍, 스트리머 전용 브랜드 XTRFY]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21200/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빔즈 X 팀버랜드, 7 Eye 클래식 러그 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -421,7 +437,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21199#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클래식 아웃도어 혹은 프레피룩의 무드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21199/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호리, 포스 피드백 트럭 컨트롤 시스템 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -437,23 +453,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21204#</guid>
             <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계산기도 되는 레트로 디자인의 넘버패드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IRDM, Pro Nano SSD 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21195#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21195#</guid>
-            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[UMPC들을 위한 M.2 2230 SSD]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21195/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 플랜테리어의 끝판왕 Moss Echo (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21198#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21198#</guid>
-            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유리상자 말고 이끼상자.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21204/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 테크니카, AT-UMX3 스트리밍 믹서 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
