@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 03:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 카드 지갑 맥세이프 보조 배터리 VEGER X5.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21212#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21212#</guid>
+            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[돈은 쓰고, 배터리는 충전하고.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21212/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PDP, 빅트릭스 프로 FS 아케이드 파이트 스틱 한정판 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21207#</link>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21205#</guid>
             <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리가 생각하는 하이브리드와 조금은 다른 느낌]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21205/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[mondo by defunc, 블루투스 스피커 출시예정]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21203#</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[올드스쿨 붐박스를 세련되게 다듬은 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21203/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터틀비치, Vulcan II TKL Pro 키보드 출시]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21197#</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[홀 이펙트 마그네틱 스위치를 탑재]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21197/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 테크니카, AT-UMX3 스트리밍 믹서 공개]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21201#</guid>
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 가죽과 유려한 라인을 가진 콘셉트 쿠페]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21201/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHERRY XTRFY, NgaleR 스트리밍 마이크 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21200#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21200#</guid>
-            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[체리의 게이밍, 스트리머 전용 브랜드 XTRFY]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21200/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
