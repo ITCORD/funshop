@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 09:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21212#</guid>
             <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[돈은 쓰고, 배터리는 충전하고.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21212/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PDP, 빅트릭스 프로 FS 아케이드 파이트 스틱 한정판 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21203#</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[올드스쿨 붐박스를 세련되게 다듬은 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21203/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
