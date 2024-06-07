@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 15:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 03:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21210#</guid>
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IBM의 모델 M 키보드를 오마주한 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21210/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gamesir, Kaleid 및 Kaleid Flux 컨트롤러 출시]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21209#</guid>
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빠른 반응성을 요구하는 게임을 위한 유선 게임 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21209/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[녹투아, 홈 제품 라인업 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21205#</guid>
             <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리가 생각하는 하이브리드와 조금은 다른 느낌]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21205/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[mondo by defunc, 블루투스 스피커 출시예정]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21203#</guid>
             <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[올드스쿨 붐박스를 세련되게 다듬은 디자인]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21203/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
