@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 09:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 15:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aulumu M01, 3-in-1 무선 충전 스테이션]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21218#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21218#</guid>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사이버펑크 풍의 무선 충전 스테이션]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21218/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BMW, 신형 M135 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21217#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21217#</guid>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[BMW 의 핫해치, 그 최신작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21217/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펜탁스, WG-8 디지털 카메라 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21216#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21216#</guid>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뭐지...이 Y2K의 맛은..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21216/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원피스 애니메이션 25주년 영상 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21219#</link>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21210#</guid>
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IBM의 모델 M 키보드를 오마주한 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21210/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gamesir, Kaleid 및 Kaleid Flux 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21209#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21209#</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[빠른 반응성을 요구하는 게임을 위한 유선 게임 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21209/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹투아, 홈 제품 라인업 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21208#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21208#</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가정과 사무실, 다목적 환기를 위한 라인업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21208/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 카드 지갑 맥세이프 보조 배터리 VEGER X5.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21212#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21212#</guid>
-            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[돈은 쓰고, 배터리는 충전하고.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21212/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
