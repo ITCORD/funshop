@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 09:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 라이트 폰 3 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21227#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21227#</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미니멀 라이프를 위한 덜 스마트한 핸드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21227/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[둠, 더 다크 에이지스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21226#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21226#</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[악마들이 두려워하는 그의 다크했던 과거....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21226/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Topton, D11 미니PC 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21225#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21225#</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제 라이젠 미니 PC에서도 즐기는 USB4의 확장성]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21225/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 무선 LP 플레이어 VIBESPIN.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21221#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엔드 오브 가이낙스]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21220/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aulumu M01, 3-in-1 무선 충전 스테이션]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21218#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21218#</guid>
-            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사이버펑크 풍의 무선 충전 스테이션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21218/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW, 신형 M135 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21217#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21217#</guid>
-            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[BMW 의 핫해치, 그 최신작]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21217/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜탁스, WG-8 디지털 카메라 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21216#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21216#</guid>
-            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뭐지...이 Y2K의 맛은..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
