@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 03:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 09:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21224#</guid>
             <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[케이스의 명가가 제작한 첫번째 게이밍 체어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21224/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴발란스, 에메레온도르 1000 시리즈 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21220#</guid>
             <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엔드 오브 가이낙스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21220/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
