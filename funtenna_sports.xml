@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 09:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 15:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오디오 테크니카, ATH-S300BT 헤드폰 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21233#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21233#</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[90시간의 재생시간!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21233/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마란츠, 모델 M1 무선 스트리밍 앰프 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21232#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21232#</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[홈 오디오의 중심이 되어줄수 있는 다재다능한 앰프]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21232/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알핀, 전기 해치백 A290 EV 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21231#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21231#</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기차로 속속 부활하는 다양한 자동차들..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21231/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SCUF 게이밍, SCUF Nomad 모바일 컨트롤러 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21230#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21230#</guid>
             <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콘솔 컨트롤러 급의 조작을 모바일에서]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21230/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르크루제, 포켓몬 컬렉션 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[악마들이 두려워하는 그의 다크했던 과거....]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21226/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Topton, D11 미니PC 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21225#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21225#</guid>
-            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 라이젠 미니 PC에서도 즐기는 USB4의 확장성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21225/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 무선 LP 플레이어 VIBESPIN.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21221#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21221#</guid>
-            <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LP 보다 작은 배터리 내장 LP 플레이어.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21221/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랙탈 디자인, Refine 게이밍 체어 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21224#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21224#</guid>
-            <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[케이스의 명가가 제작한 첫번째 게이밍 체어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
