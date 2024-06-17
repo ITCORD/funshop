@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 15:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RETROSPEKT, 산리오 35mm 필름카메라 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21236#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21236#</guid>
+            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[구데타마의 숨막히는 뒤태]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조던 3 X 니나 샤넬 애브니 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21235#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21235#</guid>
+            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생일 케이크 같이 달콤하게 생긴 조던 3]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OXS, 썬더 라이트 게이밍 사운드바 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21234#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21234#</guid>
+            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공간 문제없이 훌륭한 게임사운드를!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21234/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오디오 테크니카, ATH-S300BT 헤드폰 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21233#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21230#</guid>
             <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콘솔 컨트롤러 급의 조작을 모바일에서]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21230/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르크루제, 포켓몬 컬렉션 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[피카츄는 전기포트여야......]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21229/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버후드, 도그 콜렉션 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21228#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21228#</guid>
-            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[애견 용품도 스트릿감성으로..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21228/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 라이트 폰 3 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21227#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21227#</guid>
-            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미니멀 라이프를 위한 덜 스마트한 핸드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21227/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둠, 더 다크 에이지스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21226#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21226#</guid>
-            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[악마들이 두려워하는 그의 다크했던 과거....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21226/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
