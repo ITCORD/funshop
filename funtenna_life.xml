@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 09:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 15:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ESR, 에어팟 프로용 사이버 플릭락 케이스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21240#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21240#</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[떨어뜨려도 뚜껑이 열릴 걱정없는 러기드 케이스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21240/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EasySMX, X05 게임 컨트롤러 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21239#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21239#</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 가격 싸움이다..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21239/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모렐, BIGGIE 휴대용 스피커 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21238#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21238#</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하이파이 업체가 제작한 휴대용 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21238/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘 밤 11시 [닌텐도 다이렉트].]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21237#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[90시간의 재생시간!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21233/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마란츠, 모델 M1 무선 스트리밍 앰프 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21232#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21232#</guid>
-            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[홈 오디오의 중심이 되어줄수 있는 다재다능한 앰프]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21232/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알핀, 전기 해치백 A290 EV 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21231#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21231#</guid>
-            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전기차로 속속 부활하는 다양한 자동차들..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21231/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SCUF 게이밍, SCUF Nomad 모바일 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21230#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21230#</guid>
-            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[콘솔 컨트롤러 급의 조작을 모바일에서]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21230/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
