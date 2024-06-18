@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 15:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 03:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 밤 11시 [닌텐도 다이렉트].]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21237#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21237#</guid>
+            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 일찍 잘라고 했는데! 닌다라니!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21237/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RETROSPEKT, 산리오 35mm 필름카메라 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21236#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21236#</guid>
             <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[구데타마의 숨막히는 뒤태]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21236/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조던 3 X 니나 샤넬 애브니 출시 예정]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21234#</guid>
             <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공간 문제없이 훌륭한 게임사운드를!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21234/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 테크니카, ATH-S300BT 헤드폰 공개]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21230#</guid>
             <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콘솔 컨트롤러 급의 조작을 모바일에서]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21230/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르크루제, 포켓몬 컬렉션 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21229#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21229#</guid>
-            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[피카츄는 전기포트여야......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21229/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
