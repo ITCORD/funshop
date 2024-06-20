@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 15:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 03:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드래곤 퀘스트 3 HD-2D 리메이크, 한글화 출시 예정]]></title>
+            <title><![CDATA[드래곤 퀘스트 3 리메이크, 한글화 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21243#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21243#</guid>
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21241#</guid>
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그러니까... 당신이 진짜 젤다라는 거죠?!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21241/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ESR, 에어팟 프로용 사이버 플릭락 케이스 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21240#</guid>
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[떨어뜨려도 뚜껑이 열릴 걱정없는 러기드 케이스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21240/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EasySMX, X05 게임 컨트롤러 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21238#</guid>
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이파이 업체가 제작한 휴대용 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21238/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘 밤 11시 [닌텐도 다이렉트].]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21237#</guid>
             <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오늘 일찍 잘라고 했는데! 닌다라니!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21237/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
