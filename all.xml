@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 03:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 09:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -445,7 +445,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21238#</guid>
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이파이 업체가 제작한 휴대용 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21238/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘 밤 11시 [닌텐도 다이렉트]. (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -509,7 +509,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21238#</guid>
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이파이 업체가 제작한 휴대용 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21238/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘 밤 11시 [닌텐도 다이렉트]. (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
