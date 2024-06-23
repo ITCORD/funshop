@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jun 2024 09:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 15:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,12 +392,36 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[캡콤, MARVEL VS CAPCOM 파이팅 컬렉션 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21250#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21250#</guid>
+            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[퍼니셔가 인질인가.....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21250/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랙탈 디자인, 무드 미니 ITX 케이스 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21249#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21249#</guid>
+            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전히 인테리어와의 조화를 중시하는 그들..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, 2025 e-트론 GT 리프레쉬 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21248#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21248#</guid>
+            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아우디 사상 가장 강력한 자동차]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21248/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[IGS 클래식 아케이드 컬렉션 패키지판 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21247#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21247#</guid>
             <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대만의 대표 아케이드 게임 회사, IGS의 컬렉션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21247/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, KEYS-TO-GO 2 키보드 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -429,31 +453,31 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21243#</guid>
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용사 로토의 전설을 한글로 즐기자.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21243/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캡콤, MARVEL VS CAPCOM 파이팅 컬렉션 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21250#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21250#</guid>
+            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[퍼니셔가 인질인가.....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21250/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랙탈 디자인, 무드 미니 ITX 케이스 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21249#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21249#</guid>
+            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전히 인테리어와의 조화를 중시하는 그들..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후지필름, 인스탁스 와이드 400 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21242#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21242#</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[와이드 필름 아직 안죽었다....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤다가 주인공인 최초의 젤다의 전설 [지혜의 투영] (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21241#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21241#</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그러니까... 당신이 진짜 젤다라는 거죠?!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESR, 에어팟 프로용 사이버 플릭락 케이스 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21240#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21240#</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어뜨려도 뚜껑이 열릴 걱정없는 러기드 케이스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21240/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아우디, 2025 e-트론 GT 리프레쉬 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21248#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21248#</guid>
+            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아우디 사상 가장 강력한 자동차]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21248/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IGS 클래식 아케이드 컬렉션 패키지판 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -461,7 +485,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21247#</guid>
             <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대만의 대표 아케이드 게임 회사, IGS의 컬렉션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21247/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, KEYS-TO-GO 2 키보드 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -493,31 +517,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21243#</guid>
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용사 로토의 전설을 한글로 즐기자.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, 인스탁스 와이드 400 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21242#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21242#</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[와이드 필름 아직 안죽었다....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤다가 주인공인 최초의 젤다의 전설 [지혜의 투영] (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21241#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21241#</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그러니까... 당신이 진짜 젤다라는 거죠?!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESR, 에어팟 프로용 사이버 플릭락 케이스 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21240#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21240#</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[떨어뜨려도 뚜껑이 열릴 걱정없는 러기드 케이스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21240/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21243/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
