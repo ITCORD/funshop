@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 15:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8BitDo, 얼티밋 2C 컨트롤러 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21263#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21263#</guid>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가격 전쟁에 참전한 원조 가성비 브랜드..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21263/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, Beats Pill 무선 스피커 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21262#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21262#</guid>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[새로워진 Beats Pill의 등장]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21262/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BMW, 신형 M5 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21261#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21261#</guid>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리얼 M이라고 부르기 조금은 낯선모습]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21261/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이어다이나믹, VERIO 200 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21260#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21260#</guid>
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[베이어다이나믹 최초 오픈형 무선 이어버드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21260/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스 X JJJJOUND X 주제 무리뉴 라인업 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스마트워치라고 하기엔 턱없지만 지샥이라고 하면....납득?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21256/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀그룹, X1 MAX USB 메모리 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21255#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21255#</guid>
-            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[USB 3.2 Gen2 x1 타입으로 구현하는 빠른속도]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21255/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 로그 아처 에르고에어 게이밍 백팩 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21253#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21253#</guid>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타일과 기능성을 동시에]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21253/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 데스에더 V3 하이퍼스피드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21252#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21252#</guid>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로를 위한 경량 게이밍 마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21252/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
