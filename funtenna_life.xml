@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 09:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 15:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캡콤, 데드 라이징 디럭스 리마스터 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21277#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21277#</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생각없이 호쾌하게 즐기던 좀비 액션게임의 부활]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이티브 유니온, 포켓 케이블 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21276#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21276#</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[포켓 나이프에서 영감을 받은 EDC 케이블]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜드로버, 디펜더 옥타 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21275#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21275#</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야수의 심장을 품은 최강의 디펜더]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21275/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 범블비 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21273#</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스팀의 첫번째 서드파티 정식 라이선스 컨트롤러]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21269/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AutoFull M6 게이밍 의자]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21268#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21268#</guid>
-            <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[열선에 통풍이라니.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21268/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 다기능 멀티툴 The OmniPro Wrench]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21264#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21264#</guid>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스패너+드라이버.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21264/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[켄싱턴, 무선 인체 공학 키보드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21267#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21267#</guid>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이상하게 인체 공학 키보드가 안맞는 1인....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
