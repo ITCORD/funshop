@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 09:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 15:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CMF, Phone 1 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21286#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21286#</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[확실히 기존과는 다른 느낌의 스마트폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21286/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이어다이나믹, MMX 300 프로 게이밍 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21285#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21285#</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스튜디오 사운드를 자랑하는 게이밍 헤드셋의 3세대]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21285/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산와 서플라이, 무선 멀티 터치패드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21284#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21284#</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윈도우의 매직 트랙패드?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21284/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, C-3PO 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21283#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[활동적인 사람들을 위한 세가지 이어버드]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21279/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, G515 LIGHTSPEED TKL 키보드 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21278#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21278#</guid>
-            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[로우 프로파일 무선 게이밍 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 맥세이프 메모장 거치대 MOFT Snap Flow.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21274#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21274#</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 뒤에 아날로그.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21274/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캡콤, 데드 라이징 디럭스 리마스터 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21277#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21277#</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[생각없이 호쾌하게 즐기던 좀비 액션게임의 부활]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21277/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
