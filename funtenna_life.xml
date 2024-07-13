@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 09:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 15:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21293#</guid>
             <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[애플의 그 M1 Pro는 아니구요...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21293/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, G309 게이밍 마우스 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21292#</guid>
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사실상 G305의 후계자?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21292/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실크랜드, 새로운 USB4 케이블 출시]]></title>
