@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 15:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 03:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21299#</guid>
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가성비의 오픈이어 타입 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21299/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8Bitdo, SN30 Pro 골든/실버 에디션 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21295#</guid>
             <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[머리속에 자동으로 울려퍼지는 BGM...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21295/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HiBy, FD5 데스크톱 헤드폰 앰프 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21292#</guid>
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사실상 G305의 후계자?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21292/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
