@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 09:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 15:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케임브리지 오디오, 멜로마니아 P100 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21303#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21303#</guid>
+            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[케임브리지 오디오의 첫번째 무선 오버이어 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21303/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고, 메르세데스 벤츠 G500 프로페셔널 라인 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21302#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21302#</guid>
+            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[좀 더 본격적인 모험을 위한 'G']]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21302/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Insta360, Flow Pro 스마트폰 짐벌 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21301#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21301#</guid>
+            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[애플 독킷 기술이 적용된 스마트폰용 스태빌라이저]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21301/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리에이티브, 무선 이어폰 Outlier Go 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21299#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[머리속에 자동으로 울려퍼지는 BGM...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21295/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HiBy, FD5 데스크톱 헤드폰 앰프 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21294#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21294#</guid>
-            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 기능 그리고 미래적인 멋진 외관]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21294/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤오미, 휴대용 듀얼모니터 M1 Pro 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21293#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21293#</guid>
-            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 그 M1 Pro는 아니구요...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21293/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, G309 게이밍 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21292#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21292#</guid>
-            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사실상 G305의 후계자?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21292/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
