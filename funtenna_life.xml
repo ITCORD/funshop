@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 09:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 15:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커세어, TC500 게이밍 의자 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21310#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21310#</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사장님 의지같은 게이밍 의자??]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, 신형 A5 시리즈 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21309#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21309#</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["Bye bye A4~"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21309/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비츠 X 마인크래프트, 스페셜 에디션 솔로 4 헤드폰 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21308#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21308#</guid>
+            <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 크리퍼를 찾아보자...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21308/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이수스, Azoth Extreme 키보드 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21306#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21300#</guid>
             <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제보다 젯밥에 관심이 가는구려.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21300/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케임브리지 오디오, 멜로마니아 P100 출시]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21303#</guid>
             <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[케임브리지 오디오의 첫번째 무선 오버이어 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21303/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 메르세데스 벤츠 G500 프로페셔널 라인 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21302#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21302#</guid>
-            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좀 더 본격적인 모험을 위한 'G']]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21302/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Insta360, Flow Pro 스마트폰 짐벌 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21301#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21301#</guid>
-            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[애플 독킷 기술이 적용된 스마트폰용 스태빌라이저]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21301/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이티브, 무선 이어폰 Outlier Go 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21299#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21299#</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가성비의 오픈이어 타입 이어폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21299/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
