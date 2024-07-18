@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 03:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21309#</guid>
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["Bye bye A4~"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21309/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비츠 X 마인크래프트, 스페셜 에디션 솔로 4 헤드폰 공개]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21308#</guid>
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 크리퍼를 찾아보자...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21308/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이수스, Azoth Extreme 키보드 공개]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21305#</guid>
             <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[속도의 한계를 뛰어넘기 위한 혁신적 설계..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21305/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피아트, 그란데 판다 유럽 출시]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21304#</guid>
             <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[본격적으로 시작된 전기 소형차 경쟁]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21304/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 7인치 4K 화면 달린 미니 PC Miniproca.]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21300#</guid>
             <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제보다 젯밥에 관심이 가는구려.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21300/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
