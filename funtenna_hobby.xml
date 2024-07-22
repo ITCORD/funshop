@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 03:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21315#</guid>
             <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니...이제와서...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21315/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FiiO, 포터블 CDP DM13 공개]]></title>
