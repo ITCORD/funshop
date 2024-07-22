@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 15:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 03:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21315#</guid>
             <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아니...이제와서...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21315/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FiiO, 포터블 CDP DM13 공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21314#</guid>
             <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제 레트로의 방향은 CD인 것인가...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21314/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀이 디자인한 Xbox 컨트롤러]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21313#</guid>
             <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컨트롤러 뒤가....와....오우야.....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21313/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플워치를 아이팟으로? TinyPod 출시]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21312#</guid>
             <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['굳이?' 와 '재밌다!' 를 오가는 아이템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21312/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디파이어의 무선 헤드폰, W830NB]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21307#</guid>
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리 애는 안 물어요.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21307/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커세어, TC500 게이밍 의자 공개]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21310#</guid>
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사장님 의지같은 게이밍 의자??]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21310/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
