@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 15:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21319#</guid>
             <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 올림픽에서 보는 브레이크 댄스, 그를 위한 나이키 잼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21319/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코엑스 아쿠아리움에서 만나는 동물의 숲 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21312#</guid>
             <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['굳이?' 와 '재밌다!' 를 오가는 아이템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21312/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[jsaux, 6-in-1 UMPC 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
