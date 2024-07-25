@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 03:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 09:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21324#</guid>
             <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[주차장을 진입하는 모든 순간들이 도전인 SUV]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21324/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지샥, NASA 한정판 GW6900 출시]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21323#</guid>
             <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[학창시절에도 싫어하던 공식이 시계에......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21323/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hyperkin, DuchesS Xbox 컨트롤러 출시]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21321#</guid>
             <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아스텔앤컨의 세컨 브랜드, 액티보의 첫 DAP]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21321/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[jsaux, 6-in-1 UMPC 도킹 스테이션 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21319#</guid>
             <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 올림픽에서 보는 브레이크 댄스, 그를 위한 나이키 잼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21319/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
