@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 15:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21329#</guid>
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴트로 디자인의 오픈에어 무선 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21329/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 키츠네 파이터 에디션 아쿠마 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -93,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21327#</guid>
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 휴대용 저장장치를 개발중인 TeamGroup]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21327/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PDP, 철권 8 컬렉션 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -101,7 +101,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21326#</guid>
             <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[패륜 가정의 아버지와 아들이 그려진 백팩이라......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21326/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아야네오, 레트로 파워뱅크 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21327#</guid>
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다양한 휴대용 저장장치를 개발중인 TeamGroup]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21327/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PDP, 철권 8 컬렉션 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -493,7 +493,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21325#</guid>
             <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼패미컴 같이 생긴 귀여운 파워뱅크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21325/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐딜락, 2025 에스컬레이드 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
