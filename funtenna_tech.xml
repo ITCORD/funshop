@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 15:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DANGO, 맥세이프 지갑 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21332#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21332#</guid>
+            <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식한 리얼 가죽이 인상적인 맥세이프 지갑]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21332/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하드그래프트, Misfit 백팩 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21331#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21331#</guid>
+            <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심플하지만 고급스럽고 튼튼한 백팩]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21331/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govee x Evangelion, 게이밍 라이트 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21330#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21330#</guid>
+            <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["신지, 조명을 켜라."]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21330/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[km5, 오픈에어타입 헤드폰 HP1 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21329#</link>
@@ -21,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21328#</guid>
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일순천격(一瞬千撃)!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21328/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TeamGroup, PD20 미니 SSD 공개]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼패미컴 같이 생긴 귀여운 파워뱅크]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21325/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐딜락, 2025 에스컬레이드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21324#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21324#</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[주차장을 진입하는 모든 순간들이 도전인 SUV]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21324/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지샥, NASA 한정판 GW6900 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21323#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21323#</guid>
-            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학창시절에도 싫어하던 공식이 시계에......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21323/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hyperkin, DuchesS Xbox 컨트롤러 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21322#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21322#</guid>
-            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 레트로 반열에 들어간 구엑박...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21322/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
