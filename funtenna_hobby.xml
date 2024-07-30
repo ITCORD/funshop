@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 09:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 15:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아크테릭스, MO/GO 파워드 외골격 팬츠 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21338#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21338#</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[등산을 좋아하지만 노쇠해진 무릎이 걱정이라면...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21338/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소니, 아스트로봇 한정판 듀얼센스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21337#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21337#</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀염뽀짝한 아스트로 봇의 느낌을 그대로 담은 듀얼센스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21337/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤쿤, 오피스팔 콤보 어댑터 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21336#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21336#</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[슬림하게 노트북 뒤로 숨기자..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21336/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SABRENT, 썬더볼트 4 도킹 스테이션 모니터 마운트]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21335#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심플하지만 고급스럽고 튼튼한 백팩]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21331/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govee x Evangelion, 게이밍 라이트 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21330#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21330#</guid>
-            <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["신지, 조명을 켜라."]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21330/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[km5, 오픈에어타입 헤드폰 HP1 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21329#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21329#</guid>
-            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴트로 디자인의 오픈에어 무선 헤드폰]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21329/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 키츠네 파이터 에디션 아쿠마 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21328#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21328#</guid>
-            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일순천격(一瞬千撃)!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21328/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
