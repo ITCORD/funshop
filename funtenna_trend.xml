@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 15:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 03:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SABRENT, 썬더볼트 4 도킹 스테이션 모니터 마운트]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21335#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21335#</guid>
+            <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게도 합칠수 있구나...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21335/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘가토, 스트림 덱+ 확장 유닛 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21334#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21334#</guid>
+            <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공간은 그대로 유지하며 기능은 확장...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21334/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JLab, JBuds Lux ANC 무선 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21333#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21333#</guid>
+            <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 무선 헤드폰도 가성비의 시대]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21333/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DANGO, 맥세이프 지갑 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21332#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21332#</guid>
             <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[클래식한 리얼 가죽이 인상적인 맥세이프 지갑]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21332/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하드그래프트, Misfit 백팩 출시]]></title>
@@ -45,31 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21328#</guid>
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일순천격(一瞬千撃)!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TeamGroup, PD20 미니 SSD 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21327#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21327#</guid>
-            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 휴대용 저장장치를 개발중인 TeamGroup]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21327/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PDP, 철권 8 컬렉션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21326#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21326#</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[패륜 가정의 아버지와 아들이 그려진 백팩이라......]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21326/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아야네오, 레트로 파워뱅크 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21325#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21325#</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼패미컴 같이 생긴 귀여운 파워뱅크]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21325/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21328/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
