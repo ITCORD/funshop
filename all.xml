@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 15:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 03:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21341#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도심에서 혹은 자연에서...전천후라는 말이 어울리는 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21341/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, G8+ 블루투스 모바일 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -93,7 +93,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21345#</guid>
             <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 5를 지원하는 PC가...어디보자...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21345/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 슈퍼 마리오 월드™ : 마리오와 요시 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -117,7 +117,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21342#</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 디지털시계, A168의 최신버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21342/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOKA, Transport Chukka GTX 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -125,7 +125,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21341#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도심에서 혹은 자연에서...전천후라는 말이 어울리는 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21341/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, G8+ 블루투스 모바일 컨트롤러 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -133,7 +133,31 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21347#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21347#</guid>
+            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[썬더볼트 쉐어가 가능한 도킹 스테이션]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21347/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닌텐도, 젤다의 전설 무선 이어폰 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21346#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21346#</guid>
+            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영국, 아일랜드에서만 판매....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21346/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sabrent, Rocket XTRM5 휴대용 SSD 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21345#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21345#</guid>
+            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[썬더볼트 5를 지원하는 PC가...어디보자...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21345/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 슈퍼 마리오 월드™ : 마리오와 요시 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -157,7 +181,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21342#</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 디지털시계, A168의 최신버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21342/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOKA, Transport Chukka GTX 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -176,36 +200,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레고, 페라리 F40 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21339#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21339#</guid>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[많은 사람들이 기다렸던 8스터드 버전 F40]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21339/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아크테릭스, MO/GO 파워드 외골격 팬츠 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21338#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21338#</guid>
-            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[등산을 좋아하지만 노쇠해진 무릎이 걱정이라면...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21338/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 아스트로봇 한정판 듀얼센스 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21337#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21337#</guid>
-            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀염뽀짝한 아스트로 봇의 느낌을 그대로 담은 듀얼센스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21337/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21347#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21347#</guid>
             <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 쉐어가 가능한 도킹 스테이션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21347/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닌텐도, 젤다의 전설 무선 이어폰 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -245,7 +245,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21342#</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 디지털시계, A168의 최신버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21342/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOKA, Transport Chukka GTX 출시예정 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -253,7 +253,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21341#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도심에서 혹은 자연에서...전천후라는 말이 어울리는 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21341/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, G8+ 블루투스 모바일 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -261,7 +261,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -325,7 +325,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -389,7 +389,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -453,7 +453,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -485,7 +485,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21344#</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임에서 튀어나온듯한 비주얼의 픽셀 레고 전시품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21344/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UAG, SRGE 3-IN-1 충전기 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -517,7 +517,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

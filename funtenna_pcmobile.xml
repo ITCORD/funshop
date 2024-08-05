@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 15:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 03:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21345#</guid>
             <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 5를 지원하는 PC가...어디보자...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21345/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 슈퍼 마리오 월드™ : 마리오와 요시 출시예정]]></title>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21342#</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 디지털시계, A168의 최신버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21342/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOKA, Transport Chukka GTX 출시예정]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21341#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도심에서 혹은 자연에서...전천후라는 말이 어울리는 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21341/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GameSir, G8+ 블루투스 모바일 컨트롤러 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21340#</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모바일을 게임콘솔처럼 즐기자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21340/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
