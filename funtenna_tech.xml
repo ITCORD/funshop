@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 15:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 03:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오비키, 네스트 v2 오거나이저 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21350#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21350#</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뭔가 달라진듯 안달라진듯 알쏭달쏭?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴발란스, 991v2 시티 에디션 팩 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21349#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21349#</guid>
             <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[총 다섯가지의 컬러로 출시하는 시티 에디션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21349/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[체리 XTRFY, M64 PRO 8K 무선 마우스 출시]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21348#</guid>
             <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[체리가 소개하는 경량 게이밍 무선마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21348/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21344#</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임에서 튀어나온듯한 비주얼의 픽셀 레고 전시품]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21344/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UAG, SRGE 3-IN-1 충전기 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[러기드 맛집이 제안하는 여행용 3 in 1 충전기]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21343/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카시오, ABL-100 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21342#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21342#</guid>
-            <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지 디지털시계, A168의 최신버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21342/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
