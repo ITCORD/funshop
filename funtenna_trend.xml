@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 09:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 15:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Teenage Engineering, EP-1320 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21356#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21356#</guid>
+            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중세의 리듬을 느껴보자! 허이짜!!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭스바겐, ID.3 GTX 퍼포먼스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21355#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21355#</guid>
+            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전기차계의 핫해치?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터틀비치, Kone II Air 무선 게이밍 마우스 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21354#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21354#</guid>
+            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[귀엽게 생겼지만 얕보기 힘든 성능을 가진 무선 게이밍 마우스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21354/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오디오 테크니카, AT-SP3X 북쉘프 스피커 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21353#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21353#</guid>
             <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[적당한 2채널 스피커를 고집한다면 고려해볼만한 액티브 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21353/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이어펀, 에어 프로 4 무선 이어폰 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[총 다섯가지의 컬러로 출시하는 시티 에디션]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21349/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리 XTRFY, M64 PRO 8K 무선 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21348#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21348#</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[체리가 소개하는 경량 게이밍 무선마우스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21348/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cable Matters, 썬더볼트 4 도킹 스테이션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21347#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21347#</guid>
-            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[썬더볼트 쉐어가 가능한 도킹 스테이션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21347/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도, 젤다의 전설 무선 이어폰 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21346#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21346#</guid>
-            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영국, 아일랜드에서만 판매....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21346/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
