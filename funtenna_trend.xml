@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 09:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 15:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, NASA Apollo 달 탐사 차량 - LRV 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21359#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21359#</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아....모터를 달고 싶다....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바밀로, MUSE65 유선 게이밍 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21358#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21358#</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[컴팩트한 65% 배열의 마그네틱 알루미늄 합금 게이밍 키보드..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21358/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker Prime 차징 도킹 스테이션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21357#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21357#</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[14-in-1의 확장성과 최대 160W 충전 출력을 지원]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Teenage Engineering, EP-1320 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21356#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가성비의 미국 브랜드 이어펀]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21352/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스 X 롤랜드, 협업 신발 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21351#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21351#</guid>
-            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[TR-808과 NM808의 만남]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21351/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오비키, 네스트 v2 오거나이저 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21350#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21350#</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뭔가 달라진듯 안달라진듯 알쏭달쏭?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21350/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스, 991v2 시티 에디션 팩 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21349#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21349#</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[총 다섯가지의 컬러로 출시하는 시티 에디션]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21349/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
