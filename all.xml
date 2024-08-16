@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 09:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,7 +277,15 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21370#</guid>
             <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[카본, 거기에 포지드 카본 타입으로 더 고급스럽게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21370/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cable Matters, USB4 20Gbps 스위치 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21369#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21369#</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[두대의 컴퓨터를 효율적으로 활용가능한 스위치]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21369/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 자그마한 코딩 로봇 KT2 Kungfu Turtle. (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -301,7 +309,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21367#</guid>
             <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[훌륭한 가성비를 가진 멀티포트 GaN 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21367/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원피스, 리메이크 애니메이션 콘셉트 아트 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더운 여름에 어울리는 시원한 투명 컬러]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21365/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[렉사, 프로페셔널 고 포터블 SSD 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21364#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21364#</guid>
-            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰 전용, 전문 촬영을 위한 외장 저장장치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21364/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 자그마한 코딩 로봇 KT2 Kungfu Turtle. (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
