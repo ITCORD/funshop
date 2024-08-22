@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 03:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 09:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21384#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어째 본가보다 더 멋져진 테리 보가드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21384/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, 포켓몬 마이크로 SD 카드 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -221,7 +221,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21385#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 나은 성능으로 등장한 앰버튼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21385/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[링컨, 2025 네비게이터 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -229,7 +229,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21382#</guid>
             <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미국산 풀사이즈 럭셔리 SUV의 대명사]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21382/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 서밋 오프트레일 TR (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -237,7 +237,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21381#</guid>
             <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[험준한 지형을 빠르게 오를수 있는 신발]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21381/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터틀 비치, 스텔스 700 3세대 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -262,6 +262,30 @@
             <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이파이명가가 제안하는 무선 올인원 오디오 시스템]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21378/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트리트 파이터 6, 테리 플레이 트레일러 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21384#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21384#</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어째 본가보다 더 멋져진 테리 보가드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21384/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스턴 디지털, 포켓몬 마이크로 SD 카드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21383#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21383#</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아...젤다도 참았는데...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21383/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마샬, 앰버튼 3 스피커 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21385#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21385#</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더 나은 성능으로 등장한 앰버튼]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21385/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[링컨, 2025 네비게이터 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -304,36 +328,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21378/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BMW, M5 투어링 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21377#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21377#</guid>
-            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아빠들의 드림카가 선택한 거대한 변화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21377/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렉, 벨비트 디지털 자전거벨 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21375#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21375#</guid>
-            <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[블루투스 스피커가 되는 자전거벨?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21375/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리언웨어, AW2725QF 게이밍 모니터 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21374#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21374#</guid>
-            <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[듀얼 해상도 모드를 제공하는 게이밍 모니터]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21374/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스트리트 파이터 6, 테리 플레이 트레일러 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21384#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21384#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어째 본가보다 더 멋져진 테리 보가드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21384/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, 포켓몬 마이크로 SD 카드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21385#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 나은 성능으로 등장한 앰버튼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21385/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[링컨, 2025 네비게이터 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -397,7 +397,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21384#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어째 본가보다 더 멋져진 테리 보가드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21384/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, 포켓몬 마이크로 SD 카드 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -413,7 +413,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21385#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 나은 성능으로 등장한 앰버튼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21385/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[링컨, 2025 네비게이터 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -461,7 +461,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21384#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어째 본가보다 더 멋져진 테리 보가드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21384/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨스턴 디지털, 포켓몬 마이크로 SD 카드 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -477,7 +477,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21385#</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 나은 성능으로 등장한 앰버튼]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21385/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[링컨, 2025 네비게이터 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
