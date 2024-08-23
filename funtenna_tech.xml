@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 15:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ZOTAC, 휴대용 게이밍 콘솔 ZONE 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21388#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21388#</guid>
+            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계속 이어지는 게이밍 UMPC의 라인업들]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21388/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHARGE, 디스크 플러스 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21387#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
+            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21387/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JBL 투어 프로 3 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21386#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21386#</guid>
+            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[케이스에 달린 액정이 더 커졌다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21386/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트리트 파이터 6, 테리 플레이 트레일러 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21384#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[험준한 지형을 빠르게 오를수 있는 신발]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21381/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터틀 비치, 스텔스 700 3세대 게이밍 헤드셋 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21380#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21380#</guid>
-            <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[두개의 동글로 더 빠른 플랫폼 전환]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21380/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[INTELECTRA e-cargo 자전거]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21379#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21379#</guid>
-            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[짐을 싣고 나르는데 특화된 전기자전거]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21379/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠브리지 오디오, 에보 원 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21378#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21378#</guid>
-            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이파이명가가 제안하는 무선 올인원 오디오 시스템]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21378/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
