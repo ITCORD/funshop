@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 03:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 09:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,7 +229,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21391#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 크기에 다양한 컬러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21391/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머렐, 어질리티 피크 5 고어텍스 집 오프 출시 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -237,7 +237,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21390#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 날씨, 지형 모두 대응하는 전천후 트레일화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21390/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 새로운 동물의 숲 시리즈 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -253,7 +253,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21388#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계속 이어지는 게이밍 UMPC의 라인업들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21388/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHARGE, 디스크 플러스 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -261,7 +261,31 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21387/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NACON, Revolution X Unlimited 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21394#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21394#</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[XBOX와 PC를 위한 프리미엄 게이밍 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21394/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바워스앤윌킨스, Pi8 무선 이어버드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21393#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21393#</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[베컴형님은 왜 여전히 멋지십니까?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21393/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키, 덩크 하이 우탱 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21392#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21392#</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["Cash rules everything around me. C.R.E.A.M! "]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21392/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CRKD, ATOM 마이크로 컨트롤러 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -269,7 +293,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21391#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 크기에 다양한 컬러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21391/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머렐, 어질리티 피크 5 고어텍스 집 오프 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -277,7 +301,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21390#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 날씨, 지형 모두 대응하는 전천후 트레일화]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21390/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 새로운 동물의 숲 시리즈 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -285,7 +309,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21389#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[레고 동숲은 계속 이어진다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21389/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ZOTAC, 휴대용 게이밍 콘솔 ZONE 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -301,30 +325,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JBL 투어 프로 3 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21386#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21386#</guid>
-            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[케이스에 달린 액정이 더 커졌다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트리트 파이터 6, 테리 플레이 트레일러 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21384#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21384#</guid>
-            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어째 본가보다 더 멋져진 테리 보가드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21384/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴 디지털, 포켓몬 마이크로 SD 카드 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21383#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21383#</guid>
-            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아...젤다도 참았는데...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -357,7 +357,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21391#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 크기에 다양한 컬러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21391/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머렐, 어질리티 피크 5 고어텍스 집 오프 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21388#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계속 이어지는 게이밍 UMPC의 라인업들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21388/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHARGE, 디스크 플러스 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -389,7 +389,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21387/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NACON, Revolution X Unlimited 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -421,7 +421,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21391#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 크기에 다양한 컬러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21391/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머렐, 어질리티 피크 5 고어텍스 집 오프 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -445,7 +445,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21388#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계속 이어지는 게이밍 UMPC의 라인업들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21388/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHARGE, 디스크 플러스 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -453,7 +453,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21387/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NACON, Revolution X Unlimited 컨트롤러 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -485,7 +485,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21391#</guid>
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 크기에 다양한 컬러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21391/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머렐, 어질리티 피크 5 고어텍스 집 오프 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -509,7 +509,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21388#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계속 이어지는 게이밍 UMPC의 라인업들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21388/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHARGE, 디스크 플러스 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -517,7 +517,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21387/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
