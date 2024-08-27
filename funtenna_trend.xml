@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 09:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 15:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nuphy, Nos 75 기계식 키보드 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21397#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21397#</guid>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[알루미늄으로 제작된 로우 프로파일 기계식 키보드]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21397/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Razer, 크라켄 V4 게이밍 헤드셋 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21396#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21396#</guid>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게임할 때마다 내 귀가 번쩍번쩍~]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8BitDo Lite SE 2.4G 무선 컨트롤러]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21395#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21395#</guid>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[몸이 불편한 사람들을 위한 접근성이 좋은 게임 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21395/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NACON, Revolution X Unlimited 컨트롤러 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21394#</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 날씨, 지형 모두 대응하는 전천후 트레일화]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21390/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 새로운 동물의 숲 시리즈 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21389#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21389#</guid>
-            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[레고 동숲은 계속 이어진다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21389/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZOTAC, 휴대용 게이밍 콘솔 ZONE 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21388#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21388#</guid>
-            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[계속 이어지는 게이밍 UMPC의 라인업들]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHARGE, 디스크 플러스 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21387#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21387#</guid>
-            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[자석으로 어디든 부착, 용량도 내 마음대로 증설]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
