@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 09:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 15:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21397#</guid>
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[알루미늄으로 제작된 로우 프로파일 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21397/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Razer, 크라켄 V4 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -389,7 +389,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21396#</guid>
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임할 때마다 내 귀가 번쩍번쩍~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21396/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬, Première Sound Watch 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
