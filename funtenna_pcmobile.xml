@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 03:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 09:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21404#</guid>
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 마리오 시리즈를 대표하는 레이싱게임이 레고로 등장!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bravest Studios, 풋 클로그 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21396#</guid>
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임할 때마다 내 귀가 번쩍번쩍~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21396/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
