@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 09:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 15:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,30 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오리코, MagPro 포터블 SSD 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21411#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21411#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이폰 뒤에 붙여 사용하는 포터블 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, Q5 풀체인지 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21410#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21410#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아우디의 베스트셀러, 그 풀체인지 모델]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[atmos x adidas, 자바 로우 출시예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21409#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21409#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["자네...스카이 훅슛을 아는가?"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레이저, Wolverine V3 Pro 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21408#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21408#</guid>
@@ -101,7 +125,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21405#</guid>
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[목걸이? 시계?.....이어폰???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21405/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 마리오 카트 시리즈 공개 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -109,31 +133,55 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21404#</guid>
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 마리오 시리즈를 대표하는 레이싱게임이 레고로 등장!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bravest Studios, 풋 클로그 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21403#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21403#</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니 이건 누가봐도 그분의 발........]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21403/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오리코, MagPro 포터블 SSD 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21411#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21411#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이폰 뒤에 붙여 사용하는 포터블 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노스페이스, 보레알리스 25주년 기념 백팩 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21402#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21402#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노스페이스의 익숙한 그 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21402/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아우디, Q5 풀체인지 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21410#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21410#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아우디의 베스트셀러, 그 풀체인지 모델]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테트리스 포에버 출시 예정 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21399#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21399#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테트리스의 역사를 한 소프트웨어에]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21399/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[atmos x adidas, 자바 로우 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21409#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21409#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["자네...스카이 훅슛을 아는가?"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, Wolverine V3 Pro 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21408#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21408#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[e스포츠까지 염두에 둔 프로급 무선 게임 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21408/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[twelve south, 버터플라이 SE 충전기 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21407#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21407#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여행을 위한 소형 2 in 1 무선 충전기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21407/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호카, Kaha 2 Frost Moc GTX 출시예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21406#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21406#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Winter is coming....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21406/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬, Première Sound Watch 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -150,54 +198,6 @@
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 마리오 시리즈를 대표하는 레이싱게임이 레고로 등장!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bravest Studios, 풋 클로그 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21403#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21403#</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니 이건 누가봐도 그분의 발........]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노스페이스, 보레알리스 25주년 기념 백팩 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21402#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21402#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노스페이스의 익숙한 그 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21402/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테트리스 포에버 출시 예정 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21399#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21399#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테트리스의 역사를 한 소프트웨어에]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nwm ONE 오픈이어 헤드폰 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21398#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21398#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이유가 있는 특이한 형태]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21398/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nuphy, Nos 75 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21397#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21397#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알루미늄으로 제작된 로우 프로파일 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21397/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Razer, 크라켄 V4 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21396#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21396#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임할 때마다 내 귀가 번쩍번쩍~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21396/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬, Première Sound Watch 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -328,12 +328,60 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21399/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오리코, MagPro 포터블 SSD 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21411#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21411#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이폰 뒤에 붙여 사용하는 포터블 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21411/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, Q5 풀체인지 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21410#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21410#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아우디의 베스트셀러, 그 풀체인지 모델]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[atmos x adidas, 자바 로우 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21409#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21409#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["자네...스카이 훅슛을 아는가?"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21409/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, Wolverine V3 Pro 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21408#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21408#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[e스포츠까지 염두에 둔 프로급 무선 게임 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21408/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[twelve south, 버터플라이 SE 충전기 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21407#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21407#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여행을 위한 소형 2 in 1 무선 충전기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21407/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호카, Kaha 2 Frost Moc GTX 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21406#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21406#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Winter is coming....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21406/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬, Première Sound Watch 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21405#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21405#</guid>
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[목걸이? 시계?.....이어폰???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21405/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레고, 마리오 카트 시리즈 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -341,55 +389,55 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21404#</guid>
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 마리오 시리즈를 대표하는 레이싱게임이 레고로 등장!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오리코, MagPro 포터블 SSD 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21411#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21411#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이폰 뒤에 붙여 사용하는 포터블 SSD]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21411/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디, Q5 풀체인지 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21410#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21410#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아우디의 베스트셀러, 그 풀체인지 모델]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bravest Studios, 풋 클로그 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21403#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21403#</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니 이건 누가봐도 그분의 발........]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21403/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[atmos x adidas, 자바 로우 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21409#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21409#</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["자네...스카이 훅슛을 아는가?"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21409/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노스페이스, 보레알리스 25주년 기념 백팩 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21402#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21402#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노스페이스의 익숙한 그 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21402/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[레이저, Wolverine V3 Pro 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21408#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21408#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[e스포츠까지 염두에 둔 프로급 무선 게임 컨트롤러]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21408/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테트리스 포에버 출시 예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21399#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21399#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테트리스의 역사를 한 소프트웨어에]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21399/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[twelve south, 버터플라이 SE 충전기 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21407#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21407#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여행을 위한 소형 2 in 1 무선 충전기]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21407/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[nwm ONE 오픈이어 헤드폰 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21398#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21398#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이유가 있는 특이한 형태]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21398/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nuphy, Nos 75 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21397#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21397#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알루미늄으로 제작된 로우 프로파일 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21397/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Razer, 크라켄 V4 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21396#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21396#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임할 때마다 내 귀가 번쩍번쩍~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21396/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[호카, Kaha 2 Frost Moc GTX 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21406#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21406#</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Winter is coming....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21406/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬, Première Sound Watch 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -406,54 +454,6 @@
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 마리오 시리즈를 대표하는 레이싱게임이 레고로 등장!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bravest Studios, 풋 클로그 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21403#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21403#</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아니 이건 누가봐도 그분의 발........]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21403/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노스페이스, 보레알리스 25주년 기념 백팩 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21402#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21402#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노스페이스의 익숙한 그 백팩]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21402/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테트리스 포에버 출시 예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21399#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21399#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테트리스의 역사를 한 소프트웨어에]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21399/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nwm ONE 오픈이어 헤드폰 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21398#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21398#</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이유가 있는 특이한 형태]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21398/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nuphy, Nos 75 기계식 키보드 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21397#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21397#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알루미늄으로 제작된 로우 프로파일 기계식 키보드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21397/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Razer, 크라켄 V4 게이밍 헤드셋 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21396#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21396#</guid>
-            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임할 때마다 내 귀가 번쩍번쩍~]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21396/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, Wolverine V3 Pro 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
