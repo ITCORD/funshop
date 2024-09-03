@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 09:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캡콤 파이팅 컬렉션 2 출시 예정]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21415#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21415#</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[캡콤의 명작 게임들로 꽉찬 컬렉션!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21415/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드매직, P58BT ANC 무선 헤드폰 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21414#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21414#</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가성비가 뛰어난 노이즈 캔슬링 무선 헤드폰]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21414/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mophie, 새로운 파워스테이션 라인업 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21412#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21412#</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심플한 외관과 복잡하지 않은 사용법으로 사랑받았던 파워스테이션의 후속작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21412/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오리코, MagPro 포터블 SSD 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21411#</link>
@@ -37,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21408#</guid>
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[e스포츠까지 염두에 둔 프로급 무선 게임 컨트롤러]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21408/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[twelve south, 버터플라이 SE 충전기 출시]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여행을 위한 소형 2 in 1 무선 충전기]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21407/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호카, Kaha 2 Frost Moc GTX 출시예정]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21406#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21406#</guid>
-            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Winter is coming....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21406/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬, Première Sound Watch 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21405#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21405#</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[목걸이? 시계?.....이어폰???]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21405/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 마리오 카트 시리즈 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21404#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21404#</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼 마리오 시리즈를 대표하는 레이싱게임이 레고로 등장!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21404/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
