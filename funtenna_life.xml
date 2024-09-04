@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 03:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 09:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 게임보이 어드밴스 Thumby Color.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21413#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21413#</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보이였던 맨을 위하여.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21413/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캡콤 파이팅 컬렉션 2 출시 예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21415#</link>
@@ -28,7 +36,7 @@
             <link>https://www.funshop.co.kr/Story/FuntennaView/21412#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21412#</guid>
             <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 외관과 복잡하지 않은 사용법으로 사랑받았던 파워스테이션의 후속작]]></content:encoded>
+            <content:encoded><![CDATA[심플함으로 사랑받았던 파워스테이션의 후속작]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21412/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[e스포츠까지 염두에 둔 프로급 무선 게임 컨트롤러]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21408/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[twelve south, 버터플라이 SE 충전기 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21407#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21407#</guid>
-            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여행을 위한 소형 2 in 1 무선 충전기]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21407/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
