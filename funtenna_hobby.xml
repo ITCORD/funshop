@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 03:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 09:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21418#</guid>
             <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미니멀함 그 자체인 턴테이블]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21418/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NOMAD, 록키 포인트 밴드 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21416#</guid>
             <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[골전도 이어폰의 대명사, 더 훌륭한 음질로 돌아오다.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21416/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
