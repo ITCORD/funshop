@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 03:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 09:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -469,7 +469,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21432#</guid>
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 뮤지션이자 디자이너인 퍼렐과의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21432/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[볼보, XC90 페이스리프트 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -485,7 +485,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21430#</guid>
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[눕컴에 최적화된 입력장치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21430/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세상 제일 얇은 시계, thinking (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -509,7 +509,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21426#</guid>
             <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자취방 바닥에 놓고 먹던 그때 그 피자....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21426/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마인크래프트 무비 트레일러 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
