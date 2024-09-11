@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 03:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21435#</guid>
             <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나도 가끔은 다리가 아프다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21435/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테크닉스, 소형 무선스피커 SC-CX700 공개]]></title>
@@ -45,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21433#</guid>
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사탕도 패션이다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21433/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 4in1 멀티펜 FLINTONE.]]></title>
@@ -61,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21432#</guid>
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 뮤지션이자 디자이너인 퍼렐과의 협업]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21432/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[볼보, XC90 페이스리프트 공개]]></title>

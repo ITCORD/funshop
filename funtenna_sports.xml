@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 03:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어휴 무거워]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21435#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21435#</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나도 가끔은 다리가 아프다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21435/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테크닉스, 소형 무선스피커 SC-CX700 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21438#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21438#</guid>
             <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[테크닉스 최초의 무선 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21438/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이서, 니트로 블레이즈 7 공개]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21436#</guid>
             <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에이서 최초의 핸드헬드 게이밍 PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21436/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노블, Noble FoKus Apollo 무선 헤드폰 출시]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21433#</guid>
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사탕도 패션이다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21433/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 4in1 멀티펜 FLINTONE.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[참 오래걸린 페이스리프트...]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21431/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sanwa Supply, 신형 무선 핑거 마우스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21430#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21430#</guid>
-            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[눕컴에 최적화된 입력장치]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21430/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
