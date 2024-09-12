@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 03:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 09:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마셔보리 ㄹㄹㅋㅍ]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21442#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
+            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21442/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑한다면, 양파링]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21440#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21440#</guid>
+            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[눈물나는 반지 맞음]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21440/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[폴리 포켓, 기묘한 이야기 컴팩트 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21446#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21446#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[폴리 포켓을 아십니까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21446/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니, PS5 Pro 공개]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[테크닉스 최초의 무선 스피커]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21438/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이서, 니트로 블레이즈 7 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21436#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21436#</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에이서 최초의 핸드헬드 게이밍 PC]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21436/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노블, Noble FoKus Apollo 무선 헤드폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21434#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21434#</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[평판형 드라이버에 다이내믹 드라이버까지!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21434/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
