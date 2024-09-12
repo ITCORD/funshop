@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 15:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지샥, G-STEEL GM-2110D 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21449#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21449#</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[역시 지얄오크는 스틸이....]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21449/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anker, 신형 Zolo Power Bank 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21448#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21448#</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무선, 유선 가릴것없이 간편하게 충전]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21448/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이서, 프로젝트 듀얼플레이 노트북 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21447#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21447#</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[따로 컨트롤러를 준비하지 않아도 되는 노트북]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21447/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마셔보리 ㄹㄹㅋㅍ]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21442#</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영원한 무파사...영원한 다스베이더..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21439/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 안 보련다]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21437#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21437#</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[난.. 보기 싫을 땐 안경을 잠궈]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21437/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어휴 무거워]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21435#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21435#</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나도 가끔은 다리가 아프다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21435/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테크닉스, 소형 무선스피커 SC-CX700 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21438#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21438#</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테크닉스 최초의 무선 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21438/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
