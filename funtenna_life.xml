@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 15:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 03:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자전거탄 돌멩이씨]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21445#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21445#</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이런 콜라주 감쪽같쥬]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21445/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지샥, G-STEEL GM-2110D 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21449#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21449#</guid>
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역시 지얄오크는 스틸이....]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21449/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anker, 신형 Zolo Power Bank 출시]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21442/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사랑한다면, 양파링]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21440#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[눈물나는 반지 맞음]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21440/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[폴리 포켓, 기묘한 이야기 컴팩트 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임 콘솔 100만원시대..]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21443/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 제임스 얼 존스 별세]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21439#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21439#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영원한 무파사...영원한 다스베이더..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21439/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
