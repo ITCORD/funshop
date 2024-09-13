@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 09:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 15:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21445#</guid>
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이런 콜라주 감쪽같쥬]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21445/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지샥, G-STEEL GM-2110D 출시]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21443#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게임 콘솔 100만원시대..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21443/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
