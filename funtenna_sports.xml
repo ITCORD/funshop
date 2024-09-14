@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 03:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 09:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 간결한]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21450#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21450#</guid>
+            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 다음 차는 너다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21450/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자전거탄 돌멩이씨]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21445#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[폴리 포켓을 아십니까?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21446/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, PS5 Pro 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21443#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21443#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임 콘솔 100만원시대..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21443/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
