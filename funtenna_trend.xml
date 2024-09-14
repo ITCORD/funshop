@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 09:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 15:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 간결한]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21450#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21450#</guid>
+            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 다음 차는 너다]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자전거탄 돌멩이씨]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21445#</link>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21442/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑한다면, 양파링]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21440#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[눈물나는 반지 맞음]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21440/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴리 포켓, 기묘한 이야기 컴팩트 출시]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21446#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[폴리 포켓을 아십니까?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21446/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, PS5 Pro 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21443#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21443#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게임 콘솔 100만원시대..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21443/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
