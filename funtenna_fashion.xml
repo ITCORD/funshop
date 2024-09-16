@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 15:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 03:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜라보르쉐]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21460#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21460#</guid>
+            <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블루]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21460/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서둘러 커리업]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21444#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21444#</guid>
             <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[커리 드시려면 서두르세요]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21444/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이토록 간결한]]></title>
@@ -61,14 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21442/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다면, 양파링]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21440#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21440#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[눈물나는 반지 맞음]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
