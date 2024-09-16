@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Sep 2024 09:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 15:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜라보르쉐 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21460#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21460#</guid>
+            <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블루]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21460/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서둘러 커리업 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21444#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21444#</guid>
+            <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[커리 드시려면 서두르세요]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 간결한 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21450#</link>
@@ -21,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21445#</guid>
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이런 콜라주 감쪽같쥬]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21445/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지샥, G-STEEL GM-2110D 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -45,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21447#</guid>
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[따로 컨트롤러를 준비하지 않아도 되는 노트북]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21447/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마셔보리 ㄹㄹㅋㅍ (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -53,22 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21442/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다면, 양파링 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21440#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21440#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[눈물나는 반지 맞음]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21440/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폴리 포켓, 기묘한 이야기 컴팩트 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21446#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21446#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[폴리 포켓을 아십니까?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,7 +77,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21460#</guid>
             <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내 심장의 색깔은 블루]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21460/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서둘러 커리업 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -101,7 +101,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21445#</guid>
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이런 콜라주 감쪽같쥬]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21445/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지샥, G-STEEL GM-2110D 출시 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -125,7 +125,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21447#</guid>
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[따로 컨트롤러를 준비하지 않아도 되는 노트북]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21447/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마셔보리 ㄹㄹㅋㅍ (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -200,6 +200,14 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콜라보르쉐 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21460#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21460#</guid>
+            <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블루]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21460/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[서둘러 커리업 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21444#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21444#</guid>
@@ -253,15 +261,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21442/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다면, 양파링 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21440#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21440#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[눈물나는 반지 맞음]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21440/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콜라보르쉐 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
