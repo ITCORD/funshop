@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 03:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 09:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반가워 반 고흐]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21457#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21457#</guid>
+            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언젠가 가장 어두운 밤도 끝이 나겠지]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21457/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[60년 된 단독주택 개조한 스타벅스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21458#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21458#</guid>
+            <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바이브 한잔해]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21458/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[콜라보르쉐]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21460#</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무선, 유선 가릴것없이 간편하게 충전]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21448/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이서, 프로젝트 듀얼플레이 노트북 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21447#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21447#</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[따로 컨트롤러를 준비하지 않아도 되는 노트북]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21447/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마셔보리 ㄹㄹㅋㅍ]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21442#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21442#</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이고 박사장님!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
