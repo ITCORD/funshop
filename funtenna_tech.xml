@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 03:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 09:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롤라이에 놀라니]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21462#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21462#</guid>
+            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[굿바이 존, 헬로 오토]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, MDR-M1 모니터 헤드폰 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21453#</link>
@@ -45,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21458#</guid>
             <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바이브 한잔해]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21458/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[콜라보르쉐]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[커리 드시려면 서두르세요]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21444/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 간결한]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21450#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21450#</guid>
-            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 다음 차는 너다]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21450/thumbnail_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
