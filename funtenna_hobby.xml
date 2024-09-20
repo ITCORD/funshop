@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 15:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 03:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 맥세이프 미니 멀티 허브 MEMDock.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21461#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21461#</guid>
+            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[작고 가벼운 맥세이프 멀티 허브.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21461/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벨로이, Phone Case – 3 Card 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21456#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21456#</guid>
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이폰 16 라인업을 위한 카드 보관 케이스]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21456/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Quersus, VAOS.3 AUDI 게이밍 체어 출시]]></title>
@@ -24,12 +32,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21455/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ultimate Ears, 휴대용 스피커 MINIROLL 공개]]></title>
+            <title><![CDATA[Ultimate Ears, MINIROLL 스피커 공개]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21454#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21454#</guid>
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[활동적인 사람들을 위한 컴팩트 무선 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21454/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤라이에 놀라니]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스테인리스 스틸!!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21451/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반가워 반 고흐]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21457#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21457#</guid>
-            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[언젠가 가장 어두운 밤도 끝이 나겠지]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21457/thumbnail_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
