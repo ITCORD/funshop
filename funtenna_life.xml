@@ -4,16 +4,40 @@
         <title>펀샵 ─ 펀테나 ─ 생활/주방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 09:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 15:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니, PS 30주년 기념 컬렉션 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21468#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21468#</guid>
+            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아....이건 또 얼마일지...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카시오, 지샥 GD-010 시리즈 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21467#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21467#</guid>
+            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[10년동안 배터리 걱정 뚝!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리안리, DAN 케이스 우드 에디션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21466#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21466#</guid>
+            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 PC 케이스계에 불어온 원목의 바람..]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이론이론, 완벽해]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21463#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21463#</guid>
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[너를 위한 이론]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21463/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 맥세이프 미니 멀티 허브 MEMDock.]]></title>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[활동적인 사람들을 위한 컴팩트 무선 스피커]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21454/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤라이에 놀라니]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21462#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21462#</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[굿바이 존, 헬로 오토]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21462/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, MDR-M1 모니터 헤드폰 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21453#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21453#</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소니 레퍼런스 밀폐형 모니터 헤드폰의 계보]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 배트맨 클래식 TV 시리즈 배트모빌 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21452#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21452#</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1966 배트맨]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21452/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
