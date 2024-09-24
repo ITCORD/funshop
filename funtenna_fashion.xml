@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 09:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재활용의 재미]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21471#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21471#</guid>
+            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[버린 옷도 다시보자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8BitDo, 레트로 키캡 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21476#</link>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21475#</guid>
             <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 앞치마를 입은 보온병]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21475/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bose, QuietComfort 이어버드 출시]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21474#</guid>
             <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노이즈 캔슬링 그리고 다양한 사용성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21474/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열받으면 피어버려]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21468#</guid>
             <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아....이건 또 얼마일지...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21468/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카시오, 지샥 GD-010 시리즈 출시]]></title>
@@ -61,15 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21467#</guid>
             <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[10년동안 배터리 걱정 뚝!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리안리, DAN 케이스 우드 에디션 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21466#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21466#</guid>
-            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[갑자기 PC 케이스계에 불어온 원목의 바람..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21466/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21467/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
