@@ -4,72 +4,80 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 03:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개구리 안경 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21477#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21473#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21473#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외펀딩] 모듈형 모바일 짐벌 SNAPPY. (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21464#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21464#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둘보다 나은 하나.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21464/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로지텍, MX 크리에이티브 콘솔 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21486#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21486#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[로지텍의 스트림덱?]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manba ONE 무선 게이밍 컨트롤러 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21485#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21485#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2인치 스크린이 떡!]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코르그, NTS-3 카오스 패드 키트 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21484#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21484#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공개된지 9개월만에 출시...]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진에 집중하라니까 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21472#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21472#</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기대해 너의 결과물]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21472/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠틀몬스터 X 철권 8 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21480#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21480#</guid>
             <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[카즈야형......아이폰 쓰는구나?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21480/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에이수스, ROG Harpe Ace Extreme 마우스 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21479#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21479#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카본...그것은 로망]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21479/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디파이어, STAX SPIRIT S10 공개 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21478#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21478#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[평판형 마그네틱 드라이버!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21478/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용의 재미 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21471#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21471#</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[버린 옷도 다시보자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21471/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[8BitDo, 레트로 키캡 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21476#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21476#</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀염 뽀짝한 8비트 그래픽의 키캡들..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21476/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스 재팬, 마이 커스텀 보틀 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21475#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21475#</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 앞치마를 입은 보온병]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21475/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bose, QuietComfort 이어버드 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21474#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21474#</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노이즈 캔슬링 그리고 다양한 사용성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21474/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열받으면 피어버려 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21465#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21465#</guid>
-            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[열을 받잖아? 꽃이 되]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21465/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[개구리 안경 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21477#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -109,7 +117,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21484#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공개된지 9개월만에 출시...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진에 집중하라니까 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21480/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에이수스, ROG Harpe Ace Extreme 마우스 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21479#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21479#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카본...그것은 로망]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21479/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[개구리 안경 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21477#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -173,7 +181,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21484#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공개된지 9개월만에 출시...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진에 집중하라니까 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[카즈야형......아이폰 쓰는구나?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21480/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG Harpe Ace Extreme 마우스 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21479#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21479#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카본...그것은 로망]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21479/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -392,6 +392,30 @@
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개구리 안경 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21477#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21473#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21473#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21473/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[해외펀딩] 모듈형 모바일 짐벌 SNAPPY. (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21464#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21464#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둘보다 나은 하나.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21464/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로지텍, MX 크리에이티브 콘솔 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21486#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21486#</guid>
@@ -413,7 +437,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21484#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공개된지 9개월만에 출시...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진에 집중하라니까 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -432,28 +456,28 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21480/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에이수스, ROG Harpe Ace Extreme 마우스 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21479#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21479#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카본...그것은 로망]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21479/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[개구리 안경 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21477#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에디파이어, STAX SPIRIT S10 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21478#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21478#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[평판형 마그네틱 드라이버!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21478/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21473#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21473#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21473/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[재활용의 재미 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21471#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21471#</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[버린 옷도 다시보자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21471/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[[해외펀딩] 모듈형 모바일 짐벌 SNAPPY. (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21464#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21464#</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[둘보다 나은 하나.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21464/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍, MX 크리에이티브 콘솔 출시 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -477,7 +501,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21484#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공개된지 9개월만에 출시...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21484/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진에 집중하라니까 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -494,30 +518,6 @@
             <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[카즈야형......아이폰 쓰는구나?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21480/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, ROG Harpe Ace Extreme 마우스 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21479#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21479#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카본...그것은 로망]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21479/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디파이어, STAX SPIRIT S10 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21478#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21478#</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[평판형 마그네틱 드라이버!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21478/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용의 재미 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21471#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21471#</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[버린 옷도 다시보자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21471/thumbnail_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
