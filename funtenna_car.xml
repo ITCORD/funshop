@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 15:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 03:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계급 떼고 요리 붙자]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21490#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21490#</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[요리에 진심인 편]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21490/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[니고 X 나이키, 에어 포스 3 로우 SP 출시예정]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21493#</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[로지텍의 스트림덱?]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21486/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manba ONE 무선 게이밍 컨트롤러]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21485#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21485#</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2인치 스크린이 떡!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21485/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
