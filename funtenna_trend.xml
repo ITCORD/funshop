@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 03:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 09:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7대라니 몬소리]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21489#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21489#</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7대를 가질 자 누구인가]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21489/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[계급 떼고 요리 붙자]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21490#</link>
@@ -53,7 +61,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21473#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21473/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 모듈형 모바일 짐벌 SNAPPY.]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[둘보다 나은 하나.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21464/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, MX 크리에이티브 콘솔 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21486#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21486#</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[로지텍의 스트림덱?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21486/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
