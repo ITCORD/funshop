@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 15:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 03:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배기배기 배기사운드 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21482#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21482#</guid>
+            <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배기시스템, 근데 이제 오디오가 된]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21482/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7대라니 몬소리 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21489#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21489#</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7대를 가질 자 누구인가]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21489/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[계급 떼고 요리 붙자 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21490#</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21473/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 모듈형 모바일 짐벌 SNAPPY. (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21464#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21464#</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[둘보다 나은 하나.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21464/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍, MX 크리에이티브 콘솔 출시 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21486#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21486#</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[로지텍의 스트림덱?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21486/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배기배기 배기사운드 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -149,7 +149,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21489#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7대를 가질 자 누구인가]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21489/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[계급 떼고 요리 붙자 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -165,7 +165,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21493#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["I know NIGO!"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21493/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허먼밀러 X FAILE, 게이밍체어 공개 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -197,7 +197,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21473#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21473/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배기배기 배기사운드 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -269,7 +269,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21482#</guid>
             <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배기시스템, 근데 이제 오디오가 된]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21482/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[7대라니 몬소리 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -285,7 +285,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21490#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[요리에 진심인 편]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21490/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니고 X 나이키, 에어 포스 3 로우 SP 출시예정 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -293,7 +293,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21493#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["I know NIGO!"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21493/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허먼밀러 X FAILE, 게이밍체어 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -301,7 +301,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21492#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[80년대 팝컬처를 쏟아부은 게이밍 체어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21492/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, MR 스마트 안경 오라이언 공개 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -325,7 +325,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21473#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[맥퀸을 그리며, 그린그린하게]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21473/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[배기배기 배기사운드 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21490#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[요리에 진심인 편]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21490/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니고 X 나이키, 에어 포스 3 로우 SP 출시예정 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -357,7 +357,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21493#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["I know NIGO!"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21493/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허먼밀러 X FAILE, 게이밍체어 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -365,7 +365,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21492#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[80년대 팝컬처를 쏟아부은 게이밍 체어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21492/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, MR 스마트 안경 오라이언 공개 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -413,7 +413,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21490#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[요리에 진심인 편]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21490/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니고 X 나이키, 에어 포스 3 로우 SP 출시예정 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -421,7 +421,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21493#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["I know NIGO!"]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21493/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허먼밀러 X FAILE, 게이밍체어 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -429,7 +429,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21492#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[80년대 팝컬처를 쏟아부은 게이밍 체어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21492/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, MR 스마트 안경 오라이언 공개 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -445,7 +445,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21477#</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뛰어올라, 내 안경]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21477/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥퀸을 그리며 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -461,7 +461,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21482#</guid>
             <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배기시스템, 근데 이제 오디오가 된]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21482/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[7대라니 몬소리 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -469,7 +469,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21489#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[7대를 가질 자 누구인가]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21489/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[계급 떼고 요리 붙자 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -477,7 +477,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21490#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[요리에 진심인 편]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21490/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[니고 X 나이키, 에어 포스 3 로우 SP 출시예정 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -493,7 +493,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21492#</guid>
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[80년대 팝컬처를 쏟아부은 게이밍 체어]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21492/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, MR 스마트 안경 오라이언 공개 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
