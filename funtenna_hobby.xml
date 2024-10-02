@@ -4,9 +4,17 @@
         <title>펀샵 ─ 펀테나 ─ 취미/기타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 03:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 09:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넌 중독될 베놈]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21506#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21506#</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더 강력하고 더 빠른 놈]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 스틱형 6in1 멀티툴 Ti-ONE]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21487#</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[네 귀를 열어봐]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21488/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모마에 비글 오다]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21483#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21483#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비글 등장]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21483/thumbnail_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
