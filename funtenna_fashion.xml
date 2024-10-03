@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 패션/시계/가방</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 15:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마샬, MONITOR III A.N.C. 헤드폰]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21502#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21502#</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식한 외관, 최신의 기능]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21502/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랙탈 디자인, Era 2 케이스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21501#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21501#</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원목과 미니멀 감성 케이스의 강자]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21501/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스틸시리즈, Arctis GameBuds]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21500#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21500#</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["이어폰 좀 끼워줄래?"]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21500/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙볼보 인 유어 차고지]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[엇! 테이프가 돌아간다!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/042/21499/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HEDD, HEDDphone TWO GT]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21498#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21498#</guid>
-            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[HEDDphone TWO의 하이파이 버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21498/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[totallee, 아이폰 16 초박형 케이스 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21497#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21497#</guid>
-            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정말 얇지만 보호는 확실히]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21497/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼다 온다]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21505#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21505#</guid>
-            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[혼다 온다 부릉부릉]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
