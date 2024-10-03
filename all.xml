@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 15:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21510#</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밤하늘의 별을 따서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21510/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넌 중독될 베놈 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21506#</link>
@@ -53,23 +69,23 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21505#</guid>
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[혼다 온다 부릉부릉]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 유어 이어 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21488#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21488#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네 귀를 열어봐]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21510#</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밤하늘의 별을 따서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21510/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넌 중독될 베놈 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -120,20 +136,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오픈 유어 이어 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21488#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21488#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네 귀를 열어봐]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21510#</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밤하늘의 별을 따서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21510/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넌 중독될 베놈 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -141,7 +157,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21506#</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 강력하고 더 빠른 놈]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21506/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 스틱형 6in1 멀티툴 Ti-ONE (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -184,20 +200,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오픈 유어 이어 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21488#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21488#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네 귀를 열어봐]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21510#</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밤하늘의 별을 따서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21510/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넌 중독될 베놈 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -205,7 +221,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21506#</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 강력하고 더 빠른 놈]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21506/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 스틱형 6in1 멀티툴 Ti-ONE (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -248,20 +264,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 유어 이어 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21488#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21488#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네 귀를 열어봐]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21488/thumbnail_1.png" length="0" type="image/png"/>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -301,7 +309,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21498#</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[HEDDphone TWO의 하이파이 버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21498/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[totallee, 아이폰 16 초박형 케이스 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -320,12 +328,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -365,7 +373,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21498#</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[HEDDphone TWO의 하이파이 버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21498/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[totallee, 아이폰 16 초박형 케이스 출시 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -384,12 +392,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -429,7 +437,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21498#</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[HEDDphone TWO의 하이파이 버전]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21498/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[totallee, 아이폰 16 초박형 케이스 출시 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -448,12 +456,20 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[블랙볼보 인 유어 차고지 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21508#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[녹타, 사자 그리고 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21510#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21510#</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밤하늘의 별을 따서]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21510/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넌 중독될 베놈 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -461,7 +477,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21506#</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 강력하고 더 빠른 놈]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21506/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[해외펀딩] 스틱형 6in1 멀티툴 Ti-ONE (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -502,22 +518,6 @@
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[혼다 온다 부릉부릉]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21505/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 쿨링 팬을 내장한 외장 SSD 케이스 DECOKEE. (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21470#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21470#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[샤긱+RGB LED.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21470/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 유어 이어 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21488#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21488#</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네 귀를 열어봐]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21488/thumbnail_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
