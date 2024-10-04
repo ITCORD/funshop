@@ -4,9 +4,25 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 15:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 03:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 리모컨으로 움직이는 모터 달린 캠핑 웨건 LITEFAR Orion.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21503#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21503#</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바퀴 달린 인공지능 짐꾼.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21503/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신어봐 향수]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21509#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21509#</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[향기 배달이요~ (feat.내 발)]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21509/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마샬, MONITOR III A.N.C. 헤드폰]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21502#</link>
@@ -37,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21508#</guid>
             <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내 심장의 색깔은 블랙]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21508/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[녹타, 사자 그리고]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[더 강력하고 더 빠른 놈]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21506/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 스틱형 6in1 멀티툴 Ti-ONE]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21487#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21487#</guid>
-            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[작은 크기에 많이도 담았구나.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FiiO, KA15 휴대용 헤드폰 앰프 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21499#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21499#</guid>
-            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[엇! 테이프가 돌아간다!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/042/21499/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
