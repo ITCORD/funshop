@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 15:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스와치, 브레이크 프리 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21517#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21517#</guid>
+            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[키스 해링 그리고 브레이크 댄스 in 1984]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이저, 바실리스크 V3 Pro 35K 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21516#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21516#</guid>
+            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[레이저를 대표하는 마우스의 최신작]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베어브릭 오디오, IRIDESCENT 컬렉션 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21515#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21515#</guid>
+            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무지개 빛깔로 변하는 베어브릭 그리고 스피커]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공든탑이 조명이랴]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21511#</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바퀴 달린 인공지능 짐꾼.]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21503/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신어봐 향수]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21509#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21509#</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[향기 배달이요~ (feat.내 발)]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21509/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마샬, MONITOR III A.N.C. 헤드폰]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21502#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21502#</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 외관, 최신의 기능]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21502/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랙탈 디자인, Era 2 케이스]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21501#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21501#</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[원목과 미니멀 감성 케이스의 강자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21501/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
