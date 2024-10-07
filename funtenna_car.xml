@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 03:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 09:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공든탑이 조명이랴]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21511#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21511#</guid>
+            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[돌 하나 나 하나]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21511/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베이프, 샤크 스타 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21514#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21514#</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[베이프를 상징하는 '그' 후디의 20주년을 기념하여...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21514/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반다이, 카드캡터 사쿠라 봉인의 지팡이 공개]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21513#</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[봉이이이이이인!!!! 해제!!!!!!!!!!!]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21513/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에일리언웨어 프로 헤드셋 공개]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21503#</guid>
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[바퀴 달린 인공지능 짐꾼.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21503/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신어봐 향수]]></title>
@@ -61,14 +69,6 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21501#</guid>
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원목과 미니멀 감성 케이스의 강자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스틸시리즈, Arctis GameBuds]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21500#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21500#</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["이어폰 좀 끼워줄래?"]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

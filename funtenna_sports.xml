@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 03:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 09:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21509#</guid>
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[향기 배달이요~ (feat.내 발)]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21509/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마샬, MONITOR III A.N.C. 헤드폰]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21501#</guid>
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[원목과 미니멀 감성 케이스의 강자]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21501/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
