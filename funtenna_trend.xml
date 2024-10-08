@@ -4,16 +4,32 @@
         <title>펀샵 ─ 펀테나 ─ 트렌드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 09:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 15:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 다기능 맥세이프 마운트 거치대 OMOOSPACE ULTRA]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21507#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21507#</guid>
+            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1석 3조의 거치대 카드 지갑]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21507/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달 품은 홀스로이스]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21526#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21526#</guid>
+            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[달을 담아버렸스]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21526/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스와치, 브레이크 프리 컬렉션 출시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21517#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21517#</guid>
             <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[키스 해링 그리고 브레이크 댄스 in 1984]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21517/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이저, 바실리스크 V3 Pro 35K 출시]]></title>
@@ -29,7 +45,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21515#</guid>
             <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무지개 빛깔로 변하는 베어브릭 그리고 스피커]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21515/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공든탑이 조명이랴]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[봉이이이이이인!!!! 해제!!!!!!!!!!!]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21513/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리언웨어 프로 헤드셋 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21512#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21512#</guid>
-            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 귀에 에일리언 한마리..]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21512/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외펀딩] 리모컨으로 움직이는 모터 달린 캠핑 웨건 LITEFAR Orion.]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21503#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21503#</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[바퀴 달린 인공지능 짐꾼.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21503/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
