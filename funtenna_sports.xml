@@ -4,7 +4,7 @@
         <title>펀샵 ─ 펀테나 ─ 아웃도어/스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 15:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 03:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21511#</guid>
             <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[돌 하나 나 하나]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21511/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[베이프, 샤크 스타 출시]]></title>
