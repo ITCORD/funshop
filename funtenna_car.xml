@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ 자동차/모터사이클</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 15:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 03:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댕록스 사줘멍]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21529#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
+            <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[응답하라 1987]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21528#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21528#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[넌 나의 프라이드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21528/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[나이키, 시그널 부츠 출시]]></title>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 4의 큰 대역폭을 활용한 안정적인 확장성]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21520/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저, 노트북 쿨링 패드 공개]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21519#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21519#</guid>
-            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과연 지우개보다 더 뛰어날것인가?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21519/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
