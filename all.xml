@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 09:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,7 +60,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21524#</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터를 내장한 무선 키보드.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21524/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PLUGABLE 썬더볼트 4 도킹 스테이션 (펀샵 ─ 펀테나 ─ 자동차/모터사이클)]]></title>
@@ -68,7 +68,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21520#</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 4의 큰 대역폭을 활용한 안정적인 확장성]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21520/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[댕록스 사줘멍 (펀샵 ─ 펀테나 ─ PC/모바일)]]></title>
@@ -186,7 +186,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21524#</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터를 내장한 무선 키보드.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21524/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PLUGABLE 썬더볼트 4 도킹 스테이션 (펀샵 ─ 펀테나 ─ 생활/주방)]]></title>
@@ -195,6 +195,14 @@
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[썬더볼트 4의 큰 대역폭을 활용한 안정적인 확장성]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21520/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댕록스 사줘멍 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21529#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
+            <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[응답하라 1987 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
@@ -252,20 +260,12 @@
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21520/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이저, 노트북 쿨링 패드 공개 (펀샵 ─ 펀테나 ─ 아웃도어/스포츠)]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21519#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21519#</guid>
-            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과연 지우개보다 더 뛰어날것인가?]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21519/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[댕록스 사줘멍 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21529#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
             <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[응답하라 1987 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -281,7 +281,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21523#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[의외로 부츠 맛집인 나이키]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21523/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보스, 사운드링크 홈 블루투스 스피커 출시 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -289,7 +289,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21522#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콤팩트 하면서도 강력한 사운드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21522/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현악기 신스, 키 보우 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -297,7 +297,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21521#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미디와 건반으로 구현하기 힘들었던 현악기를 더 현실적으로 표현하는 방법]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21521/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 폴더에 저-장 (펀샵 ─ 펀테나 ─ 트렌드)]]></title>
@@ -328,7 +328,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
             <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[응답하라 1987 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -352,7 +352,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21522#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콤팩트 하면서도 강력한 사운드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21522/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현악기 신스, 키 보우 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -360,7 +360,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21521#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미디와 건반으로 구현하기 힘들었던 현악기를 더 현실적으로 표현하는 방법]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21521/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 폴더에 저-장 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -375,7 +375,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21524#</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터를 내장한 무선 키보드.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21524/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PLUGABLE 썬더볼트 4 도킹 스테이션 (펀샵 ─ 펀테나 ─ 미래기술)]]></title>
@@ -391,7 +391,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
             <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[응답하라 1987 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -415,7 +415,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21522#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콤팩트 하면서도 강력한 사운드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21522/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현악기 신스, 키 보우 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -423,7 +423,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21521#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미디와 건반으로 구현하기 힘들었던 현악기를 더 현실적으로 표현하는 방법]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21521/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 폴더에 저-장 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -438,7 +438,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21524#</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터를 내장한 무선 키보드.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21524/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PLUGABLE 썬더볼트 4 도킹 스테이션 (펀샵 ─ 펀테나 ─ 패션/시계/가방)]]></title>
@@ -454,7 +454,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
             <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[응답하라 1987 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -478,7 +478,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21522#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[콤팩트 하면서도 강력한 사운드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21522/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현악기 신스, 키 보우 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -486,7 +486,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21521#</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미디와 건반으로 구현하기 힘들었던 현악기를 더 현실적으로 표현하는 방법]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21521/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 폴더에 저-장 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
@@ -501,7 +501,7 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21524#</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터를 내장한 무선 키보드.]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21524/thumbnail_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PLUGABLE 썬더볼트 4 도킹 스테이션 (펀샵 ─ 펀테나 ─ 취미/기타)]]></title>
