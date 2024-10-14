@@ -4,16 +4,24 @@
         <title>펀샵 ─ 펀테나 ─ PC/모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 15:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외펀딩] 다용도 맥북 가방 Trinity.]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21525#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21525#</guid>
+            <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가방 겸 파우치 겸 스탠드.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닌텐도 사운드 클록 알라모]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21533#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21533#</guid>
             <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[손대지 않고 사용하는 닌텐도의 알람 시계]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21533/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지샥 X 헬로 키티, 한정 시계 공개]]></title>
@@ -29,14 +37,14 @@
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21531#</guid>
             <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이게 그 아이콘이 맞나?...]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/www/renew/common/d280x280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21531/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고객님 태워라]]></title>
+            <title><![CDATA[테슬라의 로보택시]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21530#</link>
             <guid>https://www.funshop.co.kr/Story/FuntennaView/21530#</guid>
             <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[널 태울 테슬라]]></content:encoded>
+            <content:encoded><![CDATA[테기사 운전해]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21530/thumbnail_1.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[의외로 부츠 맛집인 나이키]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21523/thumbnail_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보스, 사운드링크 홈 블루투스 스피커 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21522#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21522#</guid>
-            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[콤팩트 하면서도 강력한 사운드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21522/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
