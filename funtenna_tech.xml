@@ -4,9 +4,33 @@
         <title>펀샵 ─ 펀테나 ─ 미래기술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 15:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 03:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TE, 마인드 게임 한정 OB-4 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21538#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21538#</guid>
+            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[존 레논 마인드 게임 엘범과의 협업 제품]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21538/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸조, E-408 공개]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21537#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21537#</guid>
+            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[푸조의 늘씬한 전기 패스트백]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21537/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GameSir, 타란튤라 프로 게임 컨트롤러 출시]]></title>
+            <link>https://www.funshop.co.kr/Story/FuntennaView/21536#</link>
+            <guid>https://www.funshop.co.kr/Story/FuntennaView/21536#</guid>
+            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[버튼 헷갈릴일은 없을것 같다.]]></content:encoded>
+            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21536/thumbnail_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외펀딩] 다용도 맥북 가방 Trinity.]]></title>
             <link>https://www.funshop.co.kr/Story/FuntennaView/21525#</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[테기사 운전해]]></content:encoded>
             <enclosure url="https://cdn.funshop.co.kr/abroad/043/21530/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[댕록스 사줘멍]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21529#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21529#</guid>
-            <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[댕발바닥 내발바닥]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21529/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[응답하라 1987]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21528#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21528#</guid>
-            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[넌 나의 프라이드]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21528/thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 시그널 부츠 출시]]></title>
-            <link>https://www.funshop.co.kr/Story/FuntennaView/21523#</link>
-            <guid>https://www.funshop.co.kr/Story/FuntennaView/21523#</guid>
-            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[의외로 부츠 맛집인 나이키]]></content:encoded>
-            <enclosure url="https://cdn.funshop.co.kr/abroad/043/21523/thumbnail_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
